@@ -1,0 +1,13 @@
+---
+layout: post
+title: A Clarification About My Article in Pro Se
+tags: []
+comments: on
+---
+Recently I co-authored an article in the <a href="http://law.uconn.edu/">UConn Law</a> student newspaper <em>Pro Se</em> about the changes in the House of Representatives. Due to time constraints a rough draft I wrote was edited by the other author and put to print without a final check on the article by me. The final article is mostly correct. However it suggests that as a result of the election the Republican party is the dominant party in Washington. My interpretation would be that they are merely the dominant party in the House of Representatives, as the Democrats still control the executive branch and the Senate. Though there are certainly interesting arguments to be had in regards to which way the Supreme Court leans. For reference or those generally interested in a quick and dirty summary of the changeover in the house I've included my original rough draft below:
+
+<blockquote>Every two years the entire membership of the United States House of Representatives is up for re-election. It is typical for the House to change parties during a mid-term election and this year was no exception. Nationwide Republicans have gained 61 seats and as a result are now the majority party in the House of Representatives (five seats remain undecided as of this article). With the majority the Republicans gain more power including nominating Rep. John Boehner for Speaker. With that position he becomes second in the line-of-succession for the Presidency. Republicans will now chair the various House committees which will give them the ability to set the agenda of the body. This includes latitude to conduct investigations. Rep. Darrell Issa of the Government Oversight and Reform Committee has pledged to conduct seven hearings a week and to arm federal inspectors general with subpoena power to insure compliance with Congressional requests for information.
+
+Meanwhile Democrats have had their influence greatly reduced. By moving into the minority they lost a leadership position. Traditionally after a defeat the Speaker steps down from leadership but Rep. Nancy Pelosi made clear that she intended to stay. On November 17 she handily won her election for minority leader against the more moderate Rep. Heath Shuler. By keeping her position Rep. Steny Hoyer was left to battle with Rep. James Clyburn for the position of minority whip. Pelosi resolved the conflict by creating a new position for Clyburn that would be in between the whip and minority leader. Rep. John Larson kept his position as Democratic Caucus Chair. This means the Democratic Caucus will remain largely unchanged from the previous Congress. 
+</blockquote>
+

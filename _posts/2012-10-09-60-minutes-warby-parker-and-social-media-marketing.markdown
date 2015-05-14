@@ -1,0 +1,14 @@
+---
+layout: post
+title: 60 Minutes, Warby Parker, and Social Media Marketing
+tags: []
+comments: on
+---
+60 Minutes is one of the most popular news shows on television and also one of the most tweeted news programs. I do not usually watch it live but Sunday night they had an interesting segment on the eyeware industry which I've embedded below:
+<object width="425" height="279" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://cnettv.cnet.com/av/video/cbsnews/atlantis2/cbsnews_player_embed.swf" /><param name="scale" value="noscale" /><param name="salign" value="lt" /><param name="background" value="#333333" /><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="flashvars" value="si=254&amp;&amp;contentValue=50132676&amp;shareUrl=http://www.cbsnews.com/video/watch/?id=7424700n&amp;tag=contentBody;storyMediaBox" /><embed width="425" height="279" type="application/x-shockwave-flash" src="http://cnettv.cnet.com/av/video/cbsnews/atlantis2/cbsnews_player_embed.swf" scale="noscale" salign="lt" background="#333333" allowfullscreen="true" allowscriptaccess="always" flashvars="si=254&amp;&amp;contentValue=50132676&amp;shareUrl=http://www.cbsnews.com/video/watch/?id=7424700n&amp;tag=contentBody;storyMediaBox" /></object>
+
+The segment was a little disturbing as it explained that one firm owns the vision insurance company EyeMed, the eyeglass shop Lenscrafters (along with Target Optical and others), and they make the majority of the eyeglass frames that are sold in these shops. However they also mentioned an online shop called <a href="http://www.warbyparker.com">Warby Parker</a> that is not owned by the company. I had heard of them before but I've been wearing contacts most of the time so had not been in the market for eyeglasses. Since I am considering buying a new pair soon I was curious about them and their lens quality so I tweeted a question at them and surprisingly they tweeted a video response to my question about the quality of lens they use:
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/THr2k3dzu9s" frameborder="0" allowfullscreen></iframe>
+
+I thought that was pretty neat. Since I am a fan of start-ups as someone that works with them for my job, I am planning to give them a try. They offer the option to order some sample frames to try before you order your final pair. Unfortunately the 60 minutes segment seems to have caused them to run out of some styles, but hopefully they will be in soon. I am a little skeptical of how the quality will compare considering the low price point, but am willing to take a chance.

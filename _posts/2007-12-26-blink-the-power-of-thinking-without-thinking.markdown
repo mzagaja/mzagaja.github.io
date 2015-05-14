@@ -1,0 +1,8 @@
+---
+layout: post
+title: 'Blink: The Power of Thinking Without Thinking'
+tags: []
+comments: on
+---
+<p><a href="http://www.amazon.com/Blink-Power-Thinking-Without/dp/0316010669/">Blink</a> is a look at the human subconscious and the how people use it to effectively make decisions in a split second that are just as reliable as decisions made after long periods of study. Gladwell actually makes the case that often these split second decisions are in fact superior to ones made after a long period of self-deliberation. He explains that this decision making process, he refers to as thin slicing, allows us to ignore extraneous information that might confuse us if we study something carefully. At the same time, he also touches upon the problems with blink decisions, and explores this through the election of Warren Harding and an unfortunate killing of an innocent man by police officers in the Bronx. Sometimes our blink decisions are wrong, and our subconscious needs to be trained before it will make the correct decisions.</p>
+<p>The book manages to keep your attention through its series of short stories and characters that Gladwell follows to demonstrate his point. He starts off with small simple examples to convince you of his basic ideas, and then moves on to the more intricate examples that involve car salesmen, orchestra rehearsals, a hospital in Chicago, and war games put on by the United States in order to show how blink affects decision making in these diverse areas. Gladwell manages to be both insightful, and persuasive at the same time. This book is was well worth the read.</p>

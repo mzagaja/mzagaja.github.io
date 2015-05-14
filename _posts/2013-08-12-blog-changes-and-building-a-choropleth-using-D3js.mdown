@@ -1,0 +1,11 @@
+---
+layout: post
+title: Blog Changes and Building a Choropleth using D3.js
+tags: []
+comments: on
+---
+As you can see this blog is going through a bit of a transition at the moment. I have decided to move the blog off my shared hosting provider and onto an Amazon S3 static bucket. I have transferred the blog from Wordpress to something called [Jekyll](http://jekyllrb.com). In a nutshell this means that the blog will load more quickly.[^1] It also means I will save a lot of money every month on shared hosting. I already have been hosting the website for [What's Next](http://www.wnext.net) on an S3 bucket and it has worked quite well. There are still images for me to fix and some other things to clean-up and migrate so if something is not working please feel free to leave a comment.
+
+I have also been spending time learning [D3.js](http://d3js.org). D3.js is the cutting edge of data visualization and presentation on the Internet and lets you make maps and graphs on your website. I followed some tutorials and the result is [this choropleth of the 2008 election results](https://github.com/mzagaja/election_maps). I will be tweaking and playing with it to try new features and hope to obtain data sets from other elections. Unfortunately it seems that the Secretary of State only puts the election results online in PDF which makes it difficult to use them in programs like this. If you know any good sources of Connecticut election data please leave a comment, otherwise I am going to try and get it from the Secretary of State directly.
+
+[^1]: I had a shared plan on Dreamhost. It provides a lot of features for the money but subjectively the performance has been declining and I had more outages in the past year than in previous years. The next logical step was to either upgrade to a dedicated hosting plan at more money, or to move to a different system. Considering my low traffic, I decided on the latter.

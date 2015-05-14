@@ -1,0 +1,13 @@
+---
+layout: post
+title: 'Gadget Review: Logitech Ultrathin iPad Keyboard'
+tags: []
+comments: on
+---
+I was recently lucky enough to get a <a href="http://www.amazon.com/gp/product/B007PRHNHO/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B007PRHNHO&amp;linkCode=as2&amp;tag=zagajacom-20">Logitech Ultrathin Keyboard</a><img style="border: none !important; margin: 0px !important;" alt="" src="http://www.assoc-amazon.com/e/ir?t=zagajacom-20&amp;l=as2&amp;o=1&amp;a=B007PRHNHO" width="1" height="1" border="0" /> for my iPad for my birthday. Getting an iPad keyboard was something I had been considering for a while and the Logitech model (along with <a href="http://www.amazon.com/gp/product/B00BUAJ8ZW/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00BUAJ8ZW&amp;linkCode=as2&amp;tag=zagajacom-20">ZAGG</a><img style="border: none !important; margin: 0px !important;" alt="" src="http://www.assoc-amazon.com/e/ir?t=zagajacom-20&amp;l=as2&amp;o=1&amp;a=B00BUAJ8ZW" width="1" height="1" border="0" />) seemed to have the most favorable buzz. After using the keyboard for a couple weeks I think it is a great addition to my gadget arsenal, but there are a few drawbacks.
+
+Physically the keyboard fits well with the iPad. It is easy to attach in cover mode and when the iPad is docked for keyboard mode magnets keep it in place. No need to worry about the iPad flying around if you carry it with one hand. In cover mode it slightly less than doubles the thickness of the iPad but still feels thin and light and enough to toss around. The drawback is that the keyboard does not have a place to go if you are not in keyboard mode or as a cover. I often remove it and leave it on a table somewhere when I am reading.
+
+Software support varies. Google Drive supports the arrow keys in edit mode. However apps like Facebook and Tweetbot do not support the keyboard shortcuts that their desktop counterparts do. If you use a lot of keyboard shortcuts then it will feel strange to have to reach out and touch buttons to submit tweets. Some searching has revealed that iOS supports a certain list of common keyboard shortcuts and Apple does not allow developers to implement custom shortcuts. A big mistake on their part.
+
+If you want to use your iPad as a thin and light laptop replacement the keyboard brings the iPad experience to the next level. It is significantly easier to edit documents and browse the web with an external keyboard than an integrated one. It is also nice to reclaim the screen real estate. However you will not reach the productivity potential of the MacBook Pro.

@@ -1,0 +1,9 @@
+---
+layout: post
+title: 60 Minutes on the United States Senate
+tags: []
+comments: on
+---
+<object width="425" height="279" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://cnettv.cnet.com/av/video/cbsnews/atlantis2/cbsnews_player_embed.swf" /><param name="scale" value="noscale" /><param name="salign" value="lt" /><param name="background" value="#333333" /><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="flashvars" value="si=254&amp;&amp;contentValue=50134433&amp;shareUrl=http://www.cbsnews.com/8301-504803_162-57544857-10391709/an-exasperating-interview-with-senate-leaders/?tag=segementExtraScroller;housing" /><embed width="425" height="279" type="application/x-shockwave-flash" src="http://cnettv.cnet.com/av/video/cbsnews/atlantis2/cbsnews_player_embed.swf" scale="noscale" salign="lt" background="#333333" allowfullscreen="true" allowscriptaccess="always" flashvars="si=254&amp;&amp;contentValue=50134433&amp;shareUrl=http://www.cbsnews.com/8301-504803_162-57544857-10391709/an-exasperating-interview-with-senate-leaders/?tag=segementExtraScroller;housing" /></object>
+
+Since I spent today knocking doors for the Democratic team in Waterbury today I do not have much to write about. However I thought this 60 Minutes overtime segment on their interview with Mitch McConnell and Harry Reid was worth the watch. It makes mention of the fact that fundraising and money causes problems, but I think they are right that it is also a function of the people. If voters keep electing people with the attitude that they should not work with the other side, then that is what they get. As proud as I am to be a Democrat, I think it is important to put people into office that can work with both parties.

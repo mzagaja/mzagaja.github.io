@@ -1,0 +1,17 @@
+---
+layout: post
+title: A Controversial Opinion about Debt
+tags: 
+- Financial Advice
+- Millionaire Next Door
+comments: on
+---
+There are lots of charlatan financial advisors out in the world that are waging a war on debt. In the strange world that these creatures inhabit, being able to own a yacht or ferrari at age 65 is much more exciting than taking a trip to Europe at age 25. Investing $60,000 in college to earn $46,000 is a much more rational decision than taking a job at $30,000 out of high school but you would not know it from the debt fearmongers. Some people say that money cannot buy happiness, but [the data does not support this](http://www.economist.com/news/international/21629423-emerging-markets-are-catching-up-west-happiness-stakes-everything).
+
+In the introductory economics class that many of these financial advisors missed, they teach the concept of diminishing marginal utility. Diminishing marginal utility is the idea that your first dollar is much more valuable to you than your hundreth. This concept is universal, important, and largely missing from a majority of policy debates. However you can conveniently use it to make personal financial decisions. $1000 today might give you more joy and satisfaction than $2000 in five years. Debt allows you to time travel some of tomorrow's happiness into a lot more happiness today, and interest is the price you pay to do that.
+
+The second mistake that advisors make when cautioning against debt is that they presume the expenses are pure consumption and not investments. If you have the option to attend Harvard but go into debt, or attend Manchester Community College but not go into debt, the decision should be easy. If you plan to live somewhere for a long time it is almost always more rational to purchase a house than to rent because you will build equity, and unlike your rent the debt payments have a portion that are deductible in the tax code. If you replace an ancient car with a modern vehicle that has updated safety systems and later are in a car crash, I do not think it is difficult to justify the utility of that purchase. In fact your insurance company may thank you in the form of a lower premium.
+
+Finally from a mechanical standpoint they ignore the very real benefits and protections that financial services firms offer users of credit cards. By paying for things with my credit card and paying it off monthly, at no fee to me, I receive warranty extensions, travel insurance, and the ability to dispute charges from unscrupulous vendors. I further enjoy an interest free thirty day float of my expenses so that my money can accumulate interest in my savings account. When the credit card company cut me a $250 check to cover a new keyboard for my MacBook Pro, and I did not have to pay $350 for the extended warranty, the benefit was both real and financial. Even if my computer did not break, I enjoy the percentage kickback that the card company gives me for using their card.
+
+Debt is a tool in the toolbox. It is not a necessary tool and plenty of people live without it, much like there are people who do not carry smartphones or do not have Internet connections. However it is a valuable tool that can be used to increase your happiness, and people that refrain from using it do not get some kind of special prize.

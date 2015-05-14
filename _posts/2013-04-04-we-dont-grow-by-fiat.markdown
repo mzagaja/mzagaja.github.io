@@ -1,0 +1,13 @@
+---
+layout: post
+title: We Don't Grow by Fiat
+tags: []
+comments: on
+---
+Last night the state legislature, in a bipartisan vote, passed the gun control legislation it drafted in response to the tragedy at Sandy Hook. Some, felt that this was a process that took too long, and in some ways the outcome <a href="http://www.courant.com/news/opinion/editorials/hc-ed-just-ban-the-damn-magazines-20130401,0,3439811.story">falls short of our expectations</a>. However, we should not be disheartened. The legislation is a positive step forward, and Speaker Sharkey was right to build a bipartisan bill.
+
+Laws make a difference, but they will not change the culture. We can ban assault weapons but we cannot ban gun supporters obnoxiously yelling at our legislators as they go to vote. We can regulate what kinds of magazines gun owners use, but we cannot regulate what magazines they read before they distort the meaning of the Constitution. Certain things are not the province of law making, but of the conversation we have around our laws when we make them. Connecticut and the legislators needed to listen and speak with both sides to build the buy-in on sweeping gun control legislation.
+
+There were many rallies, conversations, and public hearings before they crafted something that truly reflected the values of the Connecticut people. Through these we saw the contrast between responsible firearm owners and those that are more extreme in their views. The firearm lobby was at the state capitol spreading fear, their favorite marketing fuel, on more than one occasion. However responsible gun owners and Republicans understood the importance of imposing certain limits on ownership while allowing people to hunt or go to the shooting range. Lawmakers listened to both sides and managed to balance their needs. The final bill is something our legislature should be proud of.
+
+Instead of using their super-majority to create a bill that would anger a lot of constituents Democrats worked with the Republican minority to craft a bill that the majority of Connecticut people could get behind. Neither side is going to be completely happy with what passed, but I think most people agree it is a positive step forward, and that is what is important. Our legislators showed us that when the goal is to make things better instead of creating partisan gain, they can accomplish great things. Members of the federal legislature could learn a lot if they took a day to drop by and see how we do things under the gold dome in Connecticut.

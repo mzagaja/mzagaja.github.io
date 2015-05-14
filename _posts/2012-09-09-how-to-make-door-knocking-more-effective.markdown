@@ -1,0 +1,13 @@
+---
+layout: post
+title: How to Make Door Knocking More Effective
+tags: []
+comments: on
+---
+I have been knocking doors for political candidates since high school. Most people are probably familiar with this method of campaigning by now. You go to a door, introduce yourself, and talk with the person who answers about your candidacy (or the candidacy of the person you are supporting) and ask them to support you. Maybe you give them a sheet of paper with literature about the candidate or offer them an absentee ballot. Other than that, you probably will not talk to or hear from this person until Election Day. Campaigns use this model because it works, but I also think it is broken.
+
+Door knocking is a high engagement activity with low long-term returns or follow-up. People that are marked as supporters are typically just put into the voter file to be contacted to remind them to vote at the end of the election. However the political parties, from what I have seen, are not leveraging this data to engage in party building activity. If I was in charge of a political party or managing a campaign then the people who are marked as 1s would get invitations to attend a Democratic Town Committee meeting or a small-dollar fundraiser associated with the candidate. I would also attempt to match them up with a person in the party from a similar background to check-in with them and help them understand other ways they can get involved.
+
+Also I think it is important to note that the segmentation and coordination among campaigns and canvassing is terrible. In theory the entire party has a database it shares from NGP VAN but in practice each campaign and party apparatus uses only its own data and does not cross-reference its data with other campaigns. This means that for each race each voter might potentially be contacted by every single candidate running for office from President to dog-catcher. This can be irritating to the voter but also involves a large amount of work replication by the individual campaign organizations. In recent years I have seen some effort to coordinate knocking and IDs but nothing sophisticated. I think the new website to allow voters to ID themselves as supporters by the Obama campaign is also a neat shortcut to help them avoid doing unnecessary calling. If the Connecticut Democratic Party implemented a comprehensive data sharing and analysis program it could probably get a lot more mileage out of its current data and maybe irritate the voters less.
+
+How would you improve political outreach and door-knocking? Would you like it if campaigns let you identify yourself as a supporter (or non-supporter) on a website so that you are not called by them?

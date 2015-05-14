@@ -1,0 +1,13 @@
+---
+layout: post
+title: On Citizens United v. FEC &amp; The Citizens' Election Program
+tags: []
+comments: on
+---
+Imagine it is Election Day. You wake up, turn on your TV, and notice that every ad actually is a campaign commercial. You open up your bills. Inside is a candidate leaflet. Your credit card bill strongly suggests that you vote against your senator because heâ€™s making your interest rates go up. On TV pharmaceutical companies start peddling politicians instead of pills. It may seem strange today but after the Supreme Courtâ€™s ruling, if Congress doesnâ€™t act, it could become reality.
+
+In its ruling the Supreme Court states,  â€œthe appearance of influence or access will not cause the electorate to lose faith in this democracy.â€ Yet our Congress currently has an approval rating lower than the British Crown at the time of our Revolution. Connecticut is no stranger to this problem. In spite of being cleared of wrongdoing many lost faith in Sen. Dodd after the Countrywide scandal. At the same time Sen. Lieberman is now derided as the â€œSenator from Aetna.â€ We cannot say for certain that our Senators made decisions based on influence but the mere appearance of it has certainly caused many to lose faith in their representatives.
+
+In Connecticut we hit a low point when former Governor John Rowland resigned from office after being investigated after state contracts were awarded to businesses that performed construction on his home. Our state legislature built a path forward by creating the Citizensâ€™ Election Program. For those that participate, private funds are now primarily replaced with a public grant. To qualify they must demonstrate their viability with donations between $5-$100 from a required number of Connecticut donors. Now a $5 contribution from a college student becomes just as important to fundraising as the $100 contribution from a CEO. Candidates can no longer appear influenced by campaign contributions because they are spread out among many small donors and eclipsed by a larger public grant.
+
+Today the Citizensâ€™ Election Program stands on shaky ground. A federal court ruling has placed the system in danger, and our legislature has yet to act to repair the defects. Unfortunately for us the Supreme Court may have rendered the issue moot. A public grant will be of little value to candidates that are drowned in the cynicism purchased by corporations and special interests. It is imperative that our state legislature work to preserve the Citizensâ€™ Election Program and use whatever tools it has at its disposal to blunt the inevitable impact of this ruling on our state elections.

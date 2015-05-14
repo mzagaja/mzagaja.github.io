@@ -1,0 +1,9 @@
+---
+layout: post
+title: Mastered for iTunes
+tags: []
+comments: on
+---
+If you have an iPod, iPad, or iPhone you probably use iTunes. Recently Apple started releasing albums like Coldplay's Mylo Xyloto as mastered for iTunes. <a href="http://arstechnica.com/apple/news/2012/02/mastered-for-itunes-how-audio-engineers-tweak-tunes-for-the-ipod-age.ars">This article</a> from Ars Technica does a great job of explaining the process in depth. However if you want the quick explanation it is this: when you buy a song from iTunes you don't get the full song. Parts of the song are chopped off to reduce the size of the file so it will download faster and fit on your iDevice. Originally Apple sold songs in what was termed 128kbps AAC. These songs were higher quality than most of the MP3s people were downloading from Napster but nowhere near as good as the actual CDs. Then they upped the ante with iTunes Plus allowing songs to be downloaded in 256kbps AAC. You get larger files but more song. The mastered for iTunes program takes it a step farther by allowing the audio technician to tweak how the songs are chopped so they sound truer to the original.
+
+Does any of this make a difference? To the casual listener maybe not. Even the lower quality 128kbps AAC files sound better than what you get from the radio. The basic speakers and earbuds that most people use are not of a high enough quality for there to be a significant difference anyways. If you are using an FM transmitter with your iPod then you also are unlikely to be able to tell the difference in your car. However if you want to treat yourself, buy some high quality speakers or headphones and listen to the music in those. You might be surprised at what you have been missing.

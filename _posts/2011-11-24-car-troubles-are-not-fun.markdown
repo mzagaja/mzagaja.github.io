@@ -1,0 +1,11 @@
+---
+layout: post
+title: Car Troubles are Not Fun!
+tags: []
+comments: on
+---
+For the past few weeks I've been dealing with trouble with my 2002 Volvo S60. I love the car and bought/inherited it from my Uncle about a year ago. However its recently been giving me a rough idle and more disturbingly stalled a few times. I took it to my dealer (Gengras Volvo) and they suggested a fix the oil trap, fuel filter, and freeze plugs. The total bill was $1030! Not cheap for a law student. The next day I was driving home and the car stalled out when I was turning into my driveway. Not a good sign.
+
+Luckily I am somewhat savvy and conducted my own research. After sifting through a multitude of Internet posts I think the culprit may be a part called the Electronic Throttle Module. Online forums suggest many people are having trouble with this part and that there was a <a href="http://www.vexedvolvo.org/" target="_blank">recall campaign</a>. This seems like some important information that the dealer should have mentioned to me when I was having the work done. However the only two indications that this would be the issue was a small line on the invoice stating that they tested the ECM and it was okay, and a suggestion that the throttle body get cleaned. As an informed consumer I would feel more comfortable with the service if the shop/technician explained more thoroughly in the outtake documents what was found and what work was done. The documents should indicate why the technician thought certain things are more likely the culprit than others. As a computer consultant this is not difficult to articulate and so I do not think it should be hard for a car repair to shop to do it as well.
+
+Oh well, the throttle body cleaning that the dealer suggested I pony up $160 for is easily done at home. I will also be able to test for the wear that is indicative of the failing module and maybe even get a warranty replacement if I find it to be broken. Unfortunately this requires much more pain and proactivity on my part than I believe should be required. Maybe if we paid auto shops to keep our cars working instead of to fix them, the dynamics would change here.

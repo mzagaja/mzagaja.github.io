@@ -1,0 +1,7 @@
+---
+layout: post
+title: Why Vote in Local Elections?
+tags: []
+comments: on
+---
+This Tuesday, November 6th is going to be Election Day, but we will not be electing another President, governor, or congressman. My state representatives and senators are not up for re-election either. Instead on the ballot are candidates for Town Council and Board of Education. You might ask why someone my age, who spends half the year away from his town, does not pay property taxes there, and might care about who is on his town council and board of education. In spite of the lack of time spent there, I still consider my town home. I drive on the roads; I visit the local establishments, and shop in the stores. When I was in high school, the Silas Deane Highway did not look so great. Under the leadership of the current council, we've seen more stores brought in. I can get my Starbucks fix locally now. I might not be in the school system anymore, but for the sake of the future of the community, I think it is important that every child receive a first rate education. When one day I might want to settle down somewhere in Wethersfield, I hope my children receive an even better education than I got. That's not going to happen if we neglect to maintain and better the system as it stands now. So this Tuesday, please remember to vote, whether you are in my town or any other. Maybe it does not affect your right away, or for the whole year, but it can make a difference.

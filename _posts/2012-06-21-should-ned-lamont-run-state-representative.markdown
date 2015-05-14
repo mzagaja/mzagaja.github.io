@@ -1,0 +1,9 @@
+---
+layout: post
+title: Should Ned Lamont run for state representative?
+tags: []
+comments: on
+---
+I thought that <a href="http://www.yourpublicmedia.org/node/20547">this interview</a> with UConn President Susan Herbst was exciting. I've been critical of the tuition raises at UConn especially in light of the current economic climate. However after President Herbst explained that many undergraduates were unable to complete their degrees in time and therefore were paying more I think that its more justifiable than it used to be. Herbst made a case for ambition and noted that here we have an uneasy relationship with it. Having spent four years in Massachusetts I think she managed to hit the nail on the head when it comes to our respective cultures.
+
+Yet there are some who fly in the face of this stereotype. Look, for example, at Susan Bysiewicz. She is relentlessly ambitious. In some ways I wonder whether Connecticut loses out when individuals like her are too ambitious, or are not ambitious in the right way. Recently the state legislature lost a lot of talent when Governor Malloy pulled people like Mike Lawlor and Andrew MacDonald into his administration. If ambitious people like Susan Bysiewicz (who did once serve there) or even Linda McMahon or Ned Lamont ran for the state legislature they could probably do a lot of good there. The time and resources they could dedicate to serving in the state legislature along with their connections would give them a huge advantage, spread the center of power in the chamber, and maybe even be a stepping stone towards some of the reforms suggested by Colin McEnroe.

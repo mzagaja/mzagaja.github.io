@@ -1,0 +1,14 @@
+---
+layout: post
+title: The new iPhone Announcement
+tags: 
+- iPhone
+- Apple
+- Technology
+comments: on
+---
+On Tuesday Apple unveiled the [iPhone 5c](http://www.apple.com/iphone-5c/) and [iPhone 5s](http://www.apple.com/iphone-5s/). The 5c is basically the same thing as the iPhone 5 but with a better camera and improved battery along with a color plastic shell. Meanwhile the 5s adds a fingerprint sensor to those improvements and uses a metal shell. It also has Apple's newest A7 processor and has a motion coprocessor whose capabilities will be interesting to see. Most of these improvements were not a surprise so the tech community seems to not be overly impressed with these gadgets.
+
+My recommendation is that if you have an iPhone 4 or 4S it is probably worth upgrading to the 5c or 5s because you will get 4G LTE along with the improved camera, larger screen, and other features. I think that the processor improvement will be appreciated by people who use their device for mobile video processing or gaming but otherwise is not worth it for most people. If you currently have an iPhone 5 then neither of these are likely worth the upgrade. They are both incremental improvements. 
+
+My biggest disappointment with the presentation was that there were no upgrades to the iPad line announced. I have been hoping to find an excuse to upgrade my iPad but have not been tempted by the slightly bigger retina iPads and dislike the smaller form factor of the iPad mini. A retina iPad that has dimensions similar to the iPad 2 or even thinner would be a great upgrade. More and more I find myself using my iPad with my Logitech UltraThin Keyboard instead of my laptop. I am surprised how much I actually use my iPad and it would be great to see Apple bring it to the next level.

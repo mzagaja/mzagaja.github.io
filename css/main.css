@@ -1,0 +1,36 @@
+body {
+  background-color: #F0FCFF;
+}
+
+h2 {
+  border-bottom-style: solid;
+  border-width: thin;
+  margin-bottom: 0px;
+  line-height: 1.2;
+}
+
+p {
+  line-height: 1.2;
+}
+
+ul.pagination {
+  padding-left: 40%;
+  padding-bottom: 10px;
+}
+
+#banner {
+  background-image: url("../images/headshot2.jpg");
+  background-repeat:no-repeat;
+  margin-top: 5px;
+  margin-bottom: 20px;
+  height: 228px;
+}
+
+#menu {
+  margin-top: 19px;
+  margin-bottom: 0px;
+  border-bottom: solid;
+  border-width: thin;
+}
+
+#mc_embed_signup{clear:left; }

@@ -1,0 +1,17 @@
+---
+layout: post
+title: How to Learn to Code
+tags: 
+- Coding
+- Civic Hacking
+comments: on
+---
+I started coding when I was in middle school. I taught myself through a combination of experimentation, searching the Internet, a book I received, and an intensive summer school class. Many years later I am still learning. I do not call myself a software developer or professional programmer, rather I view myself as a hacker. I am also not a professional teacher with a background and understanding of learning theory. However the failures and roadblocks you encounter over time are experience when they happen to you, but then become wisdom when shared with others and I think that we have a shortage of wisdom in this arena.
+
+You probably want to know what to do first. I recommend dipping your toes into the water with some HTML and CSS, probably through [Codecademy](http://www.codecademy.com/tracks/web). These are fairly quick languages to get the basics down in and you will get the most bang for your buck in seeing immediate results. It is also a necessary skill for working with other web programming languages like Javascript or Ruby and PHP. Even if you start down this path and later decide you have no interest in programming you will find knowing HTML and CSS to be useful in any job where you have to wrestle with Wordpress or another content management system.
+
+You probably noticed you are not making apps on your computer yet. I think the next good step is to build your foundation through [Harvard's CS50 course](http://cs50.tv). I did not do this but I watched all the lecture videos last year and they are well done.[^1] You will learn the basics of computer science and at the end have the vocabulary to move on to whatever other adventures intrigue you. The advantage of CS50 over other courses or material is that there is a large volume of material and network of learners that you can draw upon to supplement your learning and fill-in the gaps. A frequent problem I encounter when learning programming is that tutorials will assume a piece of basic knowledge that I do not have or a revision in software will cause a change in behavior that I cannot explain. Much of the pain of learning involves trying to distill what I am missing. CS50 will spare you much of this pain.
+
+Once you have learned the foundation then a problems, references, and examples model is what will guide you right in the future. Define a specific problem like [creating a map of Connecticut election results](https://github.com/mzagaja/election_maps) and Google how to tackle it. Break it down into steps, you will be surprised how many little speed bumps you go over. Consult the reference for whatever programming language or framework you use relgiously. If you encounter a roadblock more likely than not someone on [Stackoverflow](http://stackoverflow.com) has encountered it too. Once you build your own project, congratulations, you are a programmer!
+
+[^1]: I learned the foundational concepts of programming from AP Computer Science. It was taught in Java which I have not used since. Programmers will waste time debating the merits of different languages. Once you learn a few the basics are similar and you just spend your time learning common functions, data types, and the different syntax conventions. Stick with the one that works for you and do not waste time learning new languages for a while unless it is necessary.

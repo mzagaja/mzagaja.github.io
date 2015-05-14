@@ -1,0 +1,13 @@
+---
+layout: post
+title: !binary |-
+  Q29vbCBGaW5kIG9mIHRoZSBEYXkgw6LigqzigJ0gRHVvTGluZ28gKGFuZCB0
+  aGUgc3RvcnkgYmVoaW5kIENBUFRDSEEp
+tags: []
+comments: on
+---
+A friend of mine posted the following TED talk to facebook and I thought it was a great one to share:
+
+<object width="526" height="374" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /><param name="wmode" value="transparent" /><param name="bgColor" value="#ffffff" /><param name="flashvars" value="vu=http://video.ted.com/talk/stream/2011X/Blank/LuisVonAhn_2011X-320k.mp4&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/LuisVonAhn_2011X-embed.jpg&amp;vw=512&amp;vh=288&amp;ap=0&amp;ti=1295&amp;lang=&amp;introDuration=15330&amp;adDuration=4000&amp;postAdDuration=830&amp;adKeys=talk=luis_von_ahn_massive_scale_online_collaboration;year=2011;theme=the_rise_of_collaboration;event=TEDxCMU;tag=Technology;tag=collaboration;tag=computers;tag=internet;tag=language;&amp;preAdTag=tconf.ted/embed;tile=1;sz=512x288;" /><param name="src" value="http://video.ted.com/assets/player/swf/EmbedPlayer.swf" /><param name="pluginspace" value="http://www.macromedia.com/go/getflashplayer" /><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><embed width="526" height="374" type="application/x-shockwave-flash" src="http://video.ted.com/assets/player/swf/EmbedPlayer.swf" allowFullScreen="true" allowScriptAccess="always" wmode="transparent" bgColor="#ffffff" flashvars="vu=http://video.ted.com/talk/stream/2011X/Blank/LuisVonAhn_2011X-320k.mp4&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/LuisVonAhn_2011X-embed.jpg&amp;vw=512&amp;vh=288&amp;ap=0&amp;ti=1295&amp;lang=&amp;introDuration=15330&amp;adDuration=4000&amp;postAdDuration=830&amp;adKeys=talk=luis_von_ahn_massive_scale_online_collaboration;year=2011;theme=the_rise_of_collaboration;event=TEDxCMU;tag=Technology;tag=collaboration;tag=computers;tag=internet;tag=language;&amp;preAdTag=tconf.ted/embed;tile=1;sz=512x288;" pluginspace="http://www.macromedia.com/go/getflashplayer" allowfullscreen="true" allowscriptaccess="always" /></object>
+
+At the end the speaker links to a cool new website that is going to launch soon and will help you learn a foreign language while translating content from the web: <a href="http://duolingo.com/">DuoLingo</a>. It seems to be in private beta at the moment but I look forward to trying it once it comes out.

@@ -1,0 +1,13 @@
+---
+layout: post
+title: Bob Woodward Visits UConn Law
+tags: []
+comments: on
+---
+![Bob Woodward](/Images/2011/04/BobWoodward-300x225.jpg "Bob Woodward")
+
+Bob Woodward is not a lawyer, but he could have been one. When he stopped by UConn Law to give a talk today he emphasized the importance of looking at the evidence. Within the many anecdotes he shared, he emphasized the importance of evidence to back-up claims made in stories and how the stories can change based on context or with the passage of time. To emphasize this he told a story about sitting at a panel on aging with Henry Kissinger. At the panel they passed out a survey that asked questions about each individual's personal life so that they could determine what age they would live until. Kissinger filled his out the first time, discovered he should have been dead four years ago, and then proceeded to go back and revise his answers until he announced that he was going to be alive for another eight years. Woodward did not hold back in accusing Kissinger of revising history in his writings.
+
+Woodward's allegiance to the importance of evidence was most visible in his discussion of the birther movement and Donald Trump. Trump, he said, is the Joe McCarthy of the modern era. Making assertions about Obama's birth without any shred of his own evidence. Woodward expressed disappointment in the press for airing Trump's concerns as news without any evidence being presented by the Donald. Furthermore Woodward described the overwhelming evidence of Obama's citizenship including the two newspaper announcements, the actual birth certificate, the republican officials in Hawaii that certified the legitimacy of the certificate, and in spite of Trump claiming that nobody knew Obama, Woodward pointed out there are individuals that have stories about him from his younger days. These individuals are just not well-known. 
+
+I am especially glad that Woodward expressed hope for the future of journalism. He noted that there are other journalists doing work just as good as his Watergate investigation and thinks that the Apples and Googles of the world will have to start putting up money in this area. While Woodward was concerned that Google and others are taking the advertising revenue from these sites I think that this problem will be solved in part by the pay walls. Like it or not the "free content" ride on the Internet is going to be over soon and we'll have to subscribe to Internet websites much in the way we subscribe to physical magazines or newspapers.

@@ -1,0 +1,9 @@
+---
+layout: post
+title: Putting the Scanner Companies Out of Business
+tags: []
+comments: on
+---
+I was looking at buying a scanner like a <a href="http://www.fujitsu.com/us/services/computing/peripherals/scanners/scansnap/">Fujitsu ScanSnap</a>. They come highly rated and my thought was that it might tame the large amount of paper accumulating on my desk. However I recently became aware of scanner applications for the iPhone and decided to test a couple. The first one I tried was <a href="http://itunes.apple.com/us/app/jotnot-scanner/id310789464?mt=8">JotNot</a>. It worked decently but if there were too many folds or a document was crinkled then the text would get too light in parts. This made some of the scans unusable. After doing some research I saw people recommended <a href="http://itunes.apple.com/us/app/turboscan-quickly-scan-multipage/id342548956?mt=8">TurboScan</a> and so I gave that shot.
+
+I must say that this is the new must have application for iPhone. It takes the pictures quickly (or has an option you can take three photos to maximize that sharpness of the scan) and then you have several post processing options to lighten or darken it, rotate it, and set the boundaries. In my experience TurboScan worked much better than JotNot with a crinkled receipt. For only $1.99 you turn your iPhone into a scanner and can e-mail the PDF of the document to any address from the phone or save it to the iPhone camera roll or print if you have an AirPrint enabled printer. If you have a large number of documents a copier might be better but this app is good in a pinch and certainly saved me a $300 purchase.

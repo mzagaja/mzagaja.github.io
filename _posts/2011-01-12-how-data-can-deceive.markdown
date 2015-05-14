@@ -1,0 +1,9 @@
+---
+layout: post
+title: How Data Can Deceive
+tags: []
+comments: on
+---
+<a href="http://www.zagaja.com/images/2011/01/TorringtonRegisterCitizen-GubernatorialResults2010.jpg"><img class="alignleft size-medium wp-image-92" title="Torrington Register-Citizen Gubernatorial Results Map 2010" src="http://www.zagaja.com/images/2011/01/TorringtonRegisterCitizen-GubernatorialResults2010-300x218.jpg" alt="Torrington Register-Citizen Gubernatorial Results Map 2010" width="300" height="218"></a>
+<a href="http://www.zagaja.com/images/2011/01/BigelowGubernatorialResultsMap2010.jpg"><img class="alignleft size-medium wp-image-93" title="Susan Bigelow Gubernatorial Results Map 2010" src="http://www.zagaja.com/images/2011/01/BigelowGubernatorialResultsMap2010-300x218.jpg" alt="Susan Bigelow Gubernatorial Results Map 2010" width="300" height="218"></a>
+Recently the Torrington Register-Citizen published a <a href="http://northwestctpolitics.blogspot.com/2010/11/what-blue-state-looks-like.html">map of results</a> from the 2010 Connecticut race for governor. This map is for all intents and purposes correct. Each town or city colored red or blue indicates which candidate won the city. The Register-Citizen raises several questions about the conflicting priorities of the cities versus suburban and rural towns. Yet they ignore the fact that Dan Malloy did not win by cities alone. Plenty of suburban voters chose Dan Malloy as well and we can see this in <a href="http://www.ctnewsjunkie.com/ctnj.php/archives/entry/governors_race_map_analysis_to_follow/">Susan Bigelow's map</a>. By mapping out the results with percentages Bigelow presents a more accurate representation of the state.

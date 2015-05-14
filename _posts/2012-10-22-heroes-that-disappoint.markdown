@@ -1,0 +1,13 @@
+---
+layout: post
+title: Heroes that Disappoint
+tags: []
+comments: on
+---
+I did not play sports in high school. Running did not seem fun and most of the ball sports were difficult for me since I <a href="http://www.amazon.com/Fixing-My-Gaze-Scientists-Dimensions/dp/0465020739">cannot see in three-dimensions</a>. Since I do enjoy being outside I decided to take up cycling and with it I followed the Tour de France and adopted Lance Armstrong as my sports hero. Today Lance Armstrong was <a href="http://www.nytimes.com/2012/10/23/sports/cycling/armstrong-stripped-of-his-7-tour-de-france-titles.html">stripped of his seven Tour de France titles</a> because of overwhelming evidence that he participated in and propagated an elaborate doping scheme. It turns out that Armstrong was less of an athlete and more of a magician.
+
+With all the publicity and accusations leading up to Armstrong's punishment it is hard to say that it was a crushing surprise. The evidence always seemed to be present and it was merely a matter of when and not if he would be caught. Doping has been rampant throughout cycling and has also permeated other sports like baseball. Even Linda McMahon's WWE, which is a scripted sport, has been clouded with steroid use. It seems that many of the sports we watch today are less real than we think and its up to us to decide whether we want to acknowledge this.
+
+Unfortunately I think at the upper echelons of any sport there will always be a race between performance enhancement and the tests that detect them. The appeal of the steroids seems too great to resist, especially for people whose careers depend on their athletic performance. However I think the Freakonomics bloggers <a href="http://www.freakonomics.com/2008/01/23/how-we-would-fight-steroids-if-we-really-meant-it/">had a good idea</a> on how to help fight it: preserving blood samples to test as technology improves. This obviously won't eliminate the doping but it will increase the risk of being detected and maybe sports teams can structure contracts in a way that the consequences for doping becomes too risky for the athletes.
+
+Ultimately it is sad that the integrity of professional sports has been compromised by this culture of winning at all costs. Lance Armstrong was successful for all the wrong reasons and he deserves the punishments he is getting. However punishing Armstrong will not fix the culture of doping and steroids in professional sports. Cultures must be set by leaders and an assurance within the peer group that nobody else is cheating. If athletes have no assurance that their peers will be punished for bad behavior, then they too will misbehave. I do not know if cycling will be cleaned up, but I do have hope that it could happen.

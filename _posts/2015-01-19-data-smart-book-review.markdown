@@ -1,0 +1,14 @@
+---
+layout: post
+title: Book Review - Data Smart Using Data Science to Transform Information into Insight
+tags: 
+- Data
+comments: on
+---
+When I was working at the Connecticut Democratic Party last year we used algorithms to help us decide what voters to reach out to. I wanted to learn more about these algorithms, how they worked, and how they were made. Fortunately I discovered [John Foreman's Data Smart](http://www.amazon.com/gp/product/111866146X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=111866146X&linkCode=as2&tag=zagajacom-20&linkId=QG7ABTPTXKMQVUAD). Over the past few months I have set aside time to work through the examples and finally finished it last night. If you are interested in diving into the world of data science with little background, I strongly recommend this as an introduction.
+
+This book is superior to its peers and much of the online material I have encountered in several ways. The first is that the majority of the book is run in Microsoft Excel. This provides most readers with a familiar environment to try out their new tricks in. The spreadsheets are made available for download from the Data Smart website so that you can follow along and also manipulate them. If something does not make sense in the book you are able to tinker with the spreadsheet or read the formulas in Excel to directly intuit what Foreman is explaining. Furthermore the book explains its concepts and examples in clear language. You are not likely to get bogged down in jargon or confused by too many math symbols. However Foreman does not baby you either, the math is there and there are plenty of references and recommendations for other texts to explore if you want to learn more about a subject.
+
+The book is also well structured. It is divided into a series of case studies and examples around specific concepts. This allows you to sit down and go through an exercise to learn about a concept and then pick-up at natural stop points. If you forget a concept or need to re-read it is easy to locate the relevant material. Foreman starts with easier concepts at the beginning so you can build comfort with the material before tackling more complicated concepts like regressions. He has you crawl before he makes you walk, and makes you walk before you run.
+
+Foreman is a talented writer, and it was enjoyable to read about the techniques he uses in his job on a daily basis. I walked away with a sense of what he does and how he does it. Fortunately the fun does not end in the book; he has [a blog](http://www.john-foreman.com/blog). There are also [video sessions](http://www.john-foreman.com/blog/a-live-introduction-to-data-science-naive-bayes-and-holt-winters-forecasting) if you want to dip your toes in before committing to the book.

@@ -1,0 +1,11 @@
+---
+layout: post
+title: But Who Will Teach Stuyvesant Integrity
+tags: []
+comments: on
+---
+I am angry. It is because of <a href="http://www.nytimes.com/2012/07/10/nyregion/70-students-at-stuyvesant-to-retake-exams-after-cheating-case.html">this article</a>. Nearly seventy students at a prestigious school in New York were found to have engaged in cheating and the school is giving them a second chance. I am all for second chances but I think if we treat cheating too lightly it breeds a culture of corruption. We need only to look at the actions of athletes from the steroid cheating scandal, or the recent Donovan scandal, or even more scary the LIBOR scandal. Everyday we wake-up and find out that someone new has cheated. We have been exposed to so much cheating that we have grown cynical and are unsurprised when it happens. Even worse, we have grown to accept it.
+
+It is sad that the idea of being honest is old fashioned. Lawyers are not immune to lapses in honesty either. Law schools were <a href="http://www.washingtonmonthly.com/college_guide/blog/villanova_law_schools_lies.php">found to juice their scores in order to game the US News and World Report rankings</a>. The only reason these things are discovered is because there are people brave enough to expose it. But exposure can only fix so much after the fact. There is no value to exposing corruption if we do not fix the cause. That is we live in a world where if you cheat you will be slapped on the wrist but not deprived of your ill gotten gains. Financiers keep their millions, politicians still run for office, and students remain at their prestigious schools. If we are to rebuild faith in our establishments we must treat these offenses with the gravity of their seriousness.
+
+We need leaders and citizens that teach and expect integrity. It seems more and more we are coming to expect less and less of each other. I cannot stop a baseball player from playing baseball but I don't have to attend his games. I cannot stop a politician or his operatives from taking bribes but I don't have to support him. These are the kinds of things that our teachers can teach our children. We can strive to be the better people and do the better things. However if we don't start rewarding more honesty and punishing the cheaters, then I fear we may never get there.

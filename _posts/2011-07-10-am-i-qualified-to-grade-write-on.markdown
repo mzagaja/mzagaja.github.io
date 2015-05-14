@@ -1,0 +1,11 @@
+---
+layout: post
+title: Am I Qualified to Grade Write-On?
+tags: []
+comments: on
+---
+Every year first-year students at law schools across the country participate in a ritual called write-on. I did it last summer and as a result accepted an offer to be a member of the <a href="http://www.law.uconn.edu/node/1945" target="_blank">Connecticut Journal of International Law</a>. The next round is in and as a rising third-year student I am responsible for grading some of the packets. I think that is a joke.
+
+Our educational system has shortchanged and underrated the ability of students to write well. In college I got As on most of my written work because professors were grading it next to papers written by students that could not properly distinguish between a singular and plural noun. In law school there is little writing. The writing I do for class, with a few exceptions, has little useful feedback. In theory law journal membership is supposed to remedy this deficiency by offering an opportunity to hone these skills. It fails miserably at this. We spend our time editing the format of the citations below the line instead of the quality of the writing above it. We are required to write a student note but receive no feedback on it. Finally our submission for membership to the journal garners no grade or feedback. The only acknowledgement of its quality is the offer of membership we receive.
+
+As someone who has gone through a year of law school and read numerous court cases I suppose I am somewhat qualified to judge the papers. However I do not believe I am the best candidate. Having never done it before I have no idea what to look for. Even the rubric we are given is unclear. Should a misplaced comma count as a full point off in the grammar section? If there is an especially egregious use of a semi-colon is that worth a two-point deduction? I suppose I can just make it up as I go along. Meanwhile the first-year students reading this can rest in peace knowing that their write-on grades are not necessarily correlated to the quality of writing.

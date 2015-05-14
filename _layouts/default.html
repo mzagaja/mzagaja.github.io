@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta http-equiv="Pragma" content="no-cache" />
+        <meta http-equiv="Expires" content="-1" />
+        <title>{{ page.title }}</title>
+        <meta name="viewport" content="width=device-width">
+
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="/css/syntax.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/css/foundation.min.css">
+        <link rel="stylesheet" href="/css/main.css">
+        <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
+
+        <!--Facebook Properties-->
+        <meta property="og:site_name" content="{{ site.name }}"/>
+        <meta property="og:title" content="{{ page.title }}" />
+        <meta property="og:image" content="/images/fb_image.jpg">
+
+        <!-- Custom Javascript -->
+        <script src="/js/vendor/custom.modernizr.js"></script>
+        <!-- custom font -->
+        <script type="text/javascript" src="//use.typekit.net/tal8yaz.js"></script>
+        <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    </head>
+    <body>
+        <div class="row">
+          <div id="banner" class="large-12 columns">
+              <h1 id="title"><a href="/">{{ site.name }}</a></h1>
+          </div>
+        </div>
+        <div class="row">
+          <div class="large-8 columns">
+                {{ content }}
+          </div>
+          <div class="large-4 columns">
+              <h4 id="menu" class="subheader">Useful Links</h4>
+              <ul class="side-nav">
+                <li><a href="http://www.zagaja.com/about.html">About</a>
+                <li><a href="http://twitter.com/mzagaja">Follow Me on Twitter</a></li>
+                <li><a href="http://wnext.net">What's Next - CT Campaign Consulting</a></li>
+                <li><a href="https://www.facebook.com/lists/664745338142">The Connecticut News Facebook List</a></li>
+                <li><a href="http://www.zagaja.com/feed.xml">RSS Feed</a></li>
+              </ul>
+                <!-- Begin MailChimp Signup Form -->
+                <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
+                <div id="mc_embed_signup">
+                <form action="//zagaja.us2.list-manage.com/subscribe/post?u=a6d8176ada6e5220a4fd7490b&amp;id=1f472c8860" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                    <div id="mc_embed_signup_scroll">
+                  <label for="mce-EMAIL">Receive E-Mail Updates of New Posts</label>
+                  <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+                    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                    <div style="position: absolute; left: -5000px;"><input type="text" name="b_a6d8176ada6e5220a4fd7490b_1f472c8860" tabindex="-1" value=""></div>
+                    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+                    </div>
+                </form>
+                </div>
+                <!--End mc_embed_signup-->
+              <small><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="/images/88x31.png" /></a><br />This <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">work</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://wwww.zagaja.com/" property="cc:attributionName" rel="cc:attributionURL">Matt Zagaja</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.</small>
+          </div>
+        </div>
+        <script type="text/javascript">
+
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-28040942-1']);
+          _gaq.push(['_trackPageview']);
+
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+
+        </script>
+    </body>
+</html>

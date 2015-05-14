@@ -1,0 +1,7 @@
+---
+layout: post
+title: Spammers
+tags: []
+comments: on
+---
+While people seem to read this blog they do not often post replies directly here (I tend to receive feedback via the MyLeftNutmeg site, facebok, and twitter). Spammers however seem to enjoy registering and posting. I've added the step of requiring registration if you actually wish to make a comment to reduce the amount of spam that has to get filtered through on this. I apologize if it causes any inconvenience.

@@ -1,0 +1,20 @@
+---
+layout: post
+title: Open Government
+tags: 
+- Government
+- Politics
+- Open-source
+comments: on
+---
+I grew-up with the Internet and one of the strongest ethos that I benefitted from is the online community's open source culture. Computer nerds or geeks love chatting and posting online where they can discuss the latest technologies and share neat hacks and solutions to their problems. As a student I spent time learning Linux, eventually settling on a distrobution called [Gentoo](http://www.gentoo.org) where I even contributed bug reports and fixes. My age at the time did not matter, in an open source model your contribution is reviewed by others and if it works they accept it.
+
+This is why I enjoyed Paul Ford's [opinion piece on Healthcare.gov](http://www.businessweek.com/articles/2013-10-16/open-source-everything-the-moral-of-the-healthcare-dot-gov-debacle). Ford says that open source should be the default for government applications and I agree. These systems are created with taxpayer dollars and we should have access to the technology our money is paying for. Furthermore we already have a tradition of freedom of information. It would be good for civic health to give software developers and other people another avenue to participate in government. In the open source model you do not need to trust anyone because you can inspect everything yourself.[^1] I was taught the same ethos in science, where as a chemist you document your lab procedures so that someone else could duplicate them.[^2] No one has to trust your results because they can run the experiment in their own lab.
+
+Of course it makes me sad to see that Connecticut [might be rolling back its freedom of information law](http://www.ctnewsjunkie.com/ctnj.php/archives/entry/task_force_to_hold_last_public_hearing_on_oct._16/). We have one of the strongest freedom of information laws in the country. Other nations like China and Mexico have consulted with our FOI experts to develop their freedom of information regimes. Of course we must be sensitive to victims and they should not be harassed, but protecting them is not incongruent with releasing important information. Harassment is already a crime and we can strengthen that protection to make penalties harsher if crime victims proclaim they do not wish to be contacted. It is important for citizens to learn and understand what happened in these tragedies from official sources, even if the details are uncomfortable.[^3]
+
+Meanwhile even if we did make criminal investigations and evidence secret it is likely the information would get out. There have been numerous stories about [state police sharing details about Newtown before they released their report](http://articles.courant.com/2013-07-27/news/hc-sandyhook-police-travel-20130727_1_newtown-shooting-state-police-investigation). Even when Tom Foley was trying to prevent the media from learning about his car crash the Hartford Courant managed to [get it from a source](http://www.courant.com/news/connecticut/hc-foley-1016-20131031,0,1552069.story). Of course this is to say nothing of the impact of organizations like WikiLeaks and people like Edward Snowden. When people see information that is vital to the public interest their instinct often seems to be to release it, even at personal cost.
+
+[^1]: This of course also requires education so people can interpret and understand the information. There are numerous instances of people including the media reciting incorrect facts in spite of the existence of contradictory primary source materials. If people refuse to believe facts there is often little you can do to persuade them.
+[^2]: Of course the frustrating part is failing to duplicate the experiment exactly. You then waste much time isolating what variable you failed to control, or figuring out what potential error existed in the published experiment.
+[^3]: Also it builds a record of public evidence that contradicts conspiracy theorists.
