@@ -2,7 +2,7 @@ markdown: rdiscount
 rdiscount:
   extensions: [ footnotes ]
 name: Matt Zagaja
-highlighter: true
+highlighter: pygments
 paginate: 5
 permalink: /:year/:month/:title/
 description: "Matt Zagaja's personal blog. Musings on politics, technology, and other geeky things."
