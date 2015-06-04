@@ -4,8 +4,72 @@
 		"selected_items":
 		[
 			[
-				"followed",
-				"followed_user"
+				"User",
+				"UserMailer"
+			],
+			[
+				"rai",
+				"raise_delivery_errors"
+			],
+			[
+				"activation",
+				"activation_token"
+			],
+			[
+				"Vehi",
+				"Vehicle_State"
+			],
+			[
+				"Tow",
+				"Tow_Firm"
+			],
+			[
+				"current",
+				"current_user"
+			],
+			[
+				"calls",
+				"calls_made"
+			],
+			[
+				"qual",
+				"qualifying_data"
+			],
+			[
+				"math",
+				"matched_responses"
+			],
+			[
+				"zagaja_t",
+				"zagaja_test_analytics_file"
+			],
+			[
+				"unqi",
+				"uniqueID"
+			],
+			[
+				"website_tows",
+				"website_tows_array"
+			],
+			[
+				"remov",
+				"removed_at"
+			],
+			[
+				"remember",
+				"remember_digest"
+			],
+			[
+				"cu",
+				"current_user"
+			],
+			[
+				"remem",
+				"remember_token"
+			],
+			[
+				"rememb",
+				"remember_digest"
 			]
 		]
 	},
@@ -13,29 +77,26 @@
 	[
 	],
 	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
 	"command_palette":
 	{
 		"height": 375.0,
+		"last_filter": "Snippet: form",
 		"selected_items":
 		[
 			[
-				"install pack",
-				"Package Control: Install Package"
+				"Snippet: form",
+				"Snippet: form_for text_field"
 			],
 			[
-				"install",
-				"Package Control: Install Package"
+				"Snippet: ",
+				"Snippet: form_tag"
 			],
 			[
-				"convert",
-				"Convert Case: Title Case"
-			],
-			[
-				"conver",
-				"Convert Case: Title Case"
-			],
-			[
-				"Package Control in",
+				"package control inst",
 				"Package Control: Install Package"
 			]
 		],
@@ -46,7 +107,7 @@
 		"height": 126.0,
 		"history":
 		[
-			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 		]
 	},
 	"distraction_free":
@@ -60,134 +121,79 @@
 	},
 	"file_history":
 	[
-		"/Users/mzagaja/GitHub/election_maps/README.md",
-		"/Users/mzagaja/GitHub/precinct-shapefiles/ct/README.md",
-		"/Users/mzagaja/GitHub/zagaja.com/_posts/2014-12-10-ct-open-data.markdown",
-		"/Users/mzagaja/Dropbox/Team Data/AB_10292014.txt",
-		"/Users/mzagaja/Desktop/test.txt",
-		"/Users/mzagaja/Dropbox/Team Data/AB_10282014_Fixed_Again.csv",
-		"/Users/mzagaja/Desktop/index.html",
-		"/Users/mzagaja/Library/Caches/Cleanup At Startup/Transmit/3CF76293-D619-4067-BC87-4028156CFD5B/.htaccess",
-		"/Users/mzagaja/GitHub/sample_app/Gemfile",
-		"/Volumes/My Passport/TestTXT.txt",
-		"/Users/mzagaja/GitHub/code_for_america/cfa_matt.rb",
-		"/Users/mzagaja/GitHub/zagaja.com/_posts/2013-12-6-jonathan-mann-song-a-day.markdown",
-		"/Users/mzagaja/GitHub/zagaja.com/_layouts/post.html",
-		"/Users/mzagaja/GitHub/BSD_API_test/bsd_test.rb",
-		"/Users/mzagaja/GitHub/june_17_voterfile/Makefile",
-		"/Users/mzagaja/GitHub/june_17_voterfile/schema.txt",
-		"/Users/mzagaja/GitHub/BSD_API_test/bsd_.test.rb",
-		"/Users/mzagaja/GitHub/election_maps/.git/COMMIT_EDITMSG",
-		"/Users/mzagaja/GitHub/june_17_voterfile/table1.csv",
-		"/Users/mzagaja/GitHub/ctdems_events/bin/spring",
-		"/Users/mzagaja/GitHub/ctdems_events/app/views/locations/show.html.erb",
-		"/Users/mzagaja/GitHub/ctdems_events/config/initializers/inflections.rb",
-		"/Users/mzagaja/Dropbox/Team Data/june_van_update.html",
-		"/Users/mzagaja/GitHub/BSD_VAN_transformer/bsd_van_transformer.rb",
-		"/Users/mzagaja/GitHub/converter/converter.rb",
-		"/Users/mzagaja/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-		"/Users/mzagaja/GitHub/pygtfs_realtime/gtfs-realtime.proto",
+		"/Users/mzagaja/Downloads/connecticutdaytrips.wordpress.2015-05-26.txt",
+		"/Users/mzagaja/GitHub/dcp.ct.gov/dcp.css",
+		"/Users/mzagaja/GitHub/dcp.ct.gov/index.html",
+		"/Users/mzagaja/Dropbox/Harvard Chilling Effects Interview Notes.txt",
+		"/Users/mzagaja/GitHub/2015_challenges/challenge_ideas.md",
+		"/Users/mzagaja/Dropbox/Code for Conn - public/Potential Companies & Communities to Reach Out to.txt",
+		"/Users/mzagaja/GitHub/zagaja.com/CNAME",
+		"/Users/mzagaja/GitHub/ezcthr12/Gemfile",
+		"/Users/mzagaja/GitHub/ezcthr12/app/controllers/cthr12s_controller.rb",
+		"/Users/mzagaja/GitHub/ezcthr12/db/migrate/20150514193133_create_cthr12s.rb",
+		"/Users/mzagaja/GitHub/was_I_towed/app/controllers/static_pages_controller.rb",
+		"/Users/mzagaja/GitHub/was_I_towed/test/models/user_test.rb",
+		"/Users/mzagaja/Dropbox/Code for Conn - public/project_ideas.txt",
+		"/Users/mzagaja/GitHub/ML_for_Hackers/09-MDS/chapter09.R",
+		"/Users/mzagaja/GitHub/ML_for_Hackers/10-Recommendations/chapter10.R",
+		"/Users/mzagaja/GitHub/ML_for_Hackers/11-SNA/03_twitter_rec.R",
+		"/Users/mzagaja/GitHub/ML_for_Hackers/11-SNA/01_google_sg.R",
+		"/Users/mzagaja/GitHub/ML_for_Hackers/11-SNA/02_twitter_net.R",
+		"/Users/mzagaja/GitHub/ct_dmv_wait_time/wethersfield.rb",
+		"/Users/mzagaja/GitHub/was_I_towed/.ruby-gemset",
+		"/Users/mzagaja/GitHub/was_I_towed/.ruby-version",
+		"/Users/mzagaja/GitHub/was_I_towed/app/models/tow.rb",
+		"/Users/mzagaja/GitHub/was_I_towed/db/migrate/20150417193701_add_alert_types_to_users.rb",
+		"/Users/mzagaja/GitHub/was_I_towed/app/mailers/user_mailer.rb",
+		"/Users/mzagaja/GitHub/was_I_towed/app/views/user_mailer/tow_alert.txt.erb",
+		"/Users/mzagaja/GitHub/was_I_towed/app/views/user_mailer/tow_alert.html.erb",
+		"/Users/mzagaja/GitHub/was_I_towed/app/helpers/sessions_helper.rb",
+		"/Users/mzagaja/GitHub/was_I_towed/app/views/sessions/new.html.erb",
+		"/Users/mzagaja/GitHub/was_I_towed/app/views/password_resets/new.html.erb",
+		"/Users/mzagaja/GitHub/was_I_towed/app/controllers/password_resets_controller.rb",
+		"/Users/mzagaja/GitHub/was_I_towed/app/views/static_pages/towed.html.erb",
+		"/Users/mzagaja/GitHub/was_I_towed/app/views/users/new.html.erb",
+		"/Users/mzagaja/GitHub/was_I_towed/app/views/users/show.html.erb",
+		"/Users/mzagaja/GitHub/was_I_towed/app/views/static_pages/home.html.erb",
+		"/Users/mzagaja/GitHub/was_I_towed/config/environments/production.rb",
+		"/Users/mzagaja/GitHub/was_I_towed/app/controllers/users_controller.rb",
+		"/Users/mzagaja/GitHub/was_I_towed/app/views/user_mailer/password_reset.html.erb",
+		"/Users/mzagaja/GitHub/was_I_towed/db/migrate/20150409010629_add_admin_to_users.rb",
+		"/Users/mzagaja/GitHub/was_I_towed/app/controllers/application_controller.rb",
+		"/Users/mzagaja/GitHub/was_I_towed/app/controllers/notifications_controller.rb",
+		"/Users/mzagaja/GitHub/was_I_towed/app/controllers/sessions_controller.rb",
+		"/Users/mzagaja/GitHub/was_I_towed/Gemfile",
+		"/Users/mzagaja/GitHub/was_I_towed/Capfile",
+		"/Users/mzagaja/GitHub/was_I_towed/app/controllers/twilio_controller.rb",
+		"/Users/mzagaja/GitHub/was_I_towed/app/views/users/_form.html.erb",
+		"/Users/mzagaja/GitHub/was_I_towed/app/views/layouts/application.html.erb",
+		"/Users/mzagaja/GitHub/was_I_towed/app/views/user_mailer/password_reset.text.erb",
+		"/Users/mzagaja/GitHub/was_I_towed/app/views/users/edit.html.erb",
+		"/Users/mzagaja/GitHub/was_I_towed/app/views/users/index.html.erb",
+		"/Users/mzagaja/GitHub/was_I_towed/config/routes.rb",
+		"/Users/mzagaja/GitHub/was_I_towed/db/migrate/20150416002401_add_activation_to_users.rb",
+		"/Users/mzagaja/GitHub/was_I_towed/app/controllers/account_activations_controller.rb",
+		"/Users/mzagaja/GitHub/was_I_towed/app/views/user_mailer/account_activation.text.erb",
+		"/Users/mzagaja/GitHub/was_I_towed/app/views/user_mailer/account_activation.html.erb",
+		"/Users/mzagaja/GitHub/was_I_towed/config/environments/development.rb",
+		"/Users/mzagaja/GitHub/was_I_towed/test/mailers/previews/user_mailer_preview.rb",
+		"/Users/mzagaja/GitHub/was_I_towed/app/views/password_resets/edit.html.erb",
+		"/Users/mzagaja/GitHub/was_I_towed/app/views/layouts/mailer.html.erb",
+		"/Users/mzagaja/GitHub/was_I_towed/app/mailers/application_mailer.rb",
 		"/Users/mzagaja/Library/Application Support/Sublime Text 3/Packages/User/Ruby.sublime-settings",
-		"/Users/mzagaja/GitHub/livemap/server.js",
-		"/Users/mzagaja/GitHub/pygtfs_realtime/gtfs_realtime_pb2.py",
-		"/Users/mzagaja/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-		"/Users/mzagaja/Dropbox/Team Data/BSD Import Files/waterbury_independent_party.txt",
-		"/Users/mzagaja/Documents/JasonPaul48Donors/2012/batchpdf.sh",
-		"/Users/mzagaja/GitHub/OneBusAway-onebusaway-gtfs-realtime-visualizer-dae251a/src/main/java/org/onebusaway/gtfs_realtime/visualizer/VisualizerMain.java",
-		"/Users/mzagaja/GitHub/OneBusAway-onebusaway-gtfs-realtime-visualizer-dae251a/src/main/java/org/onebusaway/gtfs_realtime/visualizer/VehicleListener.java",
-		"/Users/mzagaja/GitHub/OneBusAway-onebusaway-gtfs-realtime-visualizer-dae251a/src/main/java/org/onebusaway/gtfs_realtime/visualizer/VisualizerService.java",
-		"/Users/mzagaja/Documents/JasonPaul48Donors/2012/batch2012.sh",
-		"/Users/mzagaja/Documents/JasonPaul48Donors/2012/converter_2012.rb",
-		"/Users/mzagaja/Documents/Wooden/export2012.pl",
-		"/Users/mzagaja/GitHub/converter/Coleman2012July.txt",
-		"/Users/mzagaja/GitHub/converter/BysiewiczJan2010.txt",
-		"/Users/mzagaja/Desktop/scotland_2009_voters.tsv",
-		"/Users/mzagaja/Dropbox/Team Data/Voter File May 6/SSP 2/ELCT/VOTER/farmington_only.csv",
-		"/Users/mzagaja/Dropbox/Team Data/Voter File May 6/SSP 3/ELCT/VOTER/EXT3.csv",
-		"/Users/mzagaja/Documents/April Voter File/SSP 3/ELCT/VOTER/portland.csv",
-		"/Users/mzagaja/Documents/April Voter File/SSP 3/ELCT/VOTER/EXT3.csv",
-		"/Users/mzagaja/Documents/April Voter File/SSP 2/ELCT/VOTER/EXT2.csv",
-		"/Users/mzagaja/Dropbox/BSD_Mailing_Data/mailing_export_20140501231942.csv",
-		"/Users/mzagaja/Dropbox/Team Data/April_Data_Director_Update.html",
-		"/Users/mzagaja/Dropbox/Team Data/van_actionid_update.html",
-		"/Users/mzagaja/Desktop/Data Director Update.htm",
-		"/Users/mzagaja/.bash_history",
-		"/Users/mzagaja/Downloads/csv_tsv.py",
-		"/Users/mzagaja/Downloads/CTVAN_Full_Export.csv",
-		"/Users/mzagaja/GitHub/converter/csv_to_tsv.rb",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11-2/Wethersfield.txt",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11-2/West Hartford.txt",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11-2/Waterbury.txt",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11-2/Wallingford.txt",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11-2/Vernon.txt",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11-2/Trumbull.txt",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11-2/Torrington.txt",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11-2/Stratford.txt",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11-2/Stamford.txt",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11-2/Southington.txt",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11-2/Shelton.txt",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11-2/Redding.txt",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11-2/Norwich.txt",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11-2/Norwalk.txt",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11-2/North Haven.txt",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11-2/Newington.txt",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11-2/New Haven.txt",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11-2/Milford Report.txt",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11-2/Middletown.txt",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11-2/Meriden.txt",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11-2/Manchester.txt",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11-2/Hamden.txt",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11-2/Guilford.txt",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11-2/Groton.txt",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11-2/Greenwich.txt",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11-2/Glastonbury.txt",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11-2/Fairfield.txt",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11-2/Enfield.txt",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11-2/Danbury.txt",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11-2/Cheshire.txt",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11-2/Bristol Report.txt",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11-2/Branford.txt",
-		"/Users/mzagaja/GitHub/2013_election_analysis/.ruby-version",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11-2/2013 Analysis and Recommendations.txt",
-		"/Users/mzagaja/GitHub/2013_election_analysis/.ruby-gemset",
-		"/Users/mzagaja/GitHub/2013_election_analysis/index.html",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11/2013 Analysis and Recommendations/2013AnalysisandRecommendations.html",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11/Guilford/Guilford.html",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11/Groton/Groton.html",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11/Greenwich/Greenwich.html",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11/Glastonbury/Glastonbury.html",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11/Fairfield/Fairfield.html",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11/Enfield/Enfield.html",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11/Danbury/Danbury.html",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11/Cheshire/Cheshire.html",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11/Branford/Branford.html",
-		"/Users/mzagaja/Downloads/documents-export-2014-02-11/Bristol Report/BristolReport.html",
-		"/Users/mzagaja/Dropbox/Team Data/Audit/Voter ID Lists/2007",
-		"/Users/mzagaja/Library/Caches/Cleanup At Startup/Transmit/C4E9CF96-A5EE-40E6-85B8-277A917B08D7/.htaccess",
-		"/Users/mzagaja/Dropbox/2013 Voter File/SSP 4/ELCT/VOTER/EXT4_part2.csv",
-		"/Users/mzagaja/Dropbox/2013 Voter File/SSP 3/ELCT/VOTER/EXT3_part2.csv",
-		"/Users/mzagaja/GitHub/sample_app/app/controllers/microposts_controller.rb",
-		"/Users/mzagaja/GitHub/sample_app/app/models/micropost.rb",
-		"/Users/mzagaja/GitHub/sample_app/db/development.sqlite3",
-		"/Users/mzagaja/GitHub/sample_app/config/database.yml",
-		"/Users/mzagaja/GitHub/sample_app/db/migrate/20131127210845_create_relationships.rb",
-		"/Users/mzagaja/GitHub/sample_app/app/controllers/relationships_controller.rb",
-		"/Users/mzagaja/GitHub/sample_app/app/controllers/users_controller.rb",
-		"/Users/mzagaja/GitHub/sample_app/db/migrate/20131120203717_add_admin_to_users.rb",
-		"/Users/mzagaja/GitHub/sample_app/config/application.rb",
-		"/Users/mzagaja/GitHub/sample_app/spec/spec_helper.rb",
-		"/Users/mzagaja/GitHub/sample_app/app/views/users/_follow.html.erb",
-		"/Users/mzagaja/GitHub/sample_app/app/views/layouts/_footer.html.erb",
-		"/Users/mzagaja/GitHub/sample_app/db/migrate/20130914011320_create_users.rb",
-		"/Users/mzagaja/GitHub/sample_app/config.ru",
-		"/Users/mzagaja/GitHub/sample_app/app/views/static_pages/help.html.erb",
-		"/Users/mzagaja/GitHub/sample_app/app/views/layouts/_shim.html.erb",
-		"/Users/mzagaja/GitHub/sample_app/app/controllers/static_pages_controller.rb",
-		"/Users/mzagaja/GitHub/sample_app/config/initializers/secret_token.rb",
-		"/Users/mzagaja/GitHub/sample_app/db/schema.rb",
-		"/Users/mzagaja/GitHub/sample_app/app/models/user.rb",
-		"/Users/mzagaja/GitHub/sample_app/spec/models/user_spec.rb",
-		"/Users/mzagaja/GitHub/sample_app/app/models/relationship.rb"
+		"/Users/mzagaja/Library/Application Support/Sublime Text 3/Packages/User/HTML (Rails).sublime-settings",
+		"/Users/mzagaja/GitHub/was_I_towed/config/deploy/production.rb",
+		"/Users/mzagaja/GitHub/blue_labs_exam/race_comparison_data_analysis_export.sql",
+		"/Users/mzagaja/GitHub/blue_labs_exam/combined_data_analysis_export.sql",
+		"/Users/mzagaja/GitHub/blue_labs_exam/topline_analysis.sql",
+		"/Users/mzagaja/GitHub/blue_labs_exam/survey_data_quality_check.sql",
+		"/Users/mzagaja/GitHub/blue_labs_exam/caller_level_quality_analysis.sql",
+		"/Users/mzagaja/GitHub/blue_labs_exam/quality_check.sql",
+		"/Users/mzagaja/GitHub/blue_labs_exam/load_data.sql",
+		"/Users/mzagaja/GitHub/blue_labs_exam/concatonated_sql_FINAL.sql",
+		"/Users/mzagaja/GitHub/ML_for_Hackers/01-Introduction/ufo_sightings.R",
+		"/Users/mzagaja/GitHub/was_I_towed/db/migrate/20150318204707_add_remember_digest_to_users.rb",
+		"/Users/mzagaja/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
 	],
 	"find":
 	{
@@ -195,9 +201,10 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 95.0,
 		"where_history":
 		[
+			""
 		]
 	},
 	"find_state":
@@ -205,65 +212,25 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"5",
-			"’",
-			"-",
-			"\\nAPT",
-			"\\nWaterbury, CT  \\d+",
-			"font-family: Times; font-size: medium;",
-			"style=\"font-family: Times; font-size: medium;\"",
-			"[a-z]{3,},",
-			"3679747",
-			"form",
-			"&#39;",
-			"<a href=\"http://xxxxxxx.xxx\" target=\"_blank\">",
-			"Pont",
-			"portland",
-			"%",
-			"our",
-			"=\\n",
-			"3D",
-			"=C2=A0",
-			"delete",
-			"conas",
-			",+$",
-			"-",
-			" \\(R\\)",
-			" \\(D\\)",
-			"^([A-Z -\\.]+)\\n(.*REGISTRAR OF VOTERS)(\\n(.*))?\\n([0-9]*.*)\\n(\".*\")\\n(Bus:[ 0-9-]*)(\\n)?([A-Za-z]*: [ 0-9-]*)?",
-			"^([A-Z -\\.]+)\\n(.*REGISTRAR OF VOTERS)(\\n)?(.*TOWN.*)?\\n([0-9]*.*)\\n(\".*\")\\n(Bus:[ 0-9-]*)(\\n)?([A-Za-z]*: [ 0-9-]*)?",
-			"^([A-Z -]+)\\n(.*REGISTRAR OF VOTERS)\\n(.*TOWN.*)\\n([0-9]*.*)\\n(\".*\")\\n(Bus:[ 0-9-]*)",
-			"images",
-			"756",
-			"../images",
-			"following",
-			"h2"
+			"sms_alert",
+			"	",
+			"\\t",
+			"root",
+			"correct_user",
+			"User.digest",
+			"current_user",
+			"warning",
+			"alert",
+			"warning",
+			"flash",
+			"current_tows"
 		],
 		"highlight": true,
 		"in_selection": false,
 		"preserve_case": false,
-		"regex": true,
+		"regex": false,
 		"replace_history":
 		[
-			"8",
-			"'",
-			"-",
-			" APT",
-			"",
-			"'",
-			"",
-			"their",
-			"",
-			",",
-			"",
-			"${1},${2},${4},${5},${6},${7},${9},${10}",
-			"${1},${2},${3},${4},${5},${6},${8},${9}",
-			"${1},${2},${4},${5},${6},${7},${9}",
-			"${1},${2},${3},${4},${5},${6}",
-			"${1} ${2} ${3} ${4} ${5} ${6}",
-			"http://dems.info/emails/images",
-			"images",
-			"h3"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -285,7 +252,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 33.0
 	},
 	"layout":
 	{
@@ -312,8 +279,9 @@
 	"menu_visible": true,
 	"output.find_results":
 	{
-		"height": 0.0
+		"height": 102.0
 	},
+	"pinned_build_system": "",
 	"project": "index.sublime-project",
 	"replace":
 	{
@@ -323,138 +291,157 @@
 	"select_file":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"mime",
+				"config/initializers/mime_types.rb"
+			],
 			[
 				"routes.rb",
 				"config/routes.rb"
 			],
 			[
-				"index.html.erb",
-				"app/views/locations/index.html.erb"
-			],
-			[
-				"application.htm",
-				"app/views/layouts/application.html.erb"
-			],
-			[
-				"appli",
-				"config/application.rb"
-			],
-			[
-				"static_pages_contro",
-				"app/controllers/static_pages_controller.rb"
-			],
-			[
-				"micropost.rb",
-				"app/models/micropost.rb"
+				"user_mailer.rb",
+				"app/mailers/user_mailer.rb"
 			],
 			[
 				"user.rb",
 				"app/models/user.rb"
 			],
 			[
-				"user_spec.rb",
-				"spec/models/user_spec.rb"
+				"production.rb",
+				"config/environments/production.rb"
 			],
 			[
-				"destroy.js",
-				"app/views/relationships/destroy.js.erb"
+				"account_activation.html.erb",
+				"app/views/user_mailer/account_activation.html.erb"
 			],
 			[
-				"create.js.erb",
-				"app/views/relationships/create.js.erb"
+				"config/environments/production.rb",
+				"config/environments/production.rb"
 			],
 			[
-				"relationships_controller.rb",
-				"app/controllers/relationships_controller.rb"
+				"password",
+				"app/controllers/password_resets_controller.rb"
 			],
 			[
-				"relationships_controller_spec",
-				"spec/controllers/relationships_controller_spec.rb"
+				"password_resets_controller.rb",
+				"app/controllers/password_resets_controller.rb"
 			],
 			[
-				"_folow.html.erb",
-				"app/views/users/_follow.html.erb"
+				"user_mailer_preview.rb",
+				"test/mailers/previews/user_mailer_preview.rb"
 			],
 			[
-				"authen",
-				"spec/requests/authentication_pages_spec.rb"
+				"password_reset.html.erb",
+				"app/views/user_mailer/password_reset.html.erb"
 			],
 			[
-				"user_pages_spec",
-				"spec/requests/user_pages_spec.rb"
+				"password_reset.text.erb",
+				"app/views/user_mailer/password_reset.text.erb"
 			],
 			[
-				"show_follow",
-				"app/views/users/show_follow.html.erb"
+				"new.html.erb",
+				"app/views/sessions/new.html.erb"
+			],
+			[
+				"account_ac",
+				"app/controllers/account_activations_controller.rb"
 			],
 			[
 				"users_controller.rb",
 				"app/controllers/users_controller.rb"
 			],
 			[
-				"user_pages_spec.rb",
-				"spec/requests/user_pages_spec.rb"
+				"sessions_controller.rb",
+				"app/controllers/sessions_controller.rb"
 			],
 			[
-				"authentication",
-				"spec/requests/authentication_pages_spec.rb"
+				"user_controller.rb",
+				"app/controllers/users_controller.rb"
 			],
 			[
-				"show.html.erb",
-				"app/views/users/show.html.erb"
+				"account_acti",
+				"app/controllers/account_activations_controller.rb"
 			],
 			[
-				"_follow.html.erb",
-				"app/views/users/_follow.html.erb"
+				"sessions_helper.rb",
+				"app/helpers/sessions_helper.rb"
 			],
 			[
-				"_follow_form",
-				"app/views/users/_follow_form.html.erb"
+				"user_mailer_prev",
+				"test/mailers/previews/user_mailer_preview.rb"
 			],
 			[
-				"custom.css.scss",
-				"app/assets/stylesheets/custom.css.scss"
+				"development.rb",
+				"config/environments/development.rb"
 			],
 			[
-				"home.html.erb",
-				"app/views/static_pages/home.html.erb"
+				"account_activation.text",
+				"app/views/user_mailer/account_activation.text.erb"
 			],
 			[
-				"_stats.html.erb",
-				"app/views/shared/_stats.html.erb"
+				"application_mailer",
+				"app/mailers/application_mailer.rb"
 			],
 			[
-				"static_pages_spec.rb",
-				"spec/requests/static_pages_spec.rb"
+				"account_activation.text.erb",
+				"app/views/user_mailer/account_activation.text.erb"
 			],
 			[
-				"sample_data.rake",
-				"lib/tasks/sample_data.rake"
+				"addac",
+				"db/migrate/20150416002401_add_activation_to_users.rb"
 			],
 			[
-				"relationship.",
-				"app/models/relationship.rb"
+				"gemfile",
+				"Gemfile"
 			],
 			[
-				"relationship_spec.rb",
-				"spec/models/relationship_spec.rb"
+				"capfile",
+				"Capfile"
+			],
+			[
+				"sessions_helper",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"sessions_controller",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"users_controller",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"sessions",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"session",
+				"app/controllers/sessions_controller.rb"
 			]
 		],
 		"width": 0.0
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.0,
+		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"~/GitHub/ezcthr12/ezcthr12.sublime-project"
+			]
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"select_symbol":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],

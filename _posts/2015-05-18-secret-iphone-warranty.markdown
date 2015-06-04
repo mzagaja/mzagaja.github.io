@@ -2,9 +2,9 @@
 layout: post
 title: My First Video Blog on the Secret iPhone Warranty
 tags: 
-- DJ Patil
-- Data
-- Government
+- iPhone
+- Warranty
+- VISA
 comments: on
 ---
 How to save a little money, it works with most electronics:
