@@ -1,21 +1,14 @@
-<!DOCTYPE html>
-<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en" > <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
-<html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <meta http-equiv="Pragma" content="no-cache" />
-        <meta http-equiv="Expires" content="-1" />
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>{{ page.title }}</title>
         <meta name="viewport" content="width=device-width">
 
-        <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="/css/syntax.css">
-
         <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/foundation.min.css">
-        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="/css/app.css" />
+        <link rel="stylesheet" href="/css/main.css" />
         <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
 
         <!--Facebook Properties-->
@@ -24,7 +17,7 @@
         <meta property="og:image" content="/images/fb_image.jpg">
 
         <!-- Custom Javascript -->
-        <script src="/js/vendor/custom.modernizr.js"></script>
+        <script src="/bower_components/modernizr/modernizr.js"></script>
         <!-- custom font -->
         <script type="text/javascript" src="//use.typekit.net/tal8yaz.js"></script>
         <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
@@ -32,20 +25,19 @@
     <body>
         <div class="row">
           <div id="banner" class="large-12 columns">
-              <h1 id="title"><a href="/">{{ site.name }}</a></h1>
+              <h1 id="title">{{ site.name }}</h1>
+              <p>Hi I'm Matt Zagaja: optimist, geek, and citizen. I am currently the Ford-Mozilla Technology Exchange Fellow at Harvard's Berkman Center for Internet and Society.</p>
+              <a href="/about">About</a> - <a href="http://twitter.com/mzagaja">Twitter</a> - <a href="http://www.facebook.com/mzagaja">Facebook</a>
           </div>
         </div>
         <div class="row">
-          <div class="large-8 columns">
+          <div class="large-12 columns">
                 {{ content }}
           </div>
-          <div class="large-4 columns">
-              <h4 id="menu" class="subheader">Useful Links</h4>
+        </div>
+        <div class="row">
+          <div class="large-12 columns">
               <ul class="side-nav">
-                <li><a href="http://www.zagaja.com/about.html">About</a>
-                <li><a href="http://twitter.com/mzagaja">Follow Me on Twitter</a></li>
-                <li><a href="http://wnext.net">What's Next - CT Campaign Consulting</a></li>
-                <li><a href="https://www.facebook.com/lists/664745338142">The Connecticut News Facebook List</a></li>
                 <li><a href="http://www.zagaja.com/feed.xml">RSS Feed</a></li>
               </ul>
                 <!-- Begin MailChimp Signup Form -->
@@ -78,5 +70,8 @@
           })();
 
         </script>
+        <script src="/bower_components/jquery/dist/jquery.min.js"></script>
+        <script src="/bower_components/foundation/js/foundation.min.js"></script>
+        <script src="/js/app.js"></script>
     </body>
 </html>
