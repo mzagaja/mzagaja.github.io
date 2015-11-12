@@ -8,16 +8,9 @@ h2 {
   margin-bottom: 0px;
 }
 
-ul.pagination {
-  padding-left: 30%;
-  padding-bottom: 10px;
-}
-
 #banner {
-  background-color: #005B88;
-  margin-top: 5px;
-  margin-bottom: 20px;
   color: #FFFFFF;
+  margin-bottom: 10px;
 }
 
 #banner h1 {
@@ -29,4 +22,11 @@ ul.pagination {
   margin-bottom: 0px;
   border-bottom: solid;
   border-width: thin;
+}
+
+#top {
+  width: 100%;
+  max-width: initial;
+  background-color: #005B88;
+  margin-bottom: 10px;
 }

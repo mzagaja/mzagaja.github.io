@@ -18,18 +18,24 @@
 
         <!-- Custom Javascript -->
         <script src="/bower_components/modernizr/modernizr.js"></script>
+        
+        <!--RSS Feed-->
+        <link href="http://www.zagaja.com/feed.xml" rel="alternate" type="application/rss+xml" title="Zagaja.com Blog Posts" />
+
         <!-- custom font -->
         <script type="text/javascript" src="//use.typekit.net/tal8yaz.js"></script>
         <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
     </head>
     <body>
+      <div id="top">
         <div class="row">
-          <div id="banner" class="large-12 columns">
+          <div id="banner" class="large-12 large-centered columns">
               <h1 id="title">{{ site.name }}</h1>
               <p>Hi I'm Matt Zagaja: optimist, geek, and citizen. I am currently the Ford-Mozilla Technology Exchange Fellow at Harvard's Berkman Center for Internet and Society.</p>
               <a href="/about">About</a> - <a href="http://twitter.com/mzagaja">Twitter</a> - <a href="http://www.facebook.com/mzagaja">Facebook</a>
           </div>
         </div>
+      </div>
         <div class="row">
           <div class="large-12 columns">
                 {{ content }}
@@ -37,24 +43,8 @@
         </div>
         <div class="row">
           <div class="large-12 columns">
-              <ul class="side-nav">
-                <li><a href="http://www.zagaja.com/feed.xml">RSS Feed</a></li>
-              </ul>
-                <!-- Begin MailChimp Signup Form -->
-                <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
-                <div id="mc_embed_signup">
-                <form action="//zagaja.us2.list-manage.com/subscribe/post?u=a6d8176ada6e5220a4fd7490b&amp;id=1f472c8860" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-                    <div id="mc_embed_signup_scroll">
-                  <label for="mce-EMAIL">Receive E-Mail Updates of New Posts</label>
-                  <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-                    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-                    <div style="position: absolute; left: -5000px;"><input type="text" name="b_a6d8176ada6e5220a4fd7490b_1f472c8860" tabindex="-1" value=""></div>
-                    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-                    </div>
-                </form>
-                </div>
-                <!--End mc_embed_signup-->
-              <small><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="/images/88x31.png" /></a><br />This <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">work</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://wwww.zagaja.com/" property="cc:attributionName" rel="cc:attributionURL">Matt Zagaja</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.</small>
+              <small>Follow Zagaja.com posts: <a href="http://www.zagaja.com/feed.xml">RSS Feed</a></small><br>
+              <small><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US">This <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">work</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://wwww.zagaja.com/" property="cc:attributionName" rel="cc:attributionURL">Zagaja.com</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.</small>
           </div>
         </div>
         <script type="text/javascript">
