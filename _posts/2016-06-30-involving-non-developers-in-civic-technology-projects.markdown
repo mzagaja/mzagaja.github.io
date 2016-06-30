@@ -4,6 +4,7 @@ title: Involving Non-Developers in Civic Technology Projects
 tags:
 - Civic Technology
 - Government
+comments: on
 ---
 One of the largest challenges that I think civic technology projects face is involving non-developers. Every single week that I attend Code for Boston I often see groups crying out for people that are not developers to join and help them. There are a lot of skills and areas that developers are quite happy to disclaim or delegate, but actually engaging non-developers to do these things is difficult. I think it is important to talk about these roles and how we can better engage non-developers because it has the potential to help us build more inclusive innovations and engage communities outside the usual groups we work with.
 
