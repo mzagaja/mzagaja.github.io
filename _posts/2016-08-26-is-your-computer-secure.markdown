@@ -1,0 +1,18 @@
+---
+layout: post
+title: Is your computer or software secure?
+tags:
+- Security
+- Coding
+- Development
+comments: on
+---
+Is your computer or software secure? Despite what the experts or vendors want to tell you, the answer is probably no. This point was driven home to me yesterday when [Citizen Lab published a report on three iPhone exploits](https://citizenlab.org/2016/08/million-dollar-dissident-iphone-zero-day-nso-group-uae/). These exploits are called 0-days because it has been 0 days since they were known to the public and security researchers. These exploits fetch a large price on the private market and the only reason the intended target was not infected is because he was suspcious of the link. No software updates or other measures can defend you against a properly executed 0-day. It is up to you to reocgnize an attempt to infect you and be vigilant.
+
+Security is a moving target. As companies find exploits they are patched with software updates. I was shocked when I put a new server on the Internet a few months ago and enabled something called [LogWatch](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-logwatch-log-analyzer-and-reporter-on-a-vps) to show me how many times automated computers scan and probe my server to see if it is vulnerable to known exploits. It is a lot. 
+
+So how can we protect oursleves? A lot of the [recommended security measures](http://www.codelitt.com/blog/my-first-10-minutes-on-a-server-primer-for-securing-ubuntu/) involve locking down the machine in a way that makes common attack vectors more challenging. With most online accounts using a complex password and two-factor authentication make breaking into your account more work. This deterrance approach is the same as getting a home alarm system: it will not make your system impenetrable but it makes it less appealing to opportunists. The second goal is to minimize the potential damage if your system is penetrated. Encrypt important data; restrict permissions. If you use different passwords for each account then when an adversary gets your password they cannot access your other accounts without getting those passwords. Keeping your system updated and using modern operating system software prevents you from getting exploited by known vulnerabilities.
+
+For software developers the approach is different. We are not merely worried about protecting our machine or accounts, but protecting our code itself. Many programming languages have security guides that provide advice on common pitfalls and attacks. With the applications I develop with Ruby on Rails I have learned that there is a static code analyzer called [Brakeman](http://brakemanscanner.org) that checks for common security holes in your code. [Deppbot](https://www.deppbot.com) keeps the modules updated when security updates occur. Finally the last line of defense is vigilence and having peers review your code. If someone discloses a vulnerability it is incumbent upon a developer to fix it as soon as possible. A code review by another experienced programmer can also help spot errors. Despite all this there will be security vulnerabilities, after all Apple and Google have some of the smartest software engineers in the world and they still have to fix vulnerabilities.
+
+The final solution is resilience. Besides being vigilient, making sure that the failure state of being attacked is not going to hurt you badly is a good way to protect yourself. Avoid storing sensitive data if you do not need it. Use the current best practices around encryption if you do. Backup your data offsite so that you still have it if an attacker deletes it. Make a plan about what to do if you are attacked and how you will handle it so you can recover quickly.

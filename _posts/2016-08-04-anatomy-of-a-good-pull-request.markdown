@@ -2,7 +2,8 @@
 layout: post
 title: Anatomy of a Good Pull Request
 tags:
-- Conference
+- Coding
+- GitHub
 comments: on
 ---
 As I have been working on my [Code for Boston Project](https://github.com/codeforboston/cambridge_energy_app) I have spent lots of time reviewing pull requests. While it is easy to review pull requests when you are working with someone in the same space everyday, it is a bit more challenging when someone is remote. I think that the good pull requests tend to have a few things in common:
