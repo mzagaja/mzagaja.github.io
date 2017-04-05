@@ -1,0 +1,13 @@
+---
+layout: post
+title: Some notes on Rails nested routing
+tags:
+- Rails
+- Routing
+comments: on
+---
+Today I spent a lot of time trying to figure out how to organize a controller in Rails where we needed to filter based on some query params. I was initially inspired to follow a [pattern from DHH](http://jeromedalbert.com/how-dhh-organizes-his-rails-controllers/) which turned out to be a bit challening to follow due to some incomplete information in the original blog post. The first thing that the blog post had failed to explain was how to organize files in a situation with the co-controllers. The answer to this quesiton is that you setup a folder with the parent controller name and then name the .rb files after the sub-controller. So in the linked example the "Inboxes::PendingsController" class would go into app/controllers/inboxes/pendings_controller.rb. The second component is that in the routes.rb file you need to be aware that the nested route for the index action must come before the route for the parent resource's show method. So for example in [this commit I made](https://github.com/MAPC/youth-match-v2/pull/91/commits/ed6fd3860cd92882eb852ea790536911f568e66b) /applicants/interests works, but if I put line 12-14 below line 15, then it would try and find an applicant with the ID intersts and fail to do so.
+
+However I also learned that the sub-controller approach is not great for situations where the client is sending the controller params. After some research I determined the best practice was to simply concede that I should [check for the presence of params in the applicants index method](https://github.com/MAPC/youth-match-v2/pull/91/commits/31c239fef5e3d8f3d543f02d8f3a1440545a62c7) and filter on that. It is important to note that after a while your controller can get cluttered with if statements checking for params to filter. Several friends have suggested that the natural evolution of this pattern is to extract the query into a query object that takes params and returns a scope on applicants. This way the query object is testable and my controller does not get bloated.
+
+Finally we also have [been struggling with nested controllers](https://github.com/MAPC/youth-match-v2/issues/74) in relation to some has_many relationships between our models. The struggle was largely related to the fact that the Rails routing documentation on nested resources does not explain the changes that need to be made to a controller when you start using nested routes with it. However as you can see later in that thread I was lucky enough to find an old Railscast with [a useful pattern](http://railscasts.com/episodes/139-nested-resources?autoplay=true).
