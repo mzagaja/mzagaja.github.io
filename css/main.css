@@ -23,6 +23,10 @@ h2 {
   text-decoration: underline;
 }
 
+#banner a:visited {
+  color: white;
+}
+
 #menu {
   margin-top: 19px;
   margin-bottom: 0px;
