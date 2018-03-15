@@ -1,0 +1,12 @@
+---
+layout: post
+title: Building a Process
+comments: on
+---
+As part of a new generation of leadership at [Code for Boston](http://www.codeforboston.org/) my colleagues and I were charged with defining and building process for the organization. Some of this process was gifted to us via previous practice. Some of this process was thought out, and some of it was ad-hoc. Either way we thought we could be a better organization if we memorialize, communicate, and execute on our process.
+
+Most recently we built a process for project intake. In our monthly leadership meeting we identified this need and decided to delegate the development of the process to a sub-committee of interested leadership members. People who felt strongly could be in the sub-committee while those who were not as interested in this particular process could sit out. As a rule we try and keep our meetings to 90 minutes in order to respect the natural attention span of attendants. In the meeting we brainstormed, discussed, and found agreement based on evidence and experience. We generated a document that was then shared and voted upon by the larger leadership team at our next monthly meeting.
+
+What did we get for all this effort? First and foremost it made explicit the expectations by all the actors. We figured out that we needed a person willing to put in time to manage project intake. We made clear when and where leadership had to take a stance on a project proposal, eliminating the uncertainty around silence. Finally it gave clarity and certainty to potential external partners about when and where they could expect an answer to whether their project could be a part of our community.
+
+The most surprising part of implementing this process is how much of a barrier filling out our Google Form is to proposers. Often people will on Slack or in person try and hook me or another leadership team member into a discussion about their project idea with an aim of making it an official Code for Boston venture. Despite informing them I am not empowered to make their project official and telling them they need to fill out our Google Form, many people still just want to talk about it and do not understand why their project cannot start next week. I am not sure why this is such a challenge, but my hope is that we are simply weeding out folks who would find other parts of running a Code for Boston project challenging and avoiding a bad fit. 
