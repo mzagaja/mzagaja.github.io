@@ -1,8 +1,6 @@
 ---
 layout: post
 title: The Decline of Social Networks
-tags:
--
 comments: on
 ---
 Up until a few months ago my primary outlet for writing has been on Facebook. Facebook provides a great user experience and importantly to me has an integration with the sharing features in macOS and iOS. This made it easy to copy a quote from an article I found and link it to my friends so they could get a glimpse into my own thinking. Unfortunately due to recent changes in the news feed and maybe the progression of life, it feels like Facebook is turning into a ghost town. I find myself spending more time on Twitter.

@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Decoupling Myself
-tags:
--
 comments: on
 ---
 One of the biggest challenges I face on a daily basis, especially at Code for Boston, is trying to remove myself as a dependency from the organization. There is a difference between success because you are good at something and success because you have built an organization that is good at something. As Al Gore is fond of saying, “if you want to go quickly go alone, if you want to go far, go together.”

@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Learning New Software Languages
-tags: 
--
 comments: on
 ---
 I am in the process of reading [A Swift Kickstart](https://pragprog.com/book/d-dsswift/a-swift-kickstart-second-edition) to learn the Swift programming language. Swift will be maybe the fourth or fifth language I am learning and so far I am enjoying it a bit more than many of the other ones I have tried to learn. Learning a language is about building the muscle memory around the words and syntax used to communicate in it. Many programming languages share similar concepts (like functions, variables, constants, etc.) and you need only map these concepts to the new syntax and conventions used by your new language.

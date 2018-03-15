@@ -4,4 +4,6 @@ paginate: 5
 permalink: /:year/:month/:title/
 description: "Matt Zagaja's personal blog. Musings on politics, technology, and other geeky things."
 url: http://www.zagaja.com
-gems: [jekyll-paginate]
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
