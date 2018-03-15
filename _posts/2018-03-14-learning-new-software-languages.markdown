@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Learning New Software Languages
-tags: software, swift
+tags: 
 -
 comments: on
 ---
