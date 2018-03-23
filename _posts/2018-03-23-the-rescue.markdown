@@ -1,0 +1,16 @@
+---
+layout: post
+title: The Rescue
+comments: on
+---
+It happens in slow motion. Every week project leads pitch their project to the brigade members. This ritual gives everyone a chance to tell new members what is happening in their projects in their own words, and update their fellow brigade members. I listen to see what has changed. Every week I hear things change, except I notice one group is not. No worries, they’re just a little light this week. Another week passes. The slide is not updated. I hear the same pitch. I look over at the group after orientation. There is noise. Laughter. They must be doing something. I look at Slack and GitHub. There has not been a change since Columbus Day. I walk over to the project lead and we are about to have the conversation.
+
+The first thing you learn from the conversation is the human you are talking to prayed for your arrival for the past month. They have been burning through developers faster than Trump appointees. You ask what they have been doing. They show you a Google Drive link. Concepts, brainstorming, sketches, it is all there. “This looks great,” I tell them. “So why aren’t you making it?” 
+
+“The developers have been working on the database schema for three months. We have tried building things in Django, Javascript, and then someone came by and Dockerized it all.” I look at the repo and sure enough there is a well Dockerized repo with a meticulously crafted database schema. Artisanal PostgreSQL with a sprinkle of PostGIS. “So you asked them to do this, but you got that?” I ask. “Mmm. Hmm,” replies the project lead.
+
+“Tell me about the team,” I suggest. The project lead runs me through the roster. Every software project has a few key players. There is the project manager. I am talking to them, but I am also trying to figure out if they have managed a software project before. Have they wrapped their head around the adventure they are on? There is the designer. A good designer is worth their weight in gold. Finally they tell me about the developers. I am trying to find the missing piece.
+
+Nine times out of ten a stagnant project is missing an important experienced person. Maybe all the developers just graduated boot camp. It might turn out the project lead has never given direction to developers before. They might have a ton of experienced technical people but no designers to focus the product and help the developers understand what to build. The conversation helps me find this missing piece.
+
+After we wrap our heads around things the conversation ends with a plan. Does the project lead still want to keep doing this or do they want to cut their losses? If they are sticking with it then I have to stick with them. Once I know what is needed I can begin the search. I am not an expert at materializing humans, but I have met a lot of them in my life on Earth. I have Facebook, Twitter, and a sizable rolodex.  Then once I find the right human I make the ask. I make sure they understand this is not a one night thing, their fellow citizens need them to serve for a few months. They can make a difference. They say yes. A few days later it is hack night. I am a little anxious. Will they show up? I see them walk through the door. I relax. The conversation has lead to human connection. The project is going to work.
