@@ -1,0 +1,10 @@
+---
+layout: post
+title: Tools
+comments: on
+---
+One of my most and least favorite part of using a computer is picking my tools. I have developed a suite of tools that work well for me. Some tools fit you like a glove. Other tools you adapt to and learn to stop hating after a while. As a computer user I have spent years using a computer and learning my tools. The result is that a large number of things other people struggle with are solved problems for me.
+
+The limitation of tools is they cannot fix human problems. The increasing volume of email might be more easily processed by GMail’s interface than Microsoft Outlook, but it does not change the fact that it linearly takes more time to process more email. OmniFocus gives me a great place to store my personal task list, but it does not have the power to make me do my tasks. We must be cautious with imputing too much power and promise to our tools.
+
+The other down side is we risk becoming tightly coupled to our tools. For example I have installed the zsh shell in the terminal in my Mac. It makes me a large order of magnitude more effective in using the command line interface on my computer. However when I login to a remote linux machine it is not available unless I set it up. The benefits outweigh the cost, but when you have used something that works better for you, your tolerance of other things goes down.
