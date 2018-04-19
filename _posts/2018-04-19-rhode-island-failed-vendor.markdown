@@ -1,0 +1,11 @@
+---
+layout: post
+title: Rhode Island Recommits to Failed Vendor
+comments: on
+---
+This morning I saw the following tweet from Aaron Snow in my timeline:
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">😞<br><br>My guess is the sunk cost RI is really bowing to isn’t money, but time: they think “finishing” will be faster than starting over.<br><br>If anyone has even floated a better path forward, they’re probably terrified of it. “You mean we could fail twice?”<br><br>The devil you know. <a href="https://t.co/V4qLpMoBhb">https://t.co/V4qLpMoBhb</a></p>&mdash; Aaron Snow (@aaronsnow) <a href="https://twitter.com/aaronsnow/status/986929274006290434?ref_src=twsrc%5Etfw">April 19, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+Stories like these frustrate me greatly as someone who builds technology for government. The first reason is the size of these contracts are enormous relative to the cost of developing good software. At MAPC our projects tend to all be budgeted under a million dollars. We deliver them in the span of a year or so with a small team of developers. The magic part about software is unless you reach enormous scale, you can serve millions of users without spending lots of extra money. At Berkman Klein I worked on a [project](http://www.lumendatabase.org/) that served millions of users via Google Search on a daily basis and had three developers on it. The team that fixed Healthcare.gov [fit inside a single mansion](https://www.theatlantic.com/technology/archive/2015/07/the-secret-startup-saved-healthcare-gov-the-worst-website-in-america/397784/). You do not need a large team to build great technology.
+
+The second reason is the human impact this has. This broken technology at millions of wasted taxpayer dollars has taken that money from available social services. It has made it more challenging for the most vulnerable among us to qualify and register for the social services they are entitled to. This impacts on the Rhode Island economy and the faith of people in their government. In an era where people trust government less and less, we need it to make better decisions about technology so people have more faith in it. We can and should do better.
