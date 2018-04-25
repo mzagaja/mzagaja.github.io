@@ -1,0 +1,10 @@
+---
+layout: post
+title: The Password Life
+comments: on
+---
+One of the biggest banes of my existence is dealing with passwords. In order to manage my collection I have an app called [1Password](https://1password.com) that mostly takes care of my password management. However they recently released a new beta version that has proven to be buggy. Ironically I attempted to report the bugs in their beta form and after filling out their form failed to login. Then I attempted to recover my password by putting in my username and did not get a reset email. Maybe it went to an email address I no longer own. Either way I instead decided to report my bug via twitter.
+
+1Password has shown me that I have a huge number of passwords. My 1Password database contains 872 items, and out of them 625 are over 3 years old. I rarely change my passwords and do not have the energy to go through 625 logins to be more secure. This is why I am excited by new systems like Apple using FaceID and Apple Watch to secure accounts. I would be able to authenticate without needing to know a password for each website. The most surprising thing to me is that you can already use Apple’s APIs for payment but they have not extended them for web logins yet. As a user and web developer being able to login using Apple’s system would be a huge leap forward in not needing to keep track of nearly 1000 passwords.
+
+Finally the biggest challenge with password management to me is the fact I keep getting logged out. Despite trying to use a third party application to stay logged into Gmail and trusting my computer I am asked to sign in almost every other day. When I do certain things on GitHub I am also asked to re-confirm my password. Ultimately if I am using a device that I am authenticated to, I want to be able to stay logged in. It might not be perfectly secure, but the cost and annoyance of having to login all the time is huge.
