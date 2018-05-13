@@ -1,0 +1,12 @@
+---
+layout: post
+title: React and Jekyll
+comments: on
+---
+I have been spending my past week at work learning [React](https://reactjs.org) for the purpose of making an interactive website and overall have found it to be one of the easier Javascript frameworks to master. A key component of this is React has well written documentation. Despite the complexity of the concepts, they are fairly well explained. Given the current popularity of React there are also plenty of third party resources and StackOverflow posts on React related topics. It is clear that React has the wind at its back.
+
+For most of our static websites at MAPC we use [Jekyll](https://jekyllrb.com). Some Googling found [this helpful blog post](https://medium.com/@allizadrozny/using-webpack-and-react-with-jekyll-cfe137f8a2cc) about setting up React with Jekyll. However I learned of an even better trick with this setup. Once you setup webpack you can run `./node_modules/.bin/webpack --watch` and the bundle.js file will be updated every time you make changes to the files in your webpack directory. Furthermore you can run `jekyll serve --live reload` and [connect Safari](http://livereload.com/extensions/) to jekyll’s live reload server so your browser auto updates changes as you make them to your react or Jekyll code. This greatly speeds up the development process.
+
+Learning React and spending more time in Javascript land has also lead me to identify and empathize better with the challenges others face when learning new languages and frameworks. The abstractions are not yet memorized. The scope of variables is not always clear or understood. You are constantly looking up method names and syntax. Your debugging toolkit is often not established. It’s like going into a new country, having to drive on the other side of the road, and figure out how to convert everything from metric.
+
+Ultimately I think learning this will be worth it. It will give me flexility to create new features in user interfaces. It will help me better understand some of the excitement and challenges my peers doing front-end web development at Code for Boston face. It will also let me play more with the WebKit Web Inspector to better understand why certain web pages render so poorly when I browse the web.
