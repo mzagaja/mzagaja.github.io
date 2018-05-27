@@ -1,0 +1,12 @@
+---
+layout: post
+title: Getting to Inbox Zero
+comments: on
+---
+For the most part I try to keep my inbox “near zero” but know that getting to real zero can be a challenge. The first part of the challenge is mental. No matter how hard you try it can be difficult to stop your inbox from becoming the “place where important stuff stays you do not lose it” which it should not be. The second challenge is that it can also become your to-do list. Most people suffer from the worst possible scenario: it becomes the place where important stuff stays and also your todo list and it becomes hard to distinguish how much is from one bucket or the other.
+
+I have a few components to processing my inbox. First I have mastered GMail’s keyboard shortcuts. With single keystrokes I can open, reply to, and file away emails. This lets me rip through them at a much more aggressive pace than with other clients. Second is I take time to unsubscribe and filter emails I receive regularly from vendors. This part sucks but it pays dividends down the line. Each unsubscribe lowers the daily noise of my inbox. Third is I use filters to “skip the inbox” for things I want a record of and receive regularly. Most often these are recurring bill notices that are already on auto-pay. I wish I could have a “negative filter” on these that would alert me if I did not receive an expected one. Ultimately the goal is to automate as much as possible and find signal in the noise.
+
+The weirdest part of email is that while it appears to have been solved in a web client, mobile remains a free for all. Apple’s Mail app on iOS works fine but lacks some of the polish and features of the Gmail app. However the Gmail app struggles to work well with Siri and contain all the offline archiving of my messages that the iOS app has. Personally I miss the [Mailbox app](https://www.theverge.com/2015/12/8/9873268/why-dropbox-mailbox-shutdown).
+
+Ultimately the state of my inbox is usually a reflection of how on top of things I am in life. The more frazzled the inbox is, the more behind I usually am in life. It always feels good to get back on top of the inbox and todo list. Spending time to do this pays many dividends as I go through my week.
