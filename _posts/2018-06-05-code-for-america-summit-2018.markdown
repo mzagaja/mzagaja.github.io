@@ -1,0 +1,10 @@
+---
+layout: post
+title: Code for America Summit 2018
+comments: on
+---
+Much of the break in blogging for the past week has been the result of spending the latter part of last week at Code for America Summit in Oakland, CA. I traveled to California on Wednesday with co-workers from my group at MAPC and friends from Code for Boston. It was great to see many facets of Boston’s civic technology ecosystem represented in the talks and sessions. Conferences are important both for taking time to meet and learn from peers, and to take time to be reflective. I was lucky to experience both.
+
+One session that stood out was one on agile software development put on by the Code for America engineering team. One of my goals for my own engineering team has been to adopt more agile practices. Having an example in the civic technology world of another team that follows these practices is a helpful role model. In government it can be challenging to be the first one to adopt something, so having peers that have adopted it first makes a big difference when going to management. While I am a strong believer in meeting people and organizations where they are, sometimes people and organizations need to realize they are not special exceptions where the best practices will not work.
+
+I also experienced my first AirBnb. It was not a bad experience but certainly less convenient than a hotel room. While we had a very nice apartment, the apartment we rented for the weekend was not in the convention center and only had two pairs of entry keys for three people. While the price and value of the apartment we rented was fantastic, having an entire apartment with a big kitchen felt like overkill merely for sleeping at night. Finally in a conference situation there is lots of time with people, and while I enjoy my co-workers company, it would have been great to have a space to be completely alone. Overall while I am willing to use an AirBnb again, I will likely prefer a regular hotel room in the future.
