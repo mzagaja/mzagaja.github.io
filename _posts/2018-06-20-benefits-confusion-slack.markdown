@@ -1,0 +1,12 @@
+---
+layout: post
+title: The Benefits and Confusion of Slack
+comments: on
+---
+I do not remember when I became a user of [Slack](https://slack.com) but it has been one of the more transformative applications I have used. The setup and design of Slack is sticky. Technical and non-technical folks generally do not struggle to onboard to Slack. It keeps things separated and has lots of tools for keeping track of conversations. Slack is not perfect but it seems to be the least worst solution to email and communication overload. However there are some Slack things I struggle to understand.
+
+The first issue is private message overload. One of the promises of Slack is that conversations are more transparent. You can create channels (for free) that are titled with whatever they are about and invite people to these channels. However despite this handy organizational mechanism I find people often choose to simply direct message me (or each other) about things. This leads to conversations being lost in the DM ether. It also has the annoying side effect of firing off notifications for non-urgent matters. Surely the folks at Slack can let folks receive DMs but then only notify folks on the other end if someone @ mentions you in the DM. However this has not yet occurred.
+
+The second issue is aggressive notifying. A huge value for slack is you can see what topic channels have been active or lit up and dip into them when you are ready to explore and work on that topic area. However Slack offers you the option to mention someone or send a notification to an entire channel if something is urgent or important. Unfortunately people are generally bad at figuring out if it is one of those things. The norms around notifications and mentions do not seem to be established yet and everyone has their own ideas about them.
+
+The third challenge is channel overload. Once a slack team gets sufficiently large some users will protest if people have long (or slightly off-topic) conversations in a channel. The completionists feel honor bound to read the entire scroll back. I am not sure what most people think, but when I am working on Slack I usually try to read the entire channel only for my active projects. In general, unless a channel designates itself as important I treat them as mostly ephemeral.
