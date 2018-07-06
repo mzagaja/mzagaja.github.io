@@ -1,4 +1,8 @@
-# What We Do Not Do Well
+---
+layout: post
+title: What We Do Not Do Well
+comments: on
+---
 When we run Code for Boston the majority of our new members find our group on Meetup and do not have a great understanding of who we are or are. In order to help people understand what we do we run an orientation session for all the new members. It helps them understand our organization and how we work. We spend most of this orientation explaining what we do, but we also spend a good part of it explaining what we do not do.
 
 The main thing we disclaim expertise in is teaching people to code. The reason is that people who are good at coding are not necessarily good at teaching people new to coding how to do it. Furthermore most of our members do not show up to Code for Boston hoping to teach others how to code, but rather to contribute to a specific project. There are different phases of learning and we are good at taking folks who have taken a boot camp or gone through their own tutorial and project and helping them learn how to contribute to software projects in a group setting and give them an opportunity to be mentored and learn from peers.
