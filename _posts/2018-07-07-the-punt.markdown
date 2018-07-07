@@ -1,0 +1,18 @@
+---
+layout: post
+title: The Punt
+comments: on
+---
+One of the biggest cultural transitions from working a political campaign to working in government and running Code for Boston is that I am no longer surrounded by Type AAA personalities that all want to be leaders. When I worked for the Connecticut Democratic Party you would go to a meeting and folks would fight for their ideas. There would be a battle for the floor in meetings. People would press each other to make decisions. This difference in personality brings a lot of strengths to the group. Empathy, compassion, and openness. However it also leads to one pattern that is very challenging: the punt.
+
+The punt is paralysis. When a group of people are charged with making a decision and do not know the answer they can be quite skilled at not making a decision. Sometimes it is to avoid conflict. They do not want to appear to disagree with others and upset the group harmony. Other times they do not want to take on the risk of advocating for a position that later fails. The punt happens when an email is ignored. A decision can be tabled at a meeting. Discussion happens but a conclusion does not. Suddenly the group lacks a mandate or direction.
+
+Solutions to the punt can vary. You can simply charge ahead. However you risk wasting time and effort if the group does not follow through. If the folks in charge are the ones punting then there is not much you can do other than press them on making the decision. If you can find urgency to force a person or group to make a decision then they will do it. Otherwise the punt may simply be a pocket veto. Often times folks are too afraid to say no to something so they punt instead. In politics they teach us that maybes are often the same as a no (and a yes can be a maybe).
+
+My favorite way to handle this is the Jeff Bezos’s [disagree and commit framework](http://phx.corporate-ir.net/External.File?item=UGFyZW50SUQ9NjY2MjA0fENoaWxkSUQ9Mzc0MDUxfFR5cGU9MQ==&t=1):
+
+>Second, most decisions should probably be made with somewhere around 70% of the information you wish you had. If you wait for 90%, in most cases, you’re probably being slow. Plus, either way, you need to be good at quickly recognizing and correcting bad decisions. If you’re good at course correcting, being wrong may be less costly than you think, whereas being slow is going to be expensive for sure.
+
+>Third, use the phrase “disagree and commit.” This phrase will save a lot of time. If you have conviction on a particular direction even though there’s no consensus, it’s helpful to say, “Look, I know we disagree on this but will you gamble with me on it? Disagree and commit?” By the time you’re at this point, no one can know the answer for sure, and you’ll probably get a quick yes.
+
+The punt is a challenge I still am trying to find good patterns to surmount. However I am a strong believer that making clear decisions quickly often is a better alternative to making decisions later.
