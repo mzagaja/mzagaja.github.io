@@ -1,5 +1,6 @@
-# The Dentist
-
+---
+layout: post
+title: The Dentist
+comments: on
+---
 When I was younger one of the things I hated the most was going to the dentist. My feelings towards this have not changed but the experience gets worse as I get older. In the past two years I have had the misfortune of getting multiple crowns. It is one of those procedures that sounds routine but when you experience it, it is always worse than you expected.
-
-After spending the morning 
