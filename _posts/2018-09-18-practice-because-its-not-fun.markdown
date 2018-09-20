@@ -1,4 +1,8 @@
-# Practice Because It’s Not Fun
+---
+layout: post
+title: Practice Because It’s Not Fun
+comments: on
+---
 For the next few weeks I am following the B.A.A.’s recommended training schedule for my upcoming B.A.A. Half Marathon. That meant a long ten mile run on Sunday, a day off yesterday, and then somehow fitting in a five mile run on my normally packed Tuesday. Overall it was a rough morning for me.
 
 While I went to sleep at a decent hour to wake up early at 6 a.m., I woke up and was definitely a bit dehydrated. Unfortunately I failed to realize that and fully hydrate myself ahead of time. That meant going out and running right away was much more painful mentally and physically than normal. On top of that it was extraordinarily humid out. It was like breathing soup. A mile or so in I realized this was not going to be a record nor a good run, I was just hoping to put in some base miles.
