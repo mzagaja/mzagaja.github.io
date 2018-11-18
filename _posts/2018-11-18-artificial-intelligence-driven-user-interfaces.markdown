@@ -1,0 +1,10 @@
+---
+layout: post
+title: Artificial Intelligence Driven User Interfaces
+comments: on
+---
+When I was working on the [Youth Jobs](https://youthjobs.mapc.org) project at MAPC one of the core principles we based our work on was that a good user interface developed with user research could reduce or eliminate the need for training and helping employees use software. Good design could make it easier for young people to apply for jobs, but it also could help the staff view and select youth without learning complex software. This is easy to do when you do user research and your users only need to use a subset of functionality, or the software has little functionality to begin with. However many software packages are used in different ways by different people. The old approach to this was to let the user customize the user interface in a configuration screen or file. Today software companies are deploying artificial intelligence to create customized user interfaces for every user.
+
+If you use an iPhone you might be familiar with [searching by swiping down](https://support.apple.com/en-us/HT201285) from the home screen. iOS keeps track of what you do on your phone and some information on when and where you do it, and then will suggest those actions back to you based on what you have done previously. The four apps that show up at the top are based on your usage history. Below that you get actions. If you log your weight in the health app every morning, an action to do that will appear. If you typically message someone or tweet, Siri will suggest that as well. Siri builds a user interface just for you, without much work on your end.
+
+Other software does this as well. Google Drive started suggesting I open documents based on the fact I usually open them at a certain time. I have read that Facebook customizes the buttons that appear at the bottom of its mobile app based on individual users. If you have two twitter accounts you can see the difference in the kinds of notifications and nudges you get based on the account and who it follows. Artificial intelligence built user interfaces are here today, and are here to stay.
