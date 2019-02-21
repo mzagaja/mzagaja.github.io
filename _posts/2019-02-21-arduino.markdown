@@ -1,0 +1,14 @@
+---
+layout: post
+title: Starting 2019 with Arduino
+comments: on
+---
+I began 2019 by taking a hiatus from the blog to focus on some New Years resolutions. One of them was to finally start learning how to use the Arduino system that I received for Christmas. What is Arduino? It is an electronics prototype platform. You can buy small parts and combine them to form your own gadgets. In many ways it is a more complex version of Legos. It is interesting, rewarding, and also quite challenging.
+
+The first challenge with Arduino is the number of things you can do with it are infinite. Whenever I start with a new thing the first thing I do is try an example tutorial or program to have a goal to aim for while I surmount the inevitable obstacles along the way. For Arduino I chose to try and build a temperature logging sensor.
+
+The second challenge with Arduino is you can have problems in both hardware and software. If you run a program and it fails, the issue could be with how the software is written but it could also be with how your hardware is constructed or how you tell your program your hardware is constructed. For example I switched temperature sensors to get more accurate readings and when it failed I learned the new module had the data and power pins in different spots. The specific module I had did not have its own documentation, so I had to learn this through empirical analysis.
+
+The biggest challenge with Arduino is that its behavior can be erratic or random. I had been trying to use an SD card shield to log my temperature and was telling it to use pin 10 to read and write from my SD card. I later learned my board had the SD Card read and write on pin 9, but for some reason pin 10 worked intermittently. This lead me to believe 10 was the correct pin (along with online documentation suggesting pin 10 was the usual one).
+
+Despite these challenges it has been enjoyable learning about the world of hardware and what is possible with inexpensive components. Arduino lets you rapidly prototype hardware and then acquire components to inexpensively produce a small number of what you have prototyped. I just wonder how I can use these devices to improve civic life. Let me know if you have ideas, we might use them in the upcoming Code for Boston Hackathon in April.
