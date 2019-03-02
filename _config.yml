@@ -1,9 +1,21 @@
 markdown: kramdown
-name: Matt Zagaja
+title: Matt Zagaja
 paginate: 5
+paginate_path: /page/:num
 permalink: /:year/:month/:title/
 description: "Matt Zagaja's personal blog. Musings on politics, technology, and other geeky things."
-url: http://www.zagaja.com
+url: https://www.zagaja.com
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+defaults:
+  -
+    scope:
+      path: "bower_components"
+    values:
+      sitemap: false
+  -
+    scope:
+      path: "page"
+    values:
+      sitemap: false
