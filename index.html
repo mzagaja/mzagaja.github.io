@@ -11,14 +11,16 @@ title: Matt Zagaja | Zagaja.com
 
 <!-- Pagination links -->
 <ul class="pagination">
-  {% if paginator.previous_page %}
-    <li class="arrow"><a href="/page{{ paginator.previous_page }}">&laquo;</a></li>
+  {% if paginator.previous_page == 1 %}
+    <li class="arrow"><a href="/">&laquo;</a></li>
+  {% elsif paginator.previous_page %}
+    <li class="arrow"><a href="/page/{{ paginator.previous_page }}">&laquo;</a></li>
   {% else %}
     <li class="arrow unavailable">&laquo;</li>
   {% endif %}
   <li class="current">Page: {{ paginator.page }} of {{ paginator.total_pages }}</li>
   {% if paginator.next_page %}
-    <li class="arrow"><a href="/page{{ paginator.next_page }}">&raquo;</a></li>
+    <li class="arrow"><a href="/page/{{ paginator.next_page }}">&raquo;</a></li>
   {% else %}
     <li class="arrow unavailable">&raquo;</li>
   {% endif %}

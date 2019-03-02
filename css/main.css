@@ -2,10 +2,6 @@ body {
   background-color: #FFFFFF;
 }
 
-h2 {
-  margin-bottom: 0px;
-}
-
 #banner {
   color: #FFFFFF;
   margin-bottom: 10px;
@@ -35,4 +31,25 @@ h2 {
   max-width: initial;
   background-color: #005B88;
   margin-bottom: 10px;
+}
+
+code {
+  border-style: initial;
+  border-width: initial;
+  border-color: initial;
+  color: initial;
+  padding: initial;
+  background-color: #f2f2f2;
+}
+
+.highlight {
+  margin-bottom: 1.25rem;
+  padding-left: 0.5rem;
+  padding-top: 0.5rem;
+  overflow: auto;
+  white-space: pre;
+}
+
+.highlighter-rouge {
+  background-color: #f2f2f2;
 }
