@@ -1,0 +1,10 @@
+---
+layout: post
+title: Who Tells Your Story
+comments: on
+---
+Over the weekend I worked to upload the distribute the [Code for Boston Web Application Security Workshop video](https://www.youtube.com/watch?v=r4KLQTZBljw) we took this past Tuesday. In the process of pulling together the video I ended up refactoring Code for Boston’s Social Media presence. To better manage it I discovered a new tool and developed a content strategy.
+
+The most cumbersome part of social media is using each application’s user interface and the mechanical process of taking one piece of content and translating it into multiple platforms. The biggest problem was Instagram which seemed to only have a mobile application. I was not excited to need to use my phone to push content. However, I know Instagram is popular and want to start building an account for Code for Boston. Fortunately I discovered [Buffer](https://buffer.com). I chose Buffer because of its user interface and free plan. In addition to a web interface Buffer provides a mobile app and web browser extension. I can now easily queue up content and have it post to Facebook, Twitter, and Instagram without much extra effort.
+
+With the tool figured out the next step was to begin finding and deciding what stories to share. This is both the hard and fun part. Fortunately, besides the workshop video, I have a backlog of material I have been trying to push out. We projects from our recent hackathon at Jobcase that I promised to share stories about. These are all queued up. If you [follow our Instagram](https://www.instagram.com/codeforboston/) you will get to read them this week. I will also share a bit about them on [Facebook](https://www.facebook.com/codeforboston/) and [Twitter](https://www.twitter.com/codeforboston). Over the next few months I hope to find and share more stories about what our members at Code for Boston are doing since every time I learn about them, they are good ones.
