@@ -1,5 +1,8 @@
-# What Makes Web Development Challenging
-
+---
+layout: post
+title: What Makes Web Development Challenging
+comments: on
+---
 When I first learned what we call web software development I was in middle school. I remember going to Barnes & Noble with my parents where I picked up a book called [HTML Goodies by Joe Burns](https://www.amazon.com/dp/0789726114/ref=cm_sw_r_cp_tai_kWR1CbA6CDBW0). HTML was magical. It took little effort to write a few lines of code that changes the presentation of your text on the screen. As I hit the limit of what I could do with HTML the arrival of Javascript let me sprinkle some magic into the site. A little learning lead to lots of magic.
 
 In 2014 we got the [arrival of HTML5](https://www.w3.org/TR/html5-diff/). There were lots of great new features but a main difference is that HTML5 focuses on using semantic markup, tags that annotate the type of content, instead of presentational markup. Responsibility for presentation of the content was [largely moved to CSS](https://www.w3.org/Style/CSS/specs.en.html). Unlike the way the typical user formats their Word documents where they try to make it “look” the way they want, web developers are now responsible for thinking about annotating the content of the type of document and then styling it in a separate language.
