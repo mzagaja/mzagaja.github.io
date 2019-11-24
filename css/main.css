@@ -67,3 +67,19 @@ code {
   margin-top: 1.3rem;
   padding: 0.6rem 1rem;
 }
+
+.excerpt {
+  margin-bottom: 2rem;
+}
+
+.read-more {
+  background-color: #005B88;
+  color: #fff;
+  margin-bottom: 2rem;
+  padding: 10px;
+}
+
+.read-more:after {
+  content: "  \00BB";
+  font-size: 24px;
+}
