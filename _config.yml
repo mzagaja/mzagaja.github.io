@@ -14,11 +14,6 @@ author:
 defaults:
   -
     scope:
-      path: "bower_components"
-    values:
-      sitemap: false
-  -
-    scope:
       path: "page"
     values:
       sitemap: false
