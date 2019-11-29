@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Automated Accessibility Testing with Rspec
+title: Automated Accessibility Testing with RSpec
 comments: on
 ---
 At [MAPC](https://www.mapc.org) we have been thinking more about making our web applications accessible to all our users. Unfortunately standard web frameworks and tools do not bake this functionality in. Accessibility is its own specialization with code and nuances that software developers have to learn on top of everything else they do. The good news is that as this issue has become more prominent tools are emerging to make it easier to automate making your application accessible. One tool I started experimenting with is the [axe-matchers gem from Deque](https://github.com/dequelabs/axe-matchers).
