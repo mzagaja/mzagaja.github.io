@@ -1,0 +1,10 @@
+---
+layout: post
+title: Understanding and Updating JavaScript Tutorials
+comments: on
+---
+Lately at work I have been writing a lot of JavaScript. As a consequence I have also been reading lots of JavaScript examples and documentation. JavaScript is a highly useful language that also happens to not look so great. However it has improved in recent years. The introduction of [arrow functions](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Functions/Arrow_functions) has increased the readability of JavaScript code, which is often polluted with nested function calls. Along with the introduction of promises, async/await, and string interpolation using backticks, modern JavaScript code is now more readable and easier to reason about than ever.
+
+Unfortunately the documentation has not caught up. In looking for examples and explanations I often find code written in the older syntax. Even worse it usually follows its own style guide. The first thing I do with a new example is to reformat it using the AirBnb style via ESLint. A friend turned me on to [`eslint --fix`](https://eslint.org/docs/user-guide/command-line-interface) as a tool to automate this a bit. Then I often have to refactor it to use the newer `let` and `const` style variables over `var`. I also introduce other refacotorings demonstrated in [Martin Fowler's Refactoring Book](https://amzn.to/33wkcOW). Refactoring the code usually makes it more comprehensible to other developers and easier to change and maintain for me.
+
+The most painful disconnect in developing JavaScript is it is not quite as universal as it should be. Different browsers support different features and versions of the language. The general solution is to use a tool called [Babel](https://babeljs.io) that converts your new style JavaScript into the syntax that works with older browsers. The other solution would be to learn about the feature variations among browsers via the [Mozilla Developer Network](https://developer.mozilla.org/en-US/) and [caniuse.com](https://caniuse.com) documentation. These tools do the work of translation for you, they make your JavaScript more universal.
