@@ -12,7 +12,7 @@ While graphical interfaces are helpful for feature discovery and centering where
 Instead of trying to remember how to format your code, you should be using a linter. A linter analyzes your code for formatting and style issues and within your text editor will tell you what is wrong, suggest fixes, and in some cases fix issues automatically. Each programming language has its linter with its configuration options and preferences. Learning these can take an hour or two, but they pay back that time by making your code consistent and easier to read.
 
 ## Dash App
-One of the most frequent tasks I engage in is looking up documentation for languages and libraries. Kapeli’s Dash App makes this fast and easy on macOS. Once installed you can hit CTRL+D then start typing to search for documentation around classes, methods, and other components of your favorite library or programming language. As you become more familiar with documentation, this becomes even faster.
+One of the most frequent tasks I engage in is looking up documentation for languages and libraries. [Kapeli’s Dash App](https://kapeli.com/dash) makes this fast and easy on macOS. Once installed you can hit CTRL+D then start typing to search for documentation around classes, methods, and other components of your favorite library or programming language. As you become more familiar with documentation, this becomes even faster.
 
 ## TLDR
 The [TLDR document set](https://github.com/tldr-pages/tldr) can be downloaded into Dash and cuts through the cruft of official documentation. It provides practical examples of how a tool is used by real people.
