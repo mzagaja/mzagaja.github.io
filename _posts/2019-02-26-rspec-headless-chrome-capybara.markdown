@@ -58,7 +58,7 @@ RSpec.configure do |config|
 	config.before(:each, type: :system) do
 		driven_by(:rack_test)
 	end
-	
+
 	config.before(:each, type: :system, js: true) do
 		driven_by(:selenium_chrome_headless)
 	end
@@ -67,4 +67,4 @@ end
 
 to my `spec/rails_helper.rb` file. As long as I do not use the Capybara keywords for feature tests, and mark my tests appropriately as system tests, they will now run using rack_test (for non-Javascript tests) and headless Chrome for javascript tests denoted with `js: true`.
 
-Credit where credit is due, much of the original instruction I got was from [this post on Thoughtbot’s blog](https://thoughtbot.com/blog/headless-feature-specs-with-chrome). However there were a few gotchas around system tests and some updates to configuration I discovered yesterday that I thought merited re-hashing this subject for future readers.
+Credit where credit is due, much of the original instruction I got was from [this post on Thoughtbot’s blog](https://thoughtbot.com/blog/headless-feature-specs-with-chrome). I also got help from and recommend Myron Marston's [Effective Testing with RSpec 3](https://amzn.to/35WGo6v).
