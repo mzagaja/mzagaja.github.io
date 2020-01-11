@@ -1,0 +1,14 @@
+---
+layout: post
+title: Fixing an Amazon Kindle
+comments: on
+---
+In 2009 I received my first Amazon Kindle. The Kindle is Amazon’s tool for reading e-books that took advantage of new [e-ink technology](https://en.wikipedia.org/wiki/E_Ink). Instead of having to read your book on a tablet you could read it on a display that looked more like a physical book. The advantage of the e-ink display is that is uses less power and views better in direct sunlight than the LCD displays on our other devices. The disadvantage is that the e-ink displays are not yet generally available in color. If you like to read, owning Amazon Kindle or a similar device is worth your while.
+
+Despite these advantages for the past several years my iPad Pro has replaced the Kindle as my primary reading device. The Kindle was a bit of a pain to use in dark rooms and was another gadget I had to remember to carry with me. The size of the display on the model of Kindle I had also felt too small relative to the iPad Pro display. As a result many books had more virtual pages than their physical counterparts. On top of that Amazon continued to add great features to their Kindle iPad app. I liked being able to see how long until I would finish reading the current chapter. My Kindle no longer felt worth it.
+
+While I love my iPad Pro and can read on it, it is not the perfect device. It is still a little heavier than I like for long term reading. My eyes also get tired from staring at the LCD screen for long periods of time. Reading in transit on the iPad Pro exacerbates my motion sickness. I started to long for something different.
+
+I found my old Kindle and found that it would not boot anymore. It’s battery had died. I was excited to get a [battery replacement kit](https://www.newpower99.com) and bring it back to life. After installing my new battery I was excited to use my Kindle, but alas it was injured. It’s clock was stuck in the year 1960 which meant it could not communicate with the Amazon servers. A long session with Amazon support revealed there was no way to fix this broken clock. Some Googling revealed people had hacked their old devices and could fix it, but the documentation was poor.
+
+The hacker in me loves to continue with these projects, but the pragmatist asks whether its where I want to spend my time. Amazon support offered me a discount on a new Kindle which was nice but not huge. However, I learned that [Amazon currently has a trade-in program](https://amzn.to/2MYkwAj) where my device would be recycled, I would get a credit, and an even larger discount on a new Kindle. So now my old device is on its way back to its mothership. I just wish I knew about this program before I started on the fix-it path.
