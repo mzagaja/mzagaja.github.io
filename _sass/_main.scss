@@ -19,7 +19,9 @@ body {
   text-decoration: underline;
 }
 
-#banner .small-8.columns, #banner .large-12.columns {
+#banner .small-8.columns,
+#banner .large-8.columns,
+#banner-description {
   padding-left: 0;
   padding-bottom: 0.5rem;
 }

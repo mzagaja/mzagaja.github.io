@@ -21,3 +21,4 @@ defaults:
 algolia:
   application_id: ADZBG2997L
   index_name: jekyll
+  search_only_api_key: b8c639bf58a56694e5b07d3b68d685b1
