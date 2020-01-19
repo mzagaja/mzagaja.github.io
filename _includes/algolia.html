@@ -39,27 +39,32 @@ const hitTemplate = function(hit) {
   `;
 }
 
-
-search.addWidget(
+search.addWidgets([
   instantsearch.widgets.searchBox({
     container: '#search-searchbar',
     placeholder: 'Search into posts...',
     showSubmit: false,
     showLoadingIndicator: false,
     showReset: false
-
-  })
-);
-
-search.addWidget(
+  }),
   instantsearch.widgets.hits({
     container: '#search-hits',
     templates: {
       item: hitTemplate
     },
     escapeHTML: false,
+  }),
+  instantsearch.widgets.poweredBy({
+    container: '#powered-by',
+    theme: 'dark'
+  }),
+  instantsearch.widgets.analytics({
+    pushFunction(formattedParameters, state, results) {
+      window.ga('set', 'page', window.location.pathname + window.location.search);
+      window.ga('send', 'pageView');
+    },
   })
-);
+]);
 
 search.start();
 </script>

@@ -19,13 +19,6 @@ body {
   text-decoration: underline;
 }
 
-#banner .small-8.columns,
-#banner .large-8.columns,
-#banner-description {
-  padding-left: 0;
-  padding-bottom: 0.5rem;
-}
-
 #menu {
   margin-top: 19px;
   margin-bottom: 0px;
@@ -47,6 +40,14 @@ code {
   color: initial;
   padding: initial;
   background-color: #f2f2f2;
+}
+
+.banner {
+  padding-left: 0rem;
+
+  &__description {
+    padding: 0 0 .5rem 0;
+  }
 }
 
 .highlight {

@@ -189,3 +189,10 @@
 .ais-SearchBox-form {
   margin-top: 1rem;
 }
+
+.ais-PoweredBy {
+  margin-top: 1.5rem;
+  @media only screen and (max-width: 736px) {
+    margin: 0 0 1rem 0;
+  }
+}
