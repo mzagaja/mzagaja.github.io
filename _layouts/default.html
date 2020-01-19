@@ -3,58 +3,50 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>{{ page.title }}</title>
-        <meta name="viewport" content="width=device-width">
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width">
 
-        <!-- Custom CSS -->
-        <link rel="stylesheet" href="/assets/main.css" />
-        <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url }}/feed.xml">
+    <link rel="stylesheet" href="/assets/main.css" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url }}/feed.xml">
 
-        <!--Facebook Properties-->
-        <meta property="og:site_name" content="{{ site.title }}"/>
-        <meta property="og:title" content="{{ page.title }}" />
-        <meta property="og:image" content="/images/fb_image.jpg">
+    <meta property="og:site_name" content="{{ site.title }}"/>
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:image" content="/images/fb_image.jpg">
 
-        <!--RSS Feed-->
-        <link href="http://www.zagaja.com/feed.xml" rel="alternate" type="application/rss+xml" title="Zagaja.com Blog Posts" />
-    </head>
-    <body>
-      <div id="top">
-        <div class="row">
-          <div id="banner" class="large-12 large-centered columns">
-              <div class="banner medium-7 columns"><h1 id="title"><a href="{{ site.url }}">{{ site.title }}</a></h1></div>
-              <div class="medium-4 columns" id="search-searchbar"></div>
-              <div class="medium-1 columns" id="powered-by"></div>
-              <div id="banner-description" class="banner__description large-12 columns">
-                <p>Hi I'm Matt Zagaja: optimist, geek, and citizen. I am currently the Lead Civic Web Developer at the Metropolitan Area Planning Council.</p>
-                <a href="/">Home</a> - <a href="/about">About</a> - <a href="https://twitter.com/mzagaja">Twitter</a> - <a href="https://www.zagaja.com/feed.xml">RSS Feed</a>
-              </div>
-          </div>
+    <link href="http://www.zagaja.com/feed.xml" rel="alternate" type="application/rss+xml" title="Zagaja.com Blog Posts" />
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-28040942-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-28040942-1');
+    </script>
+  </head>
+  <body>
+    <div id="top">
+      <div class="row">
+        <div id="banner" class="large-12 large-centered columns">
+            <div class="banner medium-7 columns"><h1 id="title"><a href="{{ site.url }}">{{ site.title }}</a></h1></div>
+            <div class="medium-4 columns" id="search-searchbar"></div>
+            <div class="medium-1 columns" id="powered-by"></div>
+            <div id="banner-description" class="banner__description large-12 columns">
+              <p>Hi I'm Matt Zagaja: optimist, geek, and citizen. I am currently the Lead Civic Web Developer at the Metropolitan Area Planning Council.</p>
+              <a href="/">Home</a> - <a href="/about">About</a> - <a href="https://twitter.com/mzagaja">Twitter</a> - <a href="https://www.zagaja.com/feed.xml">RSS Feed</a>
+            </div>
         </div>
       </div>
-        <div class="row">
-          <div class="large-12 columns" id="search-hits">
-                {{ content }}
-          </div>
+    </div>
+      <div class="row">
+        <div class="large-12 columns" id="search-hits">
+              {{ content }}
         </div>
-        <div class="row">
-          <div class="large-12 columns">
-              <small><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US">This <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">work</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.zagaja.com/" property="cc:attributionName" rel="cc:attributionURL">Matt Zagaja</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.</small>
-          </div>
+      </div>
+      <div class="row">
+        <div class="large-12 columns">
+            <small><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US">This <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">work</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.zagaja.com/" property="cc:attributionName" rel="cc:attributionURL">Matt Zagaja</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.</small>
         </div>
-        <script type="text/javascript">
-
-          var _gaq = _gaq || [];
-          _gaq.push(['_setAccount', 'UA-28040942-1']);
-          _gaq.push(['_trackPageview']);
-
-          (function() {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-          })();
-
-        </script>
-        {% include algolia.html %}
-    </body>
+      </div>
+      {% include algolia.html %}
+  </body>
 </html>
