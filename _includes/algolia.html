@@ -8,13 +8,16 @@ const search = instantsearch({
   indexName: '{{ site.algolia.index_name }}',
   searchClient,
   searchFunction: function(helper) {
-    const searchResults = document.querySelector('.search-results');
+    const searchResults = document.querySelector('#search-hits');
+    const blogPosts = document.querySelector('#blog-posts');
     if (helper.state.query === '') {
-      searchResults.hide();
+      searchResults.style.display = 'none';
+      blogPosts.style.display = 'block';
       return;
     }
     helper.search();
-    searchResults.show();
+    searchResults.style.display = 'block';
+    blogPosts.style.display = 'none';
   }
 });
 
