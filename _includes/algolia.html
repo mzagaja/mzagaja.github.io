@@ -6,7 +6,16 @@
 const searchClient = algoliasearch('{{ site.algolia.application_id }}', '{{ site.algolia.search_only_api_key }}');
 const search = instantsearch({
   indexName: '{{ site.algolia.index_name }}',
-  searchClient
+  searchClient,
+  searchFunction: function(helper) {
+    const searchResults = document.querySelector('.search-results');
+    if (helper.state.query === '') {
+      searchResults.hide();
+      return;
+    }
+    helper.search();
+    searchResults.show();
+  }
 });
 
 const hitTemplate = function(hit) {
