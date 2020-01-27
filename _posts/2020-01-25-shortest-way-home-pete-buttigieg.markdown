@@ -5,7 +5,7 @@ comments: on
 ---
 Biographies and autobiographies are some of my favorite books. When a candidate runs for President they often have or will write a book in order to share their story. Pete’s story was a great read. It was candid and written in his own voice. If you want a break from the campaign rhetoric to learn about Pete’s background and interests, this book is a welcome respite.
 
-Shortest Way Home is especially relevant to the civic tech movement. Pete is a little older than I am, born in a time when the world was still using text terminals and the web was just an idea. The feeling of technological change permeates his personal and professional lives. As mayor Pete talks about the impact of data on governing and the hard choices that automation presents. As a person he shares the discomfort of surrendering to online dating, and the joy from meeting someone there. Me too. Pete was open to change, surmounted his discomfort, and reminds us that data and technology must be grounded in wisdom and mercy.
+[Shortest Way Home](https://amzn.to/2O21t8T) is especially relevant to the civic tech movement. Pete is a little older than I am, born in a time when the world was still using text terminals and the web was just an idea. The feeling of technological change permeates his personal and professional lives. As mayor Pete talks about the impact of data on governing and the hard choices that automation presents. As a person he shares the discomfort of surrendering to online dating, and the joy from meeting someone there. Me too. Pete was open to change, surmounted his discomfort, and reminds us that data and technology must be grounded in wisdom and mercy.
 
 I wrote down a few points from the book that I thought were worth further reflection:
 
