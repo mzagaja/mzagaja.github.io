@@ -1,5 +1,8 @@
-# Meeting Owl Pro Review
-
+---
+layout: post
+title: Meeting Owl Pro Review
+comments: on
+---
 Every month Code for Boston has a core team meeting. While most of our team attends in person, sometimes people have to participate remotely. We have found [Zoom](https://www.zoom.us/) to be the best software for doing this. However for remote participants the view of the meeting room ends up being limited to the person who connects. The audio is fine using the Polycom, but video is not great.
 
 Enter [MeetingOwl Pro](https://www.owllabs.com). One of our members brought in a unit last night and it is fantastic. Setup is simple: plug it into your laptop and AC power and place it in the center of your table. Zoom will then let you select the MeetingOwl as a video and audio source. From there the device projects a panoramic view of the meeting room on the top of its video feed and more zoomed in views of who is talking below it. Game changer.
