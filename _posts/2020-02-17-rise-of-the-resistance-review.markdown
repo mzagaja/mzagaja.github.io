@@ -14,7 +14,7 @@ The line is not for **the ride**. Instead Disney setup a virtual queue in [its a
 We are excited and relieved. However, we now get to spend the day waiting. The app shows us what boarding groups are being called. It moves slowly. The ride is glitchy so even a guaranteed boarding group could [mean returning tomorrow](https://attractionsmagazine.com/frequently-asked-questions-about-star-wars-rise-of-the-resistance/). It could throw-off our plans. The best way to deal with suspense is to ignore it. It grapples you but you have to pretend it is not there. Afternoon hits and the line speeds up. At 2:40 p.m. we get the notification: we can now board.
 
 ## Should I Read Spoilers?
-I chose to avoid spoilers before riding Rise of the Resistance. I am glad I did. I did not have a long time to wait before riding the ride. The ride is structured in a way that the element of surprise adds to the experience. However know what will happen does not rob you of all your joy. If you love Star Wars and Disney and find joy in surprise, then stop reading here. Come back later. Otherwise come along for the rest of the journey below.
+I chose to avoid spoilers before riding Rise of the Resistance. I am glad I did. I did not have a long time to wait before riding the ride. The ride is structured in a way that the element of surprise adds to the experience. However knowing what will happen does not rob you of all your joy. If you love Star Wars and Disney and find joy in surprise, then stop reading here. Come back later. Otherwise come along for the rest of the journey below.
 
 ## The Ride
 ![BB-8 Next to Monitor](/images/bb-8-rise-of-the-resistance.jpeg)
