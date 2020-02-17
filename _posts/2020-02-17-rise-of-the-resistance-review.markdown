@@ -1,5 +1,8 @@
-# Rise of the Resistance Review
-
+---
+layout: post
+title: Rise of the Resistance Review
+comments: on
+---
 Wake-up. Amount of sleep: five hours. Excitement level: 100%. Time: 6:15 a.m. My clothes are strategically laid out from last night. I dress. Buzz Lightyear t-shirt and shorts. Temperature: 82 degrees. Blue magic band? Check. Hopper ticket from 1996? Check. iPhone and Disney app? Check. It is too early to take a bus from Pop Century. My fiancé already planned for this. We order a Lyft.
 
 Six-forty a.m. The sun is up but still just peeking. The car rolls into the park. Our first line of the day is exchanging our relic ticket for a modern pass. It feels criminal. Ticket price in 1996: $20. Pass price today: $160. The cast member that helps us is not suspicious. I feel suspicious. A few strokes at the keyboard and tap of my magic band later I have my admission. Return on investment: over 600%.
