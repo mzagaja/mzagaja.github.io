@@ -1,0 +1,16 @@
+---
+layout: post
+title: How Code for Boston is Growing
+comments: on
+---
+It has been nearly two months since I received a note asking [Code for Boston](https://www.codeforboston.org/) to transition to virtual hack nights. Since this transition the leadership has been working hard to keep things going. While things have been different and there have been some bumps in the road, we continue to grow.
+
+The first question people want to know the answer to is how we are addressing COVID-19. Our MyCity Team is adding COVID-19 related information to the BostonInfo Alexa Skill. We have also partnered with [GetUsPPE.org](https://getusppe.org) to encourage members that want to directly tackle COVID-19 to join their effort. Shuhan, an emergency room physician at Massachusetts General Hospital, is coordinating volunteer intake and recruitment. Their needs are for software developers and a great match for our community. If you want to join this effort you should fill out the [intake form](https://forms.gle/vcDeEX2Sk4xjj8D36).
+
+We have maintained our commitment to our existing projects, including to two new project partners we on boarded at the beginning of the year. This week I added three new GitHub repositories to [our organization](https://www.github.com/codeforboston). On March 20th we hit a record of 393 weekly active users on Slack and project teams continue to meet via video chat on Tuesday nights. We still believe in putting the user first, so our teams are now conducting user interviews over video. I am proud of the progress our volunteers continue to make at home.
+
+Our biggest challenge has been finding new members to join our community. Before the pandemic we would get 10-30 people at our new member orientation, it is now 3-8. We used to get nearly 80 people at hack night announcements and other than a record of 118 for our first virtual event on March 10th, it has been closer to 50 most weeks. We are looking for ways to share our work in places besides Meetup so that new people can learn about us. To that end I am uploading a new demo from out 2019 demo night every Tuesday to [our YouTube channel](https://www.youtube.com/c/codeforboston).
+
+Our balance sheet has started the year strong. We wrapped up our end of year fundraising push with many of our donors renewing their support. People donated via Facebook, employee matching programs, and Google Giving Week. While we have not raised much since the start of the pandemic, we have enough cash to run the Meetup for a year normally, and our expenses have gone down. We plan to take the opportunity to deploy some of our cash in creative ways to increase our impact. If these succeed we expect our spending to grow after the pandemic is over. We are in a good place, but [still need your support](https://secure.codeforamerica.org/page/contribute/donate-to-a-brigade-today?source_codes=Brigade-website&brigade=Code%20for%20Boston).
+
+Overall it is exciting to see that the virtual hack night is working. People are staying at home but connecting through the volunteer efforts we provide. The work is having an impact and people are returning to volunteer on all our projects every week. We continue to explore new ways to keep Code for Boston fresh and worthwhile. If you have suggestions, [drop me a note](mailto:mattz@codeforboston.org).
