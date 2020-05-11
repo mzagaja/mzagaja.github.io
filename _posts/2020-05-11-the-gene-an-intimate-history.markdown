@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review of The Gene: An Intimate History
+title: Review of The Gene - An Intimate History
 tags:
 - Book Review
 ---
