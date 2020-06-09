@@ -11,6 +11,7 @@ This book is for people that want to understand future technologies and is espec
 
 Nadella is a fan of empathy noting:
 > Whether you are a company designing a product or a lawmaker designing a policy, you must start by empathizing with people and their needs. No product or policy works if it fails to reflect and honor the lives and realities of people—and that requires those who design the product or the policy to truly understand and respect the values and experiences underlying those realities. So Empathy is a crucial ingredient in developing a product or a policy that will earn people’s trust.
+
 This mirrors the approach we take at [MAPC](https://www.mapc.org/) and [Code for Boston](https://www.codeforboston.org/). In many cases the difference between software that works well and software that is harmful or fails is empathy. Nadella gets it.
 
 If you’re a software developer and want to better understand how your work impacts people, you should read this book. Digest the ideas. Think about: what values are you bringing to your work? Also whether you are a policymaker or technologist, talk to each other. Nadella says that it’s challenging for entrepreneurs in developing nations to get meetings with their heads of state, but those same people will pick up the phone for Microsoft. This needs to change.
