@@ -2,7 +2,6 @@
 layout: post
 title: There is no Skills Gap and Manufacturing is Not Our Savior
 tags: []
-comments: on
 ---
 Adam Davidson of NPR's Planet Money basically concludes the same thing as I about these mythical manufacturing jobs:
 <blockquote>And yet, even as classes like Goldenbergâ€™s are filled to capacity all over America, hundreds of thousands of U.S. factories are starving for skilled workers. Throughout the campaign, President Obama lamented the so-called skills gap and referenced a study claiming that nearly 80 percent of manufacturers have jobs they canâ€™t fill. Mitt Romney made similar claims. The National Association of Manufacturers estimates that there are roughly 600,000 jobs available for whoever has the right set of advanced skills.

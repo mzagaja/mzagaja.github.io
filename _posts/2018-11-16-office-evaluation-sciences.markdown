@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Office of Evaluation Sciences
-comments: on
 ---
 The federal government has an [interesting group called the Office of Evaluation Sciences](https://oes.gsa.gov) that works on conducting randomized controlled experiments around interventions to improve the public welfare. I first became aware of this methodology when I worked in politics. Sasha Issenberg chronicles the use of this method in his book The Victory Lab and many of the techniques used by Democratic campaigns have been influenced by an organization called the [Analyst Institute](https://analystinstitute.org). I believe this sort of rigorous evaluation is important for deciding what is worth doing as an organization.
 

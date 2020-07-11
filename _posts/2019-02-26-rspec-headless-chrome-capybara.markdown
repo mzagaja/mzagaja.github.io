@@ -1,7 +1,6 @@
 ---
 layout: post
 title: RSpec, Capybara and Headless Chrome
-comments: on
 ---
 I spent yesterday getting headless Chrome working with RSpec and Capybara on one our projects at MAPC. The reason for doing this is many of our website visitors use the chrome browser, and the new headless version of Chrome allows us to run an automated test suite on our application that uses it in a way our users do. Writing these automated tests that focus on features, called system tests in Rails, can increase our confidence that we are not breaking our application with new code.
 

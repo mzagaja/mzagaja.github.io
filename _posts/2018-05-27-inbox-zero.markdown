@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Getting to Inbox Zero
-comments: on
 ---
 For the most part I try to keep my inbox “near zero” but know that getting to real zero can be a challenge. The first part of the challenge is mental. No matter how hard you try it can be difficult to stop your inbox from becoming the “place where important stuff stays you do not lose it” which it should not be. The second challenge is that it can also become your to-do list. Most people suffer from the worst possible scenario: it becomes the place where important stuff stays and also your todo list and it becomes hard to distinguish how much is from one bucket or the other.
 

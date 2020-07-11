@@ -2,7 +2,6 @@
 layout: post
 title: We Don't Grow by Fiat
 tags: []
-comments: on
 ---
 Last night the state legislature, in a bipartisan vote, passed the gun control legislation it drafted in response to the tragedy at Sandy Hook. Some, felt that this was a process that took too long, and in some ways the outcome <a href="http://www.courant.com/news/opinion/editorials/hc-ed-just-ban-the-damn-magazines-20130401,0,3439811.story">falls short of our expectations</a>. However, we should not be disheartened. The legislation is a positive step forward, and Speaker Sharkey was right to build a bipartisan bill.
 

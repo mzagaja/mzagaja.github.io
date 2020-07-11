@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Single Process People
-comments: on
 ---
 What is the most efficient and productive way to get work done? People are inherently single process. The [research is clear](https://www.psychologytoday.com/us/blog/brain-wise/201209/the-true-cost-multi-tasking). Finding focus for the single thing is the subject of many software hacks. Pair programming holds you accountable to focus only on software development. Apps like iA Writer used in full screen mode cause you to tune out the rest of background noise. Now Apple has added do not disturb and notification management features to iOS because they worry the notifications are addictive and negatively impacting their brains. Collectively we recognize this problem and have found solutions for it. Yet we still have so far to go.
 

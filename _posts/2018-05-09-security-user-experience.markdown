@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Security is the Opposite of User Experience
-comments: on
 ---
 One of the annoying truisms that I have learned is that security is the opposite of user experience. Nowhere is this more evident to me than with Google and Gmail. For some reason I seem to be logged out of my Gmail account nearly once a week, if not more. This has grown frustrating because I recently installed an app called Kiwi which is supposed to make Gmail more usable by enabling some MacOS native features with the mail client. Unfortunately it means 1Password will no longer auto-fill the login. Therefore I find myself going through extra steps to log back in to my Gmail accounts on an almost daily basis.
 

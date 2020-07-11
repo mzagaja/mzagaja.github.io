@@ -2,7 +2,6 @@
 layout: post
 title: Soundcloud - The Best Media Site You Aren't Using
 tags: []
-comments: on
 ---
 I have been a fan of <a href="http://soundcloud.com/dashboard">Soundcloud</a> for a while now. Basically it is a YouTube for audio content. The iPhone application allows you to record audio and upload it directly to your account. Poking around it you can find some interesting interviews. <a href="http://soundcloud.com/scobleizer">Robert Scoble</a> has technology related interviews with people involved in funding start-ups. However I especially enjoyed the discussion of the HBO Game Change movie, which I have embedded below.
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Google Year in Search 2018
-comments: on
 ---
 I always enjoy Google’s video they post looking back at the year:
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6aFdEhEZQjE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

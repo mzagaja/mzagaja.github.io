@@ -4,7 +4,6 @@ title: How to Learn to Code
 tags: 
 - Coding
 - Civic Hacking
-comments: on
 ---
 I started coding when I was in middle school. I taught myself through a combination of experimentation, searching the Internet, a book I received, and an intensive summer school class. Many years later I am still learning. I do not call myself a software developer or professional programmer, rather I view myself as a hacker. I am also not a professional teacher with a background and understanding of learning theory. However the failures and roadblocks you encounter over time are experience when they happen to you, but then become wisdom when shared with others and I think that we have a shortage of wisdom in this arena.
 

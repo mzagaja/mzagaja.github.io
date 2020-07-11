@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Public Student Loan Forgiveness is a Quagmire
-comments: on
 ---
 I read the following [scary tidbit from CNBC](https://www.cnbc.com/2018/09/21/the-education-department-data-shows-how-rare-loan-forgiveness-is.html):
 > Just 96 people across the country have been released from their debt, thanks to public service loan forgiveness. Last year was the first year of eligiblity, since the program was signed into law in 2007 and it requires at least 10 years of payments to qualify. Nearly 30,000 borrowers have applied for the forgiveness, according to the Education Department's data.

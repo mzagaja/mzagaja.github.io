@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Rise of the Resistance Review
-comments: on
 ---
 Wake-up. Amount of sleep: five hours. Excitement level: 100%. Time: 6:15 a.m. My clothes are strategically laid out from last night. I dress. Buzz Lightyear t-shirt and shorts. Temperature: 82 degrees. Blue magic band? Check. Hopper ticket from 1996? Check. iPhone and Disney app? Check. It is too early to take a bus from Pop Century. My fiancé already planned for this. We order a Lyft.
 

@@ -2,7 +2,6 @@
 layout: post
 title: The Dautrich Report
 tags: []
-comments: on
 ---
 Remember the controversy with UCONN Professor Ken Dautrich? The <a href="http://www.ctnewsjunkie.com/ctnj.php/archives/entry/uconn_report_on_rell_pollster/">report has been released</a>. Ultimately it appears that some state money was spent on some partisan political activity and they recommended some discipline for Prof. Dautrich. Based on the report it appears the professor at least made an attempt to keep things separate, but did not manage to actually do so. 
 

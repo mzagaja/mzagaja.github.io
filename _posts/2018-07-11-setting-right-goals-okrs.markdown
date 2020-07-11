@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Setting the Right Goals
-comments: on
 ---
 I really enjoyed John Doerr’s TED Talk on OKRs:
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/L4N1q4RNi9I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

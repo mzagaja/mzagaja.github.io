@@ -2,7 +2,6 @@
 layout: post
 title: A Tale of Two Connecticuts?
 tags: []
-comments: on
 ---
 A <a href="http://blogs.courant.com/capitol_watch/2010/07/larry-cafero-many-voters-are-n.html" target="_blank">recent Capitol Watch blog entry</a> shares the experiences of House Minority Leader Larry Cafero campaigning door-to-door. He notes that:<blockquote><p>[C]itizens are distracted by any number of issues . . . they're thinking about everything from getting a root canal to firing up the casserole.</p></blockquote><blockquote>"When they log onto their computers at work," Cafero said, "They see Lindsay Lohan's picture in the corner, and she's doing 90 days in jail. They're not focused now.''</blockquote>
 

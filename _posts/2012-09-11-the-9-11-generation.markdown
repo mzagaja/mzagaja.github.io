@@ -2,7 +2,6 @@
 layout: post
 title: The 9-11 Generation
 tags: []
-comments: on
 ---
 Eleven years later they do not call us that. In some countries they erect one monument to tragedy; in America we erected monuments in every airport. Scanners and x-ray machines that stand as a constant reminder of the attack. Our remembrance ritual involves removing our shoes and emptying our luggage. We gave-up rights, toppled a regime, and chased Osama Bin Laden to the far corners of the Earth to exact revenge. Yet they still don't call us the 9-11 generation. It's not because we are free, but because we are not scared anymore.
 

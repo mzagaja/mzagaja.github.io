@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Blog Gremlin
-comments: on
 ---
 The other day I wrote a post about going to the dentist and it apparently was reverted from its finished state before I mindlessly committed the post to GitHub. As a result everyone was left with a bit of a cliffhanger, which I have now removed. Unfortunately the result is a post that barely had a story or useful thought.
 

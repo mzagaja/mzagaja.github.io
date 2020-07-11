@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Sixteen Ways to Speed Up Your Software Development Workflow
-comments: on
 ---
 While many boot camps and guides focus on teaching you how to build a web application, one of the challenges of software development is time. You only have so many hours in the day and want to hit that deadline. After doing web development for several years I have adopted sixteen proven ways to speed up my workflow.
 

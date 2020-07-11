@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Shortest Way Home by Pete Buttigieg
-comments: on
 ---
 Biographies and autobiographies are some of my favorite books. When a candidate runs for President they often have or will write a book in order to share their story. Pete’s story was a great read. It was candid and written in his own voice. If you want a break from the campaign rhetoric to learn about Pete’s background and interests, this book is a welcome respite.
 

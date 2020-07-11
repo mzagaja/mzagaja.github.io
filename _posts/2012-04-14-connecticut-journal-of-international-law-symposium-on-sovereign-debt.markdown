@@ -2,7 +2,6 @@
 layout: post
 title: Connecticut Journal of International Law Symposium on Sovereign Debt
 tags: []
-comments: on
 ---
 As a shameless plug the law journal I edit, the <a href="http://www.law.uconn.edu/node/1945">Connecticut Journal of International Law</a>, has its symposium on the sovereign debt crises coming up. It should be interesting. For more information and to RSVP <a href="http://www.law.uconn.edu/content/financing-sovereignty-implications-sovereign-debt-united-states-and-abroad">click this link</a>.
 

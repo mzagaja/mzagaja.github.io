@@ -3,7 +3,6 @@ layout: post
 title: The Power of Habits
 tags: 
 - Habits
-comments: on
 ---
 Back in December I read an [interesting article in WIRED](http://www.wired.com/2014/12/how-to-build-habit-forming-products/) about habits and software design. However habits also impact our daily lives. Many fitness trackers and health related apps promise to help us develop good habits. Habits can be heard to make and hard to break. Sometimes we like our habits and other times we dislike them. However we engage in them so often they can define who we are.
 

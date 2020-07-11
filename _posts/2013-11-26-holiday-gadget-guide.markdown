@@ -5,7 +5,6 @@ tags:
 - Technology
 - Gadgets
 - Christmas
-comments: on
 ---
 As a gadget geek people tend to ask me what they should get or consider getting others for Christmas. People have different price ranges and preferences but I think that it is worth highlighting some of the underrated products:
 

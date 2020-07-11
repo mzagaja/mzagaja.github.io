@@ -2,7 +2,6 @@
 layout: post
 title: But Who Will Teach Stuyvesant Integrity
 tags: []
-comments: on
 ---
 I am angry. It is because of <a href="http://www.nytimes.com/2012/07/10/nyregion/70-students-at-stuyvesant-to-retake-exams-after-cheating-case.html">this article</a>. Nearly seventy students at a prestigious school in New York were found to have engaged in cheating and the school is giving them a second chance. I am all for second chances but I think if we treat cheating too lightly it breeds a culture of corruption. We need only to look at the actions of athletes from the steroid cheating scandal, or the recent Donovan scandal, or even more scary the LIBOR scandal. Everyday we wake-up and find out that someone new has cheated. We have been exposed to so much cheating that we have grown cynical and are unsurprised when it happens. Even worse, we have grown to accept it.
 

@@ -2,7 +2,6 @@
 layout: post
 title: Yankee Institute's Irresponsible &quot;Journalism&quot;
 tags: []
-comments: on
 ---
 Splashed over CT Capitol Report is a headline about the salaries being paid by the Malloy administration to its employees. They link to <a href="http://www.raisinghale.com/2011/01/21/pension-increases-for-appointed-legislators-will-cost-at-least-5-million-over-25-years/">an article at the conservative Yankee Institute</a> that analyzes the cost of the pension increases for these employees.
 However that analysis is misleading. It fails to consider the following:

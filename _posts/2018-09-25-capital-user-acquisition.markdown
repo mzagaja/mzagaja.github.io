@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Raising Capital and User Acquisition
-comments: on
 ---
 In building organizations two of the toughest activities are raising capital and user acquisition. Since this is not a fun activity I have often tried to delegate it (up or down or left or right) but this usually does not work for me. In some cases I have found successful partnerships like working with [CTNewsJunkie](https://www.ctnewsjunkie.com) to build my voter guide app. Nobody would care about my voter guide if I just put it on my own site, but with a news organization behind it the voter guide gets much more use and it provides a useful tool for readers. The partnership works because in the end both sides win.
 

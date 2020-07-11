@@ -5,7 +5,6 @@ tags:
 - Networking
 - Friends
 - Law
-comments: on
 ---
 One of my favorite things to do is to hear about different people's projects or hobbies. For the past year or so I have been posting on [Fred Wilson's blog](http://www.avc.com/) and meeting interesting people there. Some people call this networking, but I think the term networking sounds too awkward. It conjures up forced interactions at career services events where you chat with people and then get disappointed when they don't have jobs for you. Fred's analogy for his blog is that it's like a bar, and I have to agree. It's one of the most welcoming online communities I've participated in. 
 

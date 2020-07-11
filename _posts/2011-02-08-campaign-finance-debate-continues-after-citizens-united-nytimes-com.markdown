@@ -2,7 +2,6 @@
 layout: post
 title: Campaign Finance Debate Continues After Citizens United - NYTimes.com
 tags: []
-comments: on
 ---
 An interesting article and perspective on Citizens' United from the New York Timesâ€¦
 

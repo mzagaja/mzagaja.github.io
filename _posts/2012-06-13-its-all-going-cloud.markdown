@@ -2,7 +2,6 @@
 layout: post
 title: It's All Going to the Cloud
 tags: []
-comments: on
 ---
 The thing that amazes me the most is how many people that own iPhones I can casually ask whether they have enabled iCloud and they say they haven't. Sometimes they are not even sure what iCloud is. iCloud is Apple's free service for storing backups of your stuff online. By enabling it you save the space on your hard drive and you no longer have to worry about what happens if your iPhone dies. So far I've had two die on me and after signing into iCloud it took an hour to download all my data and then it was as if my entire phone was restored from the dead. No extra time spent configuring or do anything else.
 

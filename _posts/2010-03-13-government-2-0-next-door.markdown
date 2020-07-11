@@ -2,7 +2,6 @@
 layout: post
 title: Government 2.0 Next Door
 tags: []
-comments: on
 ---
 The New York State Senate has been doing a lot to increase engagement with its citizens. The Director of Technology Innovation Noel Hidaldo recently gave a presentation (below) at the IgniteNYC event. Some of the stuff is procedural such as assigning their content a Creative Commons license. Other he touches on are much more substantive such as holding a digital town hall. Connecticut should start thinking about adopting some of these ideas.
 

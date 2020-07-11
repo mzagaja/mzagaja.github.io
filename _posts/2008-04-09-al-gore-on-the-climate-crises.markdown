@@ -2,7 +2,6 @@
 layout: post
 title: Al Gore on the Climate Crises
 tags: []
-comments: on
 ---
 An update from Al Gore on the Climate Crises...
 

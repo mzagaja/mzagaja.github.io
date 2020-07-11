@@ -2,7 +2,6 @@
 layout: post
 title: John McCain Can't Use a Computer
 tags: []
-comments: on
 ---
 Not only is John McCain old, but he is unable to use a computer. Check out the <a href=" http://video.yahoo.com/watch/1884558/6206369">video</a> from Yahoo.
 

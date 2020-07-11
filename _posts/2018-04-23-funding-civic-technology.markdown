@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Funding Civic Technology Projects
-comments: on
 ---
 I spent the weekend in New York City visiting friends. While living in Boston gives me a window into the future going to New York City gives one a window into prosperity. Walking around the Upper East Side you can feel the wealth. While Boston may build the future, New York City seems more likely to fund it.
 

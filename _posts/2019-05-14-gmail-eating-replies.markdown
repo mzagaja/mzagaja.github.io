@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Gmail Eating Replies
-comments: on
 ---
 Yesterday I learned that GMail, Google’s e-mail product, was spam boxing replies to e-mails that I have sent to other people. As a software developer I find this behavior strange. If I was designing a spam filter I would assume that e-mail replies that have knowledge of that e-mail were not spam. That is an easy conditional to test for. Yet the evidence suggests that Google’s sophisticated artificial intelligence algorithms do not do this. Their support simply said to check my filters and mark the replies as not spam. They did not even offer to send a towel to wipe the egg I got on my face from thinking folks were not responding to my queries.
 

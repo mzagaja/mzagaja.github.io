@@ -2,7 +2,6 @@
 layout: post
 title: My Guy Announces his Candidacy
 tags: []
-comments: on
 ---
 Over the summer I was fortunate enough to get to work for <a href="http://www.danmalloy.com">Dan Malloy</a>'s exploratory committee. Today I got to see him announce his candidacy in Hartford. Dan's pitch is simple and compelling: he successfully ran Stamford and therefore has the experience needed to be successful in running Connecticut.
 

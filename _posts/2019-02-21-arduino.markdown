@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Starting 2019 with Arduino
-comments: on
 ---
 I began 2019 by taking a hiatus from the blog to focus on some New Years resolutions. One of them was to finally start learning how to use the Arduino system that I received for Christmas. What is Arduino? It is an electronics prototype platform. You can buy small parts and combine them to form your own gadgets. In many ways it is a more complex version of Legos. It is interesting, rewarding, and also quite challenging.
 

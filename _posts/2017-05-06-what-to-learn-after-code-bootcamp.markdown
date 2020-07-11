@@ -1,7 +1,6 @@
 ---
 layout: post
 title: What to Learn after Code Bootcamp
-comments: on
 ---
 As a software developer, I spend almost every week at [Code for Boston](http://www.codeforboston.org). There are a large number of attendees consisting of optimistic boot camp graduates thirsty to get some experience coding on real open source projects. Having worked with over fifty boot camp graduates over the past year and a half and seeing their challenges, I have developed an understanding of the challenges boot camp graduates face as they transition to coding in the real world. While you can join me at Code for Boston to learn these things, I am going to share some of my wisdom below.
 

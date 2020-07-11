@@ -2,7 +2,6 @@
 layout: post
 title: 60 Minutes on the United States Senate
 tags: []
-comments: on
 ---
 <object width="425" height="279" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://cnettv.cnet.com/av/video/cbsnews/atlantis2/cbsnews_player_embed.swf" /><param name="scale" value="noscale" /><param name="salign" value="lt" /><param name="background" value="#333333" /><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="flashvars" value="si=254&amp;&amp;contentValue=50134433&amp;shareUrl=http://www.cbsnews.com/8301-504803_162-57544857-10391709/an-exasperating-interview-with-senate-leaders/?tag=segementExtraScroller;housing" /><embed width="425" height="279" type="application/x-shockwave-flash" src="http://cnettv.cnet.com/av/video/cbsnews/atlantis2/cbsnews_player_embed.swf" scale="noscale" salign="lt" background="#333333" allowfullscreen="true" allowscriptaccess="always" flashvars="si=254&amp;&amp;contentValue=50134433&amp;shareUrl=http://www.cbsnews.com/8301-504803_162-57544857-10391709/an-exasperating-interview-with-senate-leaders/?tag=segementExtraScroller;housing" /></object>
 

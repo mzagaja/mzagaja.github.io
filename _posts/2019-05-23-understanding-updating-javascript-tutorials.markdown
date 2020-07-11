@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Understanding and Updating JavaScript Tutorials
-comments: on
 ---
 Lately at work I have been writing a lot of JavaScript. As a consequence I have also been reading lots of JavaScript examples and documentation. JavaScript is a highly useful language that also happens to not look so great. However it has improved in recent years. The introduction of [arrow functions](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Functions/Arrow_functions) has increased the readability of JavaScript code, which is often polluted with nested function calls. Along with the introduction of promises, async/await, and string interpolation using backticks, modern JavaScript code is now more readable and easier to reason about than ever.
 

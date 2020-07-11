@@ -6,7 +6,6 @@ tags:
 - Artificial Intelligence
 - Machine Learning
 - Data
-comments: on
 ---
 Today [Fred Wilson](http://www.avc.com/) asked his audience about the ethics of algorithms and pointed to a [post](https://www.usv.com/topic/the-ethics-of-algorithms) on his firm's website. I recently read a [good article by Steven Levy on Google's deep learning efforts](https://medium.com/backchannel/google-search-will-be-your-next-brain-5207c26e4523) and have been thinking about this issue quite a bit. I adopted [a comment I wrote on the Union Square Ventures website](https://www.usv.com/topic/the-ethics-of-algorithms#comment-1834792296) into today's blog post.
 

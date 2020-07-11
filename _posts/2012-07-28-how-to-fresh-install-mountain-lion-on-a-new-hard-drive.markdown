@@ -2,7 +2,6 @@
 layout: post
 title: How to Fresh Install Mountain Lion on a New Hard Drive
 tags: []
-comments: on
 ---
 Last night I attempted to fresh install OS X Mountain Lion on a new hard drive. Doing a hard drive install on a Mac is much easier if you have <a href="http://www.ifixit.com/Tools/54-Bit-Driver-Kit/IF145-022">iFixit's 54-bit driver kit</a>. It has all the bits you need to remove the bottom cover the of MacBook Pro and the torx bits to transfer the hard drive mounting screws.
 

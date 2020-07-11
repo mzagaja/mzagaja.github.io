@@ -2,7 +2,6 @@
 layout: post
 title: Getting into Google+
 tags: []
-comments: on
 ---
 I recently acquired a <a href="https://plus.google.com/111264473140461283372">Google+ account</a>. I think its a nice meld of features from Facebook and Twitter. The idea of being able to follow people and place them into circles where I can hold different discussions is great. This avoids the problem of posting geeky things that my WPI friends enjoy but my fellow law students do not care about or vice-versa. The downside is that we may be creating more of a <a href="http://www.amazon.com/Filter-Bubble-What-Internet-Hiding/dp/1594203008">filter bubble</a> than we previously had. I think the one nice thing about facebook was the idea that it forced us to see each other as full people instead of merely a co-worker or merely a classmate. We may be mitigating the problem of employers possibly seeing the pictures of us drinking but we are not solving the problem of employers expecting their employees to not have fun or be social people outside their jobs. The greater transparency championed by Zuckerburg may be doomed. 
 

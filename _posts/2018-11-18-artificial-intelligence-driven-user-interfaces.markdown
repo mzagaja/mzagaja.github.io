@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Artificial Intelligence Driven User Interfaces
-comments: on
 ---
 When I was working on the [Youth Jobs](https://youthjobs.mapc.org) project at MAPC one of the core principles we based our work on was that a good user interface developed with user research could reduce or eliminate the need for training and helping employees use software. Good design could make it easier for young people to apply for jobs, but it also could help the staff view and select youth without learning complex software. This is easy to do when you do user research and your users only need to use a subset of functionality, or the software has little functionality to begin with. However many software packages are used in different ways by different people. The old approach to this was to let the user customize the user interface in a configuration screen or file. Today software companies are deploying artificial intelligence to create customized user interfaces for every user.
 

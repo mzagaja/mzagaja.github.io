@@ -2,7 +2,6 @@
 layout: post
 title: The Student Loan Rate Fight
 tags: []
-comments: on
 ---
 <iframe src="http://www.youtube.com/embed/dFr9aJl_ms8" frameborder="0" width="560" height="315"></iframe>
 

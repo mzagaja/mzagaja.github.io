@@ -2,7 +2,6 @@
 layout: post
 title: Great Video on Entrepreneurship Online
 tags: []
-comments: on
 ---
 From Gary Vaynerchuck the creator of Wine Library. Worth watching if you are considering starting a business online.
 

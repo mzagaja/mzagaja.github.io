@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Renting an Apartment in Boston
-comments: on
 ---
 After a few years of living in Boston I have now endured the apartment hunting experience twice. The first time I was looking for a room and roommates in a place near Harvard Law School where my fellowship was located. The second time I started looking for a unit with my girlfriend in Southie. These were different experiences that both turned out to be tougher to surmount than I expected. However I learned there are things you can do to set your expectations and make your apartment hunt go smoother.
 

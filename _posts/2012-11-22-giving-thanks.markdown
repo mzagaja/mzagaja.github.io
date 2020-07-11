@@ -2,7 +2,6 @@
 layout: post
 title: Giving Thanks
 tags: []
-comments: on
 ---
 This year I am thankful to my friends in the fields of medicine and science. Today we live in a world where we can literally bring people back from being dead, cure cancer, and build replacement limbs. In our world <a href="http://denver.cbslocal.com/2012/04/12/robot-helps-paralyzed-patients-walk-again/">a robotic exoskeleton</a> can let a paralyzed person walk again. Immunizations mean that we need not experience the pain of polio or scariness of smallpox. Miracle drugs treat or cure diseases and conditions that would otherwise make life unbearable for many. What the doctors and scientists accomplish never ceases to amaze me, and I can only imagine what they will do next year.
 

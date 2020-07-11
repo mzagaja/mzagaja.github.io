@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Product Manager Deficit
-comments: on
 ---
 One of the biggest challenges I have seen in the development of technical projects is finding good product management talent. Product managers [can have different roles and responsibilities](https://medium.com/@tworetzky/what-does-a-product-manager-do-205b40d82da3) depending on the organization. However they are generally responsible for helping the team build the right product. They typically do the translation of user needs into tasks for software developers. They often also serve as product owner and manage the work of the development team as well. Good product managers have technical and people skills, which is why they are hard to find.
 

@@ -2,7 +2,6 @@
 layout: post
 title: Improving Performance on Mac OS X with CCleaner and TRIM
 tags: []
-comments: on
 ---
 Today as I was perusing the Mac App Store I noticed that <a href="http://www.piriform.com/ccleaner">CCleaner</a>, one of my favorite windows utilities, was the top free download. Since it worked so well in Windows I figured the Mac version would be worth a shot and I was not disappointed. It cleared about 10GB of cache files. I noticed an immediate performance boost on my system. However this may be because I use an SSD and as you have less space the performance tends to drop-off.
 

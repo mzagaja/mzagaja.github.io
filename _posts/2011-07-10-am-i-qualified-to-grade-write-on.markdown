@@ -2,7 +2,6 @@
 layout: post
 title: Am I Qualified to Grade Write-On?
 tags: []
-comments: on
 ---
 Every year first-year students at law schools across the country participate in a ritual called write-on. I did it last summer and as a result accepted an offer to be a member of the <a href="http://www.law.uconn.edu/node/1945" target="_blank">Connecticut Journal of International Law</a>. The next round is in and as a rising third-year student I am responsible for grading some of the packets. I think that is a joke.
 

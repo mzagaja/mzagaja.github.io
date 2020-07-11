@@ -5,7 +5,6 @@ tags:
 - Government
 - Politics
 - Open-source
-comments: on
 ---
 I grew-up with the Internet and one of the strongest ethos that I benefitted from is the online community's open source culture. Computer nerds or geeks love chatting and posting online where they can discuss the latest technologies and share neat hacks and solutions to their problems. As a student I spent time learning Linux, eventually settling on a distrobution called [Gentoo](http://www.gentoo.org) where I even contributed bug reports and fixes. My age at the time did not matter, in an open source model your contribution is reviewed by others and if it works they accept it.
 

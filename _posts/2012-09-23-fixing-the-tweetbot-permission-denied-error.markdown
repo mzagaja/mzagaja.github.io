@@ -2,7 +2,6 @@
 layout: post
 title: Fixing the Tweetbot Permission Denied Error
 tags: []
-comments: on
 ---
 I recently bought <a href="http://itunes.apple.com/us/app/tweetbot-for-twitter-iphone/id428851691?mt=8">Tweetbot</a> to replace the official twitter application on my iPhone and iPad. The app is great with many features that the regular twitter application lacks like the ability to mute hashtags or people in the timeline. It also makes it easier to navigate conversations on twitter and share links. I was happy with it until I got this error:
 

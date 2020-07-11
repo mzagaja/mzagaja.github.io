@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Journey of the American Voter
-comments: on
 ---
 My group [Code for Boston](http://www.codeforboston.org/) hosted a series of Ignite talks for the National Day of Civic Hacking and the keynote was by Dana Chisnell. It was a fascinating and compelling story about the journey of the American voter. How they feel and why its so hard to vote:
 

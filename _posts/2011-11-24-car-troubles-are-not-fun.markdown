@@ -2,7 +2,6 @@
 layout: post
 title: Car Troubles are Not Fun!
 tags: []
-comments: on
 ---
 For the past few weeks I've been dealing with trouble with my 2002 Volvo S60. I love the car and bought/inherited it from my Uncle about a year ago. However its recently been giving me a rough idle and more disturbingly stalled a few times. I took it to my dealer (Gengras Volvo) and they suggested a fix the oil trap, fuel filter, and freeze plugs. The total bill was $1030! Not cheap for a law student. The next day I was driving home and the car stalled out when I was turning into my driveway. Not a good sign.
 

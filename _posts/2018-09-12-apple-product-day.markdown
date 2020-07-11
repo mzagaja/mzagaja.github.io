@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Apple Product Day
-comments: on
 ---
 Today is one of my favorite days of the year when Apple announces its new products. I have been following the rumor websites and many of the potential new products have already been leaked. However rumors are not always correct and sometimes do not tell the whole story. They are merely kindling for our curiosity.
 

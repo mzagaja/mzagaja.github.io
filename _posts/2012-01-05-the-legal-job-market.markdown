@@ -2,7 +2,6 @@
 layout: post
 title: The Legal Job Market
 tags: []
-comments: on
 ---
 Earlier today <a href="http://twitter.com/#!/danielschwartz/status/155013356414177280" target="_blank">Daniel Schwartz tweeted</a> a link to an article with a quote from the President of the American Bar Association where he fired back at the ABA's critics:
 <blockquote>"It's inconceivable to me that someone with a college education, or a graduate-level education, would not know before deciding to go to law school that the economy has declined over the last several years and that the job market out there is not as opportune as it might have been five, six, seven, eight years ago," [Robinson] said.</blockquote>

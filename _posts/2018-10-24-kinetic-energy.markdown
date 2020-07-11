@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Kinetic Energy Challenge
-comments: on
 ---
 I spent the weekend at [Code for America](https://www.codeforamerica.org)’s Brigade Congress event where we enjoyed programming related to running the volunteer program that Code for America administers. We covered a large swath of topics from fundraising to diversity. After helping run a brigade for over a year I have come to realize that brigades face two types of problems: figuring out how to do something, and then executing on doing it.
 

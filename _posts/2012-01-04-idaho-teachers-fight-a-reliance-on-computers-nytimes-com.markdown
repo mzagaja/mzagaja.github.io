@@ -2,7 +2,6 @@
 layout: post
 title: On The Use of Technology in the Classroom & State Mandates
 tags: []
-comments: on
 ---
 The New York Times today has an article about the use of technology in the classroom. It discusses requirements in Idaho for the use of technology in the classrooms:
 <blockquote>Last year, the state legislature overwhelmingly passed a law that requires all high school students to take some online classes to graduate, and that the students and their teachers be given laptops or tablets. The idea was to establish Idahoâ€™s schools as a high-tech vanguard.

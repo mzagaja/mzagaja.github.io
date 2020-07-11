@@ -3,7 +3,6 @@ layout: post
 title: Review of The Gene - An Intimate History
 tags:
 - Book Review
-comments: on
 ---
 One reason science can be so frustrating to understand is the lack of context to ground new knowledge in. By talking about genetics as a part of the history of the field Dr. Siddhartha Mukherjee makes a dense subject interesting and accessible. His book is long but weaves science into personal stories and questions of ethics. My biggest regret is having to rush through this book near the end because there are a lot of ideas to process.
 

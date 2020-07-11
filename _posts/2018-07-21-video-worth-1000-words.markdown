@@ -1,7 +1,6 @@
 ---
 layout: post
 title: A Video is Worth 1000 Words
-comments: on
 ---
 One of my most popular YouTube videos was a [screencast](https://www.youtube.com/watch?v=wI3uvihw29E) I made about using NGPVAN’s MiniVAN software. When I worked at the Connecticut Democratic Party we had a lot of people who needed to understand how to use mobile software and did not want to read instructions and/or did not find the interface intuitive. The success of this video has made me realize that when it comes to communicating how to use software, a screencast can often be one of the best tools in the toolbox.
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Problems with Pensions
-comments: on
 ---
 As a government employee instead of a regular retirement plan I participate in a pension. In the Commonwealth of Massachusetts participation in this pension is not optional. The end result of a pension is that when you vest you are entitled to fixed amount of money from the government once you retire. While it looks like a good benefit, Massachusetts pension system is riddled with traps and unfairly locks down talent in our mobile economy.
 

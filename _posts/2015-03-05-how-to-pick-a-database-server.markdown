@@ -6,7 +6,6 @@ tags:
 - Servers
 - MySQL
 - PostgresQL
-comments: on
 ---
 Over the past year I have been mostly using MySQL on Amazon Web Services RDS for a database server when I needed one. It has worked well enough for me and I have learned a lot along the way. There is a great Mac OS X GUI for it called [Sequel Pro](http://www.sequelpro.com) that I recommend any SQL beginner check out. It makes importing CSVs into a database brain dead simple. Large companies like Facebook, AirBnb, and Wordpress use MySQL and it works great for them.
 

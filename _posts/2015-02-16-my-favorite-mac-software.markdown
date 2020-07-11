@@ -6,7 +6,6 @@ tags:
 - OmniFocus
 - Mac
 - OS X
-comments: on
 ---
 One of the things that I find odd is how averse many people are to paying for software. The Mac has tons of neat applications that save time or do useful things. Here are some of my favorites:
 

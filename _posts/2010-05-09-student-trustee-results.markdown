@@ -2,7 +2,6 @@
 layout: post
 title: Student Trustee Results
 tags: []
-comments: on
 ---
 <p>Just wanted to share a copy of the e-mail I sent out about the student trustee election results (below the split).</p>
 <p>Dear Friends,</p>

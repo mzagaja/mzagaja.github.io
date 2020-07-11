@@ -1,7 +1,6 @@
 ---
 layout: post
 title: When in React
-comments: on
 ---
 For the past few years I have spent most of my time working on applications in Ruby on Rails. When I was the Berkman Klein Center I also had an application in a Javascript framework called Meteor.js but for the most part we prioritized back-end functionality over front-end interfaces. This means that for applications like [Lumen Database](http://www.lumendatabase.org/) the front-end was written in HTML and embedded Ruby. This past week at MAPC has been a whirlwind of updating my front-end web development skills, primarily by learning React.
 

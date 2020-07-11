@@ -5,7 +5,6 @@ tags:
 - Dropbox
 - Cloud
 - Storage
-comments: on
 ---
 Recently 3 gigabytes of bonus space I had in my Dropbox expired and I found myself over my Dropbox storage limit. Dropbox decided that this was a good time to offer me a discount to try and convert me to a paying customer. Many people would probably convert at this point because they use Dropbox not just to share files but also as a backup service. However I already use [Backblaze](https://secure.backblaze.com/r/00ctxs) to backup my computer. Backblaze does about eighty percent of what I need. I can access files on my iOS device, get previous versions from the website, and have a full backup of my entire hard drive. I just use Dropbox to share files and for shared folders. 
 

@@ -5,7 +5,6 @@ tags:
 - Connecticut
 - Open Government
 - Kevin Lembo
-comments: on
 ---
 [Press Release from Gov. Malloy's Office](http://www.governor.ct.gov/malloy/cwp/view.asp?Q=536186&A=4010):
 

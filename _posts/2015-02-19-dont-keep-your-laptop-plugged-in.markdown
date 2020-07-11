@@ -5,7 +5,6 @@ tags:
 - MacBook Pro
 - Apple
 - Battery
-comments: on
 ---
 Yesterday I noticed a service battery warning when I clicked the drop down on my 2011 MacBook Pro. Apple puts this message there to indicate that your battery can now charge to less than 80% of its initial capacity. In my case I last replaced this battery on May 11, 2013. So it has been 649 days. Apple has rated its battery to last for about 1000 charge cycles but this one has only lasted for 434. The new battery made it barely two years after the previous battery lasted nearly the same amount of time. I am not convinced Apple's battery life estimates are accurate. 
 

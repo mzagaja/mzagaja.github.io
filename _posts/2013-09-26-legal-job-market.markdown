@@ -4,7 +4,6 @@ title: How Bad the Legal Job Market is in One Job Posting
 tags: 
 - Jobs
 - Lawyers
-comments: on
 ---
 ![Uncompensated Special Assitant US Attorney Job Posting](/images/uncompensated_sausa.png)
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Software Development Metaphors
-comments: on
 ---
 - Feature rabbit: a feature that initially appears to be one feature but after being worked on ends up having lots of other software features as a part of it. Feature rabbits breed when managers want to try and sneak extra work in their initial request, or often if a critical point was not articulated or recorded during the initial feature estimation.
 - Rabbit hole: a feature or bug fix that takes way longer than the initial estimate because it turns out implementation has greater complexity than initially understood. 

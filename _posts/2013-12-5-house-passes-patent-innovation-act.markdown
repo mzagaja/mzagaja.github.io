@@ -4,7 +4,6 @@ title: House Passes Patent Innovation Act
 tags: 
 - IP Law
 - Patents
-comments: on
 ---
 Over the past week or so I have been seeing people I follow on twitter tweet up a storm about the [Patent Innovation Act](http://beta.congress.gov/bill/113th-congress/house-bill/3309?q=%7B%22search%22%3A%5B%22hr+3309%22%5D%7D). Fred Wilson [wrote a good post on it at his blog yesterday](http://www.avc.com/a_vc/2013/12/the-goodlatte-patent-bill.html). As always the discussion was worth reading as well. [Gigaom also has a summary](http://gigaom.com/2013/12/05/house-passes-innovation-act-325-91-a-small-solution-to-a-big-patent-problem/).
 

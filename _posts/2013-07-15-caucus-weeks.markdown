@@ -2,7 +2,6 @@
 layout: post
 title: Caucus Week(s)
 tags: []
-comments: on
 ---
 If you are involved in Connecticut politics you might sit on your party's town committee. And if that is the case then this week or next week is probably caucus week for you. Caucus is how each of the party committees endorse their preferred candidates for election in November. The procedure for this varies by town and city but generally members of the town committee get to vote on the endorsement. If enough people think a different candidate should be put on the ballot in November then there will be a primary so that all the party members can choose their candidate(s).
 

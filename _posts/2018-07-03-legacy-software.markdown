@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Legacy Software
-comments: on
 ---
 I thought that Mark Headd had an interesting tweet yesterday:
 

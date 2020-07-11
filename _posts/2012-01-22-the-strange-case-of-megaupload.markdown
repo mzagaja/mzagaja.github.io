@@ -2,7 +2,6 @@
 layout: post
 title: The Strange Case of Megaupload
 tags: []
-comments: on
 ---
 I've been following the Megaupload case with interest over the past few days with updates from places like the New York Times, Tech News Today, and most recently NPR. The latest NPR article talks about the extent that the Justice Department went to go after the alleged pirates:
 <blockquote>"What we're talking about here is, you know, copyright infringement," McSherry says. "And that may be a serious problem, but it's a little bit chilling if that can get you dragged from your house in the middle of the night."

@@ -2,7 +2,6 @@
 layout: post
 title: 3-4 Sunday Must Reads (+ watch & listen)
 tags: []
-comments: on
 ---
 First <a href="http://www.nytimes.com/2012/03/04/business/ibm-takes-smarter-cities-concept-to-rio-de-janeiro.html">here is an article about IBM's mission control system in Rio De Janero</a>. City geeks will appreciate the glimpse into the future and data geeks will love how they are leveraging all the different sources of information in real time. Government often seems to be slow to adopt technology but once a brave soul is able to demonstrate the value of something it is easier for the rest to follow. That is why I was excited to read that <a href="http://www.courant.com/community/wethersfield/hc-wethersfield-paperless-0229-20120228,0,2601726.story">my town council is adopting iPads</a>. Now if only they could do the same for the packets I get as a member of the Inland Wetlands Commission.
 

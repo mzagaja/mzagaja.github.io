@@ -2,7 +2,6 @@
 layout: post
 title: Unpaid Internships
 tags: []
-comments: on
 ---
 Recently I've been having a back and fourth conversation with <a href="http://twitter.com/#!/RaisingHaleCT">Zachary Janowski</a> on twitter about unpaid internships. It was spurred from my comment on a tweet by <a href="http://twitter.com/#!/danielschwartz">Daniel Schwartz</a> announcing the <a href="http://www.ohioemployerlawblog.com/2011/05/6th-circuit-tosses-out-dols-internship.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+OhioEmployersLawBlog+%28Ohio+Employer%27s+Law+Blog%29">sixth circuit tossed out the Department of Labor's internship test</a>.  140 characters is cramping my style so I am expanding my thoughts in this blog post.
 

@@ -6,7 +6,6 @@ tags:
 - Uber
 - Facebook
 - Mailbox
-comments: on
 ---
 For e-mail it is both the best of times and worst of times. Tools like GMail and Mailbox make it super-easy to sort and process it. Companies have figured out how to use it in interesting and effective ways like sending me my airline boarding pass or a map of the Uber ride I just took and its cost. I receive some high quality newsletters from Connecticut Mirror, CTNewsJunkie.com, and Popvox.
 

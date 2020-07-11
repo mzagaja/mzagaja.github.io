@@ -3,7 +3,6 @@ layout: post
 title: People Working From Home May Be More Productive
 tags: 
 - Remote Work
-comments: on
 ---
 From [FiveThirtyEight](http://fivethirtyeight.com/datalab/people-working-from-home-in-a-snowstorm-may-be-producing-more-than-you-are/):
 >Bosses’ reluctance to let employees work from home persists despite the widely reported findings of a study by Stanford and Beijing universities that showed home workers were more productive.

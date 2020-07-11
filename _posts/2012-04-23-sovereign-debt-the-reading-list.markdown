@@ -2,7 +2,6 @@
 layout: post
 title: 'Sovereign Debt: The Reading List'
 tags: []
-comments: on
 ---
 To coincide with the symposium that my law journal is holding on Friday I will try to make several posts on sovereign debt. I am not an expert in the topic but I have read much and over the weekend I sent out an unofficial suggested reading list to my fellow law journal members. The selection of readings and audio programs are ones that I've listened to and found helpful, so I hope you enjoy them as well.
 <h2>Sovereign Debt â€” Pre-Symposium Reading List</h2>

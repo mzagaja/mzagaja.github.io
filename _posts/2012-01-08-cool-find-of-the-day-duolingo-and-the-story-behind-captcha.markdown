@@ -4,7 +4,6 @@ title: !binary |-
   Q29vbCBGaW5kIG9mIHRoZSBEYXkgw6LigqzigJ0gRHVvTGluZ28gKGFuZCB0
   aGUgc3RvcnkgYmVoaW5kIENBUFRDSEEp
 tags: []
-comments: on
 ---
 A friend of mine posted the following TED talk to facebook and I thought it was a great one to share:
 

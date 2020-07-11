@@ -5,7 +5,6 @@ tags:
 - Artificial Intelligence
 - Machine Learning
 - Data
-comments: on
 ---
 Rather than write out a long post today I wanted to link to a bunch of interesting data related developments:
 

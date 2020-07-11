@@ -5,7 +5,6 @@ tags:
 - Copyright
 - Law
 - First-sale
-comments: on
 ---
 As a law student I had to research and write a paper for what was termed our upper-class writing requirement. The difficult part of writing papers in law school is finding novel material to cover. Fortunately the copyright seminar allowed me to explore an area of interest that I had without needing to be novel. So I researched the history of first-sale doctrine and made an argument that we should have one for digital goods. The first part of the paper is a review of the current law, and towards the end I lay out my proposal. Since I doubt this would merit publication I uploaded it to Scribd for your enjoyment.
 

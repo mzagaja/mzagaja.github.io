@@ -2,7 +2,6 @@
 layout: post
 title: Is Clinton's Morgan School Infringing on UConn's Trademark?
 tags: []
-comments: on
 ---
 I was only going to write one post today but since I have taken many intellectual property classes in law school <a href="http://www.nhregister.com/articles/2012/10/22/news/shoreline/doc5085b39012285625970004.txt">this article</a> about UConn asking Clinton's Morgan School to change the husky image they use piqued my interest. The article does a somewhat decent job of laying out the issues and notes that the university is not interested in litigating the matter. However I think the article does a poor job of laying out the law and explaining it to the general public.
 

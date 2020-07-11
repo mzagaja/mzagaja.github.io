@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Magic of the Stars
-comments: on
 ---
 One of the tricks I have recently learned for Slack, the chat program, is that they have a star system for messages. The star is a feature I have seen but I did not understand how to use it that well. After reading a [page in the Slack documentation](https://get.slack.help/hc/en-us/articles/201331016-Star-channels-messages-or-files) I learned stars are a todo list. It is not to be thought of as a bookmark but as a way to keep track of posts that you have to take action on. Suddenly the stream of overwhelming stuff is tamable.
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Backlog
-comments: on
 ---
 The other day one of my co-workers mentioned that she feels like she has a lot of free time in her life. This is one feeling that I struggle to relate to lately. I have been working to try and liberate time where I can. Despite doing this I can tell I am still a bit behind on the basics. My email inbox still needs to be tended. I blog a few times a week instead of every day. I am not able to do everything I want and it is tough.
 

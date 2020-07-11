@@ -2,7 +2,6 @@
 layout: post
 title: Thoughts on the Kony Video
 tags: []
-comments: on
 ---
 If you are on facebook you have probably encountered the following video about a man named Joseph Kony:
 

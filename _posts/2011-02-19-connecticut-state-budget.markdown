@@ -2,7 +2,6 @@
 layout: post
 title: 'Connecticut State Budget '
 tags: []
-comments: on
 ---
 A few days ago Governor Malloy <a href="http://www.governor.ct.gov/malloy/cwp/view.asp?Q=474034&A=4010">unveiled his budget</a>. Reaction has been mixed. At the heart of his plan are two separate proposals: $1.8 billion in new revenue and $2 billion in concessions from state employees. The budget also includes $758 million in spending reductions.
 

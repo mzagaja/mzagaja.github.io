@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Meeting Owl Pro Review
-comments: on
 ---
 Every month Code for Boston has a core team meeting. While most of our team attends in person, sometimes people have to participate remotely. We have found [Zoom](https://www.zoom.us/) to be the best software for doing this. However for remote participants the view of the meeting room ends up being limited to the person who connects. The audio is fine using the Polycom, but video is not great.
 

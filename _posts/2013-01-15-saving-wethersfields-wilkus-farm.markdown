@@ -2,7 +2,6 @@
 layout: post
 title: Saving Wethersfield's Wilkus Farm
 tags: []
-comments: on
 ---
 Last night I attended an organizational meeting of people interested in saving the Wilkus Farm in Wethersfield. A few years ago the residents of my town <a href="http://wethersfield.net/dl/09/wilkus/wilkus-votes-totals-090512.html">voted in a referendum</a> to preserve the farm as open space. However the Town Council has recently moved towards <a href="http://articles.courant.com/2013-01-08/community/hc-wethersfield-wilkus-land-swap-20130108_1_jeffery-kotkin-council-members-rdj-development">swapping some of the land for land on Goff Road</a>. This is in spite of the fact that there is a farmer that wants to buy the land, improve it, and use it for farming. That bid is one that I and many others in town support.
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Objects versus Apps
-comments: on
 ---
 After finishing the Steve Jobs video from [yesterday’s post](http://www.zagaja.com/2018/04/steve-jobs-sloan-lecture/) I thought Jobs took an interesting position on what software companies should do. He said they should spend more time building objects than apps.
 

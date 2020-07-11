@@ -5,7 +5,6 @@ tags:
 - Facebook
 - Twitter
 - LinkedIn
-comments: on
 ---
 So I have not had the time to sit down and write a proper reflective post on 2013. Things have been in flux over the past couple months but I recently was offered the privilege of working for the Connecticut Democratic Party for the 2014 election cycle. While I had spent time extensively searching for legal work, and going to numerous interviews, the market unfortunately did not present an opportunity that fit well with my legal interests and background. I helped out at the state party for a couple weeks leading up to the 2013 election and enjoyed it very much. As the party's new Deputy Data Director I get to use my technology skills, and many of the analytical and research skills that I honed in law school.
 

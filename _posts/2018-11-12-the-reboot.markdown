@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Reboot
-comments: on
 ---
 Over the past few weeks I have been doing lots of traveling. I went to North Carolina for Code for America Brigade Congress a couple weeks ago. Then over the past two weeks I was in London and Spain for vacation. While these are fun and important trips, they also infringe on an important part of my routine. On Sundays I usually reboot by going through all my to do items and reconciling my finances. My inbox is cleared, groceries are ordered, and I ready myself for the week.
 

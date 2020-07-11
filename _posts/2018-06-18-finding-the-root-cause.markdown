@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Finding the Root Cause
-comments: on
 ---
 Since September I have been battling with my cable Internet. About once a week the Internet dies. There is no warning, no error, no malfunction of the lights of the modem, it simply halts. Its death apparent by my modem’s inaccessible status page. A simple reboot brings it back alive.
 

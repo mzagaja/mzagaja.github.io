@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Breaking it Down
-comments: on
 ---
 When I was much younger I became familiar with [Getting Things Done](https://amzn.to/2woiXDt) via the then popular Lifehacking movement. Getting Things Done is a system for taking control of your projects and life by getting all the stuff you need to do into a single system. While I am not a perfect adherent, the general principles have proven durable and useful since I started using it in my law school years.
 

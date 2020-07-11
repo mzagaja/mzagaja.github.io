@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Two Styles
-comments: on
 ---
 In organizations there are two types of communication that people can engage in: synchronous and asynchronous. I find synchronous communication to be best for trying to get agreement or dig into beefy topics. Asynchronous communication can often work for everything else. However the challenge with asynchronous communication is it is easily ignored. This leads to needing synchronous communication for things that would otherwise work asynchronously. Since synchronous communication is massively more expensive, this slows down progress.
 

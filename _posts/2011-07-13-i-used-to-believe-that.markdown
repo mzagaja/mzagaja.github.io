@@ -2,7 +2,6 @@
 layout: post
 title: '"I Used to Believe That"'
 tags: []
-comments: on
 ---
 I was struck today by a comment I overheard in the student lounge in the law school. One of the ladies in the room saw Obama talking on the screen on of his riffs about hope and she quipped that she could not believe she used to believe that. Then her accomplices proceeded to denigrate the President. While I understand people are disappointed in Obama I do not think they are thinking about the entire situation. They fail to consider and concede the Obama successes such as student loan reform and healthcare reform. Many are also unable to articulate any specific complaints instead making a more general criticism of Obama not doing well. Even when they do make the specific criticisms they do not seem to understand the political system and how it works. Unfortunately people are not bothering to dig deeper into these issues. 
 

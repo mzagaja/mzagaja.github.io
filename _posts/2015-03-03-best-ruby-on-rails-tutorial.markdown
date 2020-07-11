@@ -4,7 +4,6 @@ title: The Best Ruby on Rails Tutorial
 tags: 
 - Ruby on Rails
 - Programming
-comments: on
 ---
 I have been off and on playing with and learning Ruby on Rails and am finally in the process of using it. I consulted numerous resources in attempting to learn Rails including Code School and a book called Agile Web Development with Rails. However by far the best written material for beginners is [Michael Hartl's Rails Tutorial](https://www.railstutorial.org).
 

@@ -2,7 +2,6 @@
 layout: post
 title: UConn Tuition Town Hall This Friday
 tags: []
-comments: on
 ---
 I received the following e-mail today:
 <blockquote>

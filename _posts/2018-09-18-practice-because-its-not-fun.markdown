@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Practice Because It’s Not Fun
-comments: on
 ---
 For the next few weeks I am following the B.A.A.’s recommended training schedule for my upcoming B.A.A. Half Marathon. That meant a long ten mile run on Sunday, a day off yesterday, and then somehow fitting in a five mile run on my normally packed Tuesday. Overall it was a rough morning for me.
 

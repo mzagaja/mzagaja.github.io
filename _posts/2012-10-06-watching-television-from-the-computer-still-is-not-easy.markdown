@@ -2,7 +2,6 @@
 layout: post
 title: Watching Television from the Computer Still is Not Easy
 tags: []
-comments: on
 ---
 Earlier today I bought the <a href="http://www.therumble2012.com">Jon Stewart &amp; Bill O'Reilly debate program</a> that is airing tonight for $4.99. The catch with this is that it is only available online. This comes almost a year after comedian<a href="https://buy.louisck.net"> Louis CK</a> released a comedy program in an online only format. The unique thing about this is that instead of using iTunes or other media stores that take a 30% cut of the sales the sellers are using regular payment companies like PayPal to accept a direct payment and then are offering their program without the digital rights management protections that iTunes usually uses. Therefore you are able to watch the content on nearly any device you own instead of being locked in to a particular ecosystem. These content producers are betting that by being more consumer friendly they can make more money than if they use the normal distribution channels.
 

@@ -2,7 +2,6 @@
 layout: post
 title: Thoughts on Owning a Business and Using a Bank
 tags: []
-comments: on
 ---
 I have been using various banks in and outside Connecticut since I was young. My initial experience with personal banking involved accounts as Dutch Point Credit Union and Equity Bank. I continue to use Dutch Point Credit Union in conjunction with Capital One 360 (formerly ING Direct) as my personal banking solution and also have a Bank of America credit card. However, for political campaigns and business banking I have been using TD Bank. For the most part I am happy to recommend all of these companies.
 

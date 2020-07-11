@@ -4,7 +4,6 @@ title: Blackberry's Crazy Application Neutrality Proposal
 tags: 
 - Blackberry
 - Net Neutrality
-comments: on
 ---
 In politics there is a tradition of injecting non-sequitor ideas into popular movements. It is similar to a search engine optimization technique where you try to get attention by making your idea sound like a thing that others are searching for and interested in. In some cases these points might make sense, for example people that raise the idea that in order to tackle education reform we need to tackle child nutrition. However in this case [Blackberry's proposal](http://blogs.blackberry.com/2015/01/blackberry-net-neutrality/) does not fit with the principles shared by net neutrality supporters.
 

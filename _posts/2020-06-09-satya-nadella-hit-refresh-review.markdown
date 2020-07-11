@@ -3,7 +3,6 @@ layout: post
 title: Satya Nadella’s Tour of the Future
 tags:
 - Book Review
-comments: on
 ---
 If you want a glimpse into the future, [Hit Refresh by Satya Nadella](https://amzn.to/3hhaEiX) is an important read. Nadella shares his own story and spends much of the book focusing on the impact of new technologies on society. He highlights three trends: artificial intelligence, quantum computing, and mixed reality that will change society over the next decade. Nadella not only provides easy-to-understand summaries of these technologies but provocations about policies around them.
 

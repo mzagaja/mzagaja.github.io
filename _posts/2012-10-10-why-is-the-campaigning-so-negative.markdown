@@ -2,7 +2,6 @@
 layout: post
 title: Why is the campaigning so negative?
 tags: []
-comments: on
 ---
 I think that was the number one question asked when phone banking today. People claim they do not like negative campaigning. I know I am not a fan of it. However for better or worse, it works. <a href="http://en.wikipedia.org/wiki/Negative_campaigning">Wikipedia lays out why in detail</a>, as does<a href="http://www.politico.com/news/stories/0808/12455.html"> this piece by Mark Penn in Politico</a>. One point of particular interest to political parties is that the negative campaigning tends to suppress turnout from unaffiliated voters. Therefore if you are a partisan and cannot garner popular support then negative campaigning is probably especially helpful.
 

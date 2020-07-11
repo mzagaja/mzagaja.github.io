@@ -2,7 +2,6 @@
 layout: post
 title: Maybe Manufacturing is Our Savior After All
 tags: []
-comments: on
 ---
 A few counterpoints to the argument I made in my previous post that I thought were interesting:
 <ul>

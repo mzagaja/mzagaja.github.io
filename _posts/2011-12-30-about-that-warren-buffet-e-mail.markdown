@@ -2,7 +2,6 @@
 layout: post
 title: About that Warren Buffett E-Mail
 tags: []
-comments: on
 ---
 I have now received an e-mail that purports to be a proposal from Warren Buffett to reform Congress. I spent some time this morning penning a response so I figured I'd share it here in case anyone else gets it. First the original e-mail:
 <blockquote>Winds of Change....

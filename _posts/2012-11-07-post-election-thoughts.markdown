@@ -2,7 +2,6 @@
 layout: post
 title: Post-Election Thoughts
 tags: []
-comments: on
 ---
 
 

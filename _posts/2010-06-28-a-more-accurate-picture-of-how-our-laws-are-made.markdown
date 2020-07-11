@@ -2,7 +2,6 @@
 layout: post
 title: A More Accurate Picture of How Our Laws are Made
 tags: []
-comments: on
 ---
 ![Chart on how laws are made.](/images/2010/06/howlawsmadeWIRTH2-1024x504.jpg "Chart on how laws are made.")
 

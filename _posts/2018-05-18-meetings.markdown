@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Meetings
-comments: on
 ---
 By far the mode of receiving information that I find most challenging is the meeting (actually the conference call is a bit worse). Lucky for me government runs mostly on meetings and I now attend a lot of them. As evidenced by this blog my home field for communication is writing. When I have in-person conversations I often later forget things or I miss details. Despite all my efforts to avoid meetings and communicate that they are a terrible method of communication for me, it is challenging to teach old dogs new tricks (in this case the “memo” or “note”).
 

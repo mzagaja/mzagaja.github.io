@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Public Interest Technology Conference at Harvard Kennedy School
-comments: on
 ---
 On Saturday I attended the [Public Interest Technology Summit](https://projects.iq.harvard.edu/digitalhks/event/public-interest-technology-summit) at Harvard Kennedy School. About eighty people gathered to learn about and discuss issues related to public interest technology. Public interest technology is the term the [Ford Foundation is using](https://www.fordfoundation.org/campaigns/public-interest-tech/) to describe the field that many of us currently call civic tech. It was a worthwhile summit where I networked and learned a lot.
 

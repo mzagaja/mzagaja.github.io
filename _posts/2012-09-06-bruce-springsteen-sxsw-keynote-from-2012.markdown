@@ -2,7 +2,6 @@
 layout: post
 title: Bruce Springsteen SXSW Keynote from 2012
 tags: []
-comments: on
 ---
 Sometimes it is easier to unearth a hidden gem from an obscure website than to write a full post. As a fan of Bruce Springsteen I found this keynote address to be a fun listen.
 

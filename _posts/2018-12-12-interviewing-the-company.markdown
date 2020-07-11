@@ -1,7 +1,6 @@
 ---
 layout: post
 title: You Are Interviewing the Company Too
-comments: on
 ---
 Some great insight from Bethany Crystal:
 

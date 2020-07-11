@@ -2,7 +2,6 @@
 layout: post
 title: How to Make Door Knocking More Effective
 tags: []
-comments: on
 ---
 I have been knocking doors for political candidates since high school. Most people are probably familiar with this method of campaigning by now. You go to a door, introduce yourself, and talk with the person who answers about your candidacy (or the candidacy of the person you are supporting) and ask them to support you. Maybe you give them a sheet of paper with literature about the candidate or offer them an absentee ballot. Other than that, you probably will not talk to or hear from this person until Election Day. Campaigns use this model because it works, but I also think it is broken.
 

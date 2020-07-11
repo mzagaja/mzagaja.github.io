@@ -3,7 +3,6 @@ layout: post
 title: Meetup.com is Dead
 tags:
 - Code for Boston
-comments: on
 ---
 We are now approaching four months of virtual Meetups for [Code for Boston](https://www.codeforboston.org) and have settled into our new format. Our projects are continuing and we have even spun up two new ones. Since the start of the organization our biggest source of new members has been Meetup.com. A week or two into virtual Meetups I noticed something: we stopped getting new members from Meetup.com.
 

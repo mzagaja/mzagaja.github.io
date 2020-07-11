@@ -6,7 +6,6 @@ tags:
 - Rails
 - Ruby
 - VPS
-comments: on
 ---
 This seemed like a simple thing to do when I watched a [30 minute video on it](http://confreaks.tv/videos/railsconf2014-deploying-rails-is-easier-than-it-looks). Unfortunately it has been more of a learning experience than I hoped. A minor difference in a file that Ubuntu includes by default meant that the documentation for Phusion Passenger 4 was not correct. I spent a lot of time trying to figure out how to get environmental variables working in my deployment, and my [solution is now on Stackoverflow](http://stackoverflow.com/questions/28912407/phusion-passenger-4-nginx-cannot-see-environment-variables-in-ubuntu-linux/28917445#28917445).
 

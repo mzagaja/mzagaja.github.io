@@ -4,7 +4,6 @@ title: Teaching our Children to Code
 tags: 
 - Computer Science
 - Education
-comments: on
 ---
 It is Computer Science Education Week and many of the other blogs and people I follow on twitter have been linking to the [Code.org](http://code.org) video and resources. Codecademy released a [neat iOS application](https://itunes.apple.com/us/app/codecademy-hour-of-code/id762950096?mt=8) as well. However despite all this hoopla I was surprised to learn how far there is to go.
 

@@ -2,7 +2,6 @@
 layout: post
 title: Job Hunting
 tags: []
-comments: on
 ---
 There are few things stranger in this world than job hunting. The problem with job hunting is that no two people end up in the same place in the same manner. Almost all my jobs from my computer consulting days in high school through my current job at the University of Connecticut have been primarily the result of people asking me to work for them because I had a skill they desired. In college my job search process for summer internships largely involved sitting at my desk and deciding which of the multiple offers to take. Unfortunately things are not quite that easy post law school.<!--more-->
 

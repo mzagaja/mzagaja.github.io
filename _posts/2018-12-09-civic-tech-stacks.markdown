@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Civic Tech Stacks
-comments: on
 ---
 Mark Headd shared an interesting thought on Thursday:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thursday hot take: a limiting factor on the ability of <a href="https://twitter.com/hashtag/civictech?src=hash&amp;ref_src=twsrc%5Etfw">#civictech</a> to help improve government digital services is the dearth of experience (and interest) in the tech stacks most commonly used inside government agencies.</p>&mdash; Mark Headd (@mheadd) <a href="https://twitter.com/mheadd/status/1070695685543157762?ref_src=twsrc%5Etfw">December 6, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Finding Different Limits
-comments: on
 ---
 As part of preparing for my half-marathon in October I have started to experiment with different equipment load outs and also a new training regimen. I initially attempted to follow the training guide in the Nike Run app that Nike made for the iPhone but found this app inadequate for day to day use compared to the built in Apple app. However, the training plan option is one I am following for general training without using their app.
 

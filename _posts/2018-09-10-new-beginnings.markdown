@@ -1,7 +1,6 @@
 ---
 layout: post
 title: New Beginnings
-comments: on
 ---
 While autumn does not technically begin until September 20th, in my mind it starts after Labor Day. After years of going to school I have come to associate September with new beginnings. This year the new beginning involves the departure of my manager at [MAPC](https://www.mapc.org/). 
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: What We Do Not Do Well
-comments: on
 ---
 When we run Code for Boston the majority of our new members find our group on Meetup and do not have a great understanding of who we are or are. In order to help people understand what we do we run an orientation session for all the new members. It helps them understand our organization and how we work. We spend most of this orientation explaining what we do, but we also spend a good part of it explaining what we do not do.
 

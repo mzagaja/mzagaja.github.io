@@ -6,7 +6,6 @@ tags:
 - Ezra Klein
 - Technology
 - News
-comments: on
 ---
 Ezra Klein has some great thoughts on the future of news and what has worked at Vox.com in this video:
 

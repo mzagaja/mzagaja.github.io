@@ -2,7 +2,6 @@
 layout: post
 title: Blog Changes and Building a Choropleth using D3.js
 tags: []
-comments: on
 ---
 As you can see this blog is going through a bit of a transition at the moment. I have decided to move the blog off my shared hosting provider and onto an Amazon S3 static bucket. I have transferred the blog from Wordpress to something called [Jekyll](http://jekyllrb.com). In a nutshell this means that the blog will load more quickly.[^1] It also means I will save a lot of money every month on shared hosting. I already have been hosting the website for [What's Next](http://www.wnext.net) on an S3 bucket and it has worked quite well. There are still images for me to fix and some other things to clean-up and migrate so if something is not working please feel free to leave a comment.
 

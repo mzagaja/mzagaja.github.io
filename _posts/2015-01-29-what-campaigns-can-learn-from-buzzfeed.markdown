@@ -6,7 +6,6 @@ tags:
 - Technology
 - YouTube
 - Social Media
-comments: on
 ---
 >"The future is already here — it's just not very evenly distributed." - William Gibson
 

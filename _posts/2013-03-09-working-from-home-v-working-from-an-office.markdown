@@ -2,7 +2,6 @@
 layout: post
 title: Working from Home v. Working from an Office
 tags: []
-comments: on
 ---
 It is surprising to me how much the debate over working at home versus an office has blown up in recent days. For years different companies and organizations have had varying policies and positions on this issue, but once Yahoo!'s new CEO Marissa Mayer issued an edict ending work at home policies for a small number of employees, there was a strangely large backlash. Business owners, employees, and management theorists all wasted a lot of energy trying to convince people who there was some kind of answer to this. They are wrong. Working from home is something that will work for some companies and employees, but not for others.
 

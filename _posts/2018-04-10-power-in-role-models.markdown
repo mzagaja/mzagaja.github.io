@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Power is in the Role Models
-comments: on
 ---
 When people say something cannot be done one of the best ways to disprove that is to do it. Nowhere do I think this is more true than in the field of energy where organizations are fighting climate change. A few interesting role models that came across my desk this morning include:
 

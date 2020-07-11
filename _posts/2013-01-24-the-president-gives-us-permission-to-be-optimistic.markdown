@@ -2,7 +2,6 @@
 layout: post
 title: The President Gives us Permission to be Optimistic
 tags: []
-comments: on
 ---
 Over the weekend I made the pilgrimage to Washington D.C. for the inauguration of President Barack Obama. Attending an inauguration in a packed city is not a simple logistical feat. Many roads are closed and the metro is jam packed with people. Luckily some law school friends of mine rent an apartment about ten blocks from the Capitol, and they let me crash there the night before. I only had to wake-up at 8 a.m. for President Obama's noon speech. The wait was long and cold. I was tired. However I was happy to be there.
 

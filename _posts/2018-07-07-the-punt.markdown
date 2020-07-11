@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Punt
-comments: on
 ---
 One of the biggest cultural transitions from working a political campaign to working in government and running Code for Boston is that I am no longer surrounded by Type AAA personalities that all want to be leaders. When I worked for the Connecticut Democratic Party you would go to a meeting and folks would fight for their ideas. There would be a battle for the floor in meetings. People would press each other to make decisions. This difference in personality brings a lot of strengths to the group. Empathy, compassion, and openness. However it also leads to one pattern that is very challenging: the punt.
 

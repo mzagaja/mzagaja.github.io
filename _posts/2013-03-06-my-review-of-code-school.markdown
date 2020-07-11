@@ -2,7 +2,6 @@
 layout: post
 title: My Review of Code School and Thoughts on Online Learning
 tags: []
-comments: on
 ---
 Now that I have completed the majority of lessons on Codecademy I decided to head over to another online learning platform, Code School, to learn the Rails framework for the Ruby language. So far I have completed three lesson sets at Code School: Try Ruby, Try Git, and Rails for Zombies. These lessons were good, but in some places it was harder to navigate than Codecademy.
 

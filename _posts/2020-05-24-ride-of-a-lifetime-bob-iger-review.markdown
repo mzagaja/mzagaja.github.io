@@ -3,7 +3,6 @@ layout: post
 title: Ride of a Lifetime Review
 tags:
 - Book Review
-comments: on
 ---
 I am a sucker for books about founders and companies. The diversity of stories about businesses and the people that built them leads to a genre that is often fresh, although it can also be littered with duds and platitudes. This one was full of stories and wisdom. [Ride of a Lifetime by Bob Iger](https://amzn.to/2ZDR2iB) was an interesting read that gives Disney fans a peek behind the thinking of where the company is today.
 

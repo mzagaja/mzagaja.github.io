@@ -5,7 +5,6 @@ tags:
 - Security
 - Coding
 - Development
-comments: on
 ---
 Is your computer or software secure? Despite what the experts or vendors want to tell you, the answer is probably no. This point was driven home to me yesterday when [Citizen Lab published a report on three iPhone exploits](https://citizenlab.org/2016/08/million-dollar-dissident-iphone-zero-day-nso-group-uae/). These exploits are called 0-days because it has been 0 days since they were known to the public and security researchers. These exploits fetch a large price on the private market and the only reason the intended target was not infected is because he was suspcious of the link. No software updates or other measures can defend you against a properly executed 0-day. It is up to you to reocgnize an attempt to infect you and be vigilant.
 

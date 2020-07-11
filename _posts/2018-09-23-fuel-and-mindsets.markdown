@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Fuel and Mindsets
-comments: on
 ---
 Yesterday I went for my last long practice run before the B.A.A. Half Marathon. It was an entirely different experience from the first practice run a week before then. The difference in that experience translated into a material improvement in my pace. I went from an 8’34” pace feeling miserable to an 8’04” pace ending feeling comfortable. I learned an important lesson: fuel matters.
 

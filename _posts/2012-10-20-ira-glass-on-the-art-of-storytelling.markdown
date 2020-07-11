@@ -2,7 +2,6 @@
 layout: post
 title: Ira Glass on The Art of Storytelling
 tags: []
-comments: on
 ---
 Ira Glass is the host of the show This American Life on NPR. He is renowned for his storytelling and his advice can be applied to many fields beyond radio or video. A quote in the third video applies to almost anything, and has echoes of Malcolm Gladwell and his book Outliers: "the most important thing you can do is to do a large volume of work; it's only through doing that large volume of work that you're going to close that gap and your work will be as good as your ambitions."
 

@@ -2,7 +2,6 @@
 layout: post
 title: Chris Murphy's Town Hall on Jobs
 tags: []
-comments: on
 ---
 
 

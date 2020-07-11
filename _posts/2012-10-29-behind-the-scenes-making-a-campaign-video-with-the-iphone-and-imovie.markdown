@@ -2,7 +2,6 @@
 layout: post
 title: 'Behind the Scenes: Making a Campaign Video with the iPhone and iMovie'
 tags: []
-comments: on
 ---
 One of the things that I have been encouraging candidates to do over the past few years is leverage video on YouTube to communicate campaign messages to their constituents. The other day I finally had the opportunity to help make the first one. Since we were unable to secure much in the way of professional equipment the video was recorded using my iPhone 4S and overall the quality was pretty good. The two main barriers to making a professional recording with the iPhone are getting good quality audio and stabilizing the phone with a tripod.<!--more-->
 

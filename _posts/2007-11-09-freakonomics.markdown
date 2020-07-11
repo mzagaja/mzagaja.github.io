@@ -2,7 +2,6 @@
 layout: post
 title: Freakonomics
 tags: []
-comments: on
 ---
 <p><img align="left" src="http://www.zagaja.com/images/110807_2048_Freakonomic1.jpg" alt="" />From the New York Times website I discovered the <a href="http://freakonomics.blogs.nytimes.com/">Freakonomics Blog</a> which lead me to buy the book the blog is based off of. I also managed to finish the book today, and I must say it is as good as I expected. A collection of interesting anecdotes, data, and adventures that challenge preconceived notions about a large variety of things. It emphasizes the importance of properly looking at data and its context, not just using correlation. My favorite chapter was the one where they utilized data from the Chicago Public School System to ferret out cheating teachers. The chapter showed a problem with standardized testing and did an excellent job of demonstrating the effect of incentives on the actions of people we might not consider in a situation. I am personally not a big fan of standardized testing, but it does have its upsides and provides administrators with important data.
 </p>

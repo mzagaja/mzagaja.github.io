@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Experiencing the BAA 5K
-comments: on
 ---
 The morning is early. I look outside. The unrelenting winter gave way to a respite of spring. My outfit is laid out from the night before. Synthetic shirts and shorts designed to wick sweat from my body. No shower is necessary. I rinse my hair and change into my uniform. I load my phone into its armband and set my playlist. I open a KIND bar, the familiar taste of peanut butter giving my body the calories it craves. My friend is visiting. It is early but worth it because it is a morning for friends.
 

@@ -5,7 +5,6 @@ tags:
 - Aetna
 - Mark Bertolini
 - Data
-comments: on
 ---
 From [The New York Times](http://www.nytimes.com/2015/03/01/business/at-aetna-a-ceos-management-by-mantra.html):
 >Dr. Reisman saw that the practices had helped his boss recover, but he was not convinced. “Because you’re doing yoga, everyone has to do yoga?” Dr. Reisman shot back, as recalled by Mr. Bertolini.

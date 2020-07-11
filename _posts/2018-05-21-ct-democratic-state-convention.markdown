@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Begun the Campaign Season Has
-comments: on
 ---
 This past weekend was the Connecticut Democratic State Convention in Hartford. When I was younger I attended the state convention all the time and even had the opportunity to go on the floor as a delegate once. Now that I live in Cambridge I have to watch this through the eyes of others. It was a surprising challenge.
 

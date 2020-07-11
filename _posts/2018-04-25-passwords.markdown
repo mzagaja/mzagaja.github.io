@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Password Life
-comments: on
 ---
 One of the biggest banes of my existence is dealing with passwords. In order to manage my collection I have an app called [1Password](https://1password.com) that mostly takes care of my password management. However they recently released a new beta version that has proven to be buggy. Ironically I attempted to report the bugs in their beta form and after filling out their form failed to login. Then I attempted to recover my password by putting in my username and did not get a reset email. Maybe it went to an email address I no longer own. Either way I instead decided to report my bug via twitter.
 

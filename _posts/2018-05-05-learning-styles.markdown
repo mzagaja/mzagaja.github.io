@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Learning Styles
-comments: on
 ---
 By far my favorite way to learn a new subject is to find a well written book or tutorial on it. I have spent many years learning about software development but did not find it to be a true joy until I found [Michael Hartl’s Rails Tutorial](https://www.railstutorial.org). I have attempted to watch and follow online courses but have found that I do not retain the information as well. I made a couple of failed attempts to learn Swift using Stanford’s online course but found picking up [the professor’s book](https://pragprog.com/book/d-dsswift/a-swift-kickstart-second-edition) to be much easier to follow. I found the same be true of [learning automated testing with RSpec](https://pragprog.com/book/rspec3/effective-testing-with-rspec-3). It becomes easy to figure out why companies like O’Reilly Media do so well. 
 

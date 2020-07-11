@@ -3,7 +3,6 @@ layout: post
 title: What I Learned from Forbidden Research
 tags:
 - Conference
-comments: on
 ---
 Earlier this week I had the privilege of attending the [Forbidden Research](https://medium.com/mit-media-lab/rewarding-disobedience-ae194d9f0785#.ivfg17j7x) conference with others from Berkman Klein. There the speakers posed the question of "[h]ow can we most effectively harness responsible, ethical disobedience aimed at challenging the norms, rules, or laws that sustain society’s injustices?" This was explored both through panel discussions and also some announcements that were made at the conference. At the end of the conference I felt refreshed and motivated.
 

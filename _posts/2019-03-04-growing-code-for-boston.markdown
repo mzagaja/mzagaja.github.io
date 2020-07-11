@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Growing Code for Boston
-comments: on
 ---
 This week is looking to be the [highest number of RSVPs](https://www.meetup.com/Code-for-Boston/events/cflnsqyzfbhb/) we’ve ever had at Code for Boston. Instead of the usual 30–40 people we are going to have over seventy people attend our Meetup. This trend started a few weeks ago and I have raised our Meetup cap to compensate for the increased interest. Despite this, we still have a waitlist. After a year of steady attendance it looks like we may quickly hit a new level of participation.
 

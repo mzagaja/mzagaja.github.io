@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Building a Legislative Bill Tracking Site
-comments: on
 ---
 A year ago I started work on [bills.ctnewsjunkie.com](https://bills.ctnewsjunkie.com/), a place where people can express their opinions on bills before the Connecticut General Assembly. The nice thing about bills.ctnewsjunkie.com is its pretty simple. All you need to do is vote up or down a bill depending on if you like it. Then we display those votes so readers know how popular a bill before the Connecticut General Assembly is with the rest of readership.
 

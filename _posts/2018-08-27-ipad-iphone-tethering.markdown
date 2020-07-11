@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Magic of iPad and iPhone Tethering
-comments: on
 ---
 I recently came to discover that my iPad can tether to my iPhone Internet connection. This means that while I am on the red line to work I can use my iPad on the Internet to be productive. Suddenly work that I have been needing to do at home can be accomplished while I am in transit. I found a new block of useful time.
 

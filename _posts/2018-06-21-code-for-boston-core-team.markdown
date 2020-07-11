@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Monthly Core Team Meeting
-comments: on
 ---
 As part of being on the core team at Code for Boston we have a monthly meeting. The core team meeting happens on a Thursday night. This regularity enforces structure and accountability in moving things forward. We share a Google document that allows any member of core team to propose an agenda item for the meeting. We enforce a meeting time limit of 90 minutes because any meeting that goes longer than that will suffer from lack of attention. We have a time keeper that enforces sticking to our agenda and a note taker that records next steps.  This meeting is not brunch, we get together to focus on important things and we get them done.
 

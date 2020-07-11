@@ -2,7 +2,6 @@
 layout: post
 title: Two Strong Women
 tags: []
-comments: on
 ---
 Dear Wethersfield Friends, 
 

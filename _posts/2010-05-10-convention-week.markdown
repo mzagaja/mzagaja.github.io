@@ -2,7 +2,6 @@
 layout: post
 title: Convention Week
 tags: []
-comments: on
 ---
 This is the season for Democratic conventions in Connecticut. I will be serving as a delegate to the Judge of Probate Convention (a low key uncontested affair). I will also be serving as a delegate for John Larson, the Congressman I interned for in Washington DC.
 

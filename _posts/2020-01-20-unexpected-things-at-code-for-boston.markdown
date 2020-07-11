@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Unexpected Things at Code for Boston
-comments: on
 ---
 At Code for Boston we try lots of experiments to make the Meetup better. Some of the results of them are obvious, but many have surprised me. Yesterday I pulled together a list of ones that I can recall and made a [twitter thread](https://twitter.com/mzagaja/status/1218982692982792192). I also wanted to share and expand on them below:
 

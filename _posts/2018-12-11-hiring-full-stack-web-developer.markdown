@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Hiring a Full Stack Web Developer
-comments: on
 ---
 At MAPC I am currently running the hiring process for a [Full Stack Web Developer](https://www.governmentjobs.com/careers/mapc/jobs/2247978/full-stack-web-developer). If you thought trying to get a job was tough, hiring is also an equally challenging endeavor. It involves negotiation, meetings, and lots of phone calls. In this process I have been surprised at how many job candidates miss the basics.
 

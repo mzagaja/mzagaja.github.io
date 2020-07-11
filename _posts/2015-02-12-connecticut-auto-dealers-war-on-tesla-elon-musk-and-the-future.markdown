@@ -5,7 +5,6 @@ tags:
 - Tesla
 - Elon Musk
 - Auto Dealers
-comments: on
 ---
 Connecticut Auto Dealers have declared war on Tesla Motors. Lead by Jim Fleming they are deploying a [cynical and misleading public relations campaign](http://jalopnik.com/connecticut-car-dealers-have-a-stupid-anti-tesla-websit-1684683395) against America's newest domestic manufacturer of automobiles. Their bone of contention is [S.B. 198 An Act Concerning Electric Vehicles](http://www.cga.ct.gov/asp/menu/CommDocTmyBillAllComm.asp?bill=SB-00198&doc_year=2015) and [H.B. 6682 An Act Concerning the Licensing of New and Used Car Dealers](http://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2015&bill_num=6682). S.B. 198 is more narrow and would create an exemption for Tesla while H.B. 6682 is a little more broad. The passing of either bill would be a win for consumers and for making Connecticut a more friendly place for innovators and start-ups.
 

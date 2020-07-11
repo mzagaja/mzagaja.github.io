@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Reproducibility Challenge
-comments: on
 ---
 One of the biggest challenges in diagnosing technology problems is reproducibility. If a screen breaks then it is easy to see and fix. However if you have an intermittent software problem then it can be hard to show the engineers its occurrence when you complain. The same thing happened to me yesterday with my oven. It has been overshooting its temperature after a while but the technician could not reproduce the issue. I am still stuck with a broken oven.
 

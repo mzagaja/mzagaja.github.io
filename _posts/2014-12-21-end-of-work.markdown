@@ -3,7 +3,6 @@ layout: post
 title: The End of Work?
 tags: 
 - Work
-comments: on
 ---
 >Lawrence H. Summers, the former Treasury secretary, recently said that he no longer believed that automation would always create new jobs. “This isn’t some hypothetical future possibility,” he said. “This is something that’s emerging before us right now.”
 

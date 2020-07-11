@@ -2,7 +2,6 @@
 layout: post
 title: My Review of Codecademy
 tags: []
-comments: on
 ---
 I have been actively using <a href="http://www.codecademy.com/">Codecademy</a> for the past month or so. For those that are not aware, it is an online learning platform for people who are interested in learning to code. It took off when leaders like New York Mayor Michael Bloomberg pledged to take part in their 2012 <a href="http://www.codeyear.com/">Code Year initiative</a>. I played with it a bit but in law school did not have a ton of time to dedicate to the lessons. Now that is over I have taken the plunge to finally learn Javascript, jQuery, and now Ruby.
 

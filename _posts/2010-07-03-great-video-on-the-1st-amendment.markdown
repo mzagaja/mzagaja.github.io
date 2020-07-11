@@ -2,7 +2,6 @@
 layout: post
 title: Great Video on the 1st Amendment
 tags: []
-comments: on
 ---
 A great video from the <a href="http://1forall.us/">1 for All</a> campaign working to raise awareness of the first amendment.
 

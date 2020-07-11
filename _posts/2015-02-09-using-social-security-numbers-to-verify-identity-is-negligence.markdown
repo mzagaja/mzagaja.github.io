@@ -5,7 +5,6 @@ tags:
 - Data
 - Anthem
 - Security
-comments: on
 ---
 [Bruce Schneier on identity theft in 2005](https://www.schneier.com/blog/archives/2005/04/mitigating_iden.html):
 >The second issue is the ease with which a criminal can use personal data to commit fraud. It doesn't take much personal information to apply for a credit card in someone else's name. It doesn't take much to submit fraudulent bank transactions in someone else's name. It's surprisingly easy to get an identification card in someone else's name. Our current culture, where identity is verified simply and sloppily, makes it easier for a criminal to impersonate his victim.

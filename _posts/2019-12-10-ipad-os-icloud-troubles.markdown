@@ -1,7 +1,6 @@
 ---
 layout: post
 title: iPadOS iCloud Troubles
-comments: on
 ---
 Lately I have been experiencing lots of problems with iPad OS on my iPad Pro. Many of these problems seem to relate to iCloud. When I am using an iCloud enabled application the app will lose their ability to sync with iCloud. The iCloud enabled documents will not load. This makes using iPad more frustrating and also gives me the Windows nostalgia that I did not miss. At least Apple support gave me a pattern to tackle these issues.
 

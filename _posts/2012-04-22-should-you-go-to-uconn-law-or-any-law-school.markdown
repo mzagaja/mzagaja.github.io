@@ -2,7 +2,6 @@
 layout: post
 title: Should you go to UConn Law? (Or Any Law School)
 tags: []
-comments: on
 ---
 Maybe.
 

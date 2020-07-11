@@ -2,7 +2,6 @@
 layout: post
 title: Surviving Sandy
 tags: []
-comments: on
 ---
 For all the hype Sandy did not have a huge impact on those of us in inland Connecticut. The damage in my area was fairly limited and we got our power back this morning. This stands in contrast to Irene where it took about a week for it to return. It seems the measures CL&amp;P and the state has taken have been effective. Cell service was never interrupted and everyone that purchased generators over the past year had an opportunity to test them out. Based on the current service levels I do not think CL&amp;P will win any medals, but maybe people will be less angry.
 

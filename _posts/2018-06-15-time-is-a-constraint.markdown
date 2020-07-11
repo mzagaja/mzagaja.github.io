@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Time is a Constraint
-comments: on
 ---
 From coding to organizing one of the most frequent ideas I see raised when attempting to solve a vexing challenge is “what if we throw more time at it?” It usually is phrased something more like “what if we do more of X” or “what if we do more of Y” where X or Y is some idea that on its own merits is a good idea. Sadly ideas do not exist in a vacuum and we only have twenty-four hours in a day. So either we find ideas that do not require tons of time or we eliminate them.
 

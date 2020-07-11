@@ -6,7 +6,6 @@ tags:
 - Communication
 - Campigns
 - NPR
-comments: on
 ---
 Yesterday I listened to [this NPR Science Friday segment](https://soundcloud.com/scifri/scientists-and-the-public-disagree-on-key-issues) on the [disagreement between scientists and the public on key issues](http://fivethirtyeight.com/datalab/theres-a-gap-between-what-the-public-thinks-and-what-scientists-know/). As I have been reading posts on Facebook and twitter about the measles outbreak and condemnation of people who do not vaccinate their children I asked myself, are these posts making a difference?
 

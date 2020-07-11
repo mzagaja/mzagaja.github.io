@@ -4,7 +4,6 @@ title: DJ Patil's Memo to the American People
 tags: 
 - Open Data
 - Data Science
-comments: on
 ---
 DJ Patil is well known in the data science community and I think it is great that the Obama Administration scooped him up to help with their data efforts. He has [outlined his role and the potential impact of data science today](http://www.whitehouse.gov/blog/2015/02/19/memo-american-people-us-chief-data-scientist-dr-dj-patil):
 

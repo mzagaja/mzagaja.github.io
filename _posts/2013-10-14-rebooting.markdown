@@ -3,7 +3,6 @@ layout: post
 title: Rebooting
 tags: 
 - Cycling
-comments: on
 ---
 After I got back from my trip to Las Vegas the other day I finally had a chance to try out the new cleats I bought for my cycling shoes. I use [Speedplay X 5](http://www.speedplay.com) pedals and have been pretty happy with them. Their best feature is that they're fairly easy to clip in and out of. However in the past month or so I'd been popping out of them with my right foot. A scary thing if you're going up a hill. When you use these pedals you are both pushing and pulling with your legs to get the bike to move. However after a twenty mile test ride the new cleats and regreasing the pedals seemed to fix the problem. So I put it through a real stress test yesterday: a 42 mile ride.
 

@@ -2,7 +2,6 @@
 layout: post
 title: 60 Minutes, Warby Parker, and Social Media Marketing
 tags: []
-comments: on
 ---
 60 Minutes is one of the most popular news shows on television and also one of the most tweeted news programs. I do not usually watch it live but Sunday night they had an interesting segment on the eyeware industry which I've embedded below:
 <object width="425" height="279" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://cnettv.cnet.com/av/video/cbsnews/atlantis2/cbsnews_player_embed.swf" /><param name="scale" value="noscale" /><param name="salign" value="lt" /><param name="background" value="#333333" /><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="flashvars" value="si=254&amp;&amp;contentValue=50132676&amp;shareUrl=http://www.cbsnews.com/video/watch/?id=7424700n&amp;tag=contentBody;storyMediaBox" /><embed width="425" height="279" type="application/x-shockwave-flash" src="http://cnettv.cnet.com/av/video/cbsnews/atlantis2/cbsnews_player_embed.swf" scale="noscale" salign="lt" background="#333333" allowfullscreen="true" allowscriptaccess="always" flashvars="si=254&amp;&amp;contentValue=50132676&amp;shareUrl=http://www.cbsnews.com/video/watch/?id=7424700n&amp;tag=contentBody;storyMediaBox" /></object>

@@ -8,7 +8,6 @@ tags:
 - News
 - Obama
 - Encryption
-comments: on
 ---
 Kara Swisher does a great job of interviewing Barack Obama on important issues in technology policy and law including encryption, diversity in technology, and immigration:
 

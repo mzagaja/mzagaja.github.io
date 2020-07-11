@@ -2,7 +2,6 @@
 layout: post
 title: On Citizens United v. FEC &amp; The Citizens' Election Program
 tags: []
-comments: on
 ---
 Imagine it is Election Day. You wake up, turn on your TV, and notice that every ad actually is a campaign commercial. You open up your bills. Inside is a candidate leaflet. Your credit card bill strongly suggests that you vote against your senator because heâ€™s making your interest rates go up. On TV pharmaceutical companies start peddling politicians instead of pills. It may seem strange today but after the Supreme Courtâ€™s ruling, if Congress doesnâ€™t act, it could become reality.
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Muscle Memory
-comments: on
 ---
 I have spent a lot of my life building new organizations and teams. When I was in college I started WPI’s chapter of the College Democrats. I spent a summer going into my sophomore year helping build the canvass team for now Gov. Malloy’s primary campaign against John Destefano. After I graduated law school I was a [campaign manager for a mayoral race in New Haven](http://www.newhavenindependent.org/index.php/archives/entry/matt_hires_matt/). All these roles involved helping organizations build muscle memory.
 

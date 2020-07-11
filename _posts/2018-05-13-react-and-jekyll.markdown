@@ -1,7 +1,6 @@
 ---
 layout: post
 title: React and Jekyll
-comments: on
 ---
 I have been spending my past week at work learning [React](https://reactjs.org) for the purpose of making an interactive website and overall have found it to be one of the easier Javascript frameworks to master. A key component of this is React has well written documentation. Despite the complexity of the concepts, they are fairly well explained. Given the current popularity of React there are also plenty of third party resources and StackOverflow posts on React related topics. It is clear that React has the wind at its back.
 

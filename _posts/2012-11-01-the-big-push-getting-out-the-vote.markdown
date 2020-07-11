@@ -2,7 +2,6 @@
 layout: post
 title: 'The Big Push: Getting Out the Vote'
 tags: []
-comments: on
 ---
 In political campaigns the next few days are known as the get out the vote effort. Since I am working it is hard to participate as much as I have in years past. It also has not helped that I've been fighting off a cold for the past week or so and it's gotten worse over the past couple days. However I am hoping to make it to a sign waving visibility for my state representative tomorrow morning. He is a good guy and these events are a fun way to get exposure and let people know that locals are enthusiastic about the campaign.
 

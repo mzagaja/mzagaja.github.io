@@ -2,7 +2,6 @@
 layout: post
 title: The Connecticut Media Bubble
 tags: []
-comments: on
 ---
 I recently received a fundraising plea from the CT Mirror claiming they have 60,000 unique visitors a month. I was shocked that the number was so low. This online news entity covers news of importance to the entire state and their monthly readership is less than the population of Hartford. Meanwhile the <a href="http://trb365.com/pdfs/hartford_overview.pdf">Hartford Courant claims 651,345 readers</a> with a majority of them reading the paper offline. With Connecticut's population sitting at 3.58 million people who means the Courant is reaching about 18% of the entire Connecticut population and the Mirror is reaching 1.7%. This is in spite of the fact that in <a href="http://www.internetworldstats.com/unitedstates.htm#CT">2010 86.5% of the state had an Internet connection and 47% had a Facebook account</a>.
 

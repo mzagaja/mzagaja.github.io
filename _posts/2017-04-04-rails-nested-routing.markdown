@@ -4,7 +4,6 @@ title: Some notes on Rails nested routing
 tags:
 - Rails
 - Routing
-comments: on
 ---
 Today I spent a lot of time trying to figure out how to organize a controller in Rails where we needed to filter based on some query params. I was initially inspired to follow a [pattern from DHH](http://jeromedalbert.com/how-dhh-organizes-his-rails-controllers/) which turned out to be a bit challening to follow due to some incomplete information in the original blog post. The first thing that the blog post had failed to explain was how to organize files in a situation with the co-controllers. The answer to this quesiton is that you setup a folder with the parent controller name and then name the .rb files after the sub-controller. So in the linked example the "Inboxes::PendingsController" class would go into app/controllers/inboxes/pendings_controller.rb. The second component is that in the routes.rb file you need to be aware that the nested route for the index action must come before the route for the parent resource's show method. So for example in [this commit I made](https://github.com/MAPC/youth-match-v2/pull/91/commits/ed6fd3860cd92882eb852ea790536911f568e66b) /applicants/interests works, but if I put line 12-14 below line 15, then it would try and find an applicant with the ID intersts and fail to do so.
 

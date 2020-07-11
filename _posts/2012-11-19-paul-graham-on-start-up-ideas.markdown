@@ -2,7 +2,6 @@
 layout: post
 title: Paul Graham on Start-up Ideas
 tags: []
-comments: on
 ---
 If you've ever been thinking about starting your own company and are interested in technology you probably follow Paul Graham. Today he posted his <a href="http://www.paulgraham.com/startupideas.html">essay on how to get ideas for your start-up company</a> and it's a great read:
 <blockquote>The way to get startup ideas is not to try to think of startup ideas. It's to look for problems, preferably problems you have yourself.

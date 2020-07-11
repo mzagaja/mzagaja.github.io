@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Where Automated Testing Would Have Helped
-comments: on
 ---
 Yesterday I went to implement a new feature in one of our applications and discovered that a previous feature broke with a certain kind of data input. After doing further investigation I discovered the error was due to a mistake in the fix of a merge conflict. A merge conflict is an issue that arises when a developer is trying to combine changes to a file from two places that are not compatible. Usually it is because the file was changed in both places.
 

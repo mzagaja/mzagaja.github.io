@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Augmented Reality
-comments: on
 ---
 Last night my colleague Eric shared the following tweet with me:
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Here’s a peek at what I’ve been working towards for the past few months. Introducing Retail AR, from Dent Reality. <a href="https://t.co/CpS0w3ZXYX">https://t.co/CpS0w3ZXYX</a> <a href="https://t.co/NZFZcjcQX1">pic.twitter.com/NZFZcjcQX1</a></p>&mdash; Andrew Hart (@AndrewProjDent) <a href="https://twitter.com/AndrewProjDent/status/981635577488519170?ref_src=twsrc%5Etfw">April 4, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 

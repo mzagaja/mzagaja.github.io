@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Biggest User
-comments: on
 ---
 One of the tensions in software is between ease of use and flexibility. A lot of companies attempt to build out easy versions of already established software and then market this to developers. Or alternatively they have already done a big chunk of complicated software development work for you and offer an API. An example of this would be the rapid prototyping that was enabled by the Sunlight Foundation’s APIs. You can build great products based on them, but eventually you run into their limitations.
 

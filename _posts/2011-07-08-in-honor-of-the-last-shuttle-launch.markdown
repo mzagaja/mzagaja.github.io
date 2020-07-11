@@ -2,7 +2,6 @@
 layout: post
 title: In Honor of the Last Shuttle Launch
 tags: []
-comments: on
 ---
 JFK's speech titled <em>We Choose to go the Moon</em>.
 

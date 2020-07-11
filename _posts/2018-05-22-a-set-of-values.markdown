@@ -1,7 +1,6 @@
 ---
 layout: post
 title: A Set of Values
-comments: on
 ---
 As I think about my own philosophy towards software development I think it is useful to consider it in the context of values. When trying to make decisions what are the yard sticks that are used to measure them? Here are some of the values I have and use in making my decisions:
 

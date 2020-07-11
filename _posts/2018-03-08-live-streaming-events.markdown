@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Live Streaming Events
-comments: on
 ---
 Last night I helped present a webinar for folks in the Code for America network about live streaming their events. Most of what I learned about YouTube and live-streaming came from my friend [Lon Seidman](http://lon.tv) whom I helped film and edit with at CES a couple years ago. You can spend a lot of money on live streaming but ultimately the goal is to get a decent picture of your presenter and really good audio.
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Elevator Pitch
-comments: on
 ---
 One of the biggest challenges of my work is communicating it. Both at [MAPC](https://www.mapc.org/) and [Code for Boston](https://www.codeforboston.org/) we do a lot of things that people do not have foundational knowledge about. When I meet people outside the technology industry for the first time and describe what I do, they need to have some kind of foundation in about thirty-seconds or they are going to get lost and confused quickly. They need the elevator pitch.
 

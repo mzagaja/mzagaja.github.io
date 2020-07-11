@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Sometimes the Struggle is Bad Writing
-comments: on
 ---
 After years of learning new things in fields like business, law, and software I have learned that the biggest variable in understanding something is the quality of writing and communication. Communicating well is hard and in technical fields not enough value is placed on good writing. Communities like Ruby are lucky to have folks like Michael Hartl and Sandi Metz that are gifted with the written word. All things being equal I will typically choose a tool or programming language that is better documented than one that is new and shiny.
 

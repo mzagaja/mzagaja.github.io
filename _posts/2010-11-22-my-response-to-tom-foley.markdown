@@ -2,7 +2,6 @@
 layout: post
 title: My Response to Tom Foley
 tags: []
-comments: on
 ---
 
 Today former GOP Candidate for Governor Tom Foley penned <a href="http://www.courant.com/news/opinion/hc-op-foley-election-promises-1121-20101121,0,144715.story">this Op-Ed piece</a> in the Hartford Courant about his experience in running for office. He talks about the process and explains this:

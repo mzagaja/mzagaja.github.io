@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Rhode Island Recommits to Failed Vendor
-comments: on
 ---
 This morning I saw the following tweet from Aaron Snow in my timeline:
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">😞<br><br>My guess is the sunk cost RI is really bowing to isn’t money, but time: they think “finishing” will be faster than starting over.<br><br>If anyone has even floated a better path forward, they’re probably terrified of it. “You mean we could fail twice?”<br><br>The devil you know. <a href="https://t.co/V4qLpMoBhb">https://t.co/V4qLpMoBhb</a></p>&mdash; Aaron Snow (@aaronsnow) <a href="https://twitter.com/aaronsnow/status/986929274006290434?ref_src=twsrc%5Etfw">April 19, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 

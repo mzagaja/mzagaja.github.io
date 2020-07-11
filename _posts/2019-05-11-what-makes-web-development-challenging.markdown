@@ -1,7 +1,6 @@
 ---
 layout: post
 title: What Makes Web Development Challenging
-comments: on
 ---
 When I first learned what we call web software development I was in middle school. I remember going to Barnes & Noble with my parents where I picked up a book called [HTML Goodies by Joe Burns](https://www.amazon.com/dp/0789726114/ref=cm_sw_r_cp_tai_kWR1CbA6CDBW0). HTML was magical. It took little effort to write a few lines of code that changes the presentation of your text on the screen. As I hit the limit of what I could do with HTML the arrival of Javascript let me sprinkle some magic into the site. A little learning lead to lots of magic.
 

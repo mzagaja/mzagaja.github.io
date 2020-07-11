@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Newcomers and Latecomers
-comments: on
 ---
 Every single week at Code for Boston we do two things for the new people that show up. The first is we have an introductory slide show with project pitches so that the new members know what is going on. The second is we hold an orientation session to familiarize them with Code for America and Code for Boston.  These two things work very well, but not for the latecomers.
 

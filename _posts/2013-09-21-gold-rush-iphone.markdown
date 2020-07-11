@@ -2,7 +2,6 @@
 layout: post
 title: Gold Rush - Upgrading to iOS7 and the iPhone 5s
 tags: []
-comments: on
 ---
 ### Upgrading to iOS 7
 

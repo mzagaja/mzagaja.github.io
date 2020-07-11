@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Chasing Ghosts
-comments: on
 ---
 One of the most annoying type of technology problems to battle are the ghosts. Ghosts are problems that appear, are easily fixed for a specific situation, and then later re-appear. Ghosts are persistent and they haunt you. It is incredibly challenging to debug ghosts because their trigger is usually unknown. My first step to handling ghosts is to list them.
 

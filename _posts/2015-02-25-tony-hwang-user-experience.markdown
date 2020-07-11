@@ -4,7 +4,6 @@ title: Tony Hwang Understands the Value of User Experience
 tags: 
 - Tony Hwang
 - User Experience
-comments: on
 ---
 From the [New Haven Register](http://www.nhregister.com/health/20150223/connecticut-lawmaker-wants-easier-access-to-hospital-infection-rates):
 >At the suggestion of a colleague who spoke at the hearing, Hwang agreed that an easy to access link on the DPH website or on each hospital website would be satisfactory and allow consumers to readily find the information.

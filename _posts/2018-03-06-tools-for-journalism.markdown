@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Tools for Journalism
-comments: on
 ---
 One of the places I think is ripe for innovation is journalism. That is why I have been working on some side projects with Doug and Christine of [CTNewsJunkie](http://www.ctnewsjunkie.com/). Last week we launched [bills.ctnewsjunkie.com](https://bills.ctnewsjunkie.com/), a tool for sharing your opinion about activity in the Connecticut legislature. We are using software as lever to help inform the public about their world.
 

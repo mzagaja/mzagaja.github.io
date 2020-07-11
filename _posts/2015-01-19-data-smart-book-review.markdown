@@ -3,7 +3,6 @@ layout: post
 title: Book Review - Data Smart Using Data Science to Transform Information into Insight
 tags: 
 - Data
-comments: on
 ---
 When I was working at the Connecticut Democratic Party last year we used algorithms to help us decide what voters to reach out to. I wanted to learn more about these algorithms, how they worked, and how they were made. Fortunately I discovered [John Foreman's Data Smart](http://www.amazon.com/gp/product/111866146X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=111866146X&linkCode=as2&tag=zagajacom-20&linkId=QG7ABTPTXKMQVUAD). Over the past few months I have set aside time to work through the examples and finally finished it last night. If you are interested in diving into the world of data science with little background, I strongly recommend this as an introduction.
 

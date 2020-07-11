@@ -4,7 +4,6 @@ title: Open Government is a Value that Liberals and Conservatives Share
 tags: 
 - Politics
 - Connecticut
-comments: on
 ---
 Some excerpts from today's Hartford Courant starting with their [editorial](http://www.courant.com/news/opinion/editorials/hc-ed-no-compromise-on-open-government-records-20131129,0,2949581.story):
 

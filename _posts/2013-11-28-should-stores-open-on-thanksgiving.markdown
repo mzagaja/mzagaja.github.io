@@ -5,7 +5,6 @@ tags:
 - Technology
 - Gadgets
 - Thanksgiving
-comments: on
 ---
 My friend Matt Lesser recently proposed a [bill to discourage retailers from opening on Thanksgiving](http://pac.petitions.moveon.org/workingfamilies/sign/save-thanksgiving-2). Although some people suggested Connecticut ban stores from opening the way Massachusetts does, Lesser proposed forcing employers to pay their employees triple overtime if they work on Thanksgiving. This would discourage the practice without banning it. It has been interesting to read the backlash including [the Courant editorial page](http://www.courant.com/news/opinion/editorials/hc-ed-gray-thursday-work-option-should-not-be-take-20131127,0,2542218.story) but I still agree with Lesser on this.
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Iterating Vote.CTNewsJunkie.com
-comments: on
 ---
 Over the weekend I continued updating [vote.ctnewsjunkie.com](https://vote.ctnewsjunkie.com/) which is the voter information site that I launched it with CTNewsJunkie two years ago. The site began with the idea that we wanted to provide a utility for people to find the candidates running for office and then read surveys that these candidates would fill out. No other media outlet has attempted to compile information about all the candidates running for office in the state, nor interview them all. We have learned a lot from doing this over two years.
 

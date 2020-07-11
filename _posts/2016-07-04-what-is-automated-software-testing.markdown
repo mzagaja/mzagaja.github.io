@@ -4,7 +4,6 @@ title: What is Automated Software Testing
 tags:
 - Software
 - Testing
-comments: on
 ---
 One of my goals when I started my fellowship at the Berkman Center for Internet and Society was to incorporate auotmated software testing into my workflow. Sections on automated software testing are included in popular tomes like the [Rails Tutorial](http://www.railstutorial.org) but these tutorials also will suggest that you can skip learning about testing. Many people often do. I think the main reasons people skip testing is that it is a second programming language to learn, and its purpose is not well explained. 
 

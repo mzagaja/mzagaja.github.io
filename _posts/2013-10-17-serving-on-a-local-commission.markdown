@@ -5,7 +5,6 @@ tags:
 - Government
 - Politics
 - Commissions
-comments: on
 ---
 Many people believe that politics and government are far removed from their daily lives. Some people's only exposure to civic involvement might be when a candidate knocks on their door. However there is another easy way to get involved locally. Towns and cities have commissions and committees that work on projects and are responsible for administering regulations in a wide variety of areas. This means that you can often find one that fits your skills and interests. In my home town of Wethersfield the members of these committees are people found and recruited by the political committees and then their appointments are usually confirmed by the town council. It is not often easy to find people to serve, so once a seat opens it is not hard for most citizens to get some kind of appointment.
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Review of the Herman Miller Aeron 2
-comments: on
 ---
 In March I developed some back issues while sitting in an old office chair. This lead me to finally give in and decide to order a new one. After reading [this article](http://thewirecutter.com/reviews/best-office-chair/) I made the decision that buying an office chair is an investment and procuring a cheap one would leave me disappointed. Once I decided upon that I just had to pick the right chair. While the Steelcase Gesture was favorably reviewed, I never had a chance to try it. I did try some Aeron's at the local start-up. They felt comfortable to me and given that I run hot, it seemed like the better fit. Since I was planning to own this for a long time I ordered [this Herman Miller Aeron v2](https://amzn.to/33xcmV1) with the following features:
 

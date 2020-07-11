@@ -2,7 +2,6 @@
 layout: post
 title: Putting the Scanner Companies Out of Business
 tags: []
-comments: on
 ---
 I was looking at buying a scanner like a <a href="http://www.fujitsu.com/us/services/computing/peripherals/scanners/scansnap/">Fujitsu ScanSnap</a>. They come highly rated and my thought was that it might tame the large amount of paper accumulating on my desk. However I recently became aware of scanner applications for the iPhone and decided to test a couple. The first one I tried was <a href="http://itunes.apple.com/us/app/jotnot-scanner/id310789464?mt=8">JotNot</a>. It worked decently but if there were too many folds or a document was crinkled then the text would get too light in parts. This made some of the scans unusable. After doing some research I saw people recommended <a href="http://itunes.apple.com/us/app/turboscan-quickly-scan-multipage/id342548956?mt=8">TurboScan</a> and so I gave that shot.
 

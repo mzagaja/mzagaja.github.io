@@ -4,7 +4,6 @@ title: A Controversial Opinion about Debt
 tags: 
 - Financial Advice
 - Millionaire Next Door
-comments: on
 ---
 There are lots of charlatan financial advisors out in the world that are waging a war on debt. In the strange world that these creatures inhabit, being able to own a yacht or ferrari at age 65 is much more exciting than taking a trip to Europe at age 25. Investing $60,000 in college to earn $46,000 is a much more rational decision than taking a job at $30,000 out of high school but you would not know it from the debt fearmongers. Some people say that money cannot buy happiness, but [the data does not support this](http://www.economist.com/news/international/21629423-emerging-markets-are-catching-up-west-happiness-stakes-everything).
 

@@ -3,7 +3,6 @@ layout: post
 title: Delegation versus Just Doing It
 tags:
 - Leadership
-comments: on
 ---
 One of the things that I consistently struggle with when I run organizations is deciding when to delegate something versus when to do it myself. A well functioning organization should have lots of people in it that can split the work and get things done without large amounts of intervention. However getting an organization to a point where it is well functioning is a challenge. In a well functioning organization people need the authority, time, and ability to get things done. When new people join an organization they often are still learning how things work. There is a cost to on boarding on both ends.
 

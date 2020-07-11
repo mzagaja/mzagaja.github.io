@@ -6,7 +6,6 @@ tags:
 - Cycling
 - Running
 - Community
-comments: on
 ---
 I am not a runner but I can appreciate the ING Hartford Marathon for its [positive impact on Hartford](http://www.courant.com/news/opinion/editorials/hc-ed-hartford-marathon-20131009,0,5259025.story). I have a few friends running in it and have been surprised to see friends from farther away in my Facebook feed make their way to Hartford for the event. People that run have a kinship with each other that I have seen in cycling and other activities that foster a sense of community. With the absence of Whalers Hockey, I think that this event is the one that puts Hartford on the map.
 

@@ -5,7 +5,6 @@ tags:
 - iPhone
 - Warranty
 - VISA
-comments: on
 ---
 How to save a little money, it works with most electronics:
 

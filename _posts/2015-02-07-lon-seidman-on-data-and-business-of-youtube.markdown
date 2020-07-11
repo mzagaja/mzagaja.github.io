@@ -4,7 +4,6 @@ title: Lon Seidman on Data and the Business of YouTube
 tags: 
 - YouTube
 - Data
-comments: on
 ---
 My friend Lon Seidman explains how he used data to learn about his YouTube audience and improve his videos:
 

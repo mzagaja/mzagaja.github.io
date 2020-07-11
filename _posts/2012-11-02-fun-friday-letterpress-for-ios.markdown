@@ -2,7 +2,6 @@
 layout: post
 title: 'Fun Friday: Letterpress for iOS'
 tags: []
-comments: on
 ---
 I used to be a big gamer but after college I have spent increasingly less time playing games. However I do enjoy some of the games that my iPhone and iPad can play. I have been hooked into the popular Words with Friends for a while and eventually relented and bought the ad free version. However my new favorite is a game called <a href="http://www.atebits.com/letterpress/">Letterpress</a>. Letterpress was designed by the developer of the program Tweetie that was later turned into the official twitter app (which then degraded in quality and now has been replaced by Tweetbot on my machines). The game board is similar to Zynga's scramble:
 

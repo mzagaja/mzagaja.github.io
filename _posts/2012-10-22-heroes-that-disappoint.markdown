@@ -2,7 +2,6 @@
 layout: post
 title: Heroes that Disappoint
 tags: []
-comments: on
 ---
 I did not play sports in high school. Running did not seem fun and most of the ball sports were difficult for me since I <a href="http://www.amazon.com/Fixing-My-Gaze-Scientists-Dimensions/dp/0465020739">cannot see in three-dimensions</a>. Since I do enjoy being outside I decided to take up cycling and with it I followed the Tour de France and adopted Lance Armstrong as my sports hero. Today Lance Armstrong was <a href="http://www.nytimes.com/2012/10/23/sports/cycling/armstrong-stripped-of-his-7-tour-de-france-titles.html">stripped of his seven Tour de France titles</a> because of overwhelming evidence that he participated in and propagated an elaborate doping scheme. It turns out that Armstrong was less of an athlete and more of a magician.
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Building a Process
-comments: on
 ---
 As part of a new generation of leadership at [Code for Boston](http://www.codeforboston.org/) my colleagues and I were charged with defining and building process for the organization. Some of this process was gifted to us via previous practice. Some of this process was thought out, and some of it was ad-hoc. Either way we thought we could be a better organization if we memorialize, communicate, and execute on our process.
 

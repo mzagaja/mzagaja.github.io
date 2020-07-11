@@ -4,7 +4,6 @@ title: How Twitter Data can Save Flood Victims
 tags: 
 - Data
 - Twitter
-comments: on
 ---
 Chris Moody tells some interesting stories about twitter and data at the beginning of this video:
 

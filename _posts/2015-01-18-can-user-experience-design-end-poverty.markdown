@@ -4,7 +4,6 @@ title: Can user experience design testing end poverty?
 tags: 
 - Data
 - Government
-comments: on
 ---
 In the cubicles of Silicon Valley companies like Google have departments dedicated to user experience, often abbreviated UX. Google believes that this field is so important that they developed the following video that explains what they do:
 

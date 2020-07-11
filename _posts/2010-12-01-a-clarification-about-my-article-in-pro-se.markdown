@@ -2,7 +2,6 @@
 layout: post
 title: A Clarification About My Article in Pro Se
 tags: []
-comments: on
 ---
 Recently I co-authored an article in the <a href="http://law.uconn.edu/">UConn Law</a> student newspaper <em>Pro Se</em> about the changes in the House of Representatives. Due to time constraints a rough draft I wrote was edited by the other author and put to print without a final check on the article by me. The final article is mostly correct. However it suggests that as a result of the election the Republican party is the dominant party in Washington. My interpretation would be that they are merely the dominant party in the House of Representatives, as the Democrats still control the executive branch and the Senate. Though there are certainly interesting arguments to be had in regards to which way the Supreme Court leans. For reference or those generally interested in a quick and dirty summary of the changeover in the house I've included my original rough draft below:
 

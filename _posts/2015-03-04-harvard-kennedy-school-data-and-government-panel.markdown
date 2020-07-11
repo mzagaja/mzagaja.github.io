@@ -5,7 +5,6 @@ tags:
 - DJ Patil
 - Data
 - Government
-comments: on
 ---
 Worth watching:
 

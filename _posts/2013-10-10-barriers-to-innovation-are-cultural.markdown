@@ -5,7 +5,6 @@ tags:
 - Innovation
 - Technology
 - Culture
-comments: on
 ---
 When I was a student at Worcester Polytechnic Institute we had to complete three projects in order to graduate. One project is called the IQP and is an interdisciplinary project designed to expose students to working with people in different fields. My project involved working with a start-up that wanted to create a social network that encouraged the installation of renewable energy systems.[^1] The entrepreneur had a website built and his intention was to have us spend time populating the site with information. This did not jive with the educational goals of IQP so our project advisor set it up so that we would research ways to improve the website. However retrospectively I think we were working on the wrong problem. The question wasn't how to create a website to encourage adoption, it should have been how to encourage adoption of renewable energy generally.[^2]
 

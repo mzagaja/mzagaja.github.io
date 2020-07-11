@@ -2,7 +2,6 @@
 layout: post
 title: This is my iPhone
 tags: []
-comments: on
 ---
 One of my favorite gadgets is my iPhone 4S. The great thing about the iPhone is that it is easily extendable with an array of applications. Surprisingly most people do not use many of these. So I decided to post some screenshots and descriptions of what apps I am using. Maybe you will find some new apps you enjoy. If you have recommendations please share them in the comments.
 

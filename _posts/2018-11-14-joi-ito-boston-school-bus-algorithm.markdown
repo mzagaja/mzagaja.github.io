@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Joi Ito on The Boston School Bus Algorithm
-comments: on
 ---
 An interesting piece of [background in WIRED](https://www.wired.com/story/joi-ito-ai-and-bus-routes/) on the Boston school bus algorithm:
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Running the B.A.A. Half Marathon
-comments: on
 ---
 Almost a year ago my friend Mandie asked me to do the BAA Distance Medley with her. I roped in another friend and as a result signed up for my first half-marathon. I had never run a half-marathon before and was not sure how well it would go. After a year of training including a month of getting up at 5:30 a.m. to run before work on Tuesdays, I made it to a place where I was ready for this challenge.
 

@@ -2,7 +2,6 @@
 layout: post
 title: Running for UCONN Graduate Student Trustee
 tags: []
-comments: on
 ---
 <p>Every two years graduate students at the University of Connecticut are given the opportunity to vote for someone to represent them on the <a href="http://boardoftrustees.uconn.edu/">Board of Trustees</a>. The Board of Trustees is the governing body of our university and the last word on university policies, procedures, and tuition.</p>
 <p>I want to serve as an advocate for graduate students across Connecticut. As an undergraduate I spent four years advocating for students as the founder of the Worcester Polytechnic Institute College Democrats. As President of the College Democrats of Massachusetts, I was responsible for fund raising, building relationships with other organizations, getting students resources, and successfully obtained representation for our group on the Democratic State Committee â€” the â€œboard of trusteesâ€ for the state Democratic Party. In one year I transformed our group into a well respected political organization in the state of Massachusetts.</p>

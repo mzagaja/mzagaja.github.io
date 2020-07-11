@@ -4,7 +4,6 @@ title: The Apple Watch Event
 tags: 
 - Mac
 - OS X
-comments: on
 ---
 This afternoon I watched the Apple Watch event. In addition to the watch Apple unveiled a new MacBook and refreshed their MacBook Pro with Retina Display. We finally learned about the widely variable pricing of the watches and their release date. Overall it was exciting to see the improvements but I am not sure what is going on with this new laptop.
 

@@ -2,7 +2,6 @@
 layout: post
 title: Bob Woodward Visits UConn Law
 tags: []
-comments: on
 ---
 ![Bob Woodward](/Images/2011/04/BobWoodward-300x225.jpg "Bob Woodward")
 

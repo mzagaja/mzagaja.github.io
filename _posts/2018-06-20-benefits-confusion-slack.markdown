@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Benefits and Confusion of Slack
-comments: on
 ---
 I do not remember when I became a user of [Slack](https://slack.com) but it has been one of the more transformative applications I have used. The setup and design of Slack is sticky. Technical and non-technical folks generally do not struggle to onboard to Slack. It keeps things separated and has lots of tools for keeping track of conversations. Slack is not perfect but it seems to be the least worst solution to email and communication overload. However there are some Slack things I struggle to understand.
 

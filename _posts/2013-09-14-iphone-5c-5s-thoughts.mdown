@@ -5,7 +5,6 @@ tags:
 - iPhone
 - Apple
 - Technology
-comments: on
 ---
 On Tuesday Apple unveiled the [iPhone 5c](http://www.apple.com/iphone-5c/) and [iPhone 5s](http://www.apple.com/iphone-5s/). The 5c is basically the same thing as the iPhone 5 but with a better camera and improved battery along with a color plastic shell. Meanwhile the 5s adds a fingerprint sensor to those improvements and uses a metal shell. It also has Apple's newest A7 processor and has a motion coprocessor whose capabilities will be interesting to see. Most of these improvements were not a surprise so the tech community seems to not be overly impressed with these gadgets.
 

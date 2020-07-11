@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Sometimes Delegation Works Better Than You Expected
-comments: on
 ---
 At Code for Boston I keep a backlog of projects that are ideas for the organization. Many of these tasks are not exciting or interesting to a large group of people, but they are valuable ways to move the organization forward. Usually I try and delegate these tasks to folks with varying degrees of success. Recently I delegated a task and it worked better than I expected.
 

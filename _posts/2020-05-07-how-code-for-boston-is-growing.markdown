@@ -1,7 +1,6 @@
 ---
 layout: post
 title: How Code for Boston is Growing
-comments: on
 ---
 It has been nearly two months since I received a note asking [Code for Boston](https://www.codeforboston.org/) to transition to virtual hack nights. Since this transition the leadership has been working hard to keep things going. While things have been different and there have been some bumps in the road, we continue to grow.
 

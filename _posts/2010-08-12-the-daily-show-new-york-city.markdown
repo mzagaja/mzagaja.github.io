@@ -2,7 +2,6 @@
 layout: post
 title: The Daily Show & New York City
 tags: []
-comments: on
 ---
 My freshman college roommate flew back east and invited me to go see <a href="http://www.thedailyshow.com/">The Daily Show</a> with some other friends from WPI. We got in line around 2 p.m. for the 6 p.m. taping. This gave us plenty of time to catch-up and shoot the breeze. Meanwhile the crew was rather supportive and handed out water to make sure everyone was well hydrated and let us into the studio a bit early. The studio is rather small and almost resembles being inside a warehouse. It seems to fit around two hundred people and luckily if you are able to get a seat you have a great view.
 

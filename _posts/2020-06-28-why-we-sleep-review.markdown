@@ -3,7 +3,6 @@ layout: post
 title: One Hundred Reasons to Sleep
 tags:
 - Book Review
-comments: on
 ---
 Why We Sleep by Matthew Walker gives you every reason you need to stop reading and take a snooze. The facts and ideas were interesting, but the writing was not. This skimmable tome tours a lot of research on sleep, some of it that [might be questionable](https://guzey.com/books/why-we-sleep/). Despite the criticisms, the message and conclusion are still solid: sleep is important and we should be getting more.
 

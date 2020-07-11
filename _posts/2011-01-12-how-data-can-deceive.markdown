@@ -2,7 +2,6 @@
 layout: post
 title: How Data Can Deceive
 tags: []
-comments: on
 ---
 <a href="http://www.zagaja.com/images/2011/01/TorringtonRegisterCitizen-GubernatorialResults2010.jpg"><img class="alignleft size-medium wp-image-92" title="Torrington Register-Citizen Gubernatorial Results Map 2010" src="http://www.zagaja.com/images/2011/01/TorringtonRegisterCitizen-GubernatorialResults2010-300x218.jpg" alt="Torrington Register-Citizen Gubernatorial Results Map 2010" width="300" height="218"></a>
 <a href="http://www.zagaja.com/images/2011/01/BigelowGubernatorialResultsMap2010.jpg"><img class="alignleft size-medium wp-image-93" title="Susan Bigelow Gubernatorial Results Map 2010" src="http://www.zagaja.com/images/2011/01/BigelowGubernatorialResultsMap2010-300x218.jpg" alt="Susan Bigelow Gubernatorial Results Map 2010" width="300" height="218"></a>

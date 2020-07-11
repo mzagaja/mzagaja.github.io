@@ -2,7 +2,6 @@
 layout: post
 title: The Torrington Register-Citizen Wins
 tags: []
-comments: on
 ---
 via <a href="http://jxpaton.wordpress.com/2011/03/14/i-promised-you-delivered-the-checks-are-cut/">Digital First</a>
 <blockquote>I Promised â€“ You Delivered â€“ The Checks Are Cut

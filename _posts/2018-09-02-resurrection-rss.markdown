@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Resurrection of RSS
-comments: on
 ---
 When Google Reader was popular I used to use it along with an app called Reeder for Mac that helped me keep track of my RSS feeds. I was recently excited to learn that [Reeder 3 is now free](http://reederapp.com). Given my increasing dissatisfaction with the updated Twitter, Facebook, and Apple News apps, I thought it would be worth trying again.
 

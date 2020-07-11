@@ -2,7 +2,6 @@
 layout: post
 title: 'Gadget Review: Logitech Ultrathin iPad Keyboard'
 tags: []
-comments: on
 ---
 I was recently lucky enough to get a <a href="http://www.amazon.com/gp/product/B007PRHNHO/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B007PRHNHO&amp;linkCode=as2&amp;tag=zagajacom-20">Logitech Ultrathin Keyboard</a><img style="border: none !important; margin: 0px !important;" alt="" src="http://www.assoc-amazon.com/e/ir?t=zagajacom-20&amp;l=as2&amp;o=1&amp;a=B007PRHNHO" width="1" height="1" border="0" /> for my iPad for my birthday. Getting an iPad keyboard was something I had been considering for a while and the Logitech model (along with <a href="http://www.amazon.com/gp/product/B00BUAJ8ZW/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00BUAJ8ZW&amp;linkCode=as2&amp;tag=zagajacom-20">ZAGG</a><img style="border: none !important; margin: 0px !important;" alt="" src="http://www.assoc-amazon.com/e/ir?t=zagajacom-20&amp;l=as2&amp;o=1&amp;a=B00BUAJ8ZW" width="1" height="1" border="0" />) seemed to have the most favorable buzz. After using the keyboard for a couple weeks I think it is a great addition to my gadget arsenal, but there are a few drawbacks.
 

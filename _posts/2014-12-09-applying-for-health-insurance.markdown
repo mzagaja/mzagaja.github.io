@@ -5,7 +5,6 @@ tags:
 - Access Health CT
 - Health Insurance
 - Obamacare
-comments: on
 ---
 My mission for today was to apply for health insurance for next year through our state health exchange website. Last year I went through this process and ended up calling the call center to help me through the process because it was confusing. Most of the questions are designed to be easily answered by people with simpler life situations. They know what their job is next year and live in a suburban house with their children. I however am a millennial that lives at home and I have no idea what I am doing for work next year as I continue to apply for things. I do not quite fit into the box they designed.
 

@@ -2,7 +2,6 @@
 layout: post
 title: Substance Marks Gubernatorial Campaign
 tags: []
-comments: on
 ---
 Recently democratic political consultant Jon Pelto <a href="http://www.ctnewsjunkie.com/ctnj.php/archives/entry/op-ed_hey_democrats_face_it_we_suck/">penned an op-ed for CT News Junkie</a> chiding the democratic candidates for governor for going negative. This was followed with some press and most recently a <a href="http://www.courant.com/news/opinion/hc-op-mcenroe-primaries-mud0704-20100704,0,6373057.column">column by Colin McEnroe in the Hartford Courant</a> raising similar issues. Specifically McEnroe has stated:
 <blockquote>I know what you're thinking: Is there no candidate who has managed to rise above all this petty squabbling, no candidate who can stop bickering long enough to address the massive and extremely boring structural financial problems pushing this state to the brink of ruin?

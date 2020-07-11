@@ -2,7 +2,6 @@
 layout: post
 title: Thoughts on Google+ Hangouts
 tags: []
-comments: on
 ---
 I have become increasingly impressed with Google+ as a platform. However, since not many of my friends are Google+ users, I have not extensively utilized the service. For the past year or so I have had only a passing familiarity with its Hangout feature. I had seen a video or two and even had some non-technical people recommend it to me. Since there did not seem to be a ton of interest among my friends I did not bother actually trying it until last night. The future continues to amaze me.
 

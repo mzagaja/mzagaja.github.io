@@ -2,7 +2,6 @@
 layout: post
 title: 'Must Read: The Battles of Dan Malloy'
 tags: []
-comments: on
 ---
 Part 1: <a href="http://www.ctpost.com/news/article/For-Malloy-first-year-is-one-of-storms-and-2342445.php">http://www.ctpost.com/news/article/For-Malloy-first-year-is-one-of-storms-and-2342445.php</a>
 

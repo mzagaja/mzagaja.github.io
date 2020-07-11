@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The More Sleep Experiment
-comments: on
 ---
 A year or two ago I experimented with quitting caffeine later in the afternoon to improve the quality of my sleep. This experiment was largely successful and now I rarely drink soda and I stop my coffee intake by early afternoon. Usually when I drink coffee I limit myself to two regular cups, if I have a third then it is decaf. This has greatly cut into my podcast consumption as I now typically fall asleep within 15 minutes of hitting the bed.
 

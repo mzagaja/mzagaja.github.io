@@ -2,7 +2,6 @@
 layout: post
 title: How The Internet and Mobile Will Change in 2013
 tags: []
-comments: on
 ---
 You can already see it, but the free ride is coming to an end. Up until now most Internet presence, content, and software has been subsidized by angels and venture capitalists, advertisers, or revenue from non-Internet sources. <a href="http://www.avc.com/a_vc/2012/11/what-has-changed.html">Some</a> <a href="http://blogs.wsj.com/venturecapital/2012/11/21/vcs-still-chasing-web-companies-but-with-less-cash/">recent</a> <a href="http://techcrunch.com/2012/11/30/i-see-a-glass-thats-twice-as-big-as-it-needs-to-be/">articles</a> suggest that the venture money is drying up. This means that companies that were providing free rides (such as facebook) have to start building up other revenue streams. For facebook and others advertising is the first place to look.
 

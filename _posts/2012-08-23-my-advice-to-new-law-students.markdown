@@ -2,7 +2,6 @@
 layout: post
 title: My Advice to New Law Students
 tags: []
-comments: on
 ---
 I found out that tonight starts the orientation for the new class at UConn Law. The Internet is full of advice for new law students, but I figured that my recent experience might help people that are still getting their bearings. Below are ten pieces of advice that I think might help. Good luck!
 

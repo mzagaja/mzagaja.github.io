@@ -2,7 +2,6 @@
 layout: post
 title: Morning Thoughts on Minimum Wage and Peak Jobs
 tags: []
-comments: on
 ---
 There has been ado about President Obama's move to increase the minimum wage to $9.00 an hour. In my freshman year economics classes at Worcester Polytechnic Institute I was taught that most economists agreed that having a minimum wage at all was a bad idea because employers will hire fewer people. However <a href="http://www.washingtonpost.com/blogs/wonkblog/wp/2013/02/14/why-economists-are-so-puzzled-by-the-minimum-wage/">this post at Wonk Blog</a> explains that there are some dissenting opinions. My general sense is that most companies are already paying above the minimum wage (at least in Connecticut) because workers will not accept less. For most companies the minimum wage is still too low to be consequential to their bottom line. For the rest of companies that are going to lay off employees or can no longer hire new workers, they are staring at a tipping point of profitability already and if it isn't the minimum wage that is going to knock it out of business then it will be rising commodity prices or tax and insurance costs.
 

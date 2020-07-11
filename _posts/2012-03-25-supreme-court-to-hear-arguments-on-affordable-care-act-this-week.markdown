@@ -2,7 +2,6 @@
 layout: post
 title: Supreme Court to Hear Arguments on Affordable Care Act This Week
 tags: []
-comments: on
 ---
 So far the best resource I've found is the <a href="http://www.scotusblog.com/category/special-features/health-care/">SCOTUS Blog</a>.The New York Times has <a href="http://www.nytimes.com/2012/03/26/us/in-supreme-court-health-care-case-training-for-a-legal-marathon.html">an interesting article</a> on the attorneys practicing for the oral arguments while Jeffrey Toobin at the New Yorker <a href="http://www.newyorker.com/talk/comment/2012/03/26/120326taco_talk_toobin">has an article as well</a>. We should have a decision by sometime in June.
 

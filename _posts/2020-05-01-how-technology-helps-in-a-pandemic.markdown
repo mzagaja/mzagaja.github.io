@@ -1,7 +1,6 @@
 ---
 layout: post
 title: How Technology Helps in a Pandemic
-comments: on
 ---
 As governments have been forced to change how they work in the wake of a global pandemic, technology has gone from a luxury to a lifeline. [School is now online](https://www.bostonpublicschools.org/Page/8157). Public meetings happen on Zoom. These solutions work, but do not work for everyone and are not happening everywhere. In order to be ready for the next pandemic Massachusetts must invest in digital literacy, broadband, and government digital services.
 

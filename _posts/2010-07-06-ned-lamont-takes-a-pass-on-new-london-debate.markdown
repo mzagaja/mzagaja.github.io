@@ -2,7 +2,6 @@
 layout: post
 title: Ned Lamont Takes a Pass on New London Debate
 tags: []
-comments: on
 ---
 When I wrote <a href="http://www.myleftnutmeg.com/showDiary.do?diaryId=12696">my post about substance marking the gubernatorial campaign</a> I guess I forgot to knock on wood. One of the things I most enjoy about these campaigns are the debates. Getting to see two candidates go face to face matching wits and intelligence. Though some argue that debates are too often press conferences and talking points, they also give us a chance to see how candidates might react to the unexpected. It is also an opportunity for candidates to really lay out and contrast their plans and policy to average voters that are not always paying as much attention to the issues as the process.
 

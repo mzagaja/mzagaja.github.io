@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Lessons Learned Re-learning Javascript
-comments: on
 ---
 Below are some lessons I have learned while re-learning Javascript since it has changed so much:
 

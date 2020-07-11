@@ -2,7 +2,6 @@
 layout: post
 title: Should Ned Lamont run for state representative?
 tags: []
-comments: on
 ---
 I thought that <a href="http://www.yourpublicmedia.org/node/20547">this interview</a> with UConn President Susan Herbst was exciting. I've been critical of the tuition raises at UConn especially in light of the current economic climate. However after President Herbst explained that many undergraduates were unable to complete their degrees in time and therefore were paying more I think that its more justifiable than it used to be. Herbst made a case for ambition and noted that here we have an uneasy relationship with it. Having spent four years in Massachusetts I think she managed to hit the nail on the head when it comes to our respective cultures.
 

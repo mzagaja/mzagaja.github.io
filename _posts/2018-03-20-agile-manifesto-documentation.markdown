@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Manifesto for Agile Software Development
-comments: on
 ---
 Last night I asked a friend about his organization’s approach to software documentation and he told me they follow [the Agile Manifesto](http://agilemanifesto.org). I did not quite understand what he meant but then he reminded me to look at the beginning:
 

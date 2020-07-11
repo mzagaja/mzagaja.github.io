@@ -8,7 +8,6 @@ tags:
 - Kevin Lembo
 - Toni Harp
 - Google Fiber
-comments: on
 ---
 With all the hype around Google Fiber it is easy to be jealous of people in places like Kansas City that have gigabit Internet. That is why I was glad to see that yesterday Comptroller Kevin Lembo and New Haven Mayor Toni Harp testified in favor of [An Act Concerning Gigabit Internet Access](http://www.cga.ct.gov/asp/menu/CommDocTmyBillAllComm.asp?bill=SB-00572&doc_year=2015). The bill itself is a placeholder so it takes some digging to figure out what exactly is happening. Fortunately the Office of Consumer Counsel and Comptroller's Office have both been putting out a lot of material on this effort that I describe and link below.
 

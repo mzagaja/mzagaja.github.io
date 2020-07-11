@@ -2,7 +2,6 @@
 layout: post
 title: Using LinkedIn
 tags: []
-comments: on
 ---
 I've never been much of a user of LinkedIn but I saw that they now offer an app called <a href="http://itunes.apple.com/us/app/cardmunch-business-card-reader/id478351777?mt=8">CardMunch</a> that converts a picture of a business card into a contact you can use on your phone. The app is easy to use: you just open it, take a picture, and then wait for it to go to the server for processing. When it comes back you have a fully usable contact that can be converted to an iPhone contact and if the person has a LinkedIn profile it will let you connect with them.
 

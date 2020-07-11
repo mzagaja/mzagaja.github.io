@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Rescue
-comments: on
 ---
 It happens in slow motion. Every week project leads pitch their project to the brigade members. This ritual gives everyone a chance to tell new members what is happening in their projects in their own words, and update their fellow brigade members. I listen to see what has changed. Every week I hear things change, except I notice one group is not. No worries, they’re just a little light this week. Another week passes. The slide is not updated. I hear the same pitch. I look over at the group after orientation. There is noise. Laughter. They must be doing something. I look at Slack and GitHub. There has not been a change since Columbus Day. I walk over to the project lead and we are about to have the conversation.
 

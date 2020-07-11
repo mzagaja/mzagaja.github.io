@@ -2,7 +2,6 @@
 layout: post
 title: The Decline of Journalism?
 tags: []
-comments: on
 ---
 I am a news junkie. My main sources of information are the New York Times (I subscribe), Wall Street Journal, NPR, and Hartford Courant, and <a href="http://www.ctnewsjunkie.com/">CT News Junkie</a>. I supplement that with news from my twitter and Facebook feeds. Among these sources the only one I pay for is the New York Times and I have a subscription to Wired magazine. The rest of these are free online. As a consumer this makes me happy because it saves me money and I get to enjoy these products without cost. Yet I think it may be destroying journalism.
 

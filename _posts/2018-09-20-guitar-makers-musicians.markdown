@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Guitar Makers and Musicians
-comments: on
 ---
 As a software developer one of the things I have noticed that my peers are passionate about are their tools. There are always new tools. Fancier tools. Different tools. Sometimes the tools are generic. Sometimes the tool is a new package manager or programming language to use. While I have a set of tools I use and I love them, I am not nearly as passionate about my tools as I am about building software for non-software people. Some people are passionate about making guitars, and others are passionate about making music.
 
