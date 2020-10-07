@@ -1,14 +1,19 @@
+@font-face {
+  font-family: 'Alice';
+  src: url('/assets/fonts/Alice-Regular.ttf') format('ttf');
+}
+
 body {
-  background-color: #FFFFFF;
+  background-color: #ffffff;
 }
 
 #banner {
-  color: #FFFFFF;
+  color: #ffffff;
   margin-bottom: 10px;
 }
 
 #banner h1 {
-  color: #FFFFFF;
+  color: #ffffff;
 }
 
 #banner a {
@@ -29,7 +34,7 @@ body {
 #top {
   width: 100%;
   max-width: initial;
-  background-color: #005B88;
+  background-color: #005b88;
   margin-bottom: 10px;
 }
 
@@ -46,7 +51,7 @@ code {
   padding-left: 0rem;
 
   &__description {
-    padding: 0 0 .5rem 0;
+    padding: 0 0 0.5rem 0;
   }
 }
 
@@ -76,18 +81,24 @@ code {
 }
 
 .read-more {
-  background-color: #005B88;
+  background-color: #005b88;
   color: #fff;
   margin-bottom: 2rem;
   padding: 10px;
 }
 
 .read-more:after {
-  content: "  \00BB";
+  content: '  \00BB';
   font-size: 24px;
 }
 
 .row {
   width: 50rem;
-  max-width: 100%
+  max-width: 100%;
+}
+
+p {
+  font-family: 'Alice', serif;
+  font-size: 18px;
+  line-height: 1.5;
 }
