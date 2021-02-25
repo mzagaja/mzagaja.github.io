@@ -1,3 +1,9 @@
+---
+layout: post
+title: Why Massachusetts Struggled to Make a Vaccine Website
+tags:
+  - Software
+---
 In 1872, a fire broke out in the basement of a warehouse on Summer Street in Boston. As flames spread to nearby buildings, Boston firefighters called for backup. Neighboring towns responded, only to discover that their hoses would not fit into the hydrants. The couplings that connect the hydrants to the hoses had not been standardized. This hampered the help the firefighters could give, and thirty people died. 776 buildings burned. Fast forward to 2021. Companies and governments are trying to share information about vaccine appointments. Their systems cannot connect with each other. People cannot get shots. The death toll is ongoing. History does not repeat itself, but it does rhyme.
 
 Why is government struggling to make a working vaccine registration website? Building software is challenging and requires experts to direct it. Massachusetts lacks professional development opportunities for its staff to develop the skills required to build modern software. Finally the government has yet to take leadership in establishing standards for the exchange of data within itself, never mind among a federation of private companies to which it delegated vaccine appointment responsibility.
