@@ -50,12 +50,14 @@ Subjects that were symptomatic or had a recent exposure.
 ## [Binax Now](https://www.fda.gov/media/147254/download)
 
 ### Study 1
+
 | Symptomatic |  | BinaxNow | Lab PCR |
 |:--|:--|:--|:--|
 | Sensitivity | 91.7% | 22 | 24 |
 | Specificity | 100% | 28 | 28 |
 
 ### Study 2
+
 | Symptomatic |  | BinaxNow | Lab PCR |
 |:--|:--|:--|:--|
 | Sensitivity | 84.6% | 99 | 117 |
