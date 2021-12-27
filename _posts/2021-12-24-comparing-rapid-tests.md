@@ -23,6 +23,7 @@ Subjects that were symptomatic or had a recent exposure.
 | Specificity | 100% | 79 | 79 |
 
 ## [Cue](https://www.fda.gov/media/138826/download)
+Cue Health conducted prospective studies at 4 urgent care locations and at 2 Cue Health locations to evaluate use of the Cue COVID-19 Test by lay users in a simulated home use environment. All subjects successfully followed the instructions in the Cue Health App to run the Cue COVID-19 Test, start to finish without any assistance.
 
 | Symptomatic and Close Contacts |  | Cue | Lab PCR |
 |:--|:--|:--|:--|
