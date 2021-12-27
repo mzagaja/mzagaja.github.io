@@ -23,6 +23,7 @@ Subjects that were symptomatic or had a recent exposure.
 | Specificity | 100% | 79 | 79 |
 
 ## [Cue](https://www.fda.gov/media/138826/download)
+
 | Symptomatic and Close Contacts |  | Cue | Lab PCR |
 |:--|:--|:--|:--|
 | Sensitivity | 91% | 22 | 24 |
