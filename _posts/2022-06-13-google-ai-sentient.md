@@ -1,0 +1,8 @@
+---
+layout: post
+title: Google Fires Engineer for Claiming AI is Sentient
+---
+From [The New York Times](https://www.nytimes.com/2022/06/12/technology/google-chatbot-ai-blake-lemoine.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuomT1JKd6J17Vw1cRCfTTMQmqxCdw_PIxftm3iWka3DLDm8YiPgYCIiG_EPKarskaNw00DCWAdRBOaMlQ-A3x-4aNUhkSATtppaBn5UDLmM1tYe3FCsQ7q76YIoZo3Xsf3Xrb6B23qG-tBaLdzS9W_aJhHYhOAk0ppp6cQuq0WhblPrBDuV32dh43PshVZ1_FiwSJ3Xf54meAB57MdWNbhna-1N2D7kfAWeP6Ibav7EQcwxSCkbES2d84ws_69BcPNAVNcXvPkJqOZq-0fhKVDsefMr-DIYxRoPUi7xvrbbMzBSMw8GxzPw8f75GMi_ZHMVNqbtyOihMqrUT4Q&smid=url-share):
+> For months, Mr. Lemoine had tussled with Google managers, executives and human resources over his surprising claim that the company’s Language Model for Dialogue Applications, or LaMDA, had consciousness and a soul. Google says hundreds of its researchers and engineers have conversed with LaMDA, an internal tool, and reached a different conclusion than Mr. Lemoine did. Most A.I. experts believe the industry is a very long way from computing sentience.
+
+As these algorithms get more clever they may pass the [Turing Test](https://en.wikipedia.org/wiki/Turing_test) but whether they are conscious or have a soul is a much deeper question than whether they can convince a single person of that. Or as Qui-Got Jinn once quipped in Star Wars, “[the ability to speak does not make you intelligent](https://www.youtube.com/watch?v=TUq6rGdfJSo).”
