@@ -1,0 +1,11 @@
+---
+layout: post
+title: The Value and Chaos of Keyboard Shortcuts
+---
+One of the ways you can [speed up software development](https://www.zagaja.com/2019/11/speed-up-software-development/) is to learn keyboard shortcuts. If you start searching you will discover your computer has way [more keyboard shortcuts than you ever imagined](https://support.apple.com/en-us/HT201236). Even more exciting is web applications like [GitHub have keyboard shortcuts as well](https://docs.github.com/en/get-started/using-github/keyboard-shortcuts). On many websites Shift+/ will reveal a screen of shortcuts. Unfortunately too many applications have different conventions for similar actions, and this makes keyboard shortcuts harder to learn.
+
+The best example is a quick open and command palette action. On GitHub’s website you can access these with Command + K or Shift + Command + K respectively. Try using Panic’s Nova text editor and it’s Shift + Command + O and Shift + Command + P. Same thing in Tower, but you’re hitting Shift + Command + A for a “Quick Actions” dialog which looks similar to a command palette. There is little consistency among apps and this makes learning these shortcuts more challenging.
+
+I wondered out loud why this might be, and a colleague astutely pointed out that many shortcuts for web applications have to avoid colliding with the shortcut namespace for their enclosing browser. They can’t have an open dialog with Command + O because it is already claimed for opening files, and Command + P is claimed for printing. The desktop shortcuts make more sense from an association standpoint (O = open, P = palette) while the web shortcuts are a compromise.
+
+There is no way to learn all keyboard shortcuts. Yet making similar shortcuts map to similar actions among apps would be a huge win to reducing the cognitive load of using and learning them. For now Mac users can configure their desktop application keyboard shortcuts in [System Preferences —> Keyboard —> Shortcuts](https://support.apple.com/guide/mac-help/create-keyboard-shortcuts-for-apps-mchlp2271/mac). I just wish they arrived more consistent out of the box. 
