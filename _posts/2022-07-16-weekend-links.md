@@ -1,0 +1,10 @@
+---
+title: Weekend Links
+layout: post
+---
+* [3D Printing Grows Beyond Its Novelty Roots](https://www.nytimes.com/2022/07/03/business/3d-printing-vulcanforms.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuomT1JKd6J17Vw1cRCfTTMQmqxCdw_PIxftm3iWka3DKDm4ZiO4IGImG9lzWIvFvIsMp3jKHRdlOdaEyQPd7yOFYJUl2DQm0p5_O0LI0HxIIk6PhFGUnw8CKGrki7T7hamT-d7tynObj7xzDbGXuCrjY1n1xOF029cZ6IFiqi3EMxP3ERbUmycA-ial6fu1yRjkKbCmJv_T6WV4paJjdMEaqukRhUPpZWDrTgdeZ97oEFQ1SAlvDR3h4in0uvJIeYJhEefaicGNzPZb2kr4TCWd3LYa2B5FXR4PclrtisrKlugWSbfKgVy3jy9temQEHE10k&smid=url-share) was an interesting read about how 3D Printing is getting better and the companies leading the way are in Massachusetts!
+* [A Technologist Walks into the U.S. Government](https://ssir.org/articles/entry/a_technologist_walks_into_the_us_government?utm_source=Publicate&utm_medium=email&utm_content=a-technologist-walks-into-the-us-government-ssir&utm_campaign=CFA+06.21) is where Victoria Houed shares some advice on how to nurture the tech talent to government pipeline. She was a TechCongress fellow.
+* [GDS is decommissioning its Heroku like PaaS](https://gds.blog.gov.uk/2022/07/12/why-weve-decided-to-decommission-gov-uk-paas-platform-as-a-service/); I [shared some thoughts on twitter](https://twitter.com/mzagaja/status/1547912850684780545?s=21&t=ebD3XDPaUL4OQyvYmBBe2Q). 
+* [Shareful](https://apps.apple.com/us/app/shareful/id1522267256?mt=12) is a wonderful extension to the MacOS share menu. Adds the much needed “copy” option to apps that were missing it among other things.
+* I enrolled in July’s [How to Boost Your Brain + Memory TED Course](https://courses.ted.com). Colleagues at work were excited to launch this new product and the content seems interesting. At $50 it’s not a bad deal to check out.
+* [Applications for TED2023](https://conferences.ted.com) in Vancouver, Canada are now open. Having staffed conference this past year, I can assure you its a top notch experience.
