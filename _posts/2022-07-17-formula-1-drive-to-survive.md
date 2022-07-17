@@ -1,0 +1,8 @@
+---
+title: Drive to Survive Gave Us Formula 1
+layout: post
+---
+From the [New York Times](https://www.nytimes.com/2022/07/14/magazine/formula-1-miami-drive-to-survive.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuomT1JKd6J17Vw1cRCfTTMQmqxCdw_PIxftm3iWka3DKDm8eiOEcDIGS-kHAIqRkfd4u2z3eHZpEMbYqRbl-1O5BMglxTEyzv4GamYoIZSUprIb5FkUH46XwZ5Fquzn7cjv-b-5l2Ly0ux_BbmngUfDU0iA-cAtmoI9idVigxX0KwPraFuAkitZ13vohBJF9Vi5AMHfRx4TgCBt0MNWFbhzOuEJhC6wCB2alzZPL4KkAcQ5SFVvDUHt6hG49495fM9sWV73te19iIIGtxOVMVRE7aduhFJYzRIPLlrR1sbGrqRaEzcK-x_9eB7wnRIoWClITQlDCMFqg0L2X&smid=url-share):
+> As Steiner was becoming wildly popular while his Haas team remained all but irrelevant, Christian Horner, the Red Bull team principal, took note. From the start, Horner has been one of the show’s most compelling characters, a charming but Machiavellian aristocrat shown feuding with Wolff, his counterpart at Mercedes, as their two teams battled for the championship last season, but also expertly riding a galloping horse on his country estate with his wife, Geri Halliwell, the Spice Girl. According to Bratches, Horner called Netflix early in the show’s run to say that if they sent a crew to Red Bull’s headquarters in southern England, he would make it worthwhile. “These guys are ridiculously competitive, and not just with the cars,” Bratches says. “We took advantage of that.”
+
+The smartest thing here is Gunther declining to watch the series. It’d be too tempting to turn things down or off if he saw it.
