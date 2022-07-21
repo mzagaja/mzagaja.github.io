@@ -1,0 +1,7 @@
+---
+title: Why Highlighting Your Code is So Challenging
+layout: post
+---
+One of the biggest improvements to working with code is switching to tools that use syntax highlighting. By giving different colors to parts of the code based on whether it’s a variable, class, method, etc. it becomes dramatically easier to read and understand. As a coder it is worth finding and switching to tools that do syntax highlighting. For the command line I like to replace cat with [bat](https://github.com/sharkdp/bat). Despite the clear value of this, many tools lack highlighting. Yesterday I found a post from Logan at [Panic](https://nova.app) as to [why it is so challenging to implement syntax highlighting in an app](https://devforum.nova.app/t/feedback-wanted-on-parsers-grammars-other-such-things/1592).
+
+The exciting conclusion is Panic announcing a [new beta version of its Nova text editor](https://twitter.com/panic/status/1547709243402248193?s=21&t=jaYGbXjg2fKIUkgK7D9GQw) that uses tree sitter for highlighting. Nova may not be as popular as VSCode, but it is my preferred editor. As a native Mac app it better follows the conventions of the operating system. It is performant, has plug-ins, and I do not know Mike at Panic but he responds to every single one of my support or feature requests. If you’re a Mac using software engineer and VSCode or Sublime Text feel a bit off to you, give Nova a try.
