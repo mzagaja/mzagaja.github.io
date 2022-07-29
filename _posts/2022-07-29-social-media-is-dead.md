@@ -1,0 +1,10 @@
+---
+title: Social Media is Dead
+layout: post
+---
+[Casey Newton interviewing Adam Mosseri](https://www.platformer.news/p/-instagram-walks-back-its-changes):
+> I think what is happening is people think of us as a feed app, because we started as a feed app. When we launched Instagram, there were no stories, there were no DMs. What's happened over the last decade is that how people share with friends has changed. It has shifted to stories, and it has shifted to DMs and to group chats. More photos and videos are shared in DMs in a day, then are shared into stories. And more photos and videos are shared into stories in a day than are shared to feed. I don't think connecting people with their friends and family is any less important to us than it was two years ago, or five years ago, or eight years ago. But how that works, and how we try and meet that need, has changed as how people communicate with their friends has changed.
+
+Much [disagreement exists with Mosseri](https://twitter.com/pierce/status/1552728641477525504?s=21&t=QUJ24O_Hyzqr28dJDvfklQ) on whether Instagram controls how the app is used. However what I see is lots of folks stopped posting public content to feeds. This has made social media like Facebook and Instagram less interesting. At the same time other folks that want to be influencers post lots of low quality content. For example TikTok now has a genre of videos of tech employees eating at their office dining halls. As the mix has shifted social media usage is going down. 
+
+Instagram is trying to save itself by beating YouTube. It wants to find and recommend good original content. This is not a bad idea, but it is a different experience from the original vision of social media. No matter what direction Instagram or other apps take, I think the era of social media as we knew it is over.
