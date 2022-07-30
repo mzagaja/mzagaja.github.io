@@ -1,0 +1,9 @@
+---
+title: Weekend Links
+layout: post
+---
+* [How a Coding Error Caused Rogers an Outage that Left Millions Without Service](https://www.theglobeandmail.com/business/article-how-a-coding-error-caused-rogers-outage-that-left-millions-without/) is an account of the Canadian Internet outage earlier this month.
+* [America’s Lawyerless Courts](https://www.americanbar.org/groups/law_practice/publications/law_practice_magazine/2022/july-august/americas-lawyerless-courts/) is a grim overview of how the lack of lawyers involved in a surprising amount of civil cases is impacting the legal system. The fact this article has not been in more mainstream publications is a bummer.
+* [Code for America highlights its first impact sprint cohort](https://discourse.codeforamerica.org/t/impact-sprints-introducing-our-very-first-cohort/1423). The [Urban League Heat Pump Accelerator project](https://www.zagaja.com/2022/07/urban-league-heat-pump-accelerator/) I am helping with is a part of this.
+* A [lengthy critique and analysis of Getting Things Done](https://www.newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done). Although it is a bit dated, I still use many of the methods from the original book. The most controversial seems to be inbox zero. I still follow this, but the most maddening thing is most external sources treat your inbox as if you do not, so everything gets multiple reminders now, making it harder to achieve inbox zero. I am ruthless at unsubscribing.
+* [Congress passed the CHIPS Act](https://www.axios.com/2022/07/28/chip-funding-bill-congress) which hopefully will be a good hedge against future chip shortages.
