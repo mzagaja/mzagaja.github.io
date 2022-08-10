@@ -1,13 +1,10 @@
 markdown: kramdown
 title: Zagaja.com
-paginate: 5
-paginate_path: /page/:num
-permalink: /:year/:month/:title/
 description: "Matt Zagaja's personal blog. Musings on politics, technology, and other geeky things."
 url: https://www.zagaja.com
 incremental: true
 plugins:
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-feed
 author:
@@ -22,3 +19,11 @@ algolia:
   application_id: ADZBG2997L
   index_name: jekyll
   search_only_api_key: b8c639bf58a56694e5b07d3b68d685b1
+pagination:
+  enabled: true
+  debug: false
+  collection: 'posts'
+  per_page: 5
+  ppermalink: /:year/:month/:title/
+  limit: 0
+  sort_reverse: true
