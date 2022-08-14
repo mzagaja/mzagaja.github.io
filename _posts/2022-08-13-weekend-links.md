@@ -1,0 +1,12 @@
+---
+title: Weekend Links
+layout: post
+---
+- Congratulations to Cori Zarek who [returns to the US Digital Service as its Deputy Executive Director](https://beeckcenter.georgetown.edu/pit-for-better-outcomes/).
+- Connecticut’s Office of Health Strategy contracted with UConn to build its health information system “in-house”. [It did not go well](https://ctnewsjunkie.com/2022/08/10/state-officials-nixed-health-information-network-computer-software-they-spent-20m-developing/). The article leaves us with some possibilities but no clear conclusion as to why. It does sound like they struggled to develop their custom system.
+- [Shrink projects to match leadership turnover rates](https://sboots.ca/2022/08/09/shrink-projects-to-fit-leadership-turnover-rates/) is some insightful advice from Sean Boots.
+- [For the love of God, hire a Designer and a Product Manager](https://federal-field-notes.ca/articles/2022-07-20-hire-a-designer-and-a-product-manager/) is a long explanation by Paul Craig of why these roles are so important for software teams.
+- [Washington Post built a fake metropolis to show how heat can wreck cities](https://www.washingtonpost.com/climate-environment/interactive/2022/heat-infrastructure-transportation/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9). Lots of these issues are painfully familiar to us in Boston over the past few weeks.
+- [Why Does the IRS Need $80 Million?](https://www.washingtonpost.com/opinions/interactive/2022/irs-pipeline-tax-return-delays/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9) is a good visual explanation of the current way the IRS handles paper tax returns.
+- If you ever wondered how software in automobiles works, [How I Hacked My Car](https://programmingwithstyle.com/posts/howihackedmycar/) is a geeky breakdown of the process of hacking a car’s operating system and adding an app to it. Not sure why they went with Qt for the user interface when [Tesla seems to use Ruby on Rails just fine](https://twitter.com/atomicthumbs/status/1032939617404645376?s=21&t=lXG6tcoISKQZKFanfiiM2g).
+- [Melrose, MA added cool retractable pole mounted EV chargers](https://www.theverge.com/2022/8/12/23301826/pole-mounted-chargers-ev-electric-vehicles-melrose-boston).
