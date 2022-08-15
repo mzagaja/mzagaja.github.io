@@ -24,6 +24,7 @@ pagination:
   debug: false
   collection: 'posts'
   per_page: 5
-  ppermalink: /:year/:month/:title/
+  # permalink: /:year/:month/:title/
+  permalink: /page/:num/
   limit: 0
   sort_reverse: true
