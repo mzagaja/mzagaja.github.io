@@ -3,7 +3,7 @@ title: Zagaja.com
 description: "Matt Zagaja's personal blog. Musings on politics, technology, and other geeky things."
 url: https://www.zagaja.com
 incremental: true
-permalink: /:year/:month/:title
+permalink: /:year/:month/:title/
 plugins:
   - jekyll-paginate-v2
   - jekyll-sitemap
