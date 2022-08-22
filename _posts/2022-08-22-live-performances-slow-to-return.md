@@ -1,0 +1,8 @@
+---
+title: Live Performance is Back but Audiences Have Been Slow to Return
+layout: post
+---
+From [New York Times](https://www.nytimes.com/2022/08/21/arts/performing-arts-pandemic-attendance.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuomT1JKd6J17Vw1cRCfTTMQmqxCdw_PIxftm3iWka3DFDmwbiO0PH5PH40rXa615Yto10HGSXsNadacmQvB_y-5UekVxVwSurpKCk5lDIzkwrcj7eFIK6K_3fOJy9y72PC7-If1jxba7slWPazK9Cq2O0Gkqd1livZdhIV-10CdfwbPPE-J_3dgt3qgiBJBqVHxXMnnxyvroDRR1MN2FawiNqVVlHrEEBkyA2IKU-LkCcw5NCFPZT3gZ4W406N9UO95_L7-oZld7O5K42eNNfzQueIS5BJQxRJzWn6FqsdPOqR-PzMm2wpYmBf8YVX65dcIYrZ25PteSxWc&smid=url-share):
+> “I’d be a liar if I said I was happy,” said Brian Kelsey, the managing director of Peninsula Players Theater in Door County, Wis., an area that is a popular Midwest vacation destination. “I don’t know if people are out of the habit, or unaware, or if the clientele that had come is now more interested in outdoor beer gardens, I just know that we’re definitely seeing a downturn.”
+
+We have had similar reflections at [Code for Boston](https://www.codeforboston.org) which has stubbornly remained below pre-pandemic participation. A survey we sent out to membership pinpointed commuting as the largest barrier to participation. Folks were willing to travel for a special [demo night event](https://www.youtube.com/watch?v=dTnIsy5CXAo&list=PLKHKcSbTn_eo8BIE_qLoS2B-AP7swqXWK), but the weekly event has been a tougher sell. The fact folks are not merely dropping in after a day at the office means it’s a tougher sell. If folks are going to commute you need to have a higher quality and more interesting event than just some drinks and pizza.
