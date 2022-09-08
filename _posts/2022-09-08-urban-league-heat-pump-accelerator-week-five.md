@@ -1,0 +1,9 @@
+---
+title: Urban League Heat Pump Accelerator Week Five
+layout: post
+---
+I was off traveling last week and missed working with the teams, but returned on Tuesday evening to work with our Urban League Heat Pump Accelerator group. Despite my absence I was excited to hear most groups continued to make forward progress. Working with the backend team I reviewed the code they submitted. I also created a fresh server on Amazon Web Services where the application will live. One of our group members will do the work of setting that server up. In a couple weeks when the first version of the application is alive, we will have a place for it to go!
+
+I am also excited that we applied to be in [New Relic’s Pro Bono program](https://newrelic.com/about/pro-bono-signup). We use New Relic at my day job to monitor whether our website is working or not. It is easy to use with lots of great features, but the best part of it is once you get it setup if something breaks, it is good at helping you figure out what broke and how. The alerting tools mean you know about issues more quickly. Integrating this into our app at Code for Boston will give us the same capabilities and also help newer software engineers learn this tool that they might use in their future jobs.
+
+Finally a big challenge that exists has been getting folks to memorialize their work in [GitHub Issues](https://github.com/codeforboston/urban-league-heat-pump-accelerator/issues). GitHub Issues is a project management tool where we direct new folks at Code for Boston to review as to whether they might contribute. When this is not up to date they cannot have a sense of whether they might be able to help with the project, and thus we often either have volunteers give up and leave or folks need to stop the project work to have a long conversation about the current status of things. Still working on this, but if the team learns this skill, it will be valuable for both us and them.
