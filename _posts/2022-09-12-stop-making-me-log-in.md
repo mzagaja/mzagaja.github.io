@@ -1,0 +1,11 @@
+---
+title: Please Stop Making Me Log Back In
+layout: post
+---
+It recently feels like I spent more time logging in to websites and applications than at any point of my life as a computer user. I first started to notice this issue when Google began logging me out of Gmail every week. Searching revealed there is no way to escape the [14 day session limit](https://apps.google.com/supportwidget/articlehome?hl=en&article_url=https%3A%2F%2Fsupport.google.com%2Fa%2Fanswer%2F7576830%3Fhl%3Den&product_context=7576830&product_name=UnuFlow&trigger_context=a). I switched to Apple Mail as a result and despite it not being as good as Gmail, I am happier.
+
+However this issue is not limited to Google. I frequently find myself logging back in to my Volvo app on my phone, despite having never logged out. Websites that I am already logged into have begun sending me mandatory authentication challenges via email if I login from a different location, despite that device or browser already being logged in. It seems few sites give me an [option to use 1Password for my one time passwords](https://support.1password.com/one-time-passwords/). They either want to email or text me. What a bummer.
+
+This issue especially comes to head as I deal with the annoying but common practice of shared accounts. While Netflix accepts that folks will share their logins, Google and Zoom make life increasingly worse for folks that try to do the same. Accounts are increasingly locked to a specific phone number or secondary email that has to be messaged. I get that these companies do not want us to share accounts, but as long as companies and orgs are able to, they will and it is the folks with no agency over that decision that suffer.
+
+There is an alternative to this mess, and Apple is releasing it today with iOS 16. Their [Passkey system might replace passwords forever](https://www.tomsguide.com/news/apple-passkeys). Instead of using a username and password you will be able to login to websites using TouchID and FaceID, super neat! Those prove I am a human puzzles from CAPTCHA can be replaced with [private access tokens](https://developer.apple.com/videos/play/wwdc2022/10077/).
