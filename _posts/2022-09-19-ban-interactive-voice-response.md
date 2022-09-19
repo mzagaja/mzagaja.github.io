@@ -1,0 +1,5 @@
+---
+title: Ban Interactive Voice Response
+layout: post
+---
+One of the worst things modern businesses employ are [interactive voice response (IVR)](https://www.ttec.com/glossary/interactive-voice-response) menus. When calling customer service the pattern is the same: you are forced to listen a large amount of irrelevant information until you are presented with some options you can select on your phone keypad, and in a large number of cases your need or issue will not map to the options. I have never resolved an issue with one of these systems, and see no reason companies can or should employ them other than to discourage people from calling their customer support lines. The government should ban these and require that a real person answer the phone if you call a company. Or in the absence of this, they should let you at least enter a queue for a call back.
