@@ -1,0 +1,9 @@
+---
+title: Why Software Breaks So Much
+layout: post
+---
+Software engineering is a profession in crises. There is a persistent shortage of folks that can code. People typically enter the field in three ways: they go to a [bootcamp](https://generalassemb.ly), [learn on their own](https://www.railstutorial.org), or major in computer science in college. This only gives them the entry level knowledge they need to build applications. Skills beyond that are left to employers to impart, and many of them do not. We have focused so much on getting folks to enter software engineering but in many places lack infrastructure to help folks get good at it once they are there.
+
+Within the profession there remains disagreement on what the best practices are. Even if folks agree that a practice makes sense they may not practice what they preach. For example [research shows automated testing makes software better](https://www.sciencedirect.com/science/article/pii/S1877050916001277). Yet as recently as 2019 Apple had to [hire specialist to drive adoption of automated testing across its organization](https://mike-bland.com/2019/11/14/hiring-test-paratroopers.html). The best test for whether software will be of good quality that I have found is [the Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) which instead of being a statement of a professional organization or company is a blog post from 2000. How can our software be good if we cannot agree on how to do that and then follow our principles?
+
+While I do not know what the solution is, the issue is clear: software engineers and organizations lack a clear path for improving beyond the basic skills. We have the amateur leagues, and the professional leagues, but little to nothing in between. 
