@@ -1,0 +1,9 @@
+---
+title: What Went Wrong with the Web
+layout: post
+---
+In March 2005 Tim O’Reilly published [What is Web 2.0](https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html). A few months later I graduated high school and with my fresh .edu email address joined a new social network called The Facebook. This blog then launched in 2007 with the promise that I could be part of a larger conversation, and that conversation would be worth our time. Web 2.0 would be participatory and we could not wait to hear what others had to say.
+
+Fast forward to 2013 and [Popular Science proclaimed it was turning off comments because comments can be bad for science](https://www.popsci.com/science/article/2013-09/why-were-shutting-our-comments/?src=SOC&dom=tw). This bold stand was not enough. Previously fringe views on vaccines and other scientific issues did not have an easy way to spread. Now social media and smartphones gave folks a lens into science that could range from misleading to outright false. You would expect us to be able to combat this with reputable sources, but if you want access to all of Popular Science today you must pay extra, while Facebook gives you access to misinformation for free.
+
+The web went from being open and connected to gated and siloed. Many good websites are awash in paywalls and pop-ups in an attempt to pay the bills. Leaving Facebook or TikTok’s walled garden means creating more accounts, losing passwords, and [solving inscrutable captchas](https://www.wired.com/story/im-not-a-robot-why-captchas-hard-to-solve/) to prove you are not a robot. Regulations like GDPR now require annoying cookie consent banners, pressure to monetize puts content behind paywalls, and the need to secure sites against threats like robots has lead to changes that make the first impression of any website horrible from a user experience standpoint. It is no wonder we stick to Facebook.
