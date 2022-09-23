@@ -1,0 +1,9 @@
+---
+title: Why Software is Addictive
+layout: post
+---
+In 2018 [Apple introduced Screen Time on iOS](https://www.apple.com/newsroom/2018/06/ios-12-introduces-new-features-to-reduce-interruptions-and-manage-screen-time/). It was the natural conclusion of a brewing sentiment among the public that they were using social media and other apps more than they wanted to. Connecting with folks online or playing games is not inherently bad, but people found they would login and spend more time than they intended on them. They were [hooked](https://www.wired.com/2014/12/how-to-build-habit-forming-products/).
+
+For many software products the key metric is the active user. Social media companies often use monthly active user, the number of individuals who visited the website over the month, as a measure of growth and popularity. This aligns well with advertising as your source of money. Without eyeballs ads do not sell anything, so folks need to use the app to see the ads. As companies grew they began to hire social scientists and psychologists like [Nir Eyal](https://www.nirandfar.com) to make their products stickier in peoples brains.
+
+Nir [argues that addiction is the wrong framework](https://www.wired.com/story/the-danger-of-thinking-were-all-addicted-to-tech/) and that for things like games the techniques that get you hooked are what make the games enjoyable. He says this does not make them like tobacco which ruins your health and detracts from your life, it just consumes your free time. However even if it’s not addiction, if TikTok and Facebook are employing social psychology to get us to use them more, it sounds manipulative. We do not want to merely feel like we are avoiding addiction, but want technology that make us feel like we are in control.
