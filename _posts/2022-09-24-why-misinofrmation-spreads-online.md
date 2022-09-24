@@ -1,0 +1,9 @@
+---
+title: Why Misinformation Spreads Online
+layout: post
+---
+Before I was a software engineer I worked in political data. As Deputy Data Director at the Connecticut Democratic Party I was responsible for administering our voter file and helping train volunteers and staff on data driven tactics to win elections. One cornerstone of these tactics is the idea that **generally people do not change their minds**. Elections are won by finding new voters, not persuading folks to change sides.
+
+Finding truth for many folks is not an exercise in interrogating ideas and weighing arguments. It is, even for the most intellectual of us, an exercise in choosing to trust a source and getting ideas from them. It starts with parents, teachers, and friends. We see them reading a newspaper and then start reading that newspaper too. A few decades ago the number of available sources was smaller and tended to hold themselves to journalistic standards. Log in to Facebook or Instagram and the number of sources of news is staggering. A friend may share an interesting opinion from a source that posts things that are otherwise questionable. You trust it and re-share it. Then you look for more from that source. Suddenly you fall down the [rabbit hole](https://www.nytimes.com/2020/04/16/technology/rabbit-hole-podcast-kevin-roose.html).
+
+Social media is built on recommendation algorithms. If you like or watch something the algorithm will give you more things like it. This is based on activity and not accuracy or quality. A bombastic political opinion or argument generates more posts and activity. Correcting a bad take feels like a good idea to most folks but backfires by giving it more prominence in the algorithm. A post reminding you to brush your teeth likely will not get much interaction but a post saying toothpaste causes cancer (not true) can build an online argument that causes more people to see that idea and some to believe it.
