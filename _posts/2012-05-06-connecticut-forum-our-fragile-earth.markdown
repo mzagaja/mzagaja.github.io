@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Connecticut Forum: Our Fragile Earth'
-tags: []
 ---
 <a href="http://www.zagaja.com/images/2012/05/CTForum.jpg"><img class="size-full wp-image-271" title="Connecticut Forum Stage" src="http://www.zagaja.com/images/2012/05/CTForum.jpg" alt="Connecticut Forum Stage" width="577" height="333" /></a>
 

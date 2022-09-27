@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Migrating Homebrew and fish to Apple Silicon
-tags:
-  - Software
+tag: fish shell
 ---
 When Apple released its new computers with the M1 Apple CPU software developers had to update their apps to work with it. In order to make the transition easier the folks at Apple developed the amazing [Rosetta 2](https://support.apple.com/en-us/HT211861) translation layer to let Intel apps run on the M1. Like many early adopters I setup my web development environment entirely in Rosetta 2 to avoid the hiccups associated with using the native versions. A [request to test an update to Nokogiri](https://github.com/sparklemotion/nokogiri/pull/2214) lead me to try migrating my environment from Rosetta 2 to Apple Silicon. It had a few hiccups, but overall was not bad to do. I recommend reading this post **in full** before starting the process because there are some python and homebrew cask specific steps you might need to follow before removing Intel homebrew.
 
@@ -37,3 +36,10 @@ Python is a bit trickier. I use [virtualfish](https://github.com/justinmayer/vir
 Going forward the default mode you run your apps in will be arm64. You will need to prefix shell commands you want to run in Intel mode with `arch -x86_64`. For convenience you might add a Profile in iTerm2 that runs a shell in Intel mode using a command like `arch -x86_64 /bin/zsh`.
 
 What does this all mean? Now your software development should run faster because the code is natively compiled for Apple Silicon. No more waiting for the translation layer to translate. I was blown away at [how fast the test suite for nokogiri ran](https://github.com/sparklemotion/nokogiri/pull/2214#issuecomment-812954091). However you may run into compatibility issues with older applications. They will need to be upgraded or run using the `arch` command above.
+
+#### Other Fish Shell Posts
+  <ul>
+    {% for post in site.tags['fish shell'] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>

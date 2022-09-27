@@ -1,6 +1,7 @@
 ---
 title: My Favorite Command Line Tools
 layout: post
+tag: fish shell
 ---
 One of the best ways to become more efficient at using your computer and more effective as a coder is to [master the command line](https://www.learnenough.com/command-line). While using the included tools on MacOS is great, I now have a pile of [favorite extra tools I have installed on my machine](https://github.com/stars/mzagaja/lists/tools-i-use). Some highlights:
 * [Homebrew](https://brew.sh) for managing app installations.
