@@ -11,10 +11,10 @@ Often times non-profits or public interest organizations are not hiring software
 * According to Levels.fyi [the median software engineer salary in the Greater Boston Area is $159,000](https://www.levels.fyi/t/software-engineer/locations/greater-boston-area).
 * The [average tenure for a software engineer is four years across the industry](https://stackoverflow.blog/2022/04/19/whats-the-average-tenure-of-an-engineer-at-a-big-tech-company-ep-434/).
 
-## My experience
+### My experience
 Regardless of how much someone says they want to stay forever or they care about the mission they leave after a year or so. I helped a lot of engineers train up and get projects on their resume that looked great in their interview at Google. 
 
-## Dealing with high churn
+### Dealing with high churn
 If you have to hire folks you know are likely to leave after a year or two keep your technology simple:
 * Pick one stack and hire for and use it. Don’t let a new hire try a different programming language because it’s easier for them. It turns into another programming language or library for the next hire to learn.
 * Abstract DevOps with tools like Heroku or Netlify. Many newer software engineers do not know Linux and server administration.
