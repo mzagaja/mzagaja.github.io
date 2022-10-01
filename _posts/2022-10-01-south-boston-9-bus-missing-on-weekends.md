@@ -9,7 +9,7 @@ This morning my wife was hoping to take the bus to an appointment and the bus ne
 * People with cars will use them more, polluting the city and releasing carbon into the atmosphere.
 
 ### By the Numbers
-* According to the MBTA [the 9 bus has a 63% reliability rating over the past month](https://mbtabackontrack.com/performance/#/detail/reliability/2022-09-29/Bus/Other%20Bus/9/offpeak).
+* According to the MBTA [the 9 bus has a 64% reliability rating over the past month](https://mbtabackontrack.com/performance/#/detail/reliability/2022-09-29/Bus/Other%20Bus/9/all).
 * On Sept 18, 2022 the 9 bus only arrived for 35% of its scheduled departure times.
 
 ### Look for Patterns
