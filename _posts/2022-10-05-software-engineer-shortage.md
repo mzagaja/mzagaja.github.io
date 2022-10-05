@@ -1,5 +1,7 @@
-# The Software Engineering Shortage
-
+---
+title: The Software Engineering Shortage
+layout: post
+---
 I was talking with my father the other day about the software engineering shortage. Almost every workplace can see this when they post a listing for a technical job. There are few applicants, the quality can be low, and it takes a long time to fill the roles. The only way it seems these jobs can be filled effectively is to have a workplace that is good enough your existing workers want to convince their friends to work there.
 
 ### By the Numbers
