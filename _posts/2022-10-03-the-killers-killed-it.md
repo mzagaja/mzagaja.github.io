@@ -5,7 +5,7 @@ layout: post
 The Killers played the TD Garden arena in Boston last night, and I loved every minute of it. The pyrotechnics and visuals were a great complement to the superb energy the band brought to the stage. This was one of the best concerts I have been to.
 
 ### The Highlights
-* An audience member playing the piano during Dustland Fairytale.
+* An [audience member](https://www.reddit.com/r/TheKillers/comments/xvf4zc/brandon_did_in_fact_make_my_life/) playing the piano during Dustland Fairytale.
 * Laser lights and pyrotechnics.
 * The energy of All These Things That I’ve Done
 
