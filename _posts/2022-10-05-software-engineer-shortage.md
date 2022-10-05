@@ -14,7 +14,7 @@ I enjoy being a software engineer and [many but not all of my twitter followers 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you work as a software engineer, do you enjoy the job?</p>&mdash; Matt Zagaja (@mzagaja) <a href="https://twitter.com/mzagaja/status/1577691937276133377?ref_src=twsrc%5Etfw">October 5, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Despite the proliferation of online courses and bootcamps, it seems like many folks struggle to learn the skills or do not enjoy the learning journey that gets them to being professional coders. Despite the proliferation of online courses, the biggest issue I heard from my peers in my tech meetup has been skill building.
+Despite the proliferation of online courses and bootcamps, it seems like many folks struggle to learn the skills or do not enjoy the learning journey that gets them to being professional coders. The biggest issue I heard from my peers in my tech meetup has been skill building.
 
 ### Teaser
 Tomorrow I will share some thoughts on why learning to code is a slog.
