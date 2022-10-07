@@ -5,7 +5,7 @@ tags:
 - Work
 comments: on
 ---
-If International CES is about anything, it is about the burn. The burning legs running across Las Vegas, the burning passion of entrepreneurs, and the burning of images into sensors by the press. The annual event spans the Las Vegas Convention Center, the Sands Expo, hospitality suites in adjoining hotels, and unaffiliated events hosted by participating companies. It accomplishes the feat of making the coverage of the event seem small in comparison to itself. After filiming numerous videos about individual products the burning question remains: what is life going to be like in the future?
+If International CES is about anything, it is about the burn. The burning legs running across Las Vegas, the burning passion of entrepreneurs, and the burning of images into sensors by the press. The annual event spans the Las Vegas Convention Center, the Sands Expo, hospitality suites in adjoining hotels, and unaffiliated events hosted by participating companies. It accomplishes the feat of making the coverage of the event seem small in comparison to itself. After filming numerous videos about individual products the burning question remains: what is life going to be like in the future?
 
 Technology companies have launched a war on the destrction of their products. For 2015 durability is the new trend. Lenovo released tablets that you can write on with pencils and forks. ioSafe released hard disk enclosures that can survive fires and floods. LG showed us smartphones that heal themselves from scratches. The battery life of everything is longer. Gadget makers want you to feel comfortable taking their products to new places and to be rougher with them.
 
