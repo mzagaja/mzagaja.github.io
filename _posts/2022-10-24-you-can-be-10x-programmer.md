@@ -1,6 +1,7 @@
 ---
 title: This Trick Can Make You a 10x Programmer
 layout: post
+excerpt_separator: <!--more-->
 ---
 Last week I asked Twitter if there the 10x programmer is real:
 
@@ -8,6 +9,7 @@ Last week I asked Twitter if there the 10x programmer is real:
 
 While the consensus from a few followers was no, the research [does not quite agree](https://third-bit.com/2022/08/14/ese-vignette/).
 
+<!--more-->
 ### By the Numbers
 * Shortest Development time: 36 minutes
 * Longest development time: 63 hours
