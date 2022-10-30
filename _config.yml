@@ -3,7 +3,7 @@ title: Zagaja.com
 description: "Matt Zagaja's personal blog. Musings on politics, technology, and other geeky things."
 url: https://www.zagaja.com
 incremental: true
-permalink: /:year/:month/:title/
+permalink: /:year/:month/:title
 plugins:
   - jekyll-paginate-v2
   - jekyll-sitemap
@@ -20,6 +20,15 @@ algolia:
   application_id: ADZBG2997L
   index_name: jekyll
   search_only_api_key: b8c639bf58a56694e5b07d3b68d685b1
+  files_to_exclude:
+    - '_posts/2012-09-02-job-hunting.markdown'
+    - '_posts/2012-12-21-this-is-my-iphone.markdown'
+    - '_posts/2012-12-22-how-the-internet-will-change.markdown'
+    - '_posts/2013-02-16-morning-thoughts-on-minimum-wage-and-peak-jobs.markdown'
+    - '_posts/2012-11-03-exploring-the-connecticut-senate-and-5th-district-races-using-google-trends.markdown'
+    - '_posts/2021-12-24-comparing-rapid-tests.md'
+    - '_posts/2013-09-21-gold-rush-iphone.markdown'
+    - '/_posts/2015-01-29-what-campaigns-can-learn-from-buzzfeed.markdown'
 pagination:
   enabled: true
   debug: false
