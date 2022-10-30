@@ -80,6 +80,10 @@ code {
   margin-bottom: 2rem;
 }
 
+.post {
+  margin-bottom: 2rem;
+}
+
 .read-more {
   background-color: #005b88;
   color: #fff;
@@ -99,14 +103,13 @@ code {
 
 p {
   font-family: 'Alice', serif;
-  font-size: 18px;
   line-height: 1.5;
 }
 
-ul, h1, h2, h3, h4, h5, h6 {
+ul, h2, h3, h4, h5, h6 {
   font-family: 'Alice', serif;
 }
 
-ul {
-  font-size: 18px;
+ul li {
+  margin-bottom: .4rem;
 }
