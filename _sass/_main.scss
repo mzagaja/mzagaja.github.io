@@ -110,3 +110,21 @@ ul li {
   margin-bottom: .4rem;
   font-family: 'Alice', serif;
 }
+
+ul.pagination {
+  margin: 1rem auto;
+}
+
+ul.pagination li {
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 16px;
+}
+
+.arrow {
+  height: initial;
+  margin-left: initial;
+}
+
+.unavailable {
+  padding: 0.0625rem 0.625rem 0.0625rem;
+}
