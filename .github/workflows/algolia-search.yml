@@ -1,0 +1,15 @@
+on:
+  push:
+    branches:
+      - master
+
+name: algolia-search
+jobs:
+  algolia-search:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Algolia Jekyll Action
+        uses: dieghernan/algolia-jekyll-action@main
+        with:
+          APIKEY: '${{ secrets.ALGOLIA_API_KEY }}'
