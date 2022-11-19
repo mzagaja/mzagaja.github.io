@@ -1,7 +1,6 @@
 ---
 title: Elon’s Big Gamble
 layout: post
-excerpt_separator: <!--more-->
 ---
 Yesterday [a large number of twitter employees, potentially a majority of the engineering staff, resigned](https://www.theverge.com/2022/11/17/23465274/hundreds-of-twitter-employees-resign-from-elon-musk-hardcore-deadline). As far as most people are aware, a skeleton crew remains keeping the website alive. The question to many seems to be not if but when the site is going to collapse like a Jenga tower.
 
