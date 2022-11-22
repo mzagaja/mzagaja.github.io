@@ -1,0 +1,8 @@
+---
+title: Bob Iger Returns to Disney
+layout: post
+---
+From [the New York Times](https://www.nytimes.com/2022/11/20/business/disney-robert-iger.html?unlocked_article_code=DUMaBEyU183HNFUN0K2baFR-sa1KGRF_19UhaLGd82GC5-rIXR8TfqLyzomECJ_hx0O8PfyTC1jvho2bkLQfqFsC4qrAtBSAdr0j8exMSZqphGm8aWdNFbaadys3exYXr_l4dR9d0j6O1yfXj4IWYFsriOvBJuzFMXe6uETHIuTHkOUCBIVMeLopYFPgKMINB5SBJDiFeO5dYkKcVyRdux0IBBlzA0KucHnj7hohWF924P1FGc_l7LPcT1yP-Yw6u855Ui0s-K1xyZEfpqeayvQYXFjDmJ_gDrwMQLx2Ir8riTOb57fq_Jlu_3mvV3hmzVvRmbsCdqQiioKQsw&smid=share-url):
+> Ms. Arnold called Mr. Iger on Friday and asked him to consider returning to the company, according to three people with knowledge of the matter, who spoke on the condition of anonymity to discuss private conversations. In recent months, Mr. Iger has made no secret of his extreme disappointment with Mr. Chapek, telling people close to him that he was “devastated” by the downward direction that Disney had taken and that it felt that Disney was losing its soul.
+
+Talk about clenching failure from the jaws of success. Disney has a large library of intellectual property thanks to the acquisitions Iger facilitated. Disney+ has some top notch content, especially in the Star Wars corner of the universe. Meanwhile imagineers continue to innovate in the theme parks. The inability of Bob Chapel to turn all this into a functioning business should be nothing short of shocking.
