@@ -15,8 +15,8 @@ In my last role most folks communicated their needs orally in meetings, and I mi
 ### The Downside
 Being stuck in my house, especially in the dark winter months can be depressing. I try and go for a morning run or walk to mitigate it and get outside before my day starts.
 
-### I Still Like Seeing People
-While being remote is great for the work aspect of things, being able to travel for conferences and events is something I enjoy. I like meeting my co-workers in person and getting a chance to socialize, even if it is not frequent. Seeing folks that are usually just on a video screen or a text box gives makes it feel closer. If I’m going to a meetup or conference, I now have a stronger preference for in-person to get the social aspect.
+### I Still Love Seeing People
+While being remote is great for the work aspect of things, being able to travel for conferences and events is something I enjoy. I like meeting my co-workers in person and getting a chance to socialize, even if it is not frequent. Seeing folks that are usually on a video screen or a text box gives a new dimension to the relationships. If I’m going to a meetup or conference, I now have a stronger preference for in-person to get the social aspect.
 
 ### Screen Sharing is Better for Pair Programming
 The other thing I learned when going remote is screen sharing in Slack or [Tuple](https://tuple.app) is **better** than pair programming at the same computer. The ability to see, type in, and draw on someone’s screen makes it easier to communicate than being confined to words or awkwardly trying to take the keyboard from them. 
