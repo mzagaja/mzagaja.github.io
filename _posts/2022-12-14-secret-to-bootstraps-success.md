@@ -22,3 +22,6 @@ Many open source contributors make money by writing the missing manual for their
 
 ### Do Not Forget to Make a Change Log
 One of the ways I have learned a lot about the software I use is through its [change log](https://keepachangelog.com/en/1.0.0/). Writing a good change log helps users adopt to changes to your software and discover new features.
+
+### Meta Blog Programming Note
+The blog will be off from Thursday through Sunday. We will return with weekend links Sunday evening.
