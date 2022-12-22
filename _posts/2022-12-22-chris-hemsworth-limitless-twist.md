@@ -1,7 +1,6 @@
 ---
 title: A Twist at the End of Limitless
 layout: post
-excerpt_separator: <!--more-->
 ---
 I have been watching [Limitless with Chris Hemsworth](https://www.disneyplus.com/series/limitless-with-chris-hemsworth/2wow8Otyubmk). It involves great outdoors videography that the National Geographic crew is famous for, combined with sometimes questionable scientific claims and Chris Hemsworth doing ridiculous stunts. The mini-series is woven together with the idea that Hemsworth is looking for ways to live a longer life.
 
