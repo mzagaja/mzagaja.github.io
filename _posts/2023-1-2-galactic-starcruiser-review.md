@@ -26,7 +26,7 @@ Disney benefits from its deep well of expertise in food and beverage on Starcrui
 
 It is important to note that if you have allergies you should talk to the chef at lunch time. This will give the kitchen plenty of time to improvise and accommodate for things that might be challenging based on your needs and the base fare.
 
-The Sublight Lounge is everything that Oga’s Cantina should have been. While at Starcruiser’s price point I think beverages should have been included in the voyage, the variety and deliciousness of the cocktails kept us coming back to try them. We were too full from the provided meals and snacks to bother sampling the paid snack options at the lounge, but they sure smelled good. The atmosphere in the lounge was perfect. Cushioned booths kept ambient noise at bay, while there was almost always enough seating for sitting down, except at the single holo-sabaac table.
+The Sublight Lounge is everything that Oga’s Cantina should have been. While at Starcruiser’s price point I think beverages should have been included in the voyage, the variety and deliciousness of the cocktails kept us coming back to try them. We were too full from the provided meals and snacks to bother sampling the free snack options at the lounge, but they sure smelled good. The atmosphere in the lounge was perfect. Cushioned booths kept ambient noise at bay, while there was almost always enough seating for sitting down, except at the single holo-sabaac table.
 
 #### Sabaac
 In Star Wars lore Han Solo wins the Millennium Falcon from Lando Calrissian in a game of sabaac. Disney has taken this lore and developed a game that can appeal to anyone that enjoys poker or blackjack. Physical copies of the game are available in the Chandrila Collection gift shop and used in the sabaac tournaments.[^1]  
@@ -104,6 +104,8 @@ Systems was the most challenging of these and involved having to solve puzzles q
 
 ### Spoiler Free Conclusion
 Galactic Starcruiser is a one of a kind experience that cannot exist anywhere else. If you are a Star Wars fan and can comfortably afford it, this is fun and worth doing. If it’s a stretch for your budget, it’s not a must-do experience. You can get a taste of the showmanship and acting by [building a lightsaber at Savi’s workshop at Galaxy’s Edge](https://disneyworld.disney.go.com/shops/hollywood-studios/savis-workshop-handbuilt-lightsabers/). If you do not like Star Wars but are going with someone that does, you will find plenty to enjoy on the Halcyon; my wife sure did.
+
+*Errata: It turns out the snacks at the Sublight Lounge were free.*
 
 [^1]: I was told by another passenger that the winner of the tournament gets a special coin, but missed the finals.
 
