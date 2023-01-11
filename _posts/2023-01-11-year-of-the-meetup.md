@@ -1,7 +1,6 @@
 ---
 title: 2023 is The Year of the Meetup
 layout: post
-excerpt_separator: <!--more-->
 ---
 Last night [Code for Boston](https://www.codeforboston.org) met for the first time in 2023. We are shifting from a once or twice a month cadence for hybrid meetups to every other week. The exciting thing is the first meetup of January is almost always the most popular, we had nearly forty people attend in-person.
 
