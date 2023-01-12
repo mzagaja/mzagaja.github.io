@@ -15,4 +15,5 @@ If lots of people use ad blockers then the economics of advertising and the web 
 
 ### Go Deeper
 * [Hush](https://apps.apple.com/us/app/hush-nag-blocker/id1544743900) blocks cookie and tracking nags.
+* [SponsorBlock](https://sponsor.ajay.app) focuses on ad removal, is free, and available for multiple platforms. (HT: [Bill Hunt](https://billhunt.dev))
 * Mozilla [researched the impact of ad blocking web activity](https://dl.acm.org/doi/fullHtml/10.1145/3178876.3186162) and found it increases user engagement.
