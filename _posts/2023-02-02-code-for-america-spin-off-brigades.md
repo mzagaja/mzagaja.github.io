@@ -1,7 +1,6 @@
 ---
 title: Code for America to Spin Off its Brigades
 layout: post
-excerpt_separator: <!--more-->
 ---
 Yesterday Code for America announced that it is [no longer fiscally sponsoring its Brigade program](https://discourse.codeforamerica.org/t/2023-network-announcements-and-reflections/1640). While a disruption on the administration side, it should not impact the programming and partnerships that [Code for Boston](https://www.codeforboston.org) has been providing the community since the inception of the Brigade program in 2012. The organization relies on funds it has raised on its own that are earmarked for our use, and now is as good a time as any to [show your support](https://codeforamerica.org/donate/brigade/?utm_campaign=code%20for%20boston&utm_source=codeforboston.org). When we find a new fiscal sponsor, the money will move with us.
 
