@@ -47,6 +47,10 @@ code {
   background-color: #f2f2f2;
 }
 
+iframe {
+  max-width:100%
+}
+
 .banner {
   padding-left: 0rem;
 
@@ -87,6 +91,7 @@ code {
 .read-more {
   background-color: #005b88;
   color: #fff;
+  display: block;
   margin-bottom: 2rem;
   padding: 10px;
 }
