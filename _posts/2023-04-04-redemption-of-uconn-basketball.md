@@ -1,0 +1,10 @@
+---
+title: The Redemption of UCONN Basketball
+layout: post
+---
+It’s a strange year to watch college basketball. For years the lady huskies sat as an iceberg upon which every other team would crash and fall. As February arrived in New England, warm and devoid of snow, we started to see signs that iceberg was melting. For the [first time in 30 years they lost back-to-back games](https://www.espn.com/womens-college-basketball/story/_/id/35619558/no-4-uconn-loses-back-back-games-first-30-years). Plagued by injuries the [lady huskies fell to Ohio State in the Sweet Sixteen](https://www.wsj.com/articles/uconn-womens-basketball-final-four-streak-ends-b39dd7d5).
+
+Until a few days ago I did not know who [Dan Hurley](https://en.wikipedia.org/wiki/Dan_Hurley) was. Tarnished by a [recruiting scandal and the firing of coach Kevin Ollie in 2016](https://www.espn.com/mens-college-basketball/story/_/id/27104017/uconn-gets-2-years-probation-ollie-violations) I thought the men’s basketball team was done. Last night [Hurley delivered on the promise he made to university administration five years ago](https://www.nytimes.com/2023/04/03/sports/ncaabasketball/uconn-wins-championship.html?unlocked_article_code=q-Picqk837MnZWTbGB3pwnFfcIFyc7c4svz6yyzStcOrh77b70hlc8BzLnRw3_riuZDEmr0V0mTl1vJXf3_DoWAqfIj15KcdyguGeaQbD0R8IpuDtDAvf5Yxr0qZTgUJm6bCrQ13GgNtEO6OUJJc2OONPRBLwdKFzOn1w45UnSjHzMr9UXZSuq5MzkDoAVLbRz0BLwGGKusFBj819gAe32h0iX0dapqcpZOalsapKqiYzHnJpevJooS04mf23v3a8Lx08ik4gK1w9zQCrKDa7fnBqb5fGD3xDyKYgD9eMIMuO57_qM36xY2suOkuh5pijAaqdT3rVzNnR8aZWMHM5ZaDoqRNTBmbLxQVefpljQ&smid=url-share):
+> “The program was in a bad way, and they needed somebody that could come in here and prove themselves to be an elite coach and get the program back to this level. It feels good to deliver on what you said you would do.”
+
+Hurley showed the nation that winning the tournament was not just a moment in UCONN history, but that something special is in the water at Storrs. You can replace Calhoun with Hurley, Kemba Walker with Adama Sanogo, and still have a program that wins. Next year I will be paying better attention.
