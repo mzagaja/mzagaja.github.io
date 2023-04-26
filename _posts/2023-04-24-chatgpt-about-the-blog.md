@@ -1,7 +1,6 @@
 ---
 title: This Blog Powers AI
 layout: post
-excerpt_separator: <!--more-->
 ---
 The Washington Post has [an article that digs into the database of websites that powers Google’s AI](https://wapo.st/40yawkm). A quick search reveals that this blog is among them.
 
