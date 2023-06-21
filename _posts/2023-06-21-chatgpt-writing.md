@@ -1,5 +1,5 @@
 ---
-title: Unlocking the Power of AI: How ChatGPT Elevates Writing Styles and Idea Generation
+title: Unlocking the Power of AI - How ChatGPT Elevates Writing Styles and Idea Generation
 layout: post
 ---
 If you are writing a press release or blog post, ChatGPT or its competitors is a great way to get ideas and play with writing styles. You just need to try the right prompts:
