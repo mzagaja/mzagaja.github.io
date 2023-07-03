@@ -1,0 +1,12 @@
+---
+title: The Power of Slack in Knowledge Sharing
+layout: post
+---
+The Journal of Computer Mediated Communication [published an article on how apps like Slack facilitate knowledge sharing](https://watermark.silverchair.com/zmad020.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAsQwggLABgkqhkiG9w0BBwagggKxMIICrQIBADCCAqYGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMWgT7F9rfrlcKyGcBAgEQgIICdxqRMrIrfI3eKllc1wVMVAy4Wt1r7OTPiyq2GeT6tGgbaxZHrrrBly3PagISzAS7scA2B35RuqYwp4SZHkRFUPqdxesGJHy6n6fjtf9gjRNzqGAzS1RPNydg-oQR3wO58PvyHhhmahyn8KwFrxpqzXPm5vh5M_LmIV9DKpdcVprSA0ufmS3WaPu2WXYZdsQglYQbWnO85Xw8bs3Pag1nreY-AYT5qoftPMYBr3PNjOncivqQ-MHR3td0qyHZG-CQYtOgoL4BOpluirl1e_1LXDnw3l1VcnY5HR_9Hq2JhS8N6ceiuRLIDfbueFNsPsyv1PodSckLYyUhmUPPaCGibltpYoq31jkahBDk5o2I1UlVWFvc5Ar4pD2R-FmdhDv4sd7or5JZVxGpi0uu1-hMvzv3uJyItuwh6zvQce6pqtHSI_a5O4lh3g-q6NMjcfJVfhCAWnpjNQxEED7svMQX6ZF14JF3kfDyOV8bs7TMJPBHA8kCAVQOc56028xiyOryfpVWTTdv6haqGIuR83BtBs8j_yTxtc8y1_eIbcsMCnMgEv0z5B6ezVv4u21akapZzFOqhhsuyQ-QNa_lNGBnwj2g2ooMtX7e8S47vOR7_G5AF1Ax0TnBtRt2hyv0SiNQ0B5zKYwgVPe-R2dupglKo2qgKRFibYyz4VzMHStr1dwQwFO-EGzwQanXez_JKsEj4UerAtoljhxMzLEViZsbpS9y6nuzJVZmc0utiWLkwrMTBYpVb3NzeKDMDBJy4qHlo06Ufb1PT_0iyaqkI7U95z9U821wKAQQ9a4EfcYdC2nFmDaesPKRTZKnfmzw8Yh_bPn66_nLhck). Hat tip: [David Weinberger on Mastodon](https://mastodon.social/@dweinberger/110644762432601511).
+
+### Why It Matters
+From the article:
+> People are in fact less likely to ask for knowledge if they do not feel confident their coworker would be helpful, which hampers productive knowledge sharing and stymies organizational learning. In this article, we find that interacting through an ESM platform just before asking someone for knowledge can help knowledge seekers build “relational confidence” in their coworker. With greater confidence, knowledge seekers are more likely to ask for knowledge and are more satisfied with the knowledge shared with them. The findings demonstrate that ESM can lubricate knowledge sharing in the time before people decide to ask for knowledge by helping them build relational confidence.
+
+### My Take
+The challenge I see with Slack and similar tools is encouraging folks to post in public. I find folks will DM me questions that anyone could answer. I find it more effective than Wiki and other forms of documentation that folks tend to ignore updating.
