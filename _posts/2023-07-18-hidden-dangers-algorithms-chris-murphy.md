@@ -1,7 +1,6 @@
 ---
 title: Chris Murphy on the Hidden Danger of Algorithms
 layout: post
-excerpt_separator: <!--more-->
 ---
 Via [New York Times](https://www.nytimes.com/2023/07/18/opinion/big-tech-algorithms-kids-discovery.html?unlocked_article_code=kQJBodU2iyvCP_1XJIFUOPA-pW9OF7huFTS-MAArbkwLwvH59WnxXdhfUxWfwSZtrHxy9s7S1XlNDTAn9hOpwkXg6IyiDS8r8gwoFALoW8aS-LkOcIixpqSrBnyBmxKJlwvK3DknayVeVby6tXVuiZbbLJb4bOx2AG4kIar1zskIX50vOwS0mLdBOEGydhXh-br5xjM5G__wmm4Q4oWxTHDmixUTS-b2nKMlHk1tE5Yx2gy--P9hm7qH754UzSp7xftD1yRCCeXNu7B4n4NeTBVMMlxmlPdhZMtwxCBc3gLgP5d7kUjG55up6_TbaavxHi_3nHJm947h2XIDft2xfd5RuQ49rQyMdvghhg&smid=url-share):
 > Algorithmic recommendations now do the work of discovering and pursuing interests, finding community and learning about the world. Kids today are, simply put, not learning how to be curious, critical adults — and they don’t seem to know what they’ve lost.
