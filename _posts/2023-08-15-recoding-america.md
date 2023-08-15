@@ -1,0 +1,13 @@
+---
+title: Recoding America
+layout: post
+---
+Over my summer break I read Jen Pahlka’s [Recoding America](https://www.recodingamerica.us). My expectations were high, maybe unreasonably so, going into this book by the founder of Code for America. While some of the anecdotes were interesting I finished this tome unsatisfied. It is a good starter for policymakers looking to learn and understand the Civic Technology movement and what Pahlka has been advocating for, but there is not much meat for people that have been in this space for a long while.
+
+I give Pahlka much credit for calling out the well intentioned but self-defeating equity efforts around language and accessibility in this space. For a long while these have been third rails, with folks critical of them subject to backlashes online. Pahlka highlights the unfortunate reality of anyone that has worked on these efforts in this space: that focusing on language or screen reader features can be complex and mean building a project that works for nobody. After seeing the incredible infrastructure and Herculean efforts of supporting translation at TED, the half-assed efforts I have seen on many government projects amount to wasting time on window dressing. When resources are limited it’s better to disappoint your critics than fail the public.
+
+Where I disagree with Pahlka is in her dismissal of litigation and legislative oversight as tools for change. While using soft power in the administrative branch is effective, many of the most impactful organizers deploy the judicial and legislative branches as allies in their efforts. The pro-life movement on the right using the courts to quash abortion rights or Elizabeth Warren questioning banking executives in Congress and creating the CFPB, shows the power and leverage of these other avenues is too big to leave on the table.
+
+Individually the stories and ideas in the book are good. I just did not gleam a clear vision of the future. Pahlka asks us to “reinvent oversight” but does not specify how. Is “no more concrete boats” a plea to legislators to stop directing those, a call for process overhaul, or imploring agency leaders to go rogue? How does this all fit together? 
+
+As someone who has been in this space for a long while and has many of my own ideas and experiences, I do not think I was the audience for this. I hope agency leaders and folks in government do pick it up. There is much to be learned from these stories. This book is not bad, it just is not bold.
