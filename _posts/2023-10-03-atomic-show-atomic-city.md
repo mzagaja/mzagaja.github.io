@@ -1,0 +1,13 @@
+---
+title: An Atomic Show in Atomic City
+layout: post
+---
+I am back from Las Vegas, Atomic City, where U2 infused [a previously forgettable single](https://music.apple.com/us/album/atomic-city/1709037819?i=1709037820) with soul. If you listen to Atomic City it has echoes of Elvis’s Viva Las Vegas which was on the playlist at the Sphere before U2, with stand-in drummer Bram Van Der Berg, took the stage. The Sphere itself is an astonishing venue with a huge flaw, but U2 delivered an Atomic show that blew up on social media.
+
+[The Sphere](https://www.thespherevegas.com) is an ambitious venue that compromises its integrity to fill itself with as many fans as possible. A mere week after the first round of tickets went on sale Ticketmaster conceded that some seats had an obstructed view and offered fans with those seats tickets to other shows. With no option to choose the new seats at a different show, changing felt like a gamble. Opening weekend revealed the impact of the overhang would neuter some of the Sphere’s magic. The audio engineering and seating were incredible for all, but a large swath of fans, myself included, would miss the visual effects the band worked hard on.
+
+The overhang was not the only obstruction fans had to fight. Dazzled by the new venue, or maybe thirsty for approval on social media, many attendees spent their time recording the show on their phones. Not for a short clip or couple photos, but for entire songs if not the whole concert for some folks. They mercilessly shoved their devices into other folks sight lines, and mindlessly engaged their flashlights. This sea of social media zombies may have left their phone lights on, but when it came to their energy, nobody was home.
+
+Despite a deck that was stacked against them for some concertgoers, U2 was right to bet on itself. They energetically delivered a nearly two hour set. U2:UV managed to avoid being a reflection and presented as a celebration of one of their great works. Atomic City was a fresh introduction and from my seats I could still see the backing visuals showing Las Vegas’s re-invention. The encore delivered hits from Vertigo to Beautiful Day that even the most casual fans remember and want to hear. With energy like this, I cannot help but to think Bono was keeping an ace up his sleeve.
+
+The Sphere is the best venue I have seen a concert in. I was close to the band. The seats were spacious and comfortable. Load-in and load-out were fast. The audio was crisp. My ears were not ringing. Concessions, merchandise, and restrooms were  accessible. Lines moved fast. The staff was helpful. The screens may not have been fully visible but the video quality was fantastic. I hope more venues meet the bar they set.
