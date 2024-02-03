@@ -1,0 +1,9 @@
+---
+title: The Case for The Vision Pro
+layout: post
+---
+Today Apple releases its long awaited Vision Pro. I have not used one yet, but I have used plenty of VR headsets. This no longer nascent category has found a home in gaming. Suburban teenagers have a large library of content on the Meta Quest. Arcades and museums offer VR headset experiences. So why are we all talking about the Apple one?
+
+On their earnings call yesterday [Tim Cook boasted that the Apple Vision Pro has over 5000 patents of innovation](https://sixcolors.com/post/2024/02/this-is-tim-transcript-of-apples-q1-2024-analyst-call/#:~:text=There’s%205%2C000%20patents%20in%20the%20product%2C%20and%20it’s%20of%20course%20built%20on%20many%20innovations%20that%20Apple%20has%20spent%20multiple%20years%20on%2C%20from%20silicon%20to%20displays%2C%20and%20significant%20AI%20and%20machine%20learning%2C%20all%20of%20the%20hand%20tracking%2C%20the%20room%20mapping%2C%20all%20of%20this%20stuff%20is%20driven%20by%20AI%2C%20and%20so%20we’re%20incredibly%20excited%20about%20it.). It’s no wonder that in Vanity Fair Nick Bilton proclaims the difference between the Vision Pro and other headsets is [“as far from a VR headset as a kid’s Schwinn bicycle is from a Gulfstream G800 private jet.”](https://www.vanityfair.com/news/tim-cook-apple-vision-pro) The product might not be the idealized eyeglasses or contact lens with a display, but Apple has been driving in this direction for over seven years and thinks they have enough of something to hold a coming out party today.
+
+The cynical take is that Apple is surrendering to the limits of engineering and is releasing a half-assed product to recoup its investment. This makes little sense. Any money Apple makes from Vision Pro would be lost by the repetitional harm it does to itself by selling an expensive product to its most loyal fans. They clearly think they have something different.
