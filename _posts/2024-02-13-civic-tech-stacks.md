@@ -1,0 +1,17 @@
+---
+title: The Best Tech Stack is the One You Have
+layout: post
+---
+A meme that tends to ricochet through Civic Tech Circles involves criticizing volunteers or consultants for using a new programming language or library that the existing organization is unfamiliar with. In some cases the organization has a programmer or two on staff, in other cases none at all. The well meaning criticism implores people to adapt to the environment they are helping in and “meet folks where they are.” Unfortunately it ignores the needs and motives of the helpers. The trade-off organizations face is not “pick a programming language” but “accept help or do not execute on the project.”
+
+### Why It Matters
+As a leader you need to understand the trade offs and options when embarking on a software project. Especially one that is run by volunteers or a new group of consultants. How much trouble are you actually signing up for by having apps written in multiple languages? How big of a factor is this in short or long term success?
+
+### Many Experienced Programmers are Polyglots
+Technology, especially software, does not stagnate. Programmers will have their favorite tools the way George Harrison has a favorite guitar, but rare is the software engineer that has not had to code in an unfamiliar language or library. The ramp up time is going to be much higher to work in the unfamiliar, but many of the general principles are the same. It’s not insurmountable. In a large number of cases the cost of learning how to code or fix an existing program is going to be less than rewriting it in a familiar language. Do not let people convince you that programmers cannot learn more than one language or library.
+
+### It’s Not a Mess, It’s a Micro-services Architecture
+Much of the pain of transitioning between languages and tools has been mitigated with the rise of DevOps, specifically tools like Docker. Docker lets you programmatically write and document what libraries and type of computer you need to run an application on a server or for development. Where apps previously require a lot of setup to work, Docker (when used properly) provides a shortcut to save you the research. When done well `docker compose up` is all you might need to run something. Even when written in different languages your app probably communicates using HTTP, has a REST API, and stores data in a SQL database. Regardless of language, web applications should be deployable to the cloud and able to communicate with each other. Where other folks see a mess, I see a micro-services architecture.
+
+### The Benefits of Standardization Accrue at Scale
+I have not worked at a giant engineering firm like Google, Apple, etc. but I know folks who do, and they standardize and develop their own tooling and training. With a deep bench of talent in a specific language and library engineers at these firms can quickly find documentation or help when they encounter problems. In small to medium sized organizations this benefit is not as pronounced. An inscrutable problem in Ruby might be equally inscrutable in JavaScript. It is a good idea to have a main tech stack for greenfield tech projects to get some benefit, but if a consultancy or volunteer group rolls in and wants to do something only if it’s in R, just let them do it. It will not hurt you as much as the fear mongers claim.
