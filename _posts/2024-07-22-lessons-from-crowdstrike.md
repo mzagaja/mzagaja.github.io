@@ -1,5 +1,7 @@
-# Lessons from Crowdstrike
-
+---
+title: Lessons from Crowdstrike
+layout: post
+---
 As I sat in our hospital room with my wife and newborn son, I was a little bit trapped. The computer the nurses had been using now displayed an error message. Our morning nurse came by and asked for whatever paper records they had left in my son’s bassinet. Our hoped for early discharge was waylaid not by a foreign actor or expert saboteur but by the very software meant to protect the hospital from these threats. Straight out of the 80s the backup discharge plan involved our doctor painstakingly hand scribing our son’s medical record. So much time had been spent trying to prevent disaster yet not nearly enough time and effort had been spent planning to recover from it.
 
 ### Why It Matters
