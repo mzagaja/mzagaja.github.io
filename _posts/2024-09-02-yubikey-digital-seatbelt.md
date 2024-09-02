@@ -1,0 +1,13 @@
+---
+layout: post
+title: Yubikey is the Digital Seat Belt We Need Today
+---
+Another day another breach. Yesterday I got a notice in my mailbox that Ticketmaster was compromised and my data was once again in the hands of hackers. Like you I have grown numb to these notices. The private sector is content to lull us into complacency when it comes to security. They tell us buying mediocre solutions like Crowdstrike are the answer while ignoring hardware security keys that can protect accounts from phishing. Here in Massachusetts we know better and it’s time we make corporations do better.
+
+Hardware security keys are small devices that plug into a computer or smart phone and provide a strong physical form of two-factor authentication. This technology is proven, and widely supported by Apple, Google, and Microsoft. Unlike software based solutions they are virtually impervious to phishing attacks and remote hacking attempts. Yet despite their effectiveness companies resist using them due to perceived inconvenience or cost. 
+
+The Massachusetts Attorney General’s office should begin investigating companies in critical sectors like healthcare and finance and inventory whether they use hardware security keys. Some gentle prodding might be sufficient to spur action by some, but others may require a more direct approach. Using their authority under 93A the Attorney General’s office should make clear that failing to secure sensitive data and systems with hardware security keys are an unfair or deceptive trade practice.
+
+Next session the Massachusetts legislature should take this further by codifying the requirement that critical systems be protected with hardware security keys. The Commonwealth can lead by example with rules for its own systems, along with future software procurements. Extra penalties and enhanced damage awards should be codified for breaches that could have been prevented by hardware security keys but were not. These penalties should escalate annually so they grow from a nudge to a bludgeon over three years. Let us pass an audacious bill that puts hackers and scammers on notice that their era of easy money is over.
+
+When seatbelts were first introduced, many viewed them as unnecessary. When airbags came along, they argued they were too costly. Today we cannot imagine driving a car without these life saving innovations. The free market is great at a lot of things, but mandating its own conscience is not one of them. It is past time for our state government to bridge the gap between the private sector’s innovation and its adoption of security technology.
