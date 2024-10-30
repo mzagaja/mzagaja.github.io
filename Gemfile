@@ -7,4 +7,4 @@ group :jekyll_plugins do
   gem "ffi", github: "ffi/ffi", submodules: true
 end
 
-gem "webrick", "~> 1.7"
+gem "webrick", "~> 1.8"
