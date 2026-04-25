@@ -1,6 +1,3 @@
-// Algolia credentials injected via Jekyll (meta tags in base.html)
-// We read them from data attributes on the search dialog element
-
 const searchDialog = document.querySelector('#search-dialog');
 const searchTrigger = document.querySelector('#search-trigger');
 const mobileMenuTrigger = document.querySelector('#mobile-menu-trigger');
@@ -52,9 +49,9 @@ function initAlgolia() {
 
   algoliaScript.onload = () => {
     document.head.appendChild(instantsearchScript);
-    document.head.appendChild(momentScript);
 
     instantsearchScript.onload = () => {
+      document.head.appendChild(momentScript);
       const searchClient = algoliasearch(appId, apiKey);
 
       const search = instantsearch({
