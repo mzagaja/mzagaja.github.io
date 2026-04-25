@@ -1,0 +1,31 @@
+<nav class="site-nav" aria-label="Site navigation">
+  <a class="nav-logo" href="/">hello@zagaja.com</a>
+
+  <ul class="nav-links">
+    <li><a href="/about">About</a></li>
+    <li><a href="/blog">Blog</a></li>
+    <li><a href="/#essays">Essays</a></li>
+    <li><a href="/#connect">Connect</a></li>
+    <li>
+      <wa-button id="search-trigger" appearance="plain" aria-label="Search">
+        <wa-icon name="magnifying-glass" slot="prefix"></wa-icon>
+      </wa-button>
+    </li>
+    <li>
+      <a href="/blog" class="btn btn-outline" style="padding:0.4rem 1rem;border-width:1px;font-size:0.72rem;">Blog</a>
+    </li>
+  </ul>
+
+  <wa-button class="nav-hamburger" id="mobile-menu-trigger" appearance="plain" aria-label="Open menu">
+    <wa-icon name="bars" slot="prefix"></wa-icon>
+  </wa-button>
+</nav>
+
+<wa-drawer id="mobile-nav" label="Navigation" placement="end">
+  <ul style="list-style:none;padding:1rem;display:flex;flex-direction:column;gap:1.5rem;">
+    <li><a href="/about" style="font-family:var(--wa-font-family-code);font-size:0.9rem;letter-spacing:0.08em;text-transform:uppercase;color:var(--ink);text-decoration:none;">About</a></li>
+    <li><a href="/blog" style="font-family:var(--wa-font-family-code);font-size:0.9rem;letter-spacing:0.08em;text-transform:uppercase;color:var(--ink);text-decoration:none;">Blog</a></li>
+    <li><a href="/#essays" style="font-family:var(--wa-font-family-code);font-size:0.9rem;letter-spacing:0.08em;text-transform:uppercase;color:var(--ink);text-decoration:none;">Essays</a></li>
+    <li><a href="/#connect" style="font-family:var(--wa-font-family-code);font-size:0.9rem;letter-spacing:0.08em;text-transform:uppercase;color:var(--ink);text-decoration:none;">Connect</a></li>
+  </ul>
+</wa-drawer>

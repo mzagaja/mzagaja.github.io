@@ -1,0 +1,61 @@
+{% assign full_footer = false %}
+{% if page.layout == 'home' or page.layout == 'about' %}
+  {% assign full_footer = true %}
+{% endif %}
+
+{% if full_footer %}
+<section class="connect-section" id="connect">
+  <div class="connect-left">
+    <div>
+      <h2>LET'S<br><span>CON</span>NECT.</h2>
+      <p>I'm always interested in hearing from folks working on interesting problems — especially at the intersection of engineering, media, and the public good.</p>
+    </div>
+    <a href="https://mastodon.social/@mzagaja" class="btn btn-primary" style="align-self:flex-start;margin-top:2rem;" target="_blank" rel="me noopener">
+      Find me on Mastodon →
+    </a>
+  </div>
+  <div class="connect-right">
+    <a href="https://mastodon.social/@mzagaja" class="connect-link" target="_blank" rel="me noopener">
+      <div class="connect-link-info">
+        <span class="connect-link-platform">Mastodon</span>
+        <span class="connect-link-handle">@mzagaja@mastodon.social</span>
+      </div>
+      <span class="connect-arrow">→</span>
+    </a>
+    <a href="https://github.com/mzagaja" class="connect-link" target="_blank" rel="noopener">
+      <div class="connect-link-info">
+        <span class="connect-link-platform">GitHub</span>
+        <span class="connect-link-handle">github.com/mzagaja</span>
+      </div>
+      <span class="connect-arrow">→</span>
+    </a>
+    <a href="/about" class="connect-link">
+      <div class="connect-link-info">
+        <span class="connect-link-platform">More about me</span>
+        <span class="connect-link-handle">Full background &amp; résumé</span>
+      </div>
+      <span class="connect-arrow">→</span>
+    </a>
+    <a href="/feed.xml" class="connect-link">
+      <div class="connect-link-info">
+        <span class="connect-link-platform">RSS Feed</span>
+        <span class="connect-link-handle">Subscribe to the blog</span>
+      </div>
+      <span class="connect-arrow">→</span>
+    </a>
+  </div>
+</section>
+{% endif %}
+
+<footer class="site-footer">
+  <p>&copy; {{ site.time | date: '%Y' }} Matt Zagaja. <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US">CC BY-NC-SA 3.0</a></p>
+  <p>
+    <a rel="me" href="https://mastodon.social/@mzagaja">Mastodon</a> ·
+    <a href="https://github.com/mzagaja">GitHub</a> ·
+    <a href="/feed.xml">RSS</a>
+  </p>
+  {% unless full_footer %}
+    <script src="https://pitwebring.billhunt.dev/webring.js"></script>
+    <script>showWebring(true);</script>
+  {% endunless %}
+</footer>

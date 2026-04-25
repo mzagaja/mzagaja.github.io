@@ -1,0 +1,31 @@
+<!doctype html>
+<html class="wa-cloak" lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+  <meta property="og:site_name" content="{{ site.title }}"/>
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+  <meta property="og:image" content="/images/fb_image.jpg">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url }}/feed.xml">
+  <link href="{{ site.url }}/feed.xml" rel="alternate" type="application/rss+xml" title="{{ site.title }} Blog Posts" />
+
+  <link rel="stylesheet" href="/assets/webawesome/dist-cdn/styles/webawesome.css" />
+  <link rel="stylesheet" href="/assets/webawesome/dist-cdn/styles/native.css" />
+  <link rel="stylesheet" href="/assets/main.css" />
+  <script type="module" src="/assets/webawesome/dist-cdn/webawesome.loader.js"></script>
+</head>
+<body>
+  {% include nav.html %}
+
+  <main>
+    {{ content }}
+  </main>
+
+  {% include footer.html %}
+  {% include analytics.html %}
+  {% include search-dialog.html %}
+  <script type="module" src="/assets/js/site.js"></script>
+</body>
+</html>
