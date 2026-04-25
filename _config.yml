@@ -27,6 +27,10 @@ algolia:
     - about.html
     - blog.html
   nodes_to_index: 'p,li,h2,h3,h4,h5,h6'
+collections:
+  pages:
+    output: true
+
 pagination:
   enabled: true
   debug: false
