@@ -9,6 +9,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate-v2
   - jekyll-sitemap
+  - jekyll-redirect-from
 author:
   twitter: mzagaja
 defaults:
@@ -21,11 +22,16 @@ algolia:
   application_id: ADZBG2997L
   index_name: jekyll
   search_only_api_key: b8c639bf58a56694e5b07d3b68d685b1
+  files_to_exclude:
+    - index.html
+    - about.html
+    - blog.html
+  nodes_to_index: 'p,li,h2,h3,h4,h5,h6'
 pagination:
   enabled: true
   debug: false
   collection: 'posts'
   per_page: 5
-  permalink: /page/:num/
+  permalink: /blog/page/:num/
   limit: 0
   sort_reverse: true
