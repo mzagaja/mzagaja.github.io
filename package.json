@@ -1,0 +1,31 @@
+{
+  "name": "mzagaja.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mzagaja/mzagaja.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mzagaja/mzagaja.github.io/issues"
+  },
+  "homepage": "https://github.com/mzagaja/mzagaja.github.io#readme",
+  "description": "",
+  "dependencies": {
+    "@fontsource/bebas-neue": "^5.2.7",
+    "@fontsource/dm-mono": "^5.2.7",
+    "@fontsource/dm-sans": "^5.2.8",
+    "@fontsource/dm-serif-display": "^5.2.8",
+    "@web.awesome.me/webawesome-pro": "^3.5.0"
+  }
+}
