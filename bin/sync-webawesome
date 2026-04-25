@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+set -euo pipefail
+SRC="node_modules/@web.awesome.me/webawesome-pro/dist-cdn"
+DEST="assets/webawesome/dist-cdn"
+
+if [ ! -d "$SRC" ]; then
+  echo "Error: $SRC not found. Run 'npm install' first."
+  exit 1
+fi
+
+rm -rf "$DEST"
+mkdir -p "$DEST"
+cp -r "$SRC/." "$DEST/"
+echo "Synced $SRC → $DEST"
