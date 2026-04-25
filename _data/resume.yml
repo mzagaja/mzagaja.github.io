@@ -1,0 +1,61 @@
+experience:
+  - org: TED
+    role: Software Architect
+    dates: "2022 – present"
+    location: Remote
+    summary: >
+      Building the backend systems that power TED.com — one of the world's most-watched video platforms.
+      Primary focus on Ruby on Rails, API design, media infrastructure, and reliability at scale.
+    highlights:
+      - Ruby on Rails backend serving millions of viewers globally
+      - API design and media infrastructure
+      - Reliability and performance at scale
+
+  - org: Harvard Berkman Klein Center for Internet & Society
+    role: Ford Foundation & Mozilla Fellow
+    dates: "2018 – 2020"
+    location: Cambridge, MA
+    summary: >
+      Fellowship working on the Lumen Database — the world's largest archive of online content removal requests.
+      Mentored two Google Summer of Code students on open-source contributions.
+    highlights:
+      - Maintained and extended the Lumen Database Rails application
+      - Mentored two Google Summer of Code contributors
+      - Research on online speech, platform accountability, and DMCA requests
+
+  - org: Metropolitan Area Planning Council (MAPC)
+    role: Lead Web Developer
+    dates: "2015 – 2018"
+    location: Boston, MA
+    summary: >
+      Built geospatial planning tools for metropolitan planners and policymakers using PostGIS,
+      Esri vector tile services, Mapbox, and shapefile pipelines ingested into Rails + PostgreSQL.
+    highlights:
+      - PostGIS spatial data pipelines and ogr2ogr workflows
+      - Esri and Mapbox vector tile integration
+      - D3.js election maps overlaying district geometries with live results
+
+education:
+  - school: University of Connecticut School of Law
+    degree: Juris Doctor (JD)
+    dates: "2012 – 2015"
+    focus: Intellectual Property Law
+
+open_source_volunteering:
+  - org: Code for Boston
+    role: Engineering Lead / Leadership Team
+    dates: "2016 – present"
+    summary: >
+      Leading civic tech engineers on open-source projects for public benefit — voter tools,
+      outreach apps, and community infrastructure.
+
+  - org: CTNewsJunkie
+    role: Technical Collaborator
+    dates: "2018 – present"
+    summary: >
+      vote.ctnewsjunkie.com and bills.ctnewsjunkie.com — tools for civic engagement through data and software.
+
+recognition:
+  - org: Google
+    award: Google Summer of Code Mentor
+    date: "2019, 2020"
