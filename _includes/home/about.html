@@ -1,0 +1,17 @@
+<section class="about-section" id="about">
+  <div class="about-label">
+    <div class="section-label-vert" aria-hidden="true">ABOUT</div>
+  </div>
+  <div class="about-content">
+    <h2>Software architect, <em>attorney</em>,<br>and civic technologist.</h2>
+    <p>I'm a Software Architect at TED, building the backend systems that power one of the world's most-watched video platforms. I work primarily in Ruby on Rails and care about shipping software that's fast, reliable, and built to last.</p>
+    <p>Before TED, I was a Ford Foundation and Mozilla fellow at Harvard's Berkman Klein Center for Internet &amp; Society, where I worked on the Lumen Database — the world's largest archive of online content removal requests — and mentored two Google Summer of Code students. Earlier, as Lead Web Developer at MAPC (the Metropolitan Area Planning Council), I built geospatial planning tools using PostGIS, Esri vector tile services, Mapbox, and shapefile pipelines.</p>
+    <p>My background is genuinely unusual: JD from UConn Law with a focus on Intellectual Property, years in Connecticut politics as a Deputy Data Director and campaign manager, and a career that found its fullest expression in code. I lead engineering for Code for Boston, write regularly about technology and its social implications, and care deeply about software that serves democracy, equity, and the public good.</p>
+    <div class="skills-grid">
+      {% assign skills = "Ruby,Rails,RSpec,PostgreSQL,PostGIS,ogr2ogr,Esri / ArcGIS,Mapbox,D3.js,Docker,REST APIs,AI / LLMs,Media Tech,Civic Tech,Security,Open Source" | split: "," %}
+      {% for skill in skills %}
+        {% include components/skill-tag.html skill=skill %}
+      {% endfor %}
+    </div>
+  </div>
+</section>
