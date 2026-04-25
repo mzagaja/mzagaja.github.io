@@ -37,6 +37,10 @@ function initAlgolia() {
   const algoliaScript = document.createElement('script');
   algoliaScript.src = 'https://cdn.jsdelivr.net/npm/algoliasearch@4.14.2/dist/algoliasearch-lite.umd.js';
   algoliaScript.crossOrigin = 'anonymous';
+  algoliaScript.onerror = () => {
+    searchInitialized = false;
+    console.error('Algolia search failed to load.');
+  };
 
   const instantsearchScript = document.createElement('script');
   instantsearchScript.src = 'https://cdn.jsdelivr.net/npm/instantsearch.js@4.49.1/dist/instantsearch.production.min.js';
@@ -44,6 +48,7 @@ function initAlgolia() {
 
   const momentScript = document.createElement('script');
   momentScript.src = 'https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.20.1/moment.min.js';
+  momentScript.crossOrigin = 'anonymous';
 
   document.head.appendChild(algoliaScript);
 
@@ -52,47 +57,50 @@ function initAlgolia() {
 
     instantsearchScript.onload = () => {
       document.head.appendChild(momentScript);
-      const searchClient = algoliasearch(appId, apiKey);
 
-      const search = instantsearch({
-        indexName,
-        searchClient,
-      });
+      momentScript.onload = () => {
+        const searchClient = algoliasearch(appId, apiKey);
 
-      const hitTemplate = (hit) => {
-        const date = hit.date ? moment.unix(hit.date).format('MMM D, YYYY') : '';
-        const title = hit._highlightResult.title.value;
-        const content = hit._highlightResult.html ? hit._highlightResult.html.value : '';
-        return `
-          <div class="post-item">
-            <span class="post-meta">${date}</span>
-            <h2><a class="post-link" href="${hit.url}">${title}</a></h2>
-            <div class="post-snippet">${content}</div>
-            <a class="read-more" href="${hit.url}">Read More</a>
-          </div>
-        `;
+        const search = instantsearch({
+          indexName,
+          searchClient,
+        });
+
+        const hitTemplate = (hit) => {
+          const date = hit.date ? moment.unix(hit.date).format('MMM D, YYYY') : '';
+          const title = hit._highlightResult.title.value;
+          const content = hit._highlightResult.html ? hit._highlightResult.html.value : '';
+          return `
+            <div class="post-item">
+              <span class="post-meta">${date}</span>
+              <h2><a class="post-link" href="${hit.url}">${title}</a></h2>
+              <div class="post-snippet">${content}</div>
+              <a class="read-more" href="${hit.url}">Read More</a>
+            </div>
+          `;
+        };
+
+        search.addWidgets([
+          instantsearch.widgets.searchBox({
+            container: '#search-searchbar',
+            placeholder: 'Search posts...',
+            showSubmit: false,
+            showLoadingIndicator: false,
+            showReset: false,
+          }),
+          instantsearch.widgets.hits({
+            container: '#search-hits',
+            templates: { item: hitTemplate },
+            escapeHTML: false,
+          }),
+          instantsearch.widgets.poweredBy({
+            container: '#powered-by',
+            theme: 'dark',
+          }),
+        ]);
+
+        search.start();
       };
-
-      search.addWidgets([
-        instantsearch.widgets.searchBox({
-          container: '#search-searchbar',
-          placeholder: 'Search posts...',
-          showSubmit: false,
-          showLoadingIndicator: false,
-          showReset: false,
-        }),
-        instantsearch.widgets.hits({
-          container: '#search-hits',
-          templates: { item: hitTemplate },
-          escapeHTML: false,
-        }),
-        instantsearch.widgets.poweredBy({
-          container: '#powered-by',
-          theme: 'dark',
-        }),
-      ]);
-
-      search.start();
     };
   };
 }
