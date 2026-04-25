@@ -1,0 +1,33 @@
+---
+layout: base
+---
+<div class="blog-header">
+  <h1>FROM THE BLOG</h1>
+  <p>Writing on engineering, AI, civic tech, and more.</p>
+</div>
+
+<div class="blog-grid">
+  {% for post in paginator.posts %}
+    {% include components/post-card.html post=post %}
+  {% endfor %}
+</div>
+
+<nav class="blog-pagination" aria-label="Pagination">
+  {% if paginator.previous_page %}
+    {% if paginator.previous_page == 1 %}
+      <a href="/blog/">&laquo; Newer</a>
+    {% else %}
+      <a href="/blog/page/{{ paginator.previous_page }}/">&laquo; Newer</a>
+    {% endif %}
+  {% else %}
+    <span>&laquo; Newer</span>
+  {% endif %}
+
+  <span class="current-page">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+
+  {% if paginator.next_page %}
+    <a href="/blog/page/{{ paginator.next_page }}/">Older &raquo;</a>
+  {% else %}
+    <span>Older &raquo;</span>
+  {% endif %}
+</nav>
