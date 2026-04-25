@@ -1,0 +1,16 @@
+{% assign recent = site.posts | slice: 0, 6 %}
+<section class="writing-section" id="writing">
+  <div class="writing-header">
+    <div class="writing-title"><h2>FROM THE BLOG</h2></div>
+    <div class="writing-intro">
+      <p>Weekly dispatches on engineering, AI, civic tech, and whatever I'm currently thinking about.</p>
+      <br>
+      <a href="/blog" class="btn btn-outline" style="font-size:0.72rem;padding:0.5rem 1.2rem;">All Posts →</a>
+    </div>
+  </div>
+  <div class="posts-grid">
+    {% for post in recent %}
+      {% include components/post-card.html post=post %}
+    {% endfor %}
+  </div>
+</section>

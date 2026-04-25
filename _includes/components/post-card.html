@@ -1,0 +1,7 @@
+<a href="{{ include.post.url }}" class="post-card">
+  <span class="post-date">
+    {% if include.post.essay_category %}{{ include.post.essay_category }} · {% endif %}{{ include.post.date | date: "%b %Y" }}
+  </span>
+  <span class="post-title">{{ include.post.title }}</span>
+  <span class="post-arrow">Read →</span>
+</a>

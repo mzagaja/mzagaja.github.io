@@ -1,0 +1,16 @@
+{% assign essays = site.posts | where: "essay", true | sort: "date" | reverse | slice: 0, 6 %}
+{% if essays.size > 0 %}
+<section class="writing-section" id="essays">
+  <div class="writing-header">
+    <div class="writing-title"><h2>SELECTED ESSAYS</h2></div>
+    <div class="writing-intro">
+      <p>Longer-form thinking on engineering, AI, infrastructure, and the systems that shape how we live and work.</p>
+    </div>
+  </div>
+  <div class="posts-grid">
+    {% for post in essays %}
+      {% include components/post-card.html post=post %}
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
