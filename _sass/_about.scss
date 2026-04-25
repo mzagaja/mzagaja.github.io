@@ -1,0 +1,94 @@
+.about-page-header {
+  padding: 6rem 2.5rem 3rem;
+  border-bottom: 1.5px solid var(--line);
+}
+
+.about-page-header h1 {
+  font-family: var(--site-font-display);
+  font-size: clamp(3rem, 8vw, 6rem);
+  letter-spacing: 0.03em;
+  color: var(--ink);
+}
+
+.about-narrative {
+  max-width: 65ch;
+  margin: 0 auto;
+  padding: 3rem 2.5rem;
+
+  p {
+    margin-bottom: 1.25rem;
+    color: var(--ink-muted);
+    line-height: 1.7;
+  }
+
+  a { color: var(--wa-color-text-link); }
+}
+
+.resume-section {
+  padding: 3rem 2.5rem;
+  border-top: 1.5px solid var(--line);
+
+  h2 {
+    font-family: var(--site-font-display);
+    font-size: 2.5rem;
+    letter-spacing: 0.03em;
+    color: var(--ink);
+    margin-bottom: 2rem;
+  }
+}
+
+.resume-item {
+  margin-bottom: 2rem;
+
+  .resume-item-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 0.5rem;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  .resume-org {
+    font-family: var(--wa-font-family-code);
+    font-size: 0.72rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--rust);
+  }
+
+  .resume-role {
+    font-family: var(--wa-font-family-heading);
+    font-size: 1.1rem;
+    color: var(--ink);
+  }
+
+  .resume-dates {
+    font-family: var(--wa-font-family-code);
+    font-size: 0.72rem;
+    letter-spacing: 0.08em;
+    color: var(--ink-faint);
+  }
+
+  .resume-summary {
+    color: var(--ink-muted);
+    font-size: 0.95rem;
+    line-height: 1.6;
+    margin-bottom: 0.75rem;
+  }
+
+  .resume-highlights {
+    margin-left: 1.25rem;
+    li {
+      color: var(--ink-muted);
+      font-size: 0.9rem;
+      margin-bottom: 0.25rem;
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .about-page-header { padding: 5rem 1.25rem 2rem; }
+  .about-narrative { padding: 2rem 1.25rem; }
+  .resume-section { padding: 2rem 1.25rem; }
+}

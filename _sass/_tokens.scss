@@ -1,0 +1,62 @@
+:root {
+  // Brand
+  --wa-color-brand-fill-loud:    #b83a10;
+  --wa-color-brand-on-loud:      #ffffff;
+  --wa-color-brand-fill-quiet:   rgba(184, 58, 16, 0.08);
+
+  // Surfaces
+  --wa-color-surface-default:    #f5f0e8;
+  --wa-color-surface-raised:     #ede8df;
+  --wa-color-surface-border:     #ccc7bc;
+
+  // Text
+  --wa-color-text-normal:        #0e0e0e;
+  --wa-color-text-quiet:         #4a4a4a;
+  --wa-color-text-link:          var(--wa-color-brand-fill-loud);
+  --wa-color-gray-50:            #888888;
+
+  // Typography
+  --wa-font-family-body:     'DM Sans', system-ui, sans-serif;
+  --wa-font-family-heading:  'DM Serif Display', Georgia, serif;
+  --wa-font-family-code:     'DM Mono', ui-monospace, monospace;
+  --site-font-display:       'Bebas Neue', 'DM Serif Display', sans-serif;
+
+  // Scale
+  --wa-font-size-base:       1.0625rem;
+  --wa-border-radius-scale:  0;
+
+  // Site-local aliases (used in bespoke CSS)
+  --bg:        #f5f0e8;
+  --bg-subtle: #ede8df;
+  --ink:       #0e0e0e;
+  --ink-muted: #4a4a4a;
+  --ink-faint: #888888;
+  --rust:      #b83a10;
+  --rust-hover:#d44820;
+  --line:      #ccc7bc;
+  --dark-bg:   #0e0e0e;
+  --dark-text: #f0ebe0;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --wa-color-surface-default: #111110;
+    --wa-color-surface-raised:  #1a1918;
+    --wa-color-surface-border:  #2e2d2b;
+    --wa-color-text-normal:     #f0ebe0;
+    --wa-color-text-quiet:      #b8b2a8;
+    --wa-color-gray-50:         #7a7670;
+    --wa-color-brand-fill-loud: #e86030;
+    --wa-color-text-link:       var(--wa-color-brand-fill-loud);
+
+    --bg:        #111110;
+    --bg-subtle: #1a1918;
+    --ink:       #f0ebe0;
+    --ink-muted: #b8b2a8;
+    --ink-faint: #7a7670;
+    --rust:      #e86030;
+    --rust-hover:#f07848;
+    --line:      #2e2d2b;
+    --dark-bg:   #080807;
+  }
+}
