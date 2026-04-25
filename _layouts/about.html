@@ -1,0 +1,100 @@
+---
+layout: base
+---
+<div class="about-page-header">
+  <h1>ABOUT</h1>
+</div>
+
+<div class="about-narrative">
+  {{ content }}
+</div>
+
+{% if site.data.resume %}
+  {% assign resume = site.data.resume %}
+
+  {% if resume.experience %}
+  <section class="resume-section">
+    <h2>EXPERIENCE</h2>
+    <wa-divider></wa-divider>
+    {% for job in resume.experience %}
+    <div class="resume-item">
+      <div class="resume-item-header">
+        <div>
+          <div class="resume-org">{{ job.org }}</div>
+          <div class="resume-role">{{ job.role }}</div>
+        </div>
+        <div class="resume-dates">{{ job.dates }}{% if job.location %} · {{ job.location }}{% endif %}</div>
+      </div>
+      <p class="resume-summary">{{ job.summary }}</p>
+      {% if job.highlights %}
+      <ul class="resume-highlights">
+        {% for highlight in job.highlights %}
+        <li>{{ highlight }}</li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+    </div>
+    <wa-divider></wa-divider>
+    {% endfor %}
+  </section>
+  {% endif %}
+
+  {% if resume.education %}
+  <section class="resume-section">
+    <h2>EDUCATION</h2>
+    <wa-divider></wa-divider>
+    {% for edu in resume.education %}
+    <div class="resume-item">
+      <div class="resume-item-header">
+        <div>
+          <div class="resume-org">{{ edu.school }}</div>
+          <div class="resume-role">{{ edu.degree }}</div>
+        </div>
+        <div class="resume-dates">{{ edu.dates }}</div>
+      </div>
+      {% if edu.focus %}<p class="resume-summary">{{ edu.focus }}</p>{% endif %}
+    </div>
+    <wa-divider></wa-divider>
+    {% endfor %}
+  </section>
+  {% endif %}
+
+  {% if resume.open_source_volunteering %}
+  <section class="resume-section">
+    <h2>OPEN SOURCE &amp; VOLUNTEERING</h2>
+    <wa-divider></wa-divider>
+    {% for vol in resume.open_source_volunteering %}
+    <div class="resume-item">
+      <div class="resume-item-header">
+        <div>
+          <div class="resume-org">{{ vol.org }}</div>
+          <div class="resume-role">{{ vol.role }}</div>
+        </div>
+        <div class="resume-dates">{{ vol.dates }}</div>
+      </div>
+      <p class="resume-summary">{{ vol.summary }}</p>
+    </div>
+    <wa-divider></wa-divider>
+    {% endfor %}
+  </section>
+  {% endif %}
+
+  {% if resume.recognition %}
+  <section class="resume-section">
+    <h2>RECOGNITION</h2>
+    <wa-divider></wa-divider>
+    {% for rec in resume.recognition %}
+    <div class="resume-item">
+      <div class="resume-item-header">
+        <div>
+          <div class="resume-org">{{ rec.org }}</div>
+          <div class="resume-role">{{ rec.award }}</div>
+        </div>
+        <div class="resume-dates">{{ rec.date }}</div>
+      </div>
+    </div>
+    <wa-divider></wa-divider>
+    {% endfor %}
+  </section>
+  {% endif %}
+{% endif %}
