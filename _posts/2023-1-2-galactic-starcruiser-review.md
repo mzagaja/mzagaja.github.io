@@ -1,6 +1,8 @@
 ---
 title: The Galactic Starcruiser Review
 layout: post
+tags:
+- Book Review
 ---
 Imagineering got permission to try something more ambitious than anything they have tried before. Armed with the rich history of Star Wars and a budget that only Disney provides, they created an experience that takes everything people love about the parks and dialed it up to eleven. If you love Star Wars, games, and Disney rides, you will not regret [two days on the Halcyon](https://disneyworld.disney.go.com/star-wars-galactic-starcruiser/overview/). If you are less familiar with Star Wars, you will find things to enjoy, but Galactic Starcruiser’s controversially high price point means this will not be worth it for you.
 

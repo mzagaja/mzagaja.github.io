@@ -2,9 +2,7 @@
 layout: post
 title: Comparing At-Home COVID Tests
 tags:
-- Technology
-- COVID
-- Rapid Testing
+- Software
 ---
 Everyone is clamoring to get COVID-19 at-home tests this holiday season. The tests come in two flavors. One are tests from the folks at Detect and Cue Health that provide PCR like results in your home. The others are the more common rapid antigen tests. With so many on the market you might ask yourself, is one better than the others? While we’re still waiting for more data and third party studies to validate the accuracy of these tests, it is hard to say for sure. However I have collected the self-reported and some third-party studies for each of the tests so you can see the difference in performance of them.
 

@@ -1,6 +1,8 @@
 ---
 title: Facebook Secretly Draining User Batteries
 layout: post
+tags:
+- Meta
 ---
 From [the New York Post](https://nypost.com/2023/01/28/facebook-fires-worker-who-refused-to-do-negative-testing-awsuit/):
 > The practice, known as “negative testing,” allows tech companies to “surreptitiously” run down someone’s mobile juice in the name of testing features or issues such as how fast their app runs or how an image might load, according to data scientist George Hayward.

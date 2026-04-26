@@ -1,6 +1,9 @@
 ---
 title: Weekend Links
 layout: post
+tags:
+- Meta
+- News
 ---
 * [3D Printing Grows Beyond Its Novelty Roots](https://www.nytimes.com/2022/07/03/business/3d-printing-vulcanforms.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuomT1JKd6J17Vw1cRCfTTMQmqxCdw_PIxftm3iWka3DKDm4ZiO4IGImG9lzWIvFvIsMp3jKHRdlOdaEyQPd7yOFYJUl2DQm0p5_O0LI0HxIIk6PhFGUnw8CKGrki7T7hamT-d7tynObj7xzDbGXuCrjY1n1xOF029cZ6IFiqi3EMxP3ERbUmycA-ial6fu1yRjkKbCmJv_T6WV4paJjdMEaqukRhUPpZWDrTgdeZ97oEFQ1SAlvDR3h4in0uvJIeYJhEefaicGNzPZb2kr4TCWd3LYa2B5FXR4PclrtisrKlugWSbfKgVy3jy9temQEHE10k&smid=url-share) was an interesting read about how 3D Printing is getting better and the companies leading the way are in Massachusetts!
 * [A Technologist Walks into the U.S. Government](https://ssir.org/articles/entry/a_technologist_walks_into_the_us_government?utm_source=Publicate&utm_medium=email&utm_content=a-technologist-walks-into-the-us-government-ssir&utm_campaign=CFA+06.21) is where Victoria Houed shares some advice on how to nurture the tech talent to government pipeline. She was a TechCongress fellow.

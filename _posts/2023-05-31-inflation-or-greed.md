@@ -1,6 +1,7 @@
 ---
 title: An Eye Popping Price Increase at my Barber Shop
 layout: post
+tags: []
 ---
 When the [local barber shop](https://www.skipsbarbershop.com) I liked raised prices after COVID it felt spendy but a reasonable concession for a business that had trouble for a few years. About a year ago a new booking app switch lead to a $2 service fee per transaction. Annoying, but bearable. Finally on May 1st they announced a whopper of a 24% price increase. Businesses are not just riding the wave of inflation, but being greedy.
 

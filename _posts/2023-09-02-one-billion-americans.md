@@ -1,6 +1,7 @@
 ---
 title: One Billion Americans
 layout: post
+tags: []
 ---
 In his [2020 tome](https://www.amazon.com/One-Billion-Americans-Thinking-Bigger-ebook/dp/B082ZR6827) [Matthew Yglesias](https://www.slowboring.com/) (formerly of Vox) asks us to dream big. Through this dream of increasing America’s population to a billion he gives us a tour of the challenges and America’s policy failures from fertility to housing. In Yglesias mind a large series of tweaks from immigration to municipal budgets is all we need to get there. We just need to choose it.
 

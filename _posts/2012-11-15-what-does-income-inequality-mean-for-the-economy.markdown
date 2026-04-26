@@ -1,9 +1,7 @@
 ---
 layout: post
 title: What Does Income Inequality Mean for the Economy?
-tags:
-- income inequality
-- job creation
+tags: []
 ---
 When Henry Ford started the Ford Motor Company one of the things he did was <a href="http://corporate.ford.com/news-center/press-releases-detail/677-5-dollar-a-day">implement a $5 a day workday</a>. This was revolutionary because he paid a wage that was double the current market rate and also reduced worker hours. His goal in taking these measures was to reduce worker attrition. To my parent's generation this probably does not seem like an unusual move. For the past fifty or so years people expected to join a single firm and move up in the ranks and be rewarded for their loyalty. Employees and firms were intensely loyal to each other.
 

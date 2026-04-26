@@ -2,9 +2,7 @@
 layout: post
 title: John Larson Speaks at First Congressional District Convention
 tags:
-- politics
-- linkedin
-- john larson
+- Campaigns & Politics
 ---
 ![John Larson speaking](/images/2012/05/Larson-Speaks-1024x390.jpg "John Larson speaking")
 

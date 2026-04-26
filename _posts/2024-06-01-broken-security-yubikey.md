@@ -1,6 +1,9 @@
 ---
 title: You're Insecure, Don't Know What For
 layout: post
+tags:
+- Meta
+- Security
 ---
 The software industry’s approach to security is broken. Among professionals there is a lack of consensus on best practices. Adoption of innovations is slow, uneven, and poorly executed. The regulatory and compliance framework around security involves large amounts of labor by businesses and practices that are hostile to end users. Despite all the effort that goes into security, it fails and fails often. 
 

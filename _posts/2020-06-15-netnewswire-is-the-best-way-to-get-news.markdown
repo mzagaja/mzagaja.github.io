@@ -2,7 +2,8 @@
 layout: post
 title: NetNewsWire is the Best Way to Get News
 tags:
-- Software Review
+- Meta
+- Product Review
 ---
 I have felt increasingly frustrated with twitter. For the longest time I have used it as a news source. I followed lots of journalists and for the most part twitter had done a great job of sending me to interesting content, like Facebook before it. Lately this has not been the case. Twitter has been prioritizing original content, and that content has been bad.
 

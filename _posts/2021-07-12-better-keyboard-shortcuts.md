@@ -2,7 +2,7 @@
 layout: post
 title: How To Better Use Keyboard Shortcuts
 tags:
-  - Tech
+- Software
 ---
 As a long time computer user one of the things that has sped up my usage of my computer has been to memorize keyboard shortcuts. While graphical interfaces are great for discovery of features, repetitive execution of commands that are hidden in menus is often slow. You might already be familiar with keyboard shortcuts, but want to use more. Here are my tips and tricks for keyboard shortcuts so that over the next month or two you can become a pro with them.
 

@@ -1,6 +1,8 @@
 ---
 title: The Value of Code Comments
 layout: post
+tags:
+- Software
 ---
 One of the things I changed my mind about after joining TED was the value of code comments. TED codebases take advantage of [YARD](https://yardoc.org) to annotate its code. This makes it easy to generate searchable documentation for every app we use. I then often import these document sets into [Dash app](https://kapeli.com/dash).
 

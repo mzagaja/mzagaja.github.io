@@ -1,6 +1,8 @@
 ---
 title: Stranger Things in BPDA's South Boston Existing Conditions Report
 layout: post
+tags:
+- Civic Tech
 ---
 [Caught in Southie announced yesterday a Pint with a Planner event](https://caughtinsouthie.com/see-do/5-things-you-should-know-this-week-january-30th/) to discuss the [existing conditions report in South Boston](https://www.bostonplans.org/getattachment/35fb93c5-55f9-4e4a-b174-ce559880947b). I will not be able to make it because I have a conflict with Code for Boston, but took time to dig into the nearly 150 page report. While many parts are not surprising, other parts are sci-fi. In the alternate universe the BPDA pulled data from, the 7 bus is not overcrowded.
 

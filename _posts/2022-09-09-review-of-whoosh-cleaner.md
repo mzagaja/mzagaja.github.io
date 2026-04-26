@@ -1,6 +1,8 @@
 ---
 title: My Review of Whoosh! Screen Cleaner
 layout: post
+tags:
+- Product Review
 ---
 I recorded this review last December, but never posted it to the blog:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9kNnLV-Bing" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

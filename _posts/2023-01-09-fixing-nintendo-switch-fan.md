@@ -1,6 +1,7 @@
 ---
 title: Fixing the Nintendo Switch Fan at Home
 layout: post
+tags: []
 ---
 Lately the cooling fan on my seven year old Nintendo Switch started making strange noises. As someone who has built computers and worked with electronics, I know this is bad news. The options were to either pay money and send the Switch to Nintendo for a week or two for official repair, or [buy a kit and do it myself](https://amzn.to/3WYm4fF). I did not want to be a week without my Nintendo, and have experience building computers, so opted to do it myself.
 

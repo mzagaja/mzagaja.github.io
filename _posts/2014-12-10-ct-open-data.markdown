@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Connecticut's Open Data Portal
-tags: 
-- Civic Hacking
-- Open Data
+tags:
+- Civic Tech
+- Data
 ---
 The other day I finally took the time to explore [Connecticut's Open Data portal](https://data.ct.gov) in depth. While I was aware of the portal before I did not extensively use it. Like many members of the public I looked at a few of the interesting example data sets and moved on. My goal was to figure out if there are some interesting data sets that I can pull down and use with some of the new algorithms that I have been learning. However no specific data set stuck out to me.
 

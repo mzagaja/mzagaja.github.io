@@ -1,6 +1,7 @@
 ---
 title: Rest Duvet's Evercool is the Comforter Hot Sleepers Have Been Looking For
 layout: post
+tags: []
 ---
 I picked up a [Rest Duvet Evercool](https://www.restduvet.com/products/evercool-comforter) after being intrigued by an ad I saw for it on Instagram. I classically sleep warm or hot. Regular comforters leave me waking up sometimes in sweats. I have mostly learned to endure the warm season, but the Rest Duvet has been a big improvement.
 

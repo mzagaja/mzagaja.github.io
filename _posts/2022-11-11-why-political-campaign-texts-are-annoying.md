@@ -2,6 +2,8 @@
 title: Why Political Campaign Texts are Annoying
 layout: post
 excerpt_separator: <!--more-->
+tags:
+- Campaigns & Politics
 ---
 “Marketers ruin everything.” - [Gary Vaynerchuk](https://www.youtube.com/watch?v=M7MsgaKmq-0)
 

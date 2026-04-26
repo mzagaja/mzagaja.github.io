@@ -1,6 +1,8 @@
 ---
 title: iPhone Notification Spam is Awful
 layout: post
+tags:
+- Apple
 ---
 The amount of spam I receive in my iPhone notification screen/center seems to grow daily. The big offenders in the past 24 hours:
 * Starbucks

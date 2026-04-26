@@ -1,6 +1,8 @@
 ---
 title: Is Mastodon the Antidote to Twitter?
 layout: post
+tags:
+- Meta
 ---
 Since Elon Musk was forced to buy twitter I have seen a bunch of social media friends migrate to [Mastodon](https://mastodon.social/@mzagaja). I made an account and it does do much of what twitter does, but feels rough around the edges. I am interested to see whether it takes off or if this is a temporary bump.
 

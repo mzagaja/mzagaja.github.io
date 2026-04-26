@@ -2,7 +2,8 @@
 layout: post
 title: 2-19 Sunday Must Reads
 tags:
-- must reads
+- Meta
+- News
 ---
 I've been sharing some good links on my twitter and facebook but wanted to post them here so they don't go into the abyss.
 

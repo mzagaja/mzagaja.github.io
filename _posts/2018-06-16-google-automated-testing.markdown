@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How Google Implemented Automated Testing
+tags: []
 ---
 I have been spending a lot of time thinking about the hows and whys of implementing automated testing in our workflows, and thought this Mike Bland video was great:
 

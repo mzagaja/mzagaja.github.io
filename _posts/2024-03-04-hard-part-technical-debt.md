@@ -1,6 +1,7 @@
 ---
 title: The Hard Parts of Technical Debt
 layout: post
+tags: []
 ---
 I have been spending a large part of the past month or two battling the dragon we call technical debt. Technical debt is an often invoked but challenging to understand aspect of software engineering. To outsiders it can seem subjective: engineers dislike some sort of code, label it legacy code or tech debt, and try to convince product or management to let them work on fixing that instead of stories that provide value. This can happen, but is not fully accurate. Tech debt is real because the bill for it eventually comes due.
 

@@ -1,6 +1,7 @@
 ---
 title: Field Report from PAX East
 layout: post
+tags: []
 ---
 I spent Saturday roaming PAX East, the annual video game convention held in Boston. Along with many gamers I enjoy the opportunity to engage with games that I love along with discovering new things from less known companies.
 

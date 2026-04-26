@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Yubikey is the Digital Seat Belt We Need Today
+tags:
+- Security
 ---
 Another day another breach. Yesterday I got a notice in my mailbox that Ticketmaster was compromised and my data was once again in the hands of hackers. Like you I have grown numb to these notices. The private sector is content to lull us into complacency when it comes to security. They tell us buying mediocre solutions like Crowdstrike are the answer while ignoring hardware security keys that can protect accounts from phishing. Here in Massachusetts we know better and it’s time we make corporations do better.
 

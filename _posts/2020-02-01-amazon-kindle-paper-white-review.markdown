@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Amazon Kindle Paperwhite Review
+tags:
+- Apple
+- Product Review
 ---
 After my previous Kindle saga I have finally received my [Amazon Kindle Paperwhite](https://amzn.to/390WRrs). I have been using the device for a week, and love it more than the original. Amazon has refined and improved the Kindle to the point I can strongly recommend it.
 

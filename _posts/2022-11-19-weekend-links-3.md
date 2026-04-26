@@ -1,6 +1,8 @@
 ---
 title: Weekend Links
 layout: post
+tags:
+- News
 ---
 * [Healy Announces Transition Team Chairs](https://commonwealthmagazine.org/politics/healey-announces-transition-committee-chairs/) from Commonwealth Magazine. Congrats to my former colleague at MAPC [Lizzi Weyant](https://www.mapc.org/staff-member/elizabeth-weyant/) for co-chairing the Climate readiness, resiliency and adaptation committee with Gina McCarthy (!!!).
 * The [Healy Driscoll Transition Website](https://healeydriscolltransition.com/) has forms for submitting your ideas and resume.

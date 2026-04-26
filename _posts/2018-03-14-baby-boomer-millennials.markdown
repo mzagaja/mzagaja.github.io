@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Baby Boomer Millennials Article
+tags: []
 ---
 Someone shared [this article](https://www.vox.com/2017/12/20/16772670/baby-boomers-millennials-congress-debt) with me today and I felt the need to respond in poem.
 

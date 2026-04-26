@@ -1,6 +1,8 @@
 ---
 title: The Sad State of Video Editing for Vertical
 layout: post
+tags:
+- Meta
 ---
 I recently have attempted to make a few Reel type posts on Instagram. These have long been popular on the platform and as someone used to using iMovie I am shocked at how painful the apps are to use for this. Many table stakes features from iMovie like splitting clips, audio, and speeding up scenes are absent from these new tools. Meanwhile your audio library from Apple Music or Spotify cannot be used for background music.
 

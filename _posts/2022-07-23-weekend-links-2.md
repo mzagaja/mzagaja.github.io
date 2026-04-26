@@ -1,6 +1,8 @@
 ---
 title: Weekend Links
 layout: post
+tags:
+- News
 ---
 * [The Fallacy of AI Functionality](https://arxiv.org/pdf/2206.09511.pdf) is a well written critique of AI and AI critics. TL;DR: Too much effort is spent talking about the ethics of AI, and not enough on whether it actually works.
 * [How Hertz Paid Accenture $32 Million for a Website That Never Went Live](https://www.henricodolfing.com/2019/10/case-study-hertz-accenture-website.html) is a good summary of an old dispute. It largely demonstrates the challenges and miscommunications that occur when a whole bunch of folks who are not proficient in software technology are involved in a software project. Lots of miscommunication, missed project deadlines, and finally lawyers.

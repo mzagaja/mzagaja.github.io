@@ -1,6 +1,8 @@
 ---
 title: The Gulikit King Kong 3 Max Review
 layout: post
+tags:
+- Product Review
 ---
 A year or two ago Gulikit, a Chinese electronics manufacturer splashed onto the scene with a new kind of joystick replacement for Nintendo’s joy-con controllers that claimed to resolve the stick drift problem. Nintendo famously had to offer free repairs to its customers as the joysticks on its smaller controllers would wear out over time. In [public interviews Nintendo said they improved but would never be able to resolve the joy-con stick drift](https://www.theverge.com/2021/10/7/22715467/nintendo-joy-con-drift-never-fixed-switch-oled). Gulikit claimed to have solved this problem, and in addition to its joy-con replacement kits released the King Kong 2 controller with the same hall effect joystick technology. I tried the King Kong 2 and had mine fail with a software update. After waiting for reviews and for Gulikit to release a new version of the controller with improved back buttons, I picked up the [King Kong 3 Max](https://gulikit.com/productinfo/1130420.html).
 

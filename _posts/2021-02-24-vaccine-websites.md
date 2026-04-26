@@ -2,7 +2,7 @@
 layout: post
 title: Why Massachusetts Struggled to Make a Vaccine Website
 tags:
-  - Software
+- Software
 ---
 In 1872, a fire broke out in the basement of a warehouse on Summer Street in Boston. As flames spread to nearby buildings, Boston firefighters called for backup. Neighboring towns responded, only to discover that their hoses would not fit into the hydrants. The couplings that connect the hydrants to the hoses had not been standardized. This hampered the help the firefighters could give, and thirty people died. 776 buildings burned. Fast forward to 2021. Companies and governments are trying to share information about vaccine appointments. Their systems cannot connect with each other. People cannot get shots. The death toll is ongoing. History does not repeat itself, but it does rhyme.
 

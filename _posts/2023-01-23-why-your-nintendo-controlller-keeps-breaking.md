@@ -1,6 +1,8 @@
 ---
 title: Why Your Nintendo Controller Keeps Breaking
 layout: post
+tags:
+- Product Review
 ---
 Like many people I bought a Nintendo Switch when it was released in 2017. A year or so after its release people started noticing that the joysticks on the Joy-Con controllers suffered from controller drift. After public backlash Nintendo started a free repair program: send in your joy-cons and they will replace the joysticks. I have done this and it works, but it is annoying to lose them for a couple weeks. Now a little known company has a solution.
 

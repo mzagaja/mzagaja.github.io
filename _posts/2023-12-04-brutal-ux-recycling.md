@@ -1,6 +1,7 @@
 ---
 title: The Brutal UX of Recycling
 layout: post
+tags: []
 ---
 In Boston a lot of things can be recycled. Plastic, aluminum, paper. These things are easy: place them in your blue bin. Yet I see so many folks mess this up. Junk mail might sightlessly be dropped in the waste bin. Plastic that could be rinsed and recycled is dropped into landfill. These are easy, the hard ones are even more annoying: textiles, batteries, electronics, and plastic bags (#4). Now there is a separate composting bin to figure out.
 

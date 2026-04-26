@@ -1,6 +1,8 @@
 ---
 title: Social Media is Dead
 layout: post
+tags:
+- Meta
 ---
 [Casey Newton interviewing Adam Mosseri](https://www.platformer.news/p/-instagram-walks-back-its-changes):
 > I think what is happening is people think of us as a feed app, because we started as a feed app. When we launched Instagram, there were no stories, there were no DMs. What's happened over the last decade is that how people share with friends has changed. It has shifted to stories, and it has shifted to DMs and to group chats. More photos and videos are shared in DMs in a day, then are shared into stories. And more photos and videos are shared into stories in a day than are shared to feed. I don't think connecting people with their friends and family is any less important to us than it was two years ago, or five years ago, or eight years ago. But how that works, and how we try and meet that need, has changed as how people communicate with their friends has changed.

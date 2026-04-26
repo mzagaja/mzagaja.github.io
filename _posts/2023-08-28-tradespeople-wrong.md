@@ -1,6 +1,7 @@
 ---
 title: The Challenge of Working with Tradespeople
 layout: post
+tags: []
 ---
 After owning a condo for three years one of the most eye opening experiences has been consulting and working with tradespeople. It’s not that there are not good or skilled tradespeople, but that there is a pretty large spectrum of them in in regard to to skill and care. Additionally the incentive for tradespeople can sometimes be to oversell services or phone in their work.
 

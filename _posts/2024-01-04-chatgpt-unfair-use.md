@@ -1,6 +1,9 @@
 ---
 title: ChatGPT is an Unfair Use
 layout: post
+tags:
+- AI
+- Meta
 ---
 Recently the [New York Times was in the news for suing OpenAI over copyright infringement](https://www.nytimes.com/2023/12/27/business/media/new-york-times-open-ai-microsoft-lawsuit.html?mwgrp=c-dbar&unlocked_article_code=1.J00.Mg_6.mm478Ym1eMrY&smid=url-share). Tech journalists like Mike Masnick [have taken the other side](https://www.techdirt.com/2023/12/28/the-ny-times-lawsuit-against-openai-would-open-up-the-ny-times-to-all-sorts-of-lawsuits-should-it-win/) and suggest that finding in favor of the Times would be bad for innovation. Having studied copyright in law school and experimenting with large language models (LLMs) makes me think that the Times is correct here, and I doubt that this will hamper innovation.
 

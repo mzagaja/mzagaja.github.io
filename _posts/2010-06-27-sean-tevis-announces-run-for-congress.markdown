@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Sean Tevis Announces Run for Congress
-tags: []
+tags:
+- Campaigns & Politics
 ---
 The guy who gained fame making <a href="http://www.xkcd.org/">xkcd</a> style comics in order to fundraise money for his state representative race is now running for Congress.
 

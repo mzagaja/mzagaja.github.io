@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Weekend Links
+tags:
+- Meta
+- News
 ---
 A few things that I wanted to share from the past week:
 * [MBTA to cut weekday service on three lines](https://www.wbur.org/news/2022/06/17/mbta-to-cut-weekday-train-trips-blue-orange-red-lines) is a catastrophe for Boston. They are all heavily trafficked and will cause folks to lose faith in the MBTA. I [shared thoughts on twitter](https://twitter.com/mzagaja/status/1538151394846420997?s=21&t=rOE54Ioxa4pe1IPndDqPCQ).

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Etsy CEO Chad Dickerson on Net Neutrality
-tags: 
-- Open Data
-- Data Science
+tags:
+- Data
+- Network Neutrality
 ---
 From [Medium](https://medium.com/backchannel/etsy-ceo-how-net-neutrality-shaped-my-life-c6d53cdc79d2):
 

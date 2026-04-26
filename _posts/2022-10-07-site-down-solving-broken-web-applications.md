@@ -1,6 +1,8 @@
 ---
 title: Site Down - How I Fix Broken Web Applications
 layout: post
+tags:
+- Software
 ---
 It happens when you least prepared. You’re deep into a project and suddenly get notifications from Slack and your monitoring systems that your site is down. Users are complaining. What do you do?
 

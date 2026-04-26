@@ -1,6 +1,9 @@
 ---
 title: Weekend Links
 layout: post
+tags:
+- News
+- Software
 ---
 - [Bono plays With or Without You on The Late Show with Stephen Colbert](https://www.youtube.com/watch?v=krnqcfkzFPA). This gives you a delicious sample of the book tour that was more of a Broadway show.
 	- [NPR Interview](https://www.npr.org/2022/10/27/1131678023/bono-memoir-book-surrender-faith-u2)

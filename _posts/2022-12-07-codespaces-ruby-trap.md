@@ -1,6 +1,9 @@
 ---
 title: Do Not Fall For This GitHub Codespaces Trap with Ruby
 layout: post
+tags:
+- Civic Tech
+- Software
 ---
 Last night I was excited to show a group of new people our GitHub Codespace to quickly get them up to speed with our project at Code for Boston. Unfortunately when we went to start it up, our “stateless” Docker environment crashed. Instead of an easy to use IDE we landed in a recovery container and I got to debug why it did not work.
 

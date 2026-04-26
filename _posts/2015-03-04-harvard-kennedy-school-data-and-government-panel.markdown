@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Data and Government Panel from Harvard Kennedy School
-tags: 
-- DJ Patil
+tags:
+- Campaigns & Politics
 - Data
-- Government
 ---
 Worth watching:
 

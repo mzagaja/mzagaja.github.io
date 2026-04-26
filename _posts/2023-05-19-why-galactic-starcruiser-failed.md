@@ -1,6 +1,7 @@
 ---
 title: Why Galactic Starcruiser Failed
 layout: post
+tags: []
 ---
 In March of 2022 Disney opened an ambitious project called Star Wars Galactic Starcruiser. A little over a year later, it will close in September of 2023. This ambitious project was quickly lampooned for its premium price tag. The initial surge of demand seemed to prove the critics wrong, but the well of galactic voyagers dried up quickly, and Disney is mercilessly ending this project.
 

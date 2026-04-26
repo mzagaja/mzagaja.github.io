@@ -1,10 +1,9 @@
 ---
 layout: post
 title: My First Video Blog on the Secret iPhone Warranty
-tags: 
-- iPhone
-- Warranty
-- VISA
+tags:
+- Apple
+- Meta
 ---
 How to save a little money, it works with most electronics:
 

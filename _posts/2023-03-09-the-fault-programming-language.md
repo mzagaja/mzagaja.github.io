@@ -1,6 +1,8 @@
 ---
 title: The Fault Programming Language
 layout: post
+tags:
+- Software
 ---
 USDS alum [Marianne Bellotti](https://www.bellotti.tech/) just released [a new programming language for modeling using System Dynamics called Fault](https://github.com/Fault-lang/Fault). Happening upon this was a true throwback, as I learned about the field of[ System Dynamics as an undergrad at WPI](https://www.wpi.edu/academics/departments/social-science-policy-studies/graduate-programs/system-dynamics-systems-thinking). What a neat idea.
 

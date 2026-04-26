@@ -1,6 +1,7 @@
 ---
 title: Urban League Heat Pump Accelerator Week Six
 layout: post
+tags: []
 ---
 Six weeks into our Urban League Heat Pump Accelerator project we have gotten into a rhythm. Our data analysis team finished an exploration of the data on housing in the neighborhoods that Urban League will reach out to. They are working with Urban League to develop the methodology to rank households for outreach. The app design team has created a prototype in Figma. They continue to add designs for new features like a mobile map view for the outreach workers. Finally the backend team I am working with has created the ability to sign up for user accounts and is working on the initial data import. With five to ten people per group we are making good progress!
 

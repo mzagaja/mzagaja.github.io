@@ -1,6 +1,8 @@
 ---
 title: RubyConf Mini Day 2
 layout: post
+tags:
+- Software
 ---
 Day two of RubyConf Mini was action packed. Nadia Odunayo [hit a home run with her morning keynote](https://twitter.com/mzagaja/status/1592892628961746944?s=61&t=if79RQYKURFtu5rN7wZ5wQ). As the founder and sole developer of [Storygraph](https://www.thestorygraph.com) she shared a Ruby mystery with the crowd. A fitting genre to be delivered with a British accent.
 

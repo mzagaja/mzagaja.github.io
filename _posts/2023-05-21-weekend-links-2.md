@@ -1,6 +1,8 @@
 ---
 title: Weekend Links
 layout: post
+tags:
+- News
 ---
 Programming Note: The blog will be “off” this week. Returning next weekend.
 

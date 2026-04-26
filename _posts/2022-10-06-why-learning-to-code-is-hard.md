@@ -1,6 +1,9 @@
 ---
 title: Why Learning to Code is Hard
 layout: post
+tags:
+- Civic Tech
+- Software
 ---
 Organizing [Code for Boston](https://www.codeforboston.org) I have worked with many new software engineers. I have interviewed and hired new engineers at my old job. Often times the challenge is not coding, but rather the process of writing software applications is tough.
 

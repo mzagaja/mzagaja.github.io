@@ -1,6 +1,8 @@
 ---
 title: The Time I Almost Missed Payroll
 layout: post
+tags:
+- Campaigns & Politics
 ---
 Before I was a software engineer I worked in politics. In this particular case I was hired as a campaign manager. The campaign manager is the CEO of the campaign. They report to a board along with the candidate. A few months into the campaign we had several employees on payroll. I typically checked our balances at the end of every week, and noticed that seven days before payday we were at risk of not being able to cover all the salaries.
 

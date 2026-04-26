@@ -1,6 +1,8 @@
 ---
 title: Weekend Links
 layout: post
+tags:
+- News
 ---
 * Currently Reading: [Smart Brevity](https://amzn.to/3CqUf8a)
 	* Previously: [How to Write Less but Say More](https://www.ted.com/talks/jim_vandehei_how_to_write_less_but_say_more) @ TEDxOshkosh

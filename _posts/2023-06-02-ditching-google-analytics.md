@@ -1,6 +1,8 @@
 ---
 title: Ditching Google Analytics for Piwik Pro
 layout: post
+tags:
+- Data
 ---
 I was excited to learn yesterday that [Piwik Pro](https://piwik.pro) has a free tier now. I used Piwik a long time ago when I migrated Lumen Database from Google Analytics. At the time it was called Matamo and I actually liked it better than Google Analytics.
 

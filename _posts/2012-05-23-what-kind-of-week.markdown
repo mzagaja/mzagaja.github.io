@@ -1,7 +1,8 @@
 ---
 layout: post
 title: What Kind of Week It Has Been
-tags: []
+tags:
+- Product Review
 ---
 ![Matt Zagaja in graduation hood and gown](/images/2011/06/IMG_0478-e1337830905391-1024x507.jpg "Matt Zagaja in graduation hood and gown")
 

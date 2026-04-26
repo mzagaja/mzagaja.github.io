@@ -1,6 +1,7 @@
 ---
 title: Kitchen Fees are Junk Fees
 layout: post
+tags: []
 ---
 A new trend I have noticed dining out is the [rise of the kitchen fee](https://www.bostonglobe.com/2023/03/04/business/future-restaurants-how-kitchen-fees-are-meeting-economic-moment/). While the rationale for the fee is reasonable, its implementation is unfair and deceptive to consumers. With no method to opt-out, it is false advertising, meant to lure consumers into thinking they will spend less than they are.
 

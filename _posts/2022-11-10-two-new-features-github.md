@@ -1,6 +1,8 @@
 ---
 title: Two New Cool Features from GitHub
 layout: post
+tags:
+- Software
 ---
 GitHub is holding its annual Universe event this week and yesterday [unveiled two cool features](https://github.blog/2022-11-09-everything-new-from-github-universe-2022/):
 * [Improved code search and view](https://github.com/features/code-search-code-view/signup).

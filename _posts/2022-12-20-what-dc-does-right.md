@@ -1,6 +1,7 @@
 ---
 title: What Washington DC Does Right
 layout: post
+tags: []
 ---
 I am back from Washington DC and was impressed at how all the institutions have upped their game. Exhibits now use lots of large displays, speakers, touchscreens, and projectors to tell multimedia stories. You’re not merely looking at items mounted to a wall with a  text description. If you have not been in the past few years it is worth taking a trip, which is an inexpensive and short plane ride from Boston. Once you get there, there are plenty of activities to fill-up your time over a week.
 

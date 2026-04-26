@@ -1,6 +1,7 @@
 ---
 title: Sen. Elizabeth Warren Holds Field Hearing on MBTA Friday
 layout: post
+tags: []
 ---
 Via her [Senate website](https://www.warren.senate.gov/mbta-hearing):
 > Senator Warren will lead a hearing entitled “Economic Impacts of Inadequate Transit Maintenance and Oversight: Examining Management Failures at the Massachusetts Bay Transportation Authority and the Massachusetts Department of Public Utilities” on Friday, October 14. As Chair of the Economic Policy Subcommittee, Senator Warren will preside over the hearing as a member of the Senate Committee on Banking, Housing, and Urban Affairs.

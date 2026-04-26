@@ -1,6 +1,7 @@
 ---
 title: No Love for Wide Footed Runners
 layout: post
+tags: []
 ---
 I was born with extra wide feet. That means when buying shoes the correct width for me is a 4E. For regular shoes this meant most makes and models would not fit me. I would choose the shoe that fit. As a runner this is also limiting. Many running shoes only have a first run in a wide width, and in one color, and then they’re gone.
 

@@ -2,6 +2,7 @@
 title: Fine, I am Using Tailwind
 layout: post
 excerpt_separator: <!--more-->
+tags: []
 ---
 For those unfamiliar with the insider chatter of web development, this post is going to be a boring one. I take no offense if you skip it. For those on the other side, buckle up. I have perspective on criticisms of [Tailwind](https://pdx.su/blog/2023-07-26-tailwind-and-the-death-of-craftsmanship/).
 

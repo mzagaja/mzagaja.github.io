@@ -1,6 +1,7 @@
 ---
 title: An Ode to Think Geek
 layout: post
+tags: []
 ---
 Before it was bought by GameStop and turned into a soulless purveyor of collectibles, ThinkGeek was “Sharper Image for sysadmins”. It’s eclectic mix of gadgets, puzzles, and yes even collectible merch made it a fun and reliable place to find a novel gift.
 

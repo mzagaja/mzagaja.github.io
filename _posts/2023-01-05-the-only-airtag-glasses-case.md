@@ -1,6 +1,7 @@
 ---
 title: The Only AirTag Case for Glasses
 layout: post
+tags: []
 ---
 I am a big fan of Apple’s AirTags for keeping track of items like luggage and my backpack or keys. However I find it odd as a glasses user that almost no companies sell a glasses case with an AirTag holder. The [single one I found is on Etsy](https://www.etsy.com/listing/1318633494/leather-glasses-case-with-airtag-sleeve) and it is expensive but makes a great gift idea.
 

@@ -2,6 +2,9 @@
 title: Delayed Weekend Links
 layout: post
 excerpt_separator: <!--more-->
+tags:
+- Meta
+- News
 ---
 Due to the holiday weekend and travel I took a few days off from blogging. Apologies for the lack of announcement on that front. I had some weekend links to share:
 

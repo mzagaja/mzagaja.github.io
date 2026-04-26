@@ -1,6 +1,7 @@
 ---
 title: Comcast Speeds Up Its Customers Internet With This One Weird Trick
 layout: post
+tags: []
 ---
 For a few years I have heard rumblings of a problem called [buffer bloat](https://www.bufferbloat.net/projects/bloat/wiki/Introduction/). If you live a in household where lots of people are on video chat, you may have encountered it. After years of folks complaining about this issue online, Comcast [funded research and implemented Active Queue Management](https://arxiv.org/ftp/arxiv/papers/2107/2107.13968.pdf) in its routers to fix this problem.
 

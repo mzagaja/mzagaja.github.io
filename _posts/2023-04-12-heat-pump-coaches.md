@@ -1,6 +1,7 @@
 ---
 title: Heat Pump Coaches Help Mass Residents Make the Right Choices
 layout: post
+tags: []
 ---
 From [Canary Media](https://www.canarymedia.com/articles/heat-pumps/heat-pump-coaches-help-neighbors-ditch-fossil-heat-in-massachusetts):
 > Heat-pump coaches aim to lower the activation barriers for people interested in the technology. They help neighbors understand the climate and financial benefits of heat pumps, how they work, what incentives owners can get, and how to check that a system will actually meet their home’s heating and cooling needs.

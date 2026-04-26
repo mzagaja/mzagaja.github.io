@@ -1,6 +1,7 @@
 ---
 title: Safari's Avalanche of Improvements
 layout: post
+tags: []
 ---
 Safari’s recent large number of improvements [has been noticed by folks in the web development community](https://infrequently.org/2023/02/safari-16-4-is-an-admission/#webkit's-roaring-twenties). Many of the improvements are fixes for longstanding bugs. Safari is also adopting a large number of features championed by folks who want to create web applications that work similarly to native apps, called progressive web applications.
 

@@ -1,6 +1,8 @@
 ---
 title: Get Better Code Reviews with this One Weird Trick
 layout: post
+tags:
+- Software
 ---
 The order as well as the size of a pull request [makes a big difference in the feedback you receive](https://www.youtube.com/watch?v=_SJL7vepQvU). Alberto Bacchelli studied pull requests and found that the files at the top of pull requests get the most amount of comments and feedback. As the number of files increases, the farther back files receive less review.
 

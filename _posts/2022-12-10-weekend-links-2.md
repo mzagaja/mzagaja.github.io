@@ -2,6 +2,8 @@
 title: Weekend Links
 layout: post
 excerpt_separator: <!--more-->
+tags:
+- News
 ---
 * Disney released the trailer for [If These Walls Could Sing](https://disneyplusoriginals.disney.com/movie/if-these-walls-could-sing) which documents the history of Abbey Road Studios. I did not know there was a Star Wars tie-in here.
 * [You’ve Been Referred Here Because You’re Wrong About Web Scraping](https://blog.ericgoldman.org/archives/2022/12/hello-youve-been-referred-here-because-youre-wrong-about-web-scraping-laws-guest-blog-post-part-2-of-2.htm) goes through the legal nuance of LinkedIn v. HiQ which was a major victory for web scrapers. TL;DR: there are still many ways to get sued for doing that.

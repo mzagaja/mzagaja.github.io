@@ -2,7 +2,8 @@
 layout: post
 title: All Good Things…
 tags:
-  - Software
+- Civic Tech
+- Software
 ---
 At the end of April I will be wrapping up nearly four and a half years at the Metropolitan Area Planning Council. If you want to see a local government that punches above its weight, Boston’s regional planning agency is the place to look. While state and federal government is place where millions of dollars are spent on probable failures, local government is a place where thousands of dollars are spent on improbable success. Public service is a place where failures are loud and success is quiet. Here I am going to light that tradition on fire.
 

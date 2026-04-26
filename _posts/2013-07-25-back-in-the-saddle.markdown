@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Back in the Saddle
-tags: []
+tags:
+- Product Review
 ---
 <a href="http://www.zagaja.com/images/2013/07/Road_Bicycle.jpg"><img class="size-large wp-image-543" alt="A 2005 Giant TCR C1" src="http://www.zagaja.com/images/2013/07/Road_Bicycle-1024x768.jpg" width="657" height="492" /></a>
 

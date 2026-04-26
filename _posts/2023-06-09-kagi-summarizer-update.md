@@ -1,6 +1,7 @@
 ---
 title: Kagi’s Summarizer Update is Bonkers
 layout: post
+tags: []
 ---
 Kagi has an update to its [summarizer functionality](https://kagi.com/summarizer/index.html) that lets you ingest a giant piece of content, output a summary, and then ask its large language model questions specific to this content.
 

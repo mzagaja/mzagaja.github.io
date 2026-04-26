@@ -1,6 +1,8 @@
 ---
 title: Pretty Good Software
 layout: post
+tags:
+- Software
 ---
 Six years ago Waldo Jaquith, Robin Carnahan, and Randy Hart released [“De-risking Custom Technology Projects: A handbook for state grantee budgeting and oversight”](https://github.com/18F/technology-budgeting/blob/master/handbook.md). This tome was written for state legislators and agency heads that were looking to fund and conduct oversight on new custom software. Besides recording the current state of the art, the team at 18F wrote a guide to technical project management for non-technologists. On the other end of the spectrum [Software Carpentry](https://github.com/swcarpentry) focuses on teaching academics or others new to writing software how to do so. There is still a need for a guide to commissioning (or not) custom software projects for smaller organizations and middle managers that are lucky enough to receive grants to do so. They’re not trying to compete with Google, they just need to make some pretty good software.[^1]
 

@@ -1,10 +1,8 @@
 ---
 layout: post
 title: How Snopes and Google Kill Chain Email
-tags: 
-- Google
-- Snopes
-- Warren Buffett
+tags:
+- Meta
 ---
 In 2011 I received a copy of the Warren Buffett chain e-mail from a neighbor. It read as something that could be plausible but was obviously canned and many of its assertions seemed incorrect. With coffee flowing and my lawyer instincts in full gear I decided to research and rebutt the e-mail. After the original draft became large, I decided to clean it up and [posted it to this blog](http://www.zagaja.com/2011/12/about-that-warren-buffet-e-mail/). After Google picked it up it quickly began drawing traffic. However a few weeks ago I noticed a big drop-off in my visitors. Using Google's tools I have developed a theory about what happened. 
 

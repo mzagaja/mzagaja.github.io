@@ -1,6 +1,7 @@
 ---
 title: The Problem with Food Delivery Apps
 layout: post
+tags: []
 ---
 In the past few weeks I have noticed the quality of service from food delivery apps is declining:
 * Items are forgotten.

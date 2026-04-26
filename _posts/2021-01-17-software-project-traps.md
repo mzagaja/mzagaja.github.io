@@ -2,7 +2,8 @@
 layout: post
 title: Software Project Traps
 tags:
-  - Software
+- Civic Tech
+- Software
 ---
 At Code for Boston we run a lot of software projects, and spend time thinking about how to avoid the pitfalls of them. Below are things we look for before and during our projects to make sure we are doing the right thing, and building the thing right.
 ### Not Talking to Users

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Connecticut Attorney General Debate @ UCONN Law
-tags: []
+tags:
+- Campaigns & Politics
 ---
 <p>Earlier tonight I attended the Connecticut Attorney General debate at UCONN Law. Democrat George Jepsen debated Republican Martha Dean. The debate started off rather light but after the first question or two the contrast between them could not have been larger. George Jespen framed himself as a traditional democrat while Martha Dean embraced her position as the tea party candidate.</p>
 

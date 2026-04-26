@@ -1,6 +1,7 @@
 ---
 title: Coaching is a Better Alternative to Classes
 layout: post
+tags: []
 ---
 When I was in my last position I worked with a lot of inexperienced coders. They were not on my team and their roles were not software developer, but some of their day to day work involved writing and working with code. Since they were not using it, I lobbied our organization to hire [General Assembly](https://generalassemb.ly) to teach a version control with [git](https://git-scm.com/) and [GitHub](https://github.com) workshop. While folks enjoyed the workshop, adoption of git afterwards was not consistent nor widespread.
 

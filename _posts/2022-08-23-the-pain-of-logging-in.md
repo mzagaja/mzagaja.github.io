@@ -1,6 +1,7 @@
 ---
 title: The Pain of Logging In
 layout: post
+tags: []
 ---
 As more things become web applications with logins, logging in has become more painful. I have migrated from Gmail to Apple Mail because Google started logging me out every single week even though I use the same computer. Now it seems websites ranging from my credit card to my health provider all require two factor authentication, but do not offer using my authenticator app. This means I have to keep checking my email or text for a code after I login. Sometimes with a [captcha](http://www.captcha.net) to prove I am not a robot. GitHub even stopped accepting my two factor code and demanded I use their mobile app. These changes might improve security in some way, but they are hostile to user experience. 
 

@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Why Nobody is Happy with Hybrid
+tags:
+- Civic Tech
+- Meta
 ---
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Meetings where people are co-located and streaming on Zoom are the WORST. It sounds terrible, no one who isn&#39;t there can understand you, and I have no idea who is talking. Glad the people in the office are having a good time</p>&mdash; Ian Coldwater 📦💥 (@IanColdwater) <a href="https://twitter.com/IanColdwater/status/1536726273132662784?ref_src=twsrc%5Etfw">June 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

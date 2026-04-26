@@ -1,6 +1,7 @@
 ---
 title: Why I Love Remote Work
 layout: post
+tags: []
 ---
 One of the best things about joining TED has been being part of a remote team. As someone who has not been diagnosed with, but am certain I have an [auditory processing disorder](https://en.wikipedia.org/wiki/Auditory_processing_disorder), being able to collaborate on Slack and using other written communication as the primary way to work makes it much easier.
 

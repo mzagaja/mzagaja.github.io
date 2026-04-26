@@ -1,6 +1,7 @@
 ---
 title: Why We Hate Technology
 layout: post
+tags: []
 ---
 Yesterday Sen. Chris Murphy[^1] [highlighted the disconnect between how Silicon Valley and America see technology](https://twitter.com/chrismurphyct/status/1571860780588634112?s=21&t=j7VB7Mn572ZRl98DAFpVdw). Murphy points out that constituents distrust technology. It overwhelms and vexes, with a feeling that we work for the technology instead of the technology working for us. This is a far cry from the [bicycle for the mind that Steve Jobs envisioned](https://youtu.be/ob_GX50Za6c?t=26). This thread foreshadows potential regulation, but before we regulate we should ask ourselves, why is technology perceived this way?
 

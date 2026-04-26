@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Motorola Arris Cable Modem Epilogue
+tags: []
 ---
 After receiving my replacement cable modem from Motorola Arris I went through the process of setting it up with Comcast. Only a week later the new modem suffered from the same problem as the old one. This was frustrating because it meant that the problem I suffered was likely a design flaw instead of a manufacturing error. It also meant I did not manage to find the root cause.
 

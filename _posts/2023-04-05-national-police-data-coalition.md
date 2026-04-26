@@ -1,6 +1,10 @@
 ---
 title: National Police Data Coalition at Code for Boston
 layout: post
+tags:
+- Civic Tech
+- Data
+- Software
 ---
 Last night Darrell Malone returned to Code for Boston to bring back the [National Police Data Coalition](https://www.nationalpolicedata.org/) to our project portfolio. Originally born out of a [2019 National Day of Civic Hacking challenge](https://docs.google.com/document/d/1uvlIs0Ru8NH7mWyzjg93if582O_DWkjcb24i83Dttss/edit#) the National Police Data Coalition is a now a non-profit working nationwide to establish a repository of police data.
 

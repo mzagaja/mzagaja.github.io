@@ -1,6 +1,7 @@
 ---
 title: Breaking Boundaries — From Coffee Shops to Trains, Remote Work Knows No Limits
 layout: post
+tags: []
 ---
 I have been working remotely since March 2020 and transitioned to a fully remote position. Initially I was anxious about taking advantage of the flexibility. However as I have trialed working from coffee shops, hotel rooms, and even a train, these are all pretty productive.
 

@@ -2,7 +2,8 @@
 layout: post
 title: Lunch Talk Notes - The Security of Voting by Mail
 tags:
-- Lunch Talk Notes
+- Campaigns & Politics
+- Security
 ---
 On Tuesday the Berkman Klein Center hosted a [virtual lunch with Ben Adida on voting security](https://cyber.harvard.edu/events/virtual-building-better-voting-systems). Ben has created a non-profit organization, [VotingWorks](https://voting.works), that has developed an open source voting machine. As a result we got a master class in the principles of election security. 
 

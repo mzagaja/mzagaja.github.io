@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Guenther Steiner - Drive to Survive’s Saddest Man
+tags: []
 ---
 From [Vulture](https://www.autosport.com/f1/news/f1-removing-mgu-h-for-2021-engines-a-backwards-step-mercedes-5319162/5319162/):
 > And then there’s Guenther Steiner, inarguably the saddest character on Drive to Survive. As the principal for Haas, a team that routinely contends for last place since its inception, he stars in what is clearly the most unflattering narrative in the series: the perennial loser fighting for the smallest of victories. Steiner-centric episodes are exercises in Sisyphean struggle; as portrayed across the docuseries, the Haas drivers frequently underperform or bear the extreme brunt of bad luck. The team’s plight was encapsulated by a phone call caught on tape in the first season in which Steiner grumbles to the team owner in his thick Merano accent, “We look like a bunch of fucking wankers.” 

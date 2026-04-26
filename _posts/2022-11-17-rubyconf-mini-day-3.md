@@ -1,6 +1,8 @@
 ---
 title: RubyConf Mini Day 3
 layout: post
+tags:
+- Software
 ---
 I am on the train to Boston from Providence and glad I spent the past few days at RubyConf Mini. Today we learned about peephole optimizations in compilers, functional programming in Ruby, and class macros. While I did not fully grok all the technical presentations, I enjoyed seeing aspects of Ruby that I have not explored.
 

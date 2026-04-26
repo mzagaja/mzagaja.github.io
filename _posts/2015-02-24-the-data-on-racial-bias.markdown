@@ -1,10 +1,8 @@
 ---
 layout: post
 title: The Data on Racial and Gender Bias
-tags: 
+tags:
 - Data
-- Racial Bias
-- Ian Ayres
 ---
 Among some of the more fasincating facts I have found includes research that Ian Ayres from Yale has done on the topic of racial bias in society. He has an [interesting op-ed](http://www.nytimes.com/2015/02/24/opinion/research-shows-white-privilege-is-real.html?ref=opinion) in the New York Times today:
 

@@ -2,10 +2,9 @@
 layout: post
 title: 'Fun Friday: Paper for iPad'
 tags:
-- ipad
-- ios
-- apple
-- apps
+- Apple
+- Product Review
+- Software
 ---
 One of the things that I have not yet been satisfied with are the apps for iPad that attempt to emulate a notebook. I bought a stylus for my iPad about a year ago and rarely use it. However I think I have finally found something to change that. <a href="https://itunes.apple.com/us/app/paper-by-fiftythree/id506003812?mt=8">Paper for iPad</a> is the first app that I've found enjoyable to use for this purpose. The virtual pen feels like a pen and is the first one that does not make my horrid handwriting look more ugly than it already is. Fast Company recently <a href="http://www.fastcompany.com/3002676/magical-tech-behind-paper-ipads-color-mixing-perfection">published an article</a> detailing the amount of effort that went into their color mixing tool. It is incredible that I can buy the fruits of that much labor for only $1.99 (the basic app is free but the mixing app is an in-app purchase).
 

@@ -1,6 +1,10 @@
 ---
 title: The Best Tech Stack is the One You Have
 layout: post
+tags:
+- Civic Tech
+- Data
+- Software
 ---
 A meme that tends to ricochet through Civic Tech Circles involves criticizing volunteers or consultants for using a new programming language or library that the existing organization is unfamiliar with. In some cases the organization has a programmer or two on staff, in other cases none at all. The well meaning criticism implores people to adapt to the environment they are helping in and “meet folks where they are.” Unfortunately it ignores the needs and motives of the helpers. The trade-off organizations face is not “pick a programming language” but “accept help or do not execute on the project.”
 

@@ -1,6 +1,9 @@
 ---
 title: Companies Do Not Want You to Fix It
 layout: post
+tags:
+- Apple
+- Security
 ---
 From the [NPR Car Talk host in Washington Post](https://wapo.st/3SsygTR):
 > some car manufacturers don’t want to share key information for diagnosing and fixing cars with independent shops — and that’s something that’s not only bad for repair shops but also bad for you.

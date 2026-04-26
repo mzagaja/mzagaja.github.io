@@ -1,6 +1,7 @@
 ---
 title: GuliKit's King Kong 2 / Zen Pro Is Not For Mac Users
 layout: post
+tags: []
 ---
 After reading and watching multiple reviews I picked up a [Zen Pro controller](https://www.gulikit.com/productinfo/925509.html) on sale from Target. With all the hype about GuliKit’s Hall Effect joysticks I was excited to take them for a spin. Unfortunately I never got that opportunity.
 

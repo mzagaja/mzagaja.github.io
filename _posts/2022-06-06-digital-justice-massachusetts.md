@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Digital Justice in Massachusetts
-tags:
+tags: []
 ---
 From the [Boston Globe](https://www.bostonglobe.com/2022/06/05/opinion/hear-ye-hear-ye-accessing-justice-digital-age/):
 > …making technology work all day, every day, for the thousands of litigants, lawyers, judges, and for the public seeking access to proceedings and to documents in 95 courthouses is quite another. That will require replacing an antiquated patchwork of a system with one that offers the same range of public access whether the court is in Boston or the Berkshires.

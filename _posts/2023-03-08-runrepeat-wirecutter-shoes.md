@@ -1,6 +1,7 @@
 ---
 title: RunRepeat is Wirecutter for Running Shoes
 layout: post
+tags: []
 ---
 I have had to do a lot of research to find good running shoes for my wide feet. In scrounging the deepest corners of Google for reviews of wide foot options, I found [RunRepeat](https://runrepeat.com). This labor of love is a mix between Metacritic and Wirecutter for running shoes. For many models they fact check shoe reviews with lab analysis of it.
 

@@ -1,6 +1,9 @@
 ---
 title: Weekend Links
 layout: post
+tags:
+- Meta
+- News
 ---
 - [Google calls in help from Larry Page and Sergey Brin for AI Fight](https://www.nytimes.com/2023/01/20/technology/google-chatgpt-artificial-intelligence.html?unlocked_article_code=1PQlSFeHp4d-lNElkza1svCzZmQTK4QlspZPZVY5wnav_WpDvWwaIiTe5wJ6SLHFNPiiGWEUSyZFIfvi6kUYnMupnSdff4Nb190P56TF6zti9I9X-SqElp_uE59ZVIXyxXLD7j8ce0pTg3s1FZ0dEGpLijc1jc1EywJkUiVG9-QQ0fE9ba3glUeVNn0FhobS7IObgwhj8Jk2UB5f8P6zwLqU89Gy0kOYK7fyuzWDJOviD1ZdL7HkGfDsjkCwF8SQ9M5y91a-p6bP5565zLZs0znaDVyRap7kss1roiNIvBMkkJBVzMxjyyofIL_mdR6iuijUCBWIC5rsFewjHgmq2s_78kd2RMsg_WtlXLf-S4YdpoE&smid=share-url). It’s too bad they don’t treat filtering out low quality content farms with the same seriousness.
 - [Why we all need subtitles now](https://www.youtube.com/watch?v=VYJtb2YXae8) goes deep [into a topic I explored last week](https://www.zagaja.com/2023/01/why-you-cannot-understand-movie-dialog/).

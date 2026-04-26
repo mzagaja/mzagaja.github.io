@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Posting to GitHub Pages with iA Writer on iPad
-tags: []
+tags:
+- Apple
+- Meta
+- Software
 ---
 A few weeks ago I got an iPad Air. I love using this including writing my blog posts on it, but did not have an easy way to post to my blog, which uses a programmer centric site generator called [Jekyll](https://www.jekyllrb.com/) to create the HTML that is then hosted on GitHub Pages. It turns out using the GitHub API and Apple Shortcuts this problem was not hard to solve.
 

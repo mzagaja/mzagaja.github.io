@@ -1,6 +1,7 @@
 ---
 title: U2 Landing in Las Vegas in Autumn 2023
 layout: post
+tags: []
 ---
 U2 announced last night they are going to be having a residency in Las Vegas at the new MSG Sphere venue. Watch the creative announcement below:
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FHLK8Sdp6YM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

@@ -1,6 +1,8 @@
 ---
 title: From Scammed to Refunded — How Massachusetts Law Chapter 93A Helped an Uber Eats Customer
 layout: post
+tags:
+- Meta
 ---
 A couple weeks ago I was scammed on Uber Eats, the mechanics of which are well described by Landon Epps on Mastodon:
 <iframe src="https://mastodon.social/@landonepps/110540091014075013/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://mastodon.social/embed.js" async="async"></script>

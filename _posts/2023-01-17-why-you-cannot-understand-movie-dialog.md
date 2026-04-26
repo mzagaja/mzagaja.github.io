@@ -1,6 +1,7 @@
 ---
 title: Why You Cannot Understand Movie Dialog Without Subtitles
 layout: post
+tags: []
 ---
 Watching shows, especially movies at home, can be a frustrating experience these days. For many shows I find myself turning up the volume to understand the dialog. Then an action scene or commercial will nearly blow out my speakers with an aggressive sound level. I have often found myself turning the volume up and down throughout a show.
 

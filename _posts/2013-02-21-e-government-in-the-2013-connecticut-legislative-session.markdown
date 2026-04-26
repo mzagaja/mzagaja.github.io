@@ -1,7 +1,9 @@
 ---
 layout: post
 title: E-Government in the 2013 Connecticut Legislative Session
-tags: []
+tags:
+- Campaigns & Politics
+- Civic Tech
 ---
 Recently I discovered a <a href="http://readilyapparent.com/inquiry/legislate_issue_treemap.php">great website</a> for viewing bills as they are proposed in the Connecticut General Assembly. One area that the media has not been covering but where the legislature and governor are not slacking is in integrating technology with government. The shifting of government practices from paper to electronic records is now commonly referred to as e-government. The primary advantage of this besides increasing efficiency is it also makes government more easily accessible to its citizens.
 

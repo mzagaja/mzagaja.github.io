@@ -1,6 +1,9 @@
 ---
 title: ChatGPT’s Magic Is Not its AI
 layout: post
+tags:
+- AI
+- Civic Tech
 ---
 On the heels of yesterdays[ ChatGPT 4 announcement](https://www.theverge.com/2023/3/14/23638033/openai-gpt-4-chatgpt-multimodal-deep-learning) I finally made a free account. I asked ChatGPT a bunch of questions, largely about things I know. It gave passable answers. Some of them were not accurate. Others were suggestions or changes to code that I thought were merely ok.
 

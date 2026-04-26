@@ -1,6 +1,7 @@
 ---
 title: The Luck of mRNA Technology
 layout: post
+tags: []
 ---
 On Wednesday I went for my second COVID booster shot after a year. It has been three months since I have COVID, which I suffered through twice in 2022. The first time was not fun, but the second time was mild. My arm still hurts from the shot, but I am glad I was able to get it.
 

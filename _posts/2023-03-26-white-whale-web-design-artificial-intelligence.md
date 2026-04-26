@@ -1,6 +1,8 @@
 ---
 title: Can the White Whale of Web Design Finally be Caught by AI?
 layout: post
+tags:
+- AI
 ---
 Since the dawn of the web design the white whale of building websites has been a tool that enables non-technical users to create *simple* websites for the public without coders. With the advent of GPT-4 and [demos of it making websites from napkins](https://www.youtube.com/watch?v=tQLwBHE5r08), it is time to ask whether we have finally caught this white whale.
 

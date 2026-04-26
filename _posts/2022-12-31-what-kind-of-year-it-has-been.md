@@ -1,6 +1,8 @@
 ---
 title: What Kind of Year It Has Been
 layout: post
+tags:
+- Civic Tech
 ---
 Scripture tells us to run with endurance the race that is set before us. As a runner I know that means preparing for the expected, but being ready for the unexpected. 2022 did not end up being what I expected.
 

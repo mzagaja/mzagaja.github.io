@@ -1,6 +1,8 @@
 ---
 title: Urban League Heat Pump Accelerator Week Three
 layout: post
+tags:
+- Data
 ---
 Last night I reviewed the [pull requests from the last week](https://github.com/codeforboston/urban-league-heat-pump-accelerator/pulls) with the backend team. Each request contained eight fields from the City of Boston property assessment database. Doing this over screen share allowed us to review common pitfalls folks encountered: syntax errors, syntax inconsistencies, and distinguishing [String v. Symbol](https://www.youtube.com/watch?v=mBXGBbEbXZY) types. I then showed them how to use a [linter](https://rubocop.org) to check their code syntax automatically. Working with folks new to Ruby helped me appreciate all the things that I take for granted. We concluded by making a plan for next weeks tasks since I will be gone. Next week they are going to import the data into the app and begin making it accessible via the Internet.
 

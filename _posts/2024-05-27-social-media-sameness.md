@@ -1,6 +1,8 @@
 ---
 title: The Repetitive Sameness of Social Media
 layout: post
+tags:
+- Meta
 ---
 [Mastodon](https://mastodon.social/home)’s secret sauce might be that it declined to use algorithms to sort your content. While the slot machine appeal of Facebook or Instagram leaves me checking their apps hoping for something fresh, they rarely deliver. I have nearly exhausted the well of DIY and construction content on Instagram. Travel influencers can only post so many photo worthy pools and cocktails before they stop impressing. It used to be nice to use apps like Threads or Facebook to find news articles, but now that everything is behind a paywall it is not worth my time.
 

@@ -1,6 +1,7 @@
 ---
 title: Repairs Gone Bad
 layout: post
+tags: []
 ---
 As I spent yesterday fixing things around my house I began to wonder: why? [In my intro to Economics textbook from college Greg Mankiw proclaims](https://en.wikipedia.org/wiki/Principles_of_Economics_(Mankiw_book)#10_Principles) “Trade can make everyone better off.” However I have learned time and time again that the effort required to procure competent people to fix things exceeds the effort to simply learn how to and fix them myself.
 

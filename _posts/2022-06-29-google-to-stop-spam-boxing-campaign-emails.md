@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Google to Stop Spam Boxing Campaign E-Mails
+tags:
+- Campaigns & Politics
 ---
 From [The Washington Post](https://wapo.st/3Nzvl8l):
 > According to a filing circulated with congressional offices and obtained by The Technology 202, Google is asking the Federal Election Commission (FEC) to weigh in on whether it can launch a program to shield candidates’ emails from some spam detection tools.

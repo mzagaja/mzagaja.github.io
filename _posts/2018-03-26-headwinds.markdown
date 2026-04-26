@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Headwinds
+tags:
+- Product Review
 ---
 Yesterday, like I do most days, I went running by the Charles. However it was no ordinary day. It was cold. The temperature was chilly and the wind arctic. I forged ahead. Hit the start sequence on my Apple Watch. My feet hit the pavement in sequence. My pace was fast. It felt good.
 

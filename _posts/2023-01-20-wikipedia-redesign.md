@@ -1,6 +1,7 @@
 ---
 title: Wikipedia Gets a Glow Up
 layout: post
+tags: []
 ---
 Wikimedia Foundation announced the release of a [Wikipedia redesign](https://wikimediafoundation.org/wikipedia-desktop/) this week. I was surprised because I do not think I have seen the Wikipedia design change in many years. Take a look and [make a contribution](https://en.wikipedia.org/wiki/Help:Introduction) after you read something interesting.
 

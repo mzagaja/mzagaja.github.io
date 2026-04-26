@@ -1,6 +1,7 @@
 ---
 title: The Surprising Story Behind Tetris
 layout: post
+tags: []
 ---
 Last night I watched [Tetris on TV+](https://tv.apple.com/us/movie/tetris/umc.cmc.4evmgcam356pzgxs2l7a18d7b). If you are a fan of the game or enjoy a dramatic retelling of history, it is worth the watch. The earnest and naive Henk Rogers navigates the politics of licensing a game from Russia and goes head to head with the KGB and a much larger software company.
 

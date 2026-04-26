@@ -1,6 +1,8 @@
 ---
 layout: post
 title: National Day of Civic Hacking
+tags:
+- Civic Tech
 ---
 On August 10, 2018 the organization I help run, Code for Boston, is hosting its National Day of Civic Hacking event at the Venture Cafe at the CIC in Kendall Square. You can [register for this event at Eventbrite](https://www.eventbrite.com/e/national-day-of-civic-hacking-2018-ignite-boston-tickets-48052189392).
 

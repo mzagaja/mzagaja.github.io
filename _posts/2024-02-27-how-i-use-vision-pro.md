@@ -1,6 +1,8 @@
 ---
 title: How I am Using Apple Vision Pro
 layout: post
+tags:
+- Apple
 ---
 It has been a few weeks with the Apple Vision Pro and the hype has died down at this point. The reviews have been in and many people have tapered their enthusiasm for it after hearing about its limitations. Despite the challenges I happily kept mine. I use it nearly every day.
 

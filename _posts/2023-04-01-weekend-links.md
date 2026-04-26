@@ -1,6 +1,9 @@
 ---
 title: Weekend Links
 layout: post
+tags:
+- Civic Tech
+- News
 ---
 - [Pete Buttigieg Still Believes in Smart Cities](https://www.theverge.com/2023/3/22/23650463/pete-buttigieg-interview-usdot-smart-city-grant-tech) is an interesting look at where what seemed like a Civic Tech fad is landing now.
 - [Red Tape Threatens U.S. Efforts to Revive Chipmaking](https://www.washingtonpost.com/opinions/2023/03/22/chips-act-tied-in-red-tape/) is an op-ed decrying the classic “Christmas Tree” approach to legislation. It’s always annoying but sometimes to get major legislation to pass you have to let others decorate it with their ornaments.

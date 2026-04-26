@@ -1,6 +1,9 @@
 ---
 title: FastGPT is ChatGPT with Superpowers
 layout: post
+tags:
+- AI
+- Data
 ---
 Kagi continues its pace of innovation by releasing [FastGPT](https://labs.kagi.com/fastgpt). It takes a different approach from ChatGPT and I have found its output to be better. When I asked it about me, the answer was much more accurate than ChatGPT’s output.
 

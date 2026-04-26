@@ -1,6 +1,8 @@
 ---
 title: Why Misinformation Spreads Online
 layout: post
+tags:
+- Meta
 ---
 Before I was a software engineer I worked in political data. As Deputy Data Director at the Connecticut Democratic Party I was responsible for administering our voter file and helping train volunteers and staff on data driven tactics to win elections. One cornerstone of these tactics is the idea that **generally people do not change their minds**. Elections are won by finding new voters, not persuading folks to change sides.
 

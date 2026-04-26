@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Two Strong Women
-tags: []
+tags:
+- Campaigns & Politics
+- Wethersfield
 ---
 Dear Wethersfield Friends, 
 

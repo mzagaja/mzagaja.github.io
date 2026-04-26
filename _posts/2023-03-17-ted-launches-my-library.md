@@ -1,6 +1,7 @@
 ---
 title: TED Launches My Library Feature
 layout: post
+tags: []
 ---
 Yesterday my colleagues at TED launched [My Library](https://www.ted.com/dashboard/my-library). A feature for registered users to be able to view their saved, liked, and watched talks and playlists in one place. I worked on some of the preliminary parts of this a while back, and am excited because it’s something I have been waiting for a while.
 

@@ -1,6 +1,8 @@
 ---
 title: Weekend Links
 layout: post
+tags:
+- News
 ---
 - I had a [great trip to Island Alpaca](https://www.instagram.com/reel/Croe3jluThU/?utm_source=ig_web_copy_link) for their shearing day.
 - [Amanda Palmer reflects on her trip to TED](https://amandapalmer.substack.com/p/what-it-feels-like-to-get-divorcedand). 

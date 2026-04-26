@@ -2,6 +2,8 @@
 title: Make the terminal better with fish shell plug-ins
 layout: post
 tag: fish shell
+tags:
+- Software
 ---
 Yesterday I discovered two helpful plug-ins for fish shell:
 * [fzf](https://github.com/PatrickF1/fzf.fish) is an enhanced fuzzy search tool

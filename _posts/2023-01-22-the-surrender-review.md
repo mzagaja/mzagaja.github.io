@@ -1,6 +1,8 @@
 ---
 title: The Surrender Review
 layout: post
+tags:
+- Product Review
 ---
 In November I went to Bono’s Broadway-esque book talk (more of a show) and started reading [Surrender](https://amzn.to/3J74lP9). Clocking in at over 500 pages it is a long book that is a series of shorter stories spanning Bono’s life. Bono takes us on a time machine tour of moments ranging from the formation of U2 to dining with the Obamas in the White house. Where many autobiographies can be antiseptic, Surrender has grit and honesty. 
 

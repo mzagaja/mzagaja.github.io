@@ -1,6 +1,7 @@
 ---
 title: Soulver is a Great Calculator App for Mac
 layout: post
+tags: []
 ---
 One of my most useful desktop applications on my Mac is [Soulver](https://soulver.app). It is a notepad that can do math. 
 

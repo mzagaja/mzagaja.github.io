@@ -1,6 +1,7 @@
 ---
 title: DPU and MBTA Flummoxed by Staffing Challenges
 layout: post
+tags: []
 ---
 I watched the [September 14th hearing of the Massachusetts Legislature on MBTA safety issues](https://malegislature.gov/Events/Hearings/Detail/4356) so you do not have to. The MBTA does not have the staff it needs to run effectively and they are stuck in firefighting mode. 
 

@@ -1,6 +1,8 @@
 ---
 title: Battling Software Sprawl
 layout: post
+tags:
+- Software
 ---
 In Urban Planning urban sprawl is defined as the [unrestricted growth of development without planning](https://en.wikipedia.org/wiki/Urban_sprawl). If you have ever been in an organization that adopts a series of software tools on a case by case basis, you have likely seen software sprawl. In small organizations it is not likely to be a problem, but in large organizations software sprawl results in extra spending, increased communication costs, more support work, and extra overhead in software engineering.
 

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Lessons from a Second Trump Victory
+tags:
+- Campaigns & Politics
 ---
 “I feel like I am walking on eggshells.”
 

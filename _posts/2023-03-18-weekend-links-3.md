@@ -1,6 +1,8 @@
 ---
 title: Weekend Links
 layout: post
+tags:
+- News
 ---
 - U2 released their [Songs of Surrender acoustic album](https://www.u2.com/music/albums/4195) with a whole host of related content. Check out the [NPR Tiny Desk Concert](https://www.youtube.com/watch?v=oxo-loXdcH0) and [Apple Music interview](https://www.youtube.com/watch?v=Edzt3Lnp9jU).
 - [Apple Maps adds 3D Landmarks to its Boston maps](https://www.macrumors.com/2023/03/16/apple-maps-detailed-city-experience-boston/). Neat.

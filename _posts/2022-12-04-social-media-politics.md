@@ -1,6 +1,8 @@
 ---
 title: Social Media has Made Politics Unbearable
 layout: post
+tags:
+- Meta
 ---
 A long time ago I used to participate in and moderate an online political discussion community. Most of the participants were conservative or conservative leaning, while I was one of the couple of token liberals. The threads were like a debate club and each discussion was a sparring match. It was fun for a while…until it was not.
 

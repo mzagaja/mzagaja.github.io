@@ -2,7 +2,7 @@
 layout: post
 title: A Few Articles on Education
 tags:
-- education
+- Meta
 ---
 I've been fighting a cold so I don't feel the energy to write much but I wanted to make sure I shared some links relevant to my previous posts about technology in the classroom and education reform.
 

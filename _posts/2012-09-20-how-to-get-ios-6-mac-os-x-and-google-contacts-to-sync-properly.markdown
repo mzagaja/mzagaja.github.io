@@ -1,7 +1,9 @@
 ---
 layout: post
 title: How to Get iOS 6, Mac OS X, and Google Contacts to Sync Properly
-tags: []
+tags:
+- Apple
+- Meta
 ---
 <strong>Note:</strong> Updated on December 14, 2012 to reflect that GMail will not be working with Exchange anymore.
 

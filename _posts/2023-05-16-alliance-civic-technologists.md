@@ -1,6 +1,8 @@
 ---
 title: Launching the Alliance of Civic Technologists
 layout: post
+tags:
+- Civic Tech
 ---
 Today members of Code for America’s soon to be ended community network known as the Brigade program announced they intend to build a new home for their efforts. The [Alliance of Civic Technologists](https://www.civictechnologists.org/) will be built with groups that want to continue to have a place to connect, strategize, and grow.
 

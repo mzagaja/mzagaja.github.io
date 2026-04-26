@@ -1,6 +1,7 @@
 ---
 title: A New Half Marathon Personal Record
 layout: post
+tags: []
 ---
 Yesterday I ran the BAA Half Marathon and set a new personal record: 1 hour, 48 minutes, and 20 seconds. This unofficial finish time is 1 minute and 39 seconds faster than I was in 2018. After being benched for nearly a year and failing to meet or exceed any of my personal records pre-COVID, this feels fantastic.
 

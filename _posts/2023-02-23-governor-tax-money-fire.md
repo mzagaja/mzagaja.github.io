@@ -1,6 +1,8 @@
 ---
 title: Why Your Governor is Lighting Your Tax Money on Fire
 layout: post
+tags:
+- Campaigns & Politics
 ---
 From [Waldo Jaquith](https://waldo.jaquith.org/blog/2023/02/governors-double-down/):
 > It’s happens at least once in every gubernatorial administration: presented with a disastrous, multi-year, failing software project that’s preventing an agency from accomplishing its mission, the governor awards a big contract to a big vendor, maybe even the vendor that’s the source of the problem. Some major culprits are unemployment insurance, enterprise resource planning, Medicaid, child welfare, and payroll—all load-bearing systems for their agencies. Solving these failures by signing another big contract nearly always makes things worse. So why do governors do this?

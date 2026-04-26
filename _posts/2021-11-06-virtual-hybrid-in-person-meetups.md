@@ -2,8 +2,7 @@
 layout: post
 title: Hybrid, Virtual, and In-Person Meetups
 tags:
-  - Meetups
-  - Civic Tech
+- Civic Tech
 ---
 For the past few months Code for Boston has been trying hybrid meetups. The hope for hybrid is that we can use technology to bridge folks participating at home and a group of people meeting in-person. Ideally everyone is on equal footing and you can replicate the best parts of your event on both sides. The reality is hybrid events are a more disappointing version of their in-person counterparts.
 

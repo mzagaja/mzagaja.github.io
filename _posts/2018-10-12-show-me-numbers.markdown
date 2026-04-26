@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Show Me Numbers
+tags: []
 ---
 Yesterday I ran some numbers about the impact of my group at MAPC and posted them on the wall:
 ![385+ datasets opened to the world, 3047 young people matched to jobs, 4278 developments cataloged](/images/digital-services-statistics.jpeg)

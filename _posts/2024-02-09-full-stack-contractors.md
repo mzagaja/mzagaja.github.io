@@ -1,6 +1,7 @@
 ---
 title: We Need Full Stack Contractors
 layout: post
+tags: []
 ---
 When I first moved into my home I needed a repair to my HVAC system. My wife dutifully contacted a repair company that came to inspect it. Unable to fit in our crawl space the technician cut through our drywall to access it. He then proclaimed it fine, charged us $250, and left. I had both a hole in my wall and my wallet.
 

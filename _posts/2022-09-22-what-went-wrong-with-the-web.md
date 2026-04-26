@@ -1,6 +1,8 @@
 ---
 title: What Went Wrong with the Web
 layout: post
+tags:
+- Meta
 ---
 In March 2005 Tim O’Reilly published [What is Web 2.0](https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html). A few months later I graduated high school and with my fresh .edu email address joined a new social network called The Facebook. This blog then launched in 2007 with the promise that I could be part of a larger conversation, and that conversation would be worth our time. Web 2.0 would be participatory and we could not wait to hear what others had to say.
 

@@ -3,11 +3,7 @@ layout: post
 title: Exploring the Connecticut Senate, Presidential, and Fifth District Races Using
   Google Trends
 tags:
-- barack obama
-- chris murphy
-- mitt romney
-- elizabeth esty
-- linda mcmahon
+- Campaigns & Politics
 ---
 Disclaimer: I'm a Democrat and have been helping both Chris Murphy and Elizabeth Esty's campaigns. If you know me you probably knew that. This post is not made or authorized at the behest of any campaign, it's just the result of being stuck home sick during Election Day weekend. Enjoy.
 

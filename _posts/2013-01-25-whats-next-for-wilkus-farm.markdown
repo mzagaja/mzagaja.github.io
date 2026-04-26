@@ -2,8 +2,8 @@
 layout: post
 title: What's Next for Wilkus Farm
 tags:
-- wethersfield
-- wilkus farm
+- Meta
+- Wethersfield
 ---
 Since I was in Washington D.C. I missed the town council meeting where the Wilkus Farm proposal was discussed. However I attended the organizing meeting of the Save the Farm group the day after. There I learned that turnout at the Council meeting was large and that the Council decided to table the proposal to sell the farm until they could explore the legal implications further. Since the motion was tabled the group is now in a holding pattern. There was general consensus that we should be present at Council meetings and stand ready to voice our opposition again when the issue is taken from the table. Meanwhile information is being distributed via an e-mail list and a <a href="https://www.facebook.com/SaveWilkusFarmAgain">facebook page</a>.
 

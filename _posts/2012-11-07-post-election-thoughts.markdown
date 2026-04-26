@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Post-Election Thoughts
-tags: []
+tags:
+- Campaigns & Politics
+- Wethersfield
 ---
 
 

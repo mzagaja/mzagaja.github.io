@@ -1,6 +1,7 @@
 ---
 title: Disney Plus and Hulu Getting Price Hikes
 layout: post
+tags: []
 ---
 From [The Verge](https://www.theverge.com/2022/8/10/23300460/disney-plus-price-increase-ads-streaming):
 > Disney has announced that it’s raising the price of Disney Plus to $10.99 / month, up from its current price of $7.99 / month, starting December 8th in the US. The move comes as the company is looking to restructure its pricing options, which will soon include a $7.99 / month ad-supported tier.

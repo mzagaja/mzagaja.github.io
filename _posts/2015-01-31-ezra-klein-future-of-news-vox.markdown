@@ -1,11 +1,9 @@
 ---
 layout: post
 title: Ezra Klein on the Intersection of Technology and News
-tags: 
-- Vox.com
-- Ezra Klein
-- Technology
+tags:
 - News
+- Software
 ---
 Ezra Klein has some great thoughts on the future of news and what has worked at Vox.com in this video:
 

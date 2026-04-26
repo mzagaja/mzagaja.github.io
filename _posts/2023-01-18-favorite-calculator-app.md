@@ -1,6 +1,7 @@
 ---
 title: My Favorite Calculator App
 layout: post
+tags: []
 ---
 Recently one of my friends asked what app I was using for calculation and I replied [Soulver 3](https://soulver.app). This not well known enough Mac only app makes it easy to combine calculations with context.
 

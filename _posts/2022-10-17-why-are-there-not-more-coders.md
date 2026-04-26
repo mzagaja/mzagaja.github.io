@@ -1,6 +1,7 @@
 ---
 title: Why Are There Not More Coders?
 layout: post
+tags: []
 ---
 In trying to answer the question “why are there not more coders?” I started to look for data. As someone who enjoys coding I always presumed most folks that tried to learn would also like it and there was simply a challenge of spreading the word. However the data tells a bleaker story.
 

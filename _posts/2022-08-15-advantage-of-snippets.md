@@ -1,6 +1,7 @@
 ---
 title: The Advantage of Snippets
 layout: post
+tags: []
 ---
 Whether you write or code you often might find yourself repeating the same text over and over. A command you often use, or some boilerplate response. If you type it enough you will eventually remember it, but it can take a while to get there. Sometimes you have infrequently used commands or text that you want to save for reference as well. In both these cases using a snippets tool can save you searching and typing.
 

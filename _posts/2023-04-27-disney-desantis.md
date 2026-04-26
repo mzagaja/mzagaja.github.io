@@ -1,6 +1,7 @@
 ---
 title: Disney's Complaint Against DeSantis is a Fun Read
 layout: post
+tags: []
 ---
 Disney [filed a complaint in federal court against Gov. Ron DeSantis](https://www.documentcloud.org/documents/23789600-file-stamped-disney-complaint1) yesterday. At 74 pages you might be tempted to run it through the [Kagi Summarizer](https://kagi.com/summarizer/index.html). I do not recommend doing so. Even skimming it gives you a few gems.
 

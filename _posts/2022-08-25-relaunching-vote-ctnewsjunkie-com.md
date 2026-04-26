@@ -1,6 +1,8 @@
 ---
 title: Relaunching vote.ctnewsjunkie.com for 2022
 layout: post
+tags:
+- Campaigns & Politics
 ---
 Over the past week I have been working on relaunching [vote.ctnewsjunkie.com](https://vote.ctnewsjunkie.com). This side project is a love note to the idea that candidates should share their positions on their issues with their constituents when they go up for election. Seasoned [CTNewsJunkie](https://ctnewsjunkie.com) journalists develop a questionnaire that we then email to all the candidates running for office. Over the next few weeks we will be reminding candidates to fill out their survey and sharing out their responses.
 

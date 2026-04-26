@@ -1,6 +1,7 @@
 ---
 title: Time Magazine Says the Solar Industry Might Collapse
 layout: post
+tags: []
 ---
 Making the rounds on Mastodon is [an article sounding the alarm on the rooftop solar industry](https://time.com/6565415/rooftop-solar-industry-collapse/). The article highlights a few issues:
 * Many solar installs either do not work or are undersized.

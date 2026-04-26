@@ -1,6 +1,7 @@
 ---
 title: Christmas Tree Projects in Government
 layout: post
+tags: []
 ---
 Yesterday the [MBTA announced that come August 1st they will finally accept contactless payments from credit cards and smart phones](https://www.mbta.com/news/2024-07-09/new-ways-pay-mbta-announces-contactless-payments-accepted-onboard-buses-green-line?utm_term=subway&utm_campaign=curated-content&utm_content=New+Ways+to+Pay%3A+MBTA+Announces+Contactless+Payments+Accepted+Onboard+Buses%2C+Green+Line+Trolleys%2C+Mattapan+Line+Trolleys%2C+and+at+Subway+Fare+Gates+Starting+August+1&utm_medium=news&utm_source=homepage). This project took over [six years and billion dollars](https://www.bostonglobe.com/2024/07/09/metro/no-charlie-card-needed-on-mbta-bus-subway-august-1/?p1=BGSearch_Overlay_Results). The retrospectives and reports will no doubt show the money was used in useful or productive ways, or wasted with a vendor who is blamed for the mistakes. Nobody will be held accountable for prospectively putting together a project with a budget so large it was doomed from the start. The only reason it had to take six years is it can be a challenge to spend a billion dollars in a single year.
 

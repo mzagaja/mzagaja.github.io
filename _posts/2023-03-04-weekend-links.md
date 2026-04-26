@@ -1,6 +1,8 @@
 ---
 title: Weekend Links
 layout: post
+tags:
+- News
 ---
 * [Is the entire economy gentrifying?](https://www.nytimes.com/2023/03/04/business/economy/premium-prices-inflation.html?unlocked_article_code=CuTV1xEmK-eqwoWvVuBXRqCUQr_bdl3OJUK84VjYeQvzFc9M-86XviZtNXWnFucfF8LsNV-X2TkrzwCMDYtgqcN2xlvwAOoBz2LbuissUIfzRfxyrf_yCQHs5P07QoAIGDVKdNtwnzo4XXTXGFoIjJ2M-f8A5y0HDAY0_IyyfH7rmULzaWkOJKVWqJ2_uU3UR8_tfUYy5AHrxR7Djk0m46tkluA4QLXr36YiYBqe5wi3K6vKnOwTlS7GJAPwsXJAFWWX4SiRQY0SmACtVO0SCSY8EMzbcHa-4LR9BuHDQJl_ejrwIC1VfgG-cXlCBho8M9GB5vCT4K2rH0QLVaMW_D8Mfw3J1xHB3Odg&smid=url-share) asks whether that can of WD-40 with the smart straw is a bit of a scam.
 * 37Signals [released MRSK](https://www.youtube.com/watch?v=LL1cV2FXZ5I) to enable zero downtime Docker deploys to plain servers.

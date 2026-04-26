@@ -1,6 +1,7 @@
 ---
 title: Buy this $1.99 Extension Instead of YouTube Premium
 layout: post
+tags: []
 ---
 A year ago, sick of the constant stream of ads on YouTube I subscribed to [YouTube Premium](https://www.youtube.com/premium). At the time a deal made it a reasonable near $100 a month. YouTube started giving me a banner saying “ads are back in February” so I looked and now it would cost me nearly $130 for the year. While I enjoy YouTube, I do not enjoy it more than $100 a year.
 

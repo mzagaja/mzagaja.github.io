@@ -1,6 +1,8 @@
 ---
 title: Live Performance is Back but Audiences Have Been Slow to Return
 layout: post
+tags:
+- Civic Tech
 ---
 From [New York Times](https://www.nytimes.com/2022/08/21/arts/performing-arts-pandemic-attendance.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuomT1JKd6J17Vw1cRCfTTMQmqxCdw_PIxftm3iWka3DFDmwbiO0PH5PH40rXa615Yto10HGSXsNadacmQvB_y-5UekVxVwSurpKCk5lDIzkwrcj7eFIK6K_3fOJy9y72PC7-If1jxba7slWPazK9Cq2O0Gkqd1livZdhIV-10CdfwbPPE-J_3dgt3qgiBJBqVHxXMnnxyvroDRR1MN2FawiNqVVlHrEEBkyA2IKU-LkCcw5NCFPZT3gZ4W406N9UO95_L7-oZld7O5K42eNNfzQueIS5BJQxRJzWn6FqsdPOqR-PzMm2wpYmBf8YVX65dcIYrZ25PteSxWc&smid=url-share):
 > “I’d be a liar if I said I was happy,” said Brian Kelsey, the managing director of Peninsula Players Theater in Door County, Wis., an area that is a popular Midwest vacation destination. “I don’t know if people are out of the habit, or unaware, or if the clientele that had come is now more interested in outdoor beer gardens, I just know that we’re definitely seeing a downturn.”

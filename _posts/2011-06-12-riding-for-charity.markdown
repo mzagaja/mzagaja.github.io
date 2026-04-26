@@ -1,10 +1,7 @@
 ---
 layout: post
 title: Riding for Charity
-tags:
-- personal
-- cycling
-- charity
+tags: []
 ---
 ![Matt Zagaja on his bicycle](/images/2011/06/P10101821-300x225.jpg "Matt Zagaja on his bicycle")
 

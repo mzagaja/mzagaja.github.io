@@ -1,6 +1,7 @@
 ---
 title: My Work From Home Advice
 layout: post
+tags: []
 ---
 Yesterday a friend starting his first work from home job asked for my advice. With coffee hitting the right way here is what I came up with for him. Maybe it will help you too.
 

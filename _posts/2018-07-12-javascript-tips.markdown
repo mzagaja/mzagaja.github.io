@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Javascript Tips and Traps
+tags:
+- Software
 ---
 I have been spending a lot of time learning modern Javascript over the past month or two. From this there are a few key tools and tips I have picked up:
 

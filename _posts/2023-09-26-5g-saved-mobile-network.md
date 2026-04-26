@@ -1,6 +1,7 @@
 ---
 title: Regulators Should Sanction Phone Carriers Over 5G Advertising
 layout: post
+tags: []
 ---
 Verizon has spent the past several years pushing 5G in its advertising. In a war for customers with rivals T-Mobile and at&t the major three carriers have promised consumers life changing service if they upgrade to the latest 5G phone plans. Marketing showed mind boggling multi-gigabit speeds while consumers learned they only got this if standing nearly next to a mobile tower. Most consumers experienced 5G as a [refreshed LTE upgrade after Verizon launched its 5G nationwide network](https://www.theverge.com/2020/10/13/21509364/verizon-5g-network-ultra-wideband-nationwide-apple-event). With equal or worse performance than LTE, 5G seemed like a dud. Years later consumers are finally seeing a payoff from Verizon’s investment, but only if they pay up.
 

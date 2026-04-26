@@ -2,8 +2,8 @@
 layout: post
 title: Facebook and Google Injured the Open Web
 tags:
+- Apple
 - Meta
-- Blog Updates
 ---
 If you are reading this post on my blog you are one of the few. Currently most of my updates are posted to Facebook and I will tweet interesting things on twitter. I think the reason for this is that the state of the open web regressed after the death of Google Reader. When Google Reader was popular many people used it. They'd stumble upon an interesting blog, add it to their Google Reader, and when you posted an update the magic of RSS sent a swarm of subscribers to your blog. While RSS readers still exist I think that their usage is down overall. This has lead many blogs and online shops to resort to e-mail newsletters as their tool to keep people updated and engaged. Unfortuantely, the quality of my inbox has steadily declined as a result.
 

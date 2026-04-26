@@ -2,6 +2,9 @@
 title: Weekend Links
 layout: post
 excerpt_separator: <!--more-->
+tags:
+- Civic Tech
+- News
 ---
 - [What Happened When Uber’s CEO Started Driving for Uber](https://www.wsj.com/articles/uber-ceo-started-driving-for-uber-5bef5023?mod=djemalertNEWS) was some great in the trenches user research.
 - [A Digital Push for More Legislative Participation](https://commonwealthmagazine.org/politics/a-digital-push-for-more-legislative-participation/) covers the launch of Code for Boston’s [MAPLE Project](https://www.mapletestimony.org).

@@ -1,6 +1,9 @@
 ---
 title: AI Will Not Steal Your Coding Job
 layout: post
+tags:
+- AI
+- Software
 ---
 With the rise of [GitHub CoPilot](https://github.com/features/copilot) I hear software engineers worry about artificial intelligence taking their jobs. This is the third major threat to coding jobs I have seen after offshore outsourcing and no-code tools.
 

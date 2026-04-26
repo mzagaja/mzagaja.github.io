@@ -1,6 +1,7 @@
 ---
 title: Baseball is Better Now
 layout: post
+tags: []
 ---
 Last night I attended my first 2023 baseball game at Fenway Park. The most noticeable change was the presence of the looming [pitch clock](https://www.mlb.com/glossary/rules/pitch-timer) behind the batter. First pitch was thrown at 6:10 p.m. and we were out of the game before 9:10 p.m. As a spectator baseball no longer felt quite as drawn out as it used to, I was engaged nearly the entire time.
 

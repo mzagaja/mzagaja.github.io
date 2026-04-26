@@ -1,6 +1,7 @@
 ---
 title: FAA Seeking Comment on Shrinking Airline Seats
 layout: post
+tags: []
 ---
 The FAA is [seeking comments on shrinking airline seats](https://www.faa.gov/seat-size-comments). If you travel and find airline seats uncomfortable, you should weigh in.
 

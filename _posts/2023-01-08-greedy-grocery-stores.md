@@ -1,6 +1,7 @@
 ---
 title: When Your Grocery Store is Too Greedy
 layout: post
+tags: []
 ---
 I never did a ton of comparison shopping on food items because I always presumed that in an efficient market food prices would generally land within a couple dollars of each other. You could save some money, but even over a year you were not going to move the needle a ton. Rising prices at Wegmans made me rethink this and I now am eating my shoe.
 

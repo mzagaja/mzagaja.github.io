@@ -2,6 +2,8 @@
 title: Weekend Links
 layout: post
 excerpt_separator: <!--more-->
+tags:
+- News
 ---
 - [Sal Khan’s TED Talk on AI and its Uses in Education](https://www.ted.com/talks/sal_khan_the_amazing_ai_super_tutor_for_students_and_teachers/c) was a great watch. I started playing with it along with the Pixar in a Box course.
 - [Two Girls 1 Formula has a list of F1 bars in your city](https://twogirls1formula.com/pages/where-to-watch-f1-in-my-city). Audubon seems to be the only one actively advertising itself as a place to watch F1 in Boston among this list.

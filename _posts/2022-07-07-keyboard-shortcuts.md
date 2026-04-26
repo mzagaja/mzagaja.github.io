@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Value and Chaos of Keyboard Shortcuts
+tags: []
 ---
 One of the ways you can [speed up software development](https://www.zagaja.com/2019/11/speed-up-software-development/) is to learn keyboard shortcuts. If you start searching you will discover your computer has way [more keyboard shortcuts than you ever imagined](https://support.apple.com/en-us/HT201236). Even more exciting is web applications like [GitHub have keyboard shortcuts as well](https://docs.github.com/en/get-started/using-github/keyboard-shortcuts). On many websites Shift+/ will reveal a screen of shortcuts. Unfortunately too many applications have different conventions for similar actions, and this makes keyboard shortcuts harder to learn.
 

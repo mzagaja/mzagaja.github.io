@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Video Friday - Steve Jobs Sloan Lecture
+tags: []
 ---
 Yesterday I started watching clips from this talk by Steve Jobs at MIT while he was at NeXT. A few interesting tidbits include:
 

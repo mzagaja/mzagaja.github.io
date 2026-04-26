@@ -1,6 +1,7 @@
 ---
 title: The Porsche Driving Experience
 layout: post
+tags: []
 ---
 On Saturday I made a pit stop on the way to the airport at the [Porsche Experience Center](https://www.porschedriving.com). This monument to motorsport is equipped with two tracks, a museum, a cafe, restaurant, and simulator room. The primary thing on offer is an experience of 90 minutes with the Porsche that you pick. The price point is on the higher side, but you get what you pay for.
 

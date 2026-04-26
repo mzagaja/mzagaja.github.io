@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Ray-Ban Meta AI Glasses Review
+tags:
+- AI
+- Apple
+- Product Review
 ---
 A couple weeks ago I donned my Ray-Ban Meta AI Glasses and glimpsed the future. Heavier and bulkier than my typical Warby Parker spectacles, but able to pass for typical Wayfarer sunglasses. They are imperfect, but they are the first pair of smart glasses worth owning.
 

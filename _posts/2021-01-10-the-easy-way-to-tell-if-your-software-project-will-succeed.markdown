@@ -2,7 +2,7 @@
 layout: post
 title: The Easy to Tell if Your Software Project Will Succeed
 tags:
-  - Tech Tip
+- Software
 ---
 
 The only thing you need to assess a software project is to ask whoever is proposing it “who are the users?” and “have you talked to the users?” and you’ll have 80% of the information you need to know whether it will succeed.

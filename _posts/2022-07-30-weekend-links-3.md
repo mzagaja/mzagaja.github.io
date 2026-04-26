@@ -1,6 +1,9 @@
 ---
 title: Weekend Links
 layout: post
+tags:
+- Civic Tech
+- News
 ---
 * [How a Coding Error Caused Rogers an Outage that Left Millions Without Service](https://www.theglobeandmail.com/business/article-how-a-coding-error-caused-rogers-outage-that-left-millions-without/) is an account of the Canadian Internet outage earlier this month.
 * [America’s Lawyerless Courts](https://www.americanbar.org/groups/law_practice/publications/law_practice_magazine/2022/july-august/americas-lawyerless-courts/) is a grim overview of how the lack of lawyers involved in a surprising amount of civil cases is impacting the legal system. The fact this article has not been in more mainstream publications is a bummer.

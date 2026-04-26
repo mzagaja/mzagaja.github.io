@@ -1,6 +1,7 @@
 ---
 title: Fix Your Nintendo JoyCon Sticks Forever
 layout: post
+tags: []
 ---
 I have seen lots of noise about the Gulikit Hall Effect replacement joysticks online a few weeks ago, but few reviews. Yesterday [Lon Seidman had a livestream of doing the replacement](https://www.youtube.com/watch?v=oW9FoiPCYC8). It took a bit of time, but looks like they work pretty well. The only criticism Lon seemed to have is they were a bit more slippery than the stock joysticks.
 

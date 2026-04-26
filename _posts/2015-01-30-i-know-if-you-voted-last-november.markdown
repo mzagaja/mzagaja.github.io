@@ -1,8 +1,8 @@
 ---
 layout: post
 title: I Know if You Voted Last November
-tags: 
-- Elections
+tags:
+- Campaigns & Politics
 ---
 Nearly nine years ago two political scientists at Yale conducted an experiment to see whether publicizing the voting histories of individuals to their neighbors would increase voter turnout. This strategy took many years to catch on and started to [come into vogue in 2010](http://www.nytimes.com/2010/10/31/magazine/31politics-t.html?pagewanted=all&_r=0). Here in the land of steady habits we remained largely oblvious to what our Ivy League university had unleashed unto the rest of the world until the last election cycle. After the two parties deployed this tactic last year there was a lot of discussion about big data boogeymen and whether voting records should be public.
 

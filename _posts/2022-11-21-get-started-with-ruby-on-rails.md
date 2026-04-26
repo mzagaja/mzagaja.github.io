@@ -1,6 +1,8 @@
 ---
 title: How to Get Started with Ruby on Rails
 layout: post
+tags:
+- Software
 ---
 When I work with folks new to Ruby and Rails I am often asked how to get started. While there is a plethora of resources if you “just Google it” one of the things that my friend Henry pointed out to me is there is a lot of noise when it comes to coding content. Many folks new to coding flood the market with low quality content that hides the good stuff. So here are my recommendations.
 

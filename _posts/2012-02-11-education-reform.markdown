@@ -2,11 +2,7 @@
 layout: post
 title: Education Reform and Our Better Angels
 tags:
-- education
-- hartford courant
-- bob englehart
-- paul bass
-- new haven independent
+- Meta
 ---
 This week the New Haven Independent <a href="http://www.newhavenindependent.org/index.php/archives/entry/time_out/">made the decision to close its doors to commenters</a>. As someone who has been using the Internet to discuss politics since a young age it's not difficult to understand the decision. The reason that most people have a rule that politics is not discussed at the dinner table is that people get heated, views are strong, and feelings get hurt. Places that allow free form comments like the Independent may have some good discussions but as Bass points out too often it turns nasty and negative. If discussions are to be successful they usually require moderation to keep tempers in check. Too often people engage in these discussions with the purpose of promoting an agenda instead of learning from others, and that is where they turn sour.
 

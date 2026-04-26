@@ -1,6 +1,9 @@
 ---
 title: Weekend Links
 layout: post
+tags:
+- Meta
+- News
 ---
 - [Apple Quarterly Results Earnings Call Transcript](https://sixcolors.com/post/2022/10/this-is-tim-q4-2022-analyst-call-transcript/) gives some context after a record quarter for Apple.
 - I [updated my Panic Nova Rubocop extension to v1.3](https://github.com/mzagaja/Rubocop.novaextension/releases/tag/v1.3) so it can work with rvm.

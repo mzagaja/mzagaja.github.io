@@ -1,6 +1,7 @@
 ---
 title: Please Stop Making Me Log Back In
 layout: post
+tags: []
 ---
 It recently feels like I spent more time logging in to websites and applications than at any point of my life as a computer user. I first started to notice this issue when Google began logging me out of Gmail every week. Searching revealed there is no way to escape the [14 day session limit](https://apps.google.com/supportwidget/articlehome?hl=en&article_url=https%3A%2F%2Fsupport.google.com%2Fa%2Fanswer%2F7576830%3Fhl%3Den&product_context=7576830&product_name=UnuFlow&trigger_context=a). I switched to Apple Mail as a result and despite it not being as good as Gmail, I am happier.
 

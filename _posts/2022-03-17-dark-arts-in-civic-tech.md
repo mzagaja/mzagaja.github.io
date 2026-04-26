@@ -2,6 +2,7 @@
 layout: post
 title: Dark Arts in Civic Tech
 tags:
+- Civic Tech
 ---
 Going into the world of Civic Tech I felt optimistic. Like many folks that enter the field, you get excited by the possibility of technology and share a kinship with others that want to work in the public interest. After joining government I discovered how challenging the work is. Unnamed norms and invisible blockers impeded my ability to move projects forward. Stakeholders with different agendas sabotaged or hijacked projects with methods that seemed…dark. In this post I will name some of these dark arts that I experienced so you can identify them, and even propose a few of my own.
 

@@ -1,6 +1,8 @@
 ---
 title: When a YouTube Video Would Make a Great Blog Post
 layout: post
+tags:
+- Meta
 ---
 Lately it seems as if many fifteen minute YouTube videos would be fantastic short blog posts. I am interested in what the speaker has to say, but don’t want to sit through the “please like, subscribe, etc.” pitch and meandering background information designed to pad their video length. Enter the [Kagi Universal Summarizer](https://kagi.com/summarizer/index.html).
 

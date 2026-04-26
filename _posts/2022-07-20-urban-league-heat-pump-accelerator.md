@@ -1,6 +1,8 @@
 ---
 title: Announcing Urban League Heat Pump Accelerator Project
 layout: post
+tags:
+- Civic Tech
 ---
 As a part of my volunteer work with [Code for Boston](https://www.codeforboston.org) I am helping to launch the Urban League Heat Pump Accelerator Project to accelerate the adoption of heat pumps in the Boston region, with a focus on equity.
 

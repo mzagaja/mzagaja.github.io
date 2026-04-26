@@ -1,9 +1,9 @@
 ---
 layout: post
 title: DJ Patil Tells Us Where Data Science is Going
-tags: 
-- DJ Patil
-- Barack Obama
+tags:
+- Campaigns & Politics
+- Data
 ---
 I especially enjoyed Barack Obama's data science joke at the beginning of this video:
 

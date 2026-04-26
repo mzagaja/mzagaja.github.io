@@ -2,6 +2,8 @@
 title: The Invasion of Thirst Trap Content
 layout: post
 excerpt_separator: <!--more-->
+tags:
+- Meta
 ---
 From [Merriam-Webster](https://www.merriam-webster.com/words-at-play/what-is-a-thirst-trap):
 > The GQ giants names [Rihanna] Queen of the Thirst Trap, which they define as: "the act of disingenuously posting sexy photos-while suggesting the subject of the photo is something else entirely-in an effort to elicit the lust (thirst) of followers." We like this definition. — Jess Wilson, The Mirror, 3 December 2013

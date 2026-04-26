@@ -1,6 +1,8 @@
 ---
 title: Passing a Law is the Only Way to Secure our Computers
 layout: post
+tags:
+- Security
 ---
 [Security legend Bruce Schneier thinks that we need a new law requiring companies to secure their systems](https://www.nytimes.com/2022/09/26/opinion/uber-hack-data.html?unlocked_article_code=NtT_BzEvh7MuHXng1inIHQ0fj4iwUYG4onzEHEyTkq83shOOppRzxWQyQoSbxjKzhz_9l51d4K6YWz7ytEkzG6EYQ4u55Pq6JuTjbk37zb-yKie35EWbDC6M7sXLLfzldOrimY6vEb2vMA5dtbcgF7ZErnz0w3291CWk4tF7pH3hbu45QvNZtNQDXElAdO2LYQ5aJAbCEWsD2qwkFGvga0S7Cv6JNkfiW2SiLlMg3Ahg7KmsrHk9bg1ptYzJ_iRtbSp9I16kCQcqyQdowhtQbs9j6tkkpRGvaxXEvnQDir-aqUr1cxrhkXKAEgcfTRnNnhfyUPmyt1A&smid=share-url):
 > We need strong regulations that force organizations to maintain good security practices. The focus must be on resilient security for the user data entrusted to the company. Government regulation should not be involved (for example) if Uber loses the source code to its phone apps or its employee Slack channel. Government regulation should be involved if Uber loses data about the rides taken by its 100 million-plus users.

@@ -1,6 +1,7 @@
 ---
 title: Why Tricks and Snippets Beat Custom Tools for Developer Experience
 layout: post
+tags: []
 ---
 A common pattern I see programmers try is to write little scripts and utilities to streamline repetitive tasks. A program might arrive with a small app in “./bin/utility” you can add to your $PATH and quickly execute on things. These scripts and utilities are well meaning, but long term they tend to break. Once they do, their value proposition evaporates.
 

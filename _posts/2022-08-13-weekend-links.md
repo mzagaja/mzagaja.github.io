@@ -1,6 +1,8 @@
 ---
 title: Weekend Links
 layout: post
+tags:
+- News
 ---
 - Congratulations to Cori Zarek who [returns to the US Digital Service as its Deputy Executive Director](https://beeckcenter.georgetown.edu/pit-for-better-outcomes/).
 - Connecticut’s Office of Health Strategy contracted with UConn to build its health information system “in-house”. [It did not go well](https://ctnewsjunkie.com/2022/08/10/state-officials-nixed-health-information-network-computer-software-they-spent-20m-developing/). The article leaves us with some possibilities but no clear conclusion as to why. It does sound like they struggled to develop their custom system.

@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Legacy Software
+tags:
+- Meta
+- Software
 ---
 I thought that Mark Headd had an interesting tweet yesterday:
 

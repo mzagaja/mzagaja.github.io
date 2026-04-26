@@ -1,11 +1,7 @@
 ---
 layout: post
 title: Sovereign Debt & White House Burning
-tags:
-- simon johnson
-- james kwak
-- white house burning
-- sovereign debt
+tags: []
 ---
 
 

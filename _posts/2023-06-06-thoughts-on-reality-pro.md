@@ -1,6 +1,7 @@
 ---
 title: Thoughts on Vision Pro
 layout: post
+tags: []
 ---
 In an announcement that surprised no one, Apple unveiled the [Vision Pro headset](https://www.apple.com/apple-vision-pro/) yesterday. Priced at an eye popping $3499 viewers were left wondering: who is this for?
 

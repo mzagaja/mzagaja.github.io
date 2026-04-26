@@ -1,9 +1,9 @@
 ---
 layout: post
 title: How Twitter Data can Save Flood Victims
-tags: 
+tags:
 - Data
-- Twitter
+- Meta
 ---
 Chris Moody tells some interesting stories about twitter and data at the beginning of this video:
 

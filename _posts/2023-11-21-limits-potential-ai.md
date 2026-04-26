@@ -1,6 +1,8 @@
 ---
 title: The Limits and Potential of AI
 layout: post
+tags:
+- AI
 ---
 Artificial intelligence has captured the imagination of the tech industry. Using enormous datasets scraped from the Internet OpenAI built ChatGPT, an AI that seems to act human. OpenAI’s dominance of the field has come into question with [the surprise ouster of Sam Altman](https://www.nytimes.com/2023/11/21/briefing/open-ai-sam-altman-microsoft.html). Are AIs proponents over-promising its capabilities? Are the critics missing key advantages and limitations? I have been trying to use it to code for the past few months, and am surprised at how far it still has to grow.
 

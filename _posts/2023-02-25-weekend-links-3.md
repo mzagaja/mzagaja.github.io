@@ -1,6 +1,10 @@
 ---
 title: Weekend Links
 layout: post
+tags:
+- Meta
+- News
+- Product Review
 ---
 - [Before I Won Boston I Almost Quit Running](https://apple.news/ALgEld_hQS46siPVArHeBfA) was a gripping excerpt from Des Linden’s upcoming memoir.
 - [Can the Fastest F1 Team Be Caught](https://apple.news/AdzlFzvnpSxGTdfU1O5hlHQ) was a good preview of the upcoming Formula 1 season.

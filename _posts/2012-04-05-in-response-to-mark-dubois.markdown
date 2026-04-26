@@ -1,10 +1,7 @@
 ---
 layout: post
 title: In Response to Mark DuBois
-tags:
-- uconn law
-- connecticut law tribune
-- connecticut
+tags: []
 ---
 On Monday the Connecticut Law Tribune <a href="http://www.ctlawtribune.com/getarticle.aspx?ID=41713">published a column</a> by Mark DuBois, former Chief Disciplinary Counsel for the State of Connecticut and an adjunct professor that is teaching some of my friends legal profession this semester. After showing the column to some classmates, I cannot help but to feel a bit insulted by it. The first criticism that bothered me was the following:
 <blockquote>Ten years ago, I was asked to go to Mystic to give a talk on ethics to a meeting of interstate tax regulators. Their speaker had taken sick, and they needed 1.5 credit hours of ethics to fill their CLE requirement. When I announced I was from UConn Law, someone asked me if I knew Rick Pomp. Turns out he is some sort of rock star to these folks.

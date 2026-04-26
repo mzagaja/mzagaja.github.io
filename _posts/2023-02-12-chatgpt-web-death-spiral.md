@@ -1,6 +1,8 @@
 ---
 title: ChatGPT Another Phase in the Web's Death Spiral
 layout: post
+tags:
+- AI
 ---
 The foundation of the web used to be a large series of independent websites that linked to each other. Directories and eventually search engines would link you to these independent sites. These small sites were either labors of love, or supported by banner advertising. Social media killed the incentives and now ChatGPT threatens to freeze the state of web knowledge.
 

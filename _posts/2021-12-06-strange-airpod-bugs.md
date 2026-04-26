@@ -3,8 +3,6 @@ layout: post
 title: Strange AirPod Bugs
 tags:
 - Apple
-- Bugs
-- Annoyances
 ---
 One of the more interesting parts of software updates are the unexpected bugs that pop-up when you use them. Lately I have had atrocious issues with anything connected via Bluetooth to my M1 MacBook Pro. Especially strange today was the introduction of a symptom that caused my AirPods to push more audio out of the left AirPod instead of the right one:
 

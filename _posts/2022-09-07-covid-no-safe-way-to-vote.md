@@ -1,6 +1,8 @@
 ---
 title: Despite COVID Massachusetts Offers No Safe Way to Vote
 layout: post
+tags:
+- Campaigns & Politics
 ---
 Yesterday I woke-up with a suspicious cough. Despite having already been infected and triple vaccinated, my COVID test came back positive. Yesterday was also Election Day and I had not voted yet. I was traveling during the usual early and absentee ballot window. Suddenly I was forced to ask: “how do I vote if I have an active COVID infection?”
 

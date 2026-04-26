@@ -1,6 +1,10 @@
 ---
 title: Can ChatGPT Code for You Yet?
 layout: post
+tags:
+- AI
+- Civic Tech
+- Software
 ---
 No.
 

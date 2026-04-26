@@ -1,6 +1,9 @@
 ---
 title: Weekend Links
 layout: post
+tags:
+- Civic Tech
+- News
 ---
 * [Warren, Markey put MBTA in hot seat over safety incidents](https://www.bostonglobe.com/2022/10/14/metro/senator-warren-hold-rare-congressional-hearing-boston-friday-mbta-safety-problems/) summarizes Friday’s Congressional hearing on MBTA safety in Boston. Our senators did not hold back.
 * [Code for America Brigade Congress](https://discourse.codeforamerica.org/t/brigade-congress-2022-schedule/1506) is this weekend. Both in-person and virtual options. I am sad to miss it, but presenting virtually on Sunday.

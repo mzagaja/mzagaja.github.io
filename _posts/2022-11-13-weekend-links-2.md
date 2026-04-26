@@ -1,6 +1,10 @@
 ---
 title: Weekend Links
 layout: post
+tags:
+- News
+- Product Review
+- Software
 ---
 - [Iranian Man Who Inspired The Terminal Dies at Airport](https://www.nbcnews.com/news/us-news/iranian-man-inspired-steven-spielberg-film-terminal-dies-paris-airport-rcna56917)
 - [Kevin Magnussen Gives Team First Pole Position](https://www.formula1.com/en/latest/article.must-see-wild-celebrations-in-the-haas-garage-as-magnussen-gives-team-first.6stfeuChnYo33RqF1o500E.html) was great to see for a team that struggles so much in Formula 1.

@@ -1,6 +1,9 @@
 ---
 title: AI LLM Shootout
 layout: post
+tags:
+- AI
+- Product Review
 ---
 Realizing that large language models are imperfect as a user interface, I had the idea last week what if I could use them to translate documentation into some of the tools like [fish shell](https://fishshell.com) and [Dash](https://kapeli.com/dash) to augment their data and improve my efficiency. This way rather than having to wait for the LLM to load or referring back to it, I can get my assistance where it’s most convenient.
 

@@ -2,6 +2,8 @@
 title: This Trick Can Make You a 10x Programmer
 layout: post
 excerpt_separator: <!--more-->
+tags:
+- Meta
 ---
 Last week I asked Twitter if there the 10x programmer is real:
 

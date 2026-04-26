@@ -1,6 +1,8 @@
 ---
 title: Beats Fit Pro Review
 layout: post
+tags:
+- Product Review
 ---
 The [Beats Fit Pro](https://www.beatsbydre.com/earbuds/beats-fit-pro) are flawed but impressive earbuds for working out and everyday use. The audio quality and noise cancelling are uncanny. However the wing used to hold the buds in place is hard to secure and hurts. Despite this, these buds are a step up from the [Powerbeats Pro](https://www.beatsbydre.com/earphones/powerbeats-pro).
 

@@ -1,6 +1,8 @@
 ---
 title: How Digital Transformation Efforts Get Killed
 layout: post
+tags:
+- Civic Tech
 ---
 A central tenant of digital transformation efforts aimed at government in the US can be reduced to: “show them the way and they will change.” Code for America tackled this by placing fellows with various government agencies. Folks joined government agencies and tried to do things differently. Yet many times these efforts belly flopped. What’s the issue?
 

@@ -1,6 +1,8 @@
 ---
 title: Do You Want to Tip for that MacBook Pro?
 layout: post
+tags:
+- Apple
 ---
 Bloomberg [reports that the union for employees at the Maryland Apple Store want to have employees accept tips on your MacBook or iPhone](https://www.bloomberg.com/news/articles/2023-05-03/apple-s-unionized-store-workers-seek-tips-and-higher-holiday-pay).
 

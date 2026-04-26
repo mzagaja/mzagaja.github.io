@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Who Tells Your Story
+tags:
+- Civic Tech
+- Meta
 ---
 Over the weekend I worked to upload the distribute the [Code for Boston Web Application Security Workshop video](https://www.youtube.com/watch?v=r4KLQTZBljw) we took this past Tuesday. In the process of pulling together the video I ended up refactoring Code for Boston’s Social Media presence. To better manage it I discovered a new tool and developed a content strategy.
 

@@ -1,6 +1,9 @@
 ---
 title: Weekend Links
 layout: post
+tags:
+- Meta
+- News
 ---
 - [MBTA Opens Up About Crippling Subway Car Delivery Days](https://commonwealthmagazine.org/transportation/mbta-opens-up-about-new-subway-car-delivery-delays/?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axioslocal_boston&stream=top). Good grief.
 - [Nintendo’s First $70 Game is Legend of Zelda: Tears of the Kingdom](https://www.theverge.com/2023/2/8/23591275/nintendo-70-dollar-game-the-legend-of-zelda-tears-of-the-kingdom), always a bummer to see prices go up, but my friends point out the $60 game has persisted long past its life. Still a good deal.

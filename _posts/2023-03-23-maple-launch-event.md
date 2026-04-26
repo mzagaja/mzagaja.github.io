@@ -2,6 +2,9 @@
 title: Launch Event for Code for Boston MAPLE Project Next Week
 layout: post
 excerpt_separator: <!--more-->
+tags:
+- Civic Tech
+- Software
 ---
 On Thursday April 6, 2023 from 12:30 to 1:30 p.m. the Berkman Klein Center for Internet and Society will be [hosting a discussion on “Digital Public Spaces for a Healthy Democracy: goals, values & aspirations”](https://cyber.harvard.edu/events/digital-public-spaces-healthy-democracy-goals-values-aspirations). 
 

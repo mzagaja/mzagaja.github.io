@@ -1,6 +1,9 @@
 ---
 title: AI Killed the Social Media Star
 layout: post
+tags:
+- AI
+- Meta
 ---
 In this [NBC News report ](https://www.nbcnews.com/tech/tech-news/fewer-people-using-elon-musks-x-struggles-keep-users-rcna144115) I was surprised to see not only are the number of daily active users of X declining, but for every other social network than Meta mentioned the trend holds. It may seem like social media has been in decline, but now we have some numbers to show it.
 

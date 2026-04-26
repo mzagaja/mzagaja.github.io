@@ -1,6 +1,8 @@
 ---
 title: Weekend Links
 layout: post
+tags:
+- News
 ---
 - [Alphabet cuts 12,000 jobs](https://www.nytimes.com/2023/01/20/business/google-alphabet-layoffs.html?unlocked_article_code=sMitskujMtc02rIobxn6a7Ys-2KjMKnnKtA-rLb-fFBpN88F3Qb4gwAGc8LphoulRCkkjBjyJqqpfLs9bs-JAZ6Pdkfsa5UTO_K6nwrKAOfMrsGN6XzcrX94Gvdfgh2r7Posd0SnyK7-MGHe0Xrd6faGnWm_52Y6wuS8vMbpLJu5z0jHTqX8HlFwlolPWBplKpRKiT8RghxUbmJmDcNmM7cKaCJHkPZQsbp6L_3xtulM7SJtTv8KeqG3M-YehqfO_6MP5VLiKCOYzcqz1CXx4R5I0zb4Blvivw7twAhFH2WhX93dPE-KOgOcDxS4jWkOMLga78Urv51xsVNC__Zh4hE5&smid=share-url). Working in tech, and having many friends that work in tech, LinkedIn has become the most depressing social network.
 - [Selling Houses While Black](https://www.nytimes.com/2023/01/12/realestate/black-real-estate-agents-discrimination.html?unlocked_article_code=K_qgOKdeNh1yq5jyDgdrMvmwZx1C0eKMl6e-Ick55eYmfE4Gq439RALgS5oGpFqzheQYzxDwKTtmuMbDT5klc86SnQvJwp0ALp08Cc8HnsGlwYE5tbeCFIHB_hXI2T10Ba7Y9-PJSERBuLQfxcQRf4yD8OThUhq_zn5UxbVyAiGt201DkbsfevmEwCCkPPnIy4V6I_AhkDnxFCSMlvvNM0sBoAtqtiKATm_R3NvPSYCRWZuGVOclxTCgw_eP2DhvL2fJN3s9Rq7dc-WQX10-4THDtCFzoLaDkLrXLUP20l7MbFj6FOMaj3OQxWse9G90OxP_GAC6_g_hp37EqlFrO-lafYJn17pl-7724nwkdU1HKgSn&smid=share-url) chronicles the challenges faced by Black real estate agents.

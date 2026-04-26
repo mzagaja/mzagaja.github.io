@@ -1,6 +1,8 @@
 ---
 title: Urban League Heat Pump Accelerator Week Five
 layout: post
+tags:
+- Civic Tech
 ---
 I was off traveling last week and missed working with the teams, but returned on Tuesday evening to work with our Urban League Heat Pump Accelerator group. Despite my absence I was excited to hear most groups continued to make forward progress. Working with the backend team I reviewed the code they submitted. I also created a fresh server on Amazon Web Services where the application will live. One of our group members will do the work of setting that server up. In a couple weeks when the first version of the application is alive, we will have a place for it to go!
 

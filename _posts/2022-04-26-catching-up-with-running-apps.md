@@ -2,6 +2,7 @@
 layout: post
 title: Catching Up with Running Apps
 tags:
+- Product Review
 - Software
 ---
 Over the past few weeks I have been trying to figure out a strategy to improve my running. In 2022 you would expect two years of being locked down to have lead to great innovation in running focused fitness apps. So I dove in to see what I could find. Unfortunately it was not great.

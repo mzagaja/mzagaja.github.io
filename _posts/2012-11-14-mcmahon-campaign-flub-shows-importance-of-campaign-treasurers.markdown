@@ -2,9 +2,7 @@
 layout: post
 title: McMahon Campaign Flub Shows Importance of Campaign Treasurers
 tags:
-- linda mcmahon
-- seec
-- fec
+- Campaigns & Politics
 ---
 Paul Bass at the New Haven Independent has been <a href="http://www.newhavenindependent.org/index.php/archives/entry/payday/">chronicling the plight of the workers</a> the McMahon campaign paid to hand out literature. The workers complained to the media that they did not receive their paychecks. However this problem is hardly new when it comes to political campaigns. The media is rife with accounts of vendors that have unpaid bills or in the case of Mitt Romney stranded campaign workers. Since campaigns tend to be rag-tag operations the financials take a backseat to other priorities. Neglecting these responsibilities can cause the kind of negative media attention that McMahon is receiving.
 

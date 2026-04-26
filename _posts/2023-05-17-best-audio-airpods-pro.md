@@ -1,6 +1,8 @@
 ---
 title: The Best Way to Listen to Audio is Your AirPods Pro
 layout: post
+tags:
+- Apple
 ---
 When I got the [AirPods Pro 2](https://www.apple.com/airpods-pro/) I was amazed by how effective the noise cancelling technology is. My over the ear headphones with noise cancelling barely matched how much noise was silenced or blocked out by it. However the high quality of the audio made using AirPods Pro appealing for more situations than just when I need privacy or to cancel out external noise. They are now my default preference.
 

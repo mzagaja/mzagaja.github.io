@@ -1,6 +1,9 @@
 ---
 title: Security Redux
 layout: post
+tags:
+- Meta
+- Security
 ---
 Yesterday Vanguard, despite having two security keys enabled with their account, randomly forced me to enable a less secure factor on my account with them. Later that day Facebook would not let me login using the “Security Key” button on their iPad app and instead required me to approve my login using another logged in Facebook instance from my mobile phone. Even these large allegedly smart companies fail a basic security maxim that any method that is less secure than your most secure factor lowers the security of your account and opens a new attack vector.
 

@@ -1,6 +1,8 @@
 ---
 title: Coding is for Everyone as Long as You Speak English
 layout: post
+tags:
+- Software
 ---
 From [WIRED](https://www.wired.com/story/coding-is-for-everyoneas-long-as-you-speak-english/):
 > It’s true that software programs and social media platforms are now often available in some 30 to 100 languages—but what about the tools that make us creators, not just consumers, of computational tools? I'm not even asking whether we should make programming languages in small, underserved languages (although that would be cool). Even huge languages that have extensive literary traditions and are used as regional trade languages, like Mandarin, Spanish, Hindi, and Arabic, still aren't widespread as languages of code.

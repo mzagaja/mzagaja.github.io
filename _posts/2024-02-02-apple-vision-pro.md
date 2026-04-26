@@ -1,6 +1,7 @@
 ---
 title: The Case for The Vision Pro
 layout: post
+tags: []
 ---
 Today Apple releases its long awaited Vision Pro. I have not used one yet, but I have used plenty of VR headsets. This no longer nascent category has found a home in gaming. Suburban teenagers have a large library of content on the Meta Quest. Arcades and museums offer VR headset experiences. So why are we all talking about the Apple one?
 

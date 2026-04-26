@@ -1,6 +1,8 @@
 ---
 title: What 3D Printing Teaches Us about the AI Hype Cycle
 layout: post
+tags:
+- AI
 ---
 When I was in law school I was heavily involved in the Connecticut Center for Entrepreneurship and Innovation. Through UCONN’s Innovation Accelerator program I worked with companies looking to build market plans for their product ideas. The goal was to get an investment from an angel investor. On the other end of the spectrum I was a student lawyer in the Intellectual Property clinic, helping secure trademarks and patents for start-ups. I know entrepreneurs, their personality, and the hype cycle that fuels job creation but blinds folks to challenges in creating products and businesses.
 

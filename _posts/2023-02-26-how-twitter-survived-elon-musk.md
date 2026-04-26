@@ -1,6 +1,9 @@
 ---
 title: How Twitter Survived Elon Musk
 layout: post
+tags:
+- Meta
+- Product Review
 ---
 In late October 2022 Elon Musk bought twitter. He started by mercilessly firing and laying off staff. He recklessly [tweeted conspiracy theories](https://www.npr.org/2022/12/14/1142666067/elon-musk-is-using-the-twitter-files-to-discredit-foes-and-push-conspiracy-theor). [Advertisers decamped the platform](https://www.npr.org/2022/11/25/1139180002/twitter-loses-50-top-advertisers-elon-musk). Some folks concerned about harassment, misinformation, and other issues left for Mastodon. Many folks were writing obituaries for twitter, but I logged in yesterday and found it alive and kicking.
 

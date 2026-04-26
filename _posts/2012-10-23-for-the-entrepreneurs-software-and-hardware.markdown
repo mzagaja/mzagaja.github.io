@@ -2,9 +2,7 @@
 layout: post
 title: 'For the Entrepreneurs: Software and Hardware'
 tags:
-- technology
-- entrepreneurship
-- jason fried
+- Software
 ---
 Jason Fried and the team at 37Signals put together a <a href="http://gettingreal.37signals.com">free eBook</a> on building a business based on a web application. I thought it was pretty neat considering they have experience in the business and few entrepreneurs seem to spend the time to really document the process and the pitfalls. I have not read the book but the table of contents suggests that it is full of practical advice, and Fried has a good reputation in the web application business.
 

@@ -1,6 +1,8 @@
 ---
 title: Weekend Links
 layout: post
+tags:
+- News
 ---
 - Dr. Aure Schrock [tweets their take on the brigade spin off](https://twitter.com/aschrock/status/1621251506677886979?s=20&t=ynLtKit8EoXtvY8nEgfAJQ).
 - [Dr. Joan Donovan is being forced to leave the Kennedy School](https://www.thecrimson.com/article/2023/2/2/donovan-forced-leave-hks/). A boneheaded decision by Harvard, which either could have found a faculty member to work with Donovan or maybe promoted her.

@@ -2,8 +2,8 @@
 layout: post
 title: Securing Your Computer
 tags:
-- security
-- mac os x
+- Apple
+- Security
 ---
 One of the things that most people seem to neglect besides <a href="http://support.apple.com/kb/ht1427">backing up</a> is computer security. Real security can be difficult to achieve, but there are some basic things you can do to make it better. If you are using a Mac computer like I do you can <a href="http://support.apple.com/kb/HT4790">enable the full disk encryption known as FileVault 2</a>. It takes a while to encrypt the drive but then it will be protected if someone steals your laptop. If you have a mobile device like an iPhone or iPad you should enable encryption and passwords on those as well. Instead of a basic passcode you should <a href="http://blog.agilebits.com/2012/03/30/the-abcs-of-xry-not-so-simple-passcodes/">choose one that is eight numbers or some kind of phrase</a>. The most important thing is to make sure you remember it.
 

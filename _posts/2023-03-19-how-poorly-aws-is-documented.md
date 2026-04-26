@@ -1,6 +1,9 @@
 ---
 title: How poorly AWS is documented
 layout: post
+tags:
+- AI
+- Civic Tech
 ---
 AWS is one of the largest cloud platforms and we use it for our projects at Code for Boston. I spent this morning trying to figure out how to view logs from the past day on a project and boy was it a challenge.
 

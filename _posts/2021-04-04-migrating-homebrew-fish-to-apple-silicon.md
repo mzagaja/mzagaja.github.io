@@ -2,6 +2,9 @@
 layout: post
 title: Migrating Homebrew and fish to Apple Silicon
 tag: fish shell
+tags:
+- Apple
+- Software
 ---
 When Apple released its new computers with the M1 Apple CPU software developers had to update their apps to work with it. In order to make the transition easier the folks at Apple developed the amazing [Rosetta 2](https://support.apple.com/en-us/HT211861) translation layer to let Intel apps run on the M1. Like many early adopters I setup my web development environment entirely in Rosetta 2 to avoid the hiccups associated with using the native versions. A [request to test an update to Nokogiri](https://github.com/sparklemotion/nokogiri/pull/2214) lead me to try migrating my environment from Rosetta 2 to Apple Silicon. It had a few hiccups, but overall was not bad to do. I recommend reading this post **in full** before starting the process because there are some python and homebrew cask specific steps you might need to follow before removing Intel homebrew.
 

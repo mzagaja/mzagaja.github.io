@@ -1,6 +1,7 @@
 ---
 title: Making Technology Work for Us
 layout: post
+tags: []
 ---
 Technology is inherently neutral. Tools like hammers and knives can be used to help or hurt. Automation can assist or hinder. The web has the ability to connect or divide us. Technology does not have a viewpoint, it just is.
 

@@ -1,6 +1,8 @@
 ---
 title: AirPods Pro 2 are Peak Apple
 layout: post
+tags:
+- Apple
 ---
 On Friday I received a pair of [AirPods Pro (2nd Generation)](https://www.apple.com/airpods-pro/) to replace the AirPods I have had for several years with a decaying battery. Using them for a few days I can confirm that they are the best headphones I have ever used. The noise cancelling is uncanny, as good if not better than my Beats Studio 3 wireless. If you have a Mac and iPhone you should buy these.
 

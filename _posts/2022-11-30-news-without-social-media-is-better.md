@@ -1,6 +1,8 @@
 ---
 title: News Without Social Media is Better
 layout: post
+tags:
+- Meta
 ---
 As I have been scaling back my usage of twitter one of the things I have discovered is reading online news without social media is better. By not wasting time on links to sites with pay walls I get right to the story. Many of the opinion peddlers on twitter were working to monetize their writing on places like Substack. Sometimes their perspectives were interesting or insightful, but I do not miss them.
 

@@ -1,6 +1,8 @@
 ---
 title: Recoding America
 layout: post
+tags:
+- Civic Tech
 ---
 Over my summer break I read Jen Pahlka’s [Recoding America](https://www.recodingamerica.us). My expectations were high, maybe unreasonably so, going into this book by the founder of Code for America. While some of the anecdotes were interesting I finished this tome unsatisfied. It is a good starter for policymakers looking to learn and understand the Civic Technology movement and what Pahlka has been advocating for, but there is not much meat for people that have been in this space for a long while.
 

@@ -1,11 +1,10 @@
 ---
 layout: post
 title: What Campaigns Can Learn from BuzzFeed
-tags: 
-- Campaigns
-- Technology
-- YouTube
-- Social Media
+tags:
+- Campaigns & Politics
+- Meta
+- Software
 ---
 >"The future is already here — it's just not very evenly distributed." - William Gibson
 

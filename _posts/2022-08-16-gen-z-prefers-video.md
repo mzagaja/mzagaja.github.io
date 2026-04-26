@@ -1,6 +1,8 @@
 ---
 title: Gen Z Prefers Video
 layout: post
+tags:
+- Meta
 ---
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">3) The Gen Z focus group participants don&#39;t want to read to find information. <br><br>They will if they HAVE to. But if they can get a quick video with the answer, that’s what they prefer.</p>&mdash; Adrienne | Social Media Strategist (@AdriSheares) <a href="https://twitter.com/AdriSheares/status/1557885464954241026?ref_src=twsrc%5Etfw">August 12, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

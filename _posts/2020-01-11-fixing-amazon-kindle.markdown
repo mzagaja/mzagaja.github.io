@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Fixing an Amazon Kindle
+tags:
+- Apple
 ---
 In 2009 I received my first Amazon Kindle. The Kindle is Amazon’s tool for reading e-books that took advantage of new [e-ink technology](https://en.wikipedia.org/wiki/E_Ink). Instead of having to read your book on a tablet you could read it on a display that looked more like a physical book. The advantage of the e-ink display is that is uses less power and views better in direct sunlight than the LCD displays on our other devices. The disadvantage is that the e-ink displays are not yet generally available in color. If you like to read, owning Amazon Kindle or a similar device is worth your while.
 

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: How to find Changes Between Two Bills
-tags:
-- Tech Tip
+tags: []
 ---
 What do you do if you want to know how a bill in the legislature changed from one version to another? Software developers encounter this problem all the time with their code and use something called a diff tool to tackle it. My favorite is [Kaleidoscope](https://apps.apple.com/us/app/kaleidoscope/id587512244?mt=12). 
 

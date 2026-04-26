@@ -1,6 +1,8 @@
 ---
 title: I Wasted $20 on Claude 3.5 Sonnet So You Don't Have To
 layout: post
+tags:
+- AI
 ---
 After reading the press release and hearing the buzz about Anthropic’s Claude 3.5 Sonnet AI model, I gave in and paid the $20 for their premium tier. The thing that most interested me was their project functionality that allows you to contextualize your conversation with files like code. The demos looked neat so I figured I’d feed it at JavaScript/Node project and ask it to make what should be an easy fix. It flopped spectacularly.
 

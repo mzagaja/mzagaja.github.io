@@ -2,6 +2,9 @@
 title: Weekend Links
 layout: post
 excerpt_separator: <!--more-->
+tags:
+- Meta
+- News
 ---
 Happy New Year! I have weekend links for you all to enjoy:
 - [Southie Gut](https://www.instagram.com/southiegut/) on Instagram chronicles one family’s gut renovation of a row house in my neighborhood. The list of things that have gone wrong was surprising.

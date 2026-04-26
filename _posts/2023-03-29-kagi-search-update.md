@@ -1,6 +1,7 @@
 ---
 title: Kagi Search Update
 layout: post
+tags: []
 ---
 I [previously wrote about Kagi](https://www.zagaja.com/2023/03/kagi-google-alternative/), a fast paid alternative to Google that searches more independent websites and does not have ads. I started paying for it, and boy have I learned a few things.
 

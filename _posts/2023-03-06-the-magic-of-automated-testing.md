@@ -1,6 +1,7 @@
 ---
 title: The Magic of Automated Testing
 layout: post
+tags: []
 ---
 Mike Bland has a [new presentation out on software quality](https://mike-bland.com/making-software-quality-visible):
 > We’ll discuss why internal software quality matters, why it’s often unappreciated and sacrificed, and what we can do to improve it. More to the point, we’ll discuss the importance of instilling a quality culture to promote the proper mindset first. Only on this foundation will seeking better processes, better tools, better metrics, or AI-generated test cases yield the outcomes we can live with.

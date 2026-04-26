@@ -1,6 +1,10 @@
 ---
 title: Urban League Heat Pump Accelerator Week 2
 layout: post
+tags:
+- Civic Tech
+- Product Review
+- Software
 ---
 Last week I asked project members to brainstorm tasks we might do over the course of the project, and last night Sean Sada (our project manager) and I onboarded folks onto our GitHub team and organization. Sean gave the team a great overview of how we are going to use GitHub Issues. I then worked with the backend team to show them Ruby on Rails and how we’re going to setup our Postgres database. Overall, a productive evening!
 

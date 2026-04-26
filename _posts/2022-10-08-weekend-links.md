@@ -1,6 +1,8 @@
 ---
 title: Weekend Links
 layout: post
+tags:
+- News
 ---
 * [In the Battle with Robots, Humans are Winning](https://www.nytimes.com/2022/10/07/opinion/machines-ai-employment.html?unlocked_article_code=o5JtE9PY_tP7go9c-qWjQ6ddYNxCWtmtnPPW2eyWuv3gnRaHcAPLslPsygpVH0JW3s19FXKiq1Wt9iKk0f-s1FVi0ymPVOy7pG7Feu9rVaXrYbeauJLdYB6yiIf9Z5txyZlNI9yo_FjLrNjycUP5dbqyhY10w-1KkNRQ_ZY-XCiE6S0Pwk4nUcph9utMfWD0sBMp70ZxMyune9b92Epk7rpVuVxWE1PLRMbWEu4rykkPyvQcN504ZqKNW3VDl1xDkmDByIMukDq_8xz7QL60T5soBbQENNuwN0KbKNDW1X6h5d2l-VMJIA0Uy15uSVbW3kKUHp4e2w9cKmreRU0saQ&smid=share-url) explores why we all still have jobs despite the fact technology has advanced so much. Turns out humans are pretty amazing.
 * [The Long Road to Driverless Trucks](https://www.nytimes.com/2022/09/28/business/driverless-trucks-highways.html?unlocked_article_code=4fVhOIh7Kipnf5WwLKY6FoWAaM55gsv0OuONEELstlKjaRXO2sYtVAe6E_uSt-Uf5PgLPJ9BA8NtfTCK4lrls07CKeLpcsu7pMM0c5sRPp_3VLCQZRt9yM6bybtz_ClSyur4NmaLJVamB30PMaPOhFjRsOmNYjtQJXJ9UOwLeu3CWka7ZD2f5Q9Zz7Sh08Re-TmAAdYlImfb2dLKSZl8i7QRFrceH4f4LF-SR3wHHN1sv9JhLo0Ixc2Zto2cbGQ2h9-JCnnuUnsdqHFbSyKqcvAQG8JIT-KRknxgAabVWVQf0NrrBPW_FYGfLFJVS0iKVcoJQRMh8majyzpd8X878Qp2CRMK&smid=share-url) asks how trucking will change and when driverless trucks will arrive. We still have a long way to get there. 

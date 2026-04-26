@@ -1,6 +1,7 @@
 ---
 title: The Fall of Cryptocurrencies
 layout: post
+tags: []
 ---
 Last week cryptocurrency exchange [FTX filed for bankruptcy](https://www.nytimes.com/2022/11/11/business/ftx-bankruptcy.html). As of yesterday there now [appears to be a bank run on Crypto.com, another exchange](https://thechainsaw.com/defi/crypto/mass-of-transactions-leaving-crypto-com-wallets/). This comes on the heels of a decline of cryptocurrency values.
 

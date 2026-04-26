@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Links on Big Data
-tags: 
-- Artificial Intelligence
-- Machine Learning
+tags:
+- AI
 - Data
 ---
 Rather than write out a long post today I wanted to link to a bunch of interesting data related developments:

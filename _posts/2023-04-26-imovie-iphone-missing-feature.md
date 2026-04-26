@@ -1,6 +1,9 @@
 ---
 title: iMovie on iPhone is Missing This One Key Feature
 layout: post
+tags:
+- Apple
+- Meta
 ---
 I wanted to take the video clips I had from TED last week and stitch them into a vertical video for sharing on social media. Trying to do this with iMovie was my first idea, but it was not a great one. It does not support vertical video. Just horizontal, and odd choice for a video editing app that sits on your phone.
 

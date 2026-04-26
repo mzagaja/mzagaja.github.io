@@ -1,7 +1,8 @@
 ---
 layout: post
 title: My Testimony Supporting House Joint Resolution No. 3 (Urging Congress to Overturn Citizens United)
-tags: []
+tags:
+- Campaigns & Politics
 ---
 <em>Below is the text of my remarks that I delivered in front of the Connecticut General Assembly's Government Administration &amp; Elections Committee hearing today.</em>
 

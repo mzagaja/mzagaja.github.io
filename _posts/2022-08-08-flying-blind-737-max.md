@@ -1,6 +1,8 @@
 ---
 title: Flying Blind — The Story of the 737 MAX
 layout: post
+tags:
+- Civic Tech
 ---
 Over vacation last week I finished reading [Flying Blind](https://amzn.to/3dgMcRa). Peter Robinson does a masterful job of taking the reader through the development of the plane and evolution of Boeing that brought us to this tragedy. When CEO Dennis Muilenberg joined Boeing as an intern it employed engineers that called themselves **The Incredibles** with a mandate to build the world’s best airplane. By the 2000s and development of 737 MAX the company had outsourced talent and cared more about avoiding more costs and requirements. They deployed armies of lobbyists to neuter the oversight of the Federal Aviation Administration. Their stubborn avoidance of procurement rules shackled them to old technology and eventually cost them more than had they started fresh. It also cost people their lives.
 

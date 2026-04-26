@@ -1,10 +1,8 @@
 ---
 layout: post
 title: The Importance of Culture
-tags: 
-- Politics
-- Organizing
-- Innovation
+tags:
+- Campaigns & Politics
 ---
 Besides being an attorney my background is mostly in information technology and political organizing. Involving myself in politics in Connecticut and Massachusetts has allowed me to see the difference in those cultures and even experience the variations among the various schools I worked with for College Democrats. It has surprised me how the different cultures of two different places impacts them, even if they operate under the same rules. I grew-up in a house where we had the Internet when I was young and as a "nerd" in high school I was comfortable being the one that brought my gadgets to class and forced the teachers to figure out the implications after the fact. 
 

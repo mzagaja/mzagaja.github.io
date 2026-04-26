@@ -2,6 +2,7 @@
 title: The Problem with Bad Web Content is Google
 layout: post
 excerpt_separator: <!--more-->
+tags: []
 ---
 [Wix CEO Avishai Abrahami on Decoder](https://www.theverge.com/23977985/wix-ceo-avishai-abrahami-generative-ai-web-google-search-interview):
 

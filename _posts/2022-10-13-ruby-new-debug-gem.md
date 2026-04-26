@@ -1,6 +1,8 @@
 ---
 title: The Magic of Ruby's New Debug Gem
 layout: post
+tags:
+- Software
 ---
 One of the best parts of updating to the latest version of the Ruby programming language is the new and improved [debug gem](https://github.com/ruby/debug). I find it easier to use than byebug and love that it utilizes syntax highlighting.
 

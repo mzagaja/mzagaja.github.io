@@ -1,6 +1,8 @@
 ---
 title: A Vision for Community Civic Technology
 layout: post
+tags:
+- Civic Tech
 ---
 With September comes rhythms of Autumn, falling leaves, pumpkin flavored coffee, and a return to school. At community civic tech groups like Code for Boston it ushers in one of the two large surges we have in attendance each year. Whether it’s driven by a desire to make new friends, give back, or learn skills a lot of people take the leap and join the community. Even if it accomplishes nothing else, fostering that community and connection is a worthy outcome that members across the country should take pride in.
 

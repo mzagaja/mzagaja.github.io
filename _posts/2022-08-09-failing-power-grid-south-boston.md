@@ -1,6 +1,7 @@
 ---
 title: The Failing Power Grid in South Boston
 layout: post
+tags: []
 ---
 Last night I got to enjoy two power outages in the middle of the night. This is after a more prolonged outage a few weeks ago. After that outage I sent the following e-mail to Councilor Ed Flynn:
 

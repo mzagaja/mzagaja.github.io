@@ -1,6 +1,9 @@
 ---
 title: Visual Studio Code is Still Buggy
 layout: post
+tags:
+- Product Review
+- Software
 ---
 Many years ago I was a [Sublime Text](https://www.sublimetext.com) user and looked at new text editors given Sublime had not been receiving updates. The [most popular editor](https://survey.stackoverflow.co/2023/#most-popular-technologies-new-collab-tools) these days is [Visual Studio Code](https://code.visualstudio.com). When I tried it in 2021 I could not use it because it would flicker on my 4K monitor when I scrolled. I suppose I should not have been shocked when it was still buggy in 2024.
 

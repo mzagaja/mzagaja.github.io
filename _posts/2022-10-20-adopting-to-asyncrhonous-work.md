@@ -1,6 +1,8 @@
 ---
 title: Adopting to Asynchronous Work
 layout: post
+tags:
+- Product Review
 ---
 In many workplaces coding is  an independent activity. You get a few tickets, spend most of your time hacking away at the problem, get review of your solution, and then deploy it. Communication is primarily reading and writing whether it is commit messages, documentation, or notes in Slack. Nobody is prodding or pressuring you to get anything done. You are expected to have your work complete at the bi-weekly check-in and have asked for assistance in the meantime if you need it.
 

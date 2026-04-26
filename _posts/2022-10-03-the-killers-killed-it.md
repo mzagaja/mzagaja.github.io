@@ -1,6 +1,7 @@
 ---
 title: The Killers Killed It Last Night
 layout: post
+tags: []
 ---
 The Killers played the TD Garden arena in Boston last night, and I loved every minute of it. The pyrotechnics and visuals were a great complement to the superb energy the band brought to the stage. This was one of the best concerts I have been to.
 

@@ -1,6 +1,7 @@
 ---
 title: Kagi is the First Good Alternative to Google
 layout: post
+tags: []
 ---
 A friend recommended I try [Kagi](https://kagi.com) and I am impressed. I have previously tried search engines like Bing and DuckDuckGo and have found them lacking. I have always returned to Google. I am not feeling the same pull with Kagi.
 

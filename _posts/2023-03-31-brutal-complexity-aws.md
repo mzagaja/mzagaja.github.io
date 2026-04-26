@@ -1,6 +1,8 @@
 ---
 title: The Brutal Complexity of AWS
 layout: post
+tags:
+- Civic Tech
 ---
 Like many folks we use Amazon Web Services (AWS) at Code for Boston for our projects. AWS is a powerful platform with lots of products that can meet almost any need you have for cloud. The downside to this is operations that seem simple can become confusing.
 

@@ -1,6 +1,8 @@
 ---
 title: Your Civic Tech Project Needs These Three Things
 layout: post
+tags:
+- Civic Tech
 ---
 I have worked on both government and volunteer [Civic Tech](https://medium.com/@CivicWhitaker/what-is-civic-tech-b61a58c3eba8) projects. All the successful ones have these three things going for them:
 * Strategy

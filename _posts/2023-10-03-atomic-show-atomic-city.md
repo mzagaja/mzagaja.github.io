@@ -1,6 +1,8 @@
 ---
 title: An Atomic Show in Atomic City
 layout: post
+tags:
+- Meta
 ---
 I am back from Las Vegas, Atomic City, where U2 infused [a previously forgettable single](https://music.apple.com/us/album/atomic-city/1709037819?i=1709037820) with soul. If you listen to Atomic City it has echoes of Elvis’s Viva Las Vegas which was on the playlist at the Sphere before U2, with stand-in drummer Bram Van Der Berg, took the stage. The Sphere itself is an astonishing venue with a huge flaw, but U2 delivered an Atomic show that blew up on social media.
 

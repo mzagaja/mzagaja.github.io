@@ -1,10 +1,7 @@
 ---
 layout: post
 title: 'Hartford''s Spotlight Theater: Affordable and Hip'
-tags:
-- hartford
-- spotlight
-- movie theater
+tags: []
 ---
 A few weeks ago the <a href="http://www.spotlighttheatres.com/find_us_frontstreet.php">Spotlight Movie Theater</a> opened as the first tenant in the new Front Street development in Hartford. After all the buzz surrounding its opening I decided to visit it with a friend.  We went to see The Hobbit on Thursday night, and I was impressed.
 

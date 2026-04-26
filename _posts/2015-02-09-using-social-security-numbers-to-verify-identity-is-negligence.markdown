@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Using Social Security Numbers to Verify Identity is Negligence
-tags: 
+tags:
 - Data
-- Anthem
 - Security
 ---
 [Bruce Schneier on identity theft in 2005](https://www.schneier.com/blog/archives/2005/04/mitigating_iden.html):

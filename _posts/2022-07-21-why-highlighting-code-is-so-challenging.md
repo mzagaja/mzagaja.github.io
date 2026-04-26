@@ -1,6 +1,8 @@
 ---
 title: Why Highlighting Your Code is So Challenging
 layout: post
+tags:
+- Software
 ---
 One of the biggest improvements to working with code is switching to tools that use syntax highlighting. By giving different colors to parts of the code based on whether it’s a variable, class, method, etc. it becomes dramatically easier to read and understand. As a coder it is worth finding and switching to tools that do syntax highlighting. For the command line I like to replace cat with [bat](https://github.com/sharkdp/bat). Despite the clear value of this, many tools lack highlighting. Yesterday I found a post from Logan at [Panic](https://nova.app) as to [why it is so challenging to implement syntax highlighting in an app](https://devforum.nova.app/t/feedback-wanted-on-parsers-grammars-other-such-things/1592).
 

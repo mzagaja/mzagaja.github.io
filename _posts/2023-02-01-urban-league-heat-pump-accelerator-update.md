@@ -1,6 +1,9 @@
 ---
 title: Urban League Heat Pump Accelerator Update
 layout: post
+tags:
+- Civic Tech
+- Software
 ---
 The [Urban League Heat Pump Accelerator project](https://www.codeforboston.org/projects/) has grown in the new year. Last night we had nearly thirty people participating in our project. This includes a stable of dedicated regulars that have been pushing the different project groups forward: data, front-end, back-end, and now marketing. With that momentum we are hoping to ship our project in the next month or two.
 

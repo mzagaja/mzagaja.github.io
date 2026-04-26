@@ -1,6 +1,8 @@
 ---
 title: Is No and Low Code Ruining the Software Engineering Talent Pipeline?
 layout: post
+tags:
+- Software
 ---
 Low and no code tools are being [developed and marketed as a solution to allow non-technical users to build applications](https://a16z.com/2021/08/18/investing-in-stacker/). Given how expensive and challenging to hire software engineers are, this seems like it should be a boon to organizations looking to wield the power of software without hiring coders. The reality is many of these tools are only able to replace basic software engineering projects, while the needs of their users grow. Basic web applications that used to built in Rails by entry level software developers are now AirTable apps or Tableau charts. The jobs for these basic apps disappear, but when organizations need more customization they are stuck hiring more expensive senior software engineers. The result is a software talent pipeline that is getting choked off at the entry level.
 

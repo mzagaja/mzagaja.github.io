@@ -1,6 +1,8 @@
 ---
 title: Why Software Breaks So Much
 layout: post
+tags:
+- Software
 ---
 Software engineering is a profession in crises. There is a persistent shortage of folks that can code. People typically enter the field in three ways: they go to a [bootcamp](https://generalassemb.ly), [learn on their own](https://www.railstutorial.org), or major in computer science in college. This only gives them the entry level knowledge they need to build applications. Skills beyond that are left to employers to impart, and many of them do not. We have focused so much on getting folks to enter software engineering but in many places lack infrastructure to help folks get good at it once they are there.
 

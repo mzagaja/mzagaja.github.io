@@ -1,6 +1,7 @@
 ---
 title: Why Automation Fails
 layout: post
+tags: []
 ---
 I have been working my way through the show [Superstore](https://blog.joinmastodon.org/2023/05/a-new-onboarding-experience-on-mastodon/) and was amused to see the episode where the employees were going to lose their jobs to hand scanners given to consumers. Despite warnings from experts that robots will steal jobs, retail remains stubbornly resistant to automation.
 

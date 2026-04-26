@@ -1,6 +1,7 @@
 ---
 title: The Cost of Legacy Web Applications
 layout: post
+tags: []
 ---
 A common scenario I see in web application development goes like this:
 1. A developer is presented with an existing web application and is asked to add a new feature.

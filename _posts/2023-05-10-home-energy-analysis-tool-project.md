@@ -1,6 +1,8 @@
 ---
 title: Launching the Home Energy Analysis Tool Project
 layout: post
+tags:
+- Civic Tech
 ---
 Next Tuesday, May 16th, [Code for Boston](https://www.codeforboston.org) is kicking off the [Home Energy Analysis Tool (HEAT) project](https://forms.gle/h3qZ6b1Ced7AAX1MA). In partnership with the [Heat Smart Alliance](https://heatsmartalliance.org) volunteers on this project will take an Excel calculation tool used by their Heat Pump Coaches and turn it into a web application.
 

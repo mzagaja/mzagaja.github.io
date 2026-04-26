@@ -1,6 +1,8 @@
 ---
 title: Still Years Away from Metaverse
 layout: post
+tags:
+- Meta
 ---
 Yesterday Facebook [unveiled their $1500 Meta Quest Pro headset](https://www.wsj.com/articles/meta-quest-pro-a-1-500-virtual-reality-headset-for-working-in-the-metaverse-11665507778). This mixed reality headset is expensive, has limited battery life, but improves upon the Meta Quest headset and allows you to incorporate Metaverse into your existing space. It sounds fun to try, but we’re still years away from the comfortable headset that the Metaverse needs.
 

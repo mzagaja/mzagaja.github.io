@@ -2,7 +2,7 @@
 layout: post
 title: The Most Important Civic Tech Product is an Effective Team
 tags:
-  - Civic Tech
+- Civic Tech
 ---
 Imagine walking into a restaurant. You sit down, place your order, and wait for food to show up. It does not arrive. You do not see your waiter again. Frustrated you find your waiter and ask what is going on. You re-iterate your order, go back to your table and wait. Your food does not show. You walk back to the kitchen and ask the chefs whether they got your order, and they say no and sorry. You share your order with the chefs, and not trusting the restaurant anymore you offer to wash dishes while you wait. Under your watchful eye your meal is cooked, but the waiter never returns. You take the plates with your food and return to your table.
 

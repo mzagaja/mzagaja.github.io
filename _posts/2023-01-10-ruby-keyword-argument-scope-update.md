@@ -1,6 +1,8 @@
 ---
 title: One Scope Issue with Ruby 2 and 3 Keyword Argument Updates
 layout: post
+tags:
+- Software
 ---
 The other day we had an issue with scope when migrating from the Ruby 2 to Ruby 3 syntax for hash arguments. Previously we had something like:
 

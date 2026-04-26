@@ -1,6 +1,8 @@
 ---
 title: Why Tech Layoffs Feel Like a Virus
 layout: post
+tags:
+- Meta
 ---
 On Friday Google became the [latest tech company to cut its workforce](https://www.cnbc.com/2023/01/21/google-employees-scramble-for-answers-after-layoffs-hit-long-tenured.html). 12,000 people, nearly 6% of the Google workforce, were mercilessly cut off from their corporate accounts with a brief email informing them of their termination. LinkedIn has the vibe of attending a wake.
 

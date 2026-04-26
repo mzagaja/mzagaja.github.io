@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Chrome Enterprise is the Security Industry’s Latest Fraudware
+tags:
+- Security
 ---
 After losing its antitrust case in federal court this week Google is throwing money at a tech sector that is immune to facts and scrutiny: cybersecurity. On today’s The Daily they advertised [Chrome Enterprise](https://chromeenterprise.google), a version of Chrome for business customers designed to be secure, because apparently the regular Chrome they ship for consumers is not. For $6 per user per month you can tell your boss that you have paid for security for your enterprise users and pretend to be smarter than the dolts that just downloaded the regular free version of Chrome.
 

@@ -1,6 +1,8 @@
 ---
 title: Visible is Verizon’s Prepaid Plan You Never Heard Of
 layout: post
+tags:
+- Apple
 ---
 With the release of the iPhone 15 I spent last night reviewing the current carrier deals for a good deal. My wife and I have been thinking of making a switch, and the release of the new iPhone is usually a good time to take advantage of promotions.
 

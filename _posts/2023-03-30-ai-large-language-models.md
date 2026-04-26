@@ -1,6 +1,9 @@
 ---
 title: The Promise and Limits of AI Large Language Models
 layout: post
+tags:
+- AI
+- Software
 ---
 We have all had the opportunity to try [ChatGPT](https://chat.openai.com/auth/login) and its competitors Bing and Bard. Spooked by their progress Elon Musk and a group of folks released a letter imploring OpenAI to [halt development of artificial intelligence more powerful than GPT-4](https://futureoflife.org/open-letter/pause-giant-ai-experiments/).  I am more skeptical, but still optimistic on the promise of AI and LLMs.
 

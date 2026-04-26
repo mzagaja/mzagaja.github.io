@@ -1,6 +1,7 @@
 ---
 title: Paprika is my Favorite Recipe App
 layout: post
+tags: []
 ---
 Keeping track of recipes you use and like can be annoying. Especially when they come from different sources. [Paprika](https://www.paprikaapp.com) simplifies this is a delightful way. I have been using it for a couple years on my iPhone, and cannot imagine cooking dinner without it.
 

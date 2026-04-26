@@ -1,6 +1,9 @@
 ---
 title: The Secret to Bootstrap’s Success
 layout: post
+tags:
+- News
+- Software
 ---
 [Clive Thompson writing on Medium](https://betterprogramming.pub/the-awesome-power-of-well-documented-code-cadf42e07be3?sk=6a73dd59227af6777ff92ff60e0333c8):
 > Many software developers are terrible at this. To be fair, most everyone is bad at it; hell, I know full-time journalists who fail at this task all the time.

@@ -1,6 +1,8 @@
 ---
 title: How Big of an Upgrade is iPhone 15, Really?
 layout: post
+tags:
+- Apple
 ---
 The “hard” part of Apple’s new phone release is deciding whether it is worth upgrading. The reality is for many folks phone technology has plateaued. Much of the innovation Apple unpacks every year is not released to the experience of the phone itself, but rather its camera. Since iPhone X unveiled the two camera system, iPhone has had a great camera for a long time. This leaves upgrades appealing mostly to enthusiasts.
 

@@ -1,6 +1,8 @@
 ---
 title: On Threads
 layout: post
+tags:
+- Meta
 ---
 Yesterday like millions of people I [made an account on Threads](https://www.threads.net/@mzagaja). Meta cunningly developed a simpler alternative to twitter, leveraging the hipper Instagram brand. Despite concerns about privacy and [the eye popping large amount of data it collects](https://www.wired.com/story/meta-twitter-threads-bluesky-spill-hive-mastodon-privacy-comparison/), Threads seems to have won the hearts of the public. It managed to [take Mastodon’s rapid ascent and grind it to a halt](https://mastodon.social/@mastodonusercount/110672453628734793).
 

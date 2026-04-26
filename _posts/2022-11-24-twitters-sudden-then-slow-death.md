@@ -1,6 +1,8 @@
 ---
 title: Twitters Sudden and Then Slow Death
 layout: post
+tags:
+- Meta
 ---
 In anticipation of the collapse of twitter I re-started my daily blogging habit. I fortified my [RSS reader](https://netnewswire.com) with feeds from my favorite sources. I write here mostly for myself, but am thankful for all the readers of this little corner of the Internet.
 

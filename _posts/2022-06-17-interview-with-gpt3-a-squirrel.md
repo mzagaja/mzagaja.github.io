@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Interview with GPT-3, Who is Secretly a Squirrel
+tags:
+- AI
 ---
 From [AI Weirdness](https://www.aiweirdness.com/interview-with-a-squirrel/):
 > Reporter: What do you say to people who doubt that you are a squirrel?

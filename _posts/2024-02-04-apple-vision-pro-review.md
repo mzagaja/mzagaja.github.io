@@ -2,6 +2,9 @@
 title: The Apple Vision Pro Review
 layout: post
 excerpt_separator: <!--more-->
+tags:
+- Apple
+- Product Review
 ---
 You do not need to buy Apple Vision Pro. At [$3499 plus taxes](https://www.apple.com/shop/buy-vision/apple-vision-pro) before you purchase accessories and add on the aggressive $499 warranty, it is the most expensive headset on the market. Plenty of less expensive options exist: Meta’s Quest 3 and [Quest Pro](https://www.meta.com/quest/quest-pro/), [Playstation VR](https://www.playstation.com/en-us/ps-vr/), HTC Vive. Despite Apple’s aggressive marketing campaign this is a first generation device for enthusiasts, not a mass market hit.
 

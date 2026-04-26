@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Algebra of Wealth
+tags: []
 ---
 I just finished reading Scott Galloway’s [The Algebra of Wealth](https://www.amazon.com/Algebra-Wealth-Formula-Financial-Security/dp/0593714024). Galloway provides a well written tour of basic financial concepts for folks that might not be familiar with how to save, invest, and make choices about their careers. For folks like me who have their finances under control the content can feel like review, but Galloway has a gift for writing in an enjoyable and accessible manner. This is a great gift for a recent college graduate.
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Senate and Vice-Presidential Debate Post-Mortem
-tags: []
+tags:
+- Campaigns & Politics
 ---
 Tonight Connecticut was treated to two debates. I think debates are important events because it gives the media the opportunity to ask questions to the candidates in an unscripted environment and the viewers can see the contrasts between them. However it is important for the media to spend effort preparing for the debate and set the agenda in a way that viewers can learn and gain new insights into the candidates. Candidates have the opposite goal: they want to make sure to reinforce their core message no matter what question is asked.
 

@@ -1,6 +1,7 @@
 ---
 title: How DoorDash is Destroying the Environment
 layout: post
+tags: []
 ---
 In December the Metropolitan Area Planning Council (my previous employer) [released a study on the impact of food delivery apps like DoorDash](https://www.mapc.org/wp-content/uploads/2022/12/Rapid-Food-Deliveries-Report.pdf). Using publicly available data they showed how rapid growth of food deliveries is destroying our environment and clogging our streets with traffic.
 

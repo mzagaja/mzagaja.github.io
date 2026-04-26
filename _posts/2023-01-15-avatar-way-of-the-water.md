@@ -1,6 +1,8 @@
 ---
 title: The Avatar Way of the Water Review
 layout: post
+tags:
+- Product Review
 ---
 Yesterday I spent nearly three and a half hours in an IMAX movie theater with a good chunk of Boston to experience James Cameron’s latest Avatar movie. Many years after the original film I had little memory of the characters or plot line, but my trips to Disney World last year helped me have some context for the new movie. The good news is you do not need a history lesson to enjoy the symphony of special effects that you are sitting down to enjoy. Way of the Water is a movie designed to tickle your retinas, not your brain. 
 

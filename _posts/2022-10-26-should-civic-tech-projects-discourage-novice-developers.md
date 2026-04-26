@@ -1,6 +1,8 @@
 ---
 title: Should Civic Tech Projects Discourage Novice Developers?
 layout: post
+tags:
+- Civic Tech
 ---
 At Code for Boston we used to say we’re not a good place to learn to code, but we can be a good place to go from having done a bootcamp to coding on a team. This worked well for a long time, but no longer seems to.
 * Bootcamps have reduced or even eliminated backend development from their curriculums.

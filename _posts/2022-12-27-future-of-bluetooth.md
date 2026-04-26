@@ -1,6 +1,8 @@
 ---
 title: The Future of Bluetooth
 layout: post
+tags:
+- Apple
 ---
 [The Vergecast Bluetooth Holiday Spectacular](https://www.theverge.com/23519474/podcast-vergecast-bluetooth-holiday-spectacular) was nerdy but had an interesting interview with the former Executive Director of the Bluetooth Special Interest Group. He provided context around how the bluetooth standard develops and what might come in the future.
 

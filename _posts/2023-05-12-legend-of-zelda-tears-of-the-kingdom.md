@@ -1,6 +1,7 @@
 ---
 title: Legend of Zelda Tears of the Kingdom Launch Day
 layout: post
+tags: []
 ---
 At midnight Nintendo officially launched [The Legend of Zelda Tears of the Kingdom](https://zelda.com/tears-of-the-kingdom/).
 

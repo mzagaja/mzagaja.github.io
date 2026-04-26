@@ -2,6 +2,9 @@
 title: Is Your Organization Ready to Build Software?
 layout: post
 excerpt_separator: <!--more-->
+tags:
+- Civic Tech
+- Software
 ---
 Yesterday Waldo Jaquith [wrote an insightful post about what federal agencies need to do before hiring an agile vendor](https://waldo.jaquith.org/blog/2023/03/before-agile-vendor/). It warns:
 > You don’t want to do all of the hard work of procuring a top-notch scrum team only to send them face-first into a brick wall of bureaucracy. You’ll lose all of the momentum, lose the best members of the team, waste $40,000/week, and when the project finally starts it will be with a demoralized team.

@@ -1,6 +1,8 @@
 ---
 title: Weekend Links
 layout: post
+tags:
+- News
 ---
 - [Dow Said it was Recycling Shoes. We Found Them at an Indonesian Flea Market.](https://www.reuters.com/investigates/special-report/global-plastic-dow-shoes/) Clever reporting and investigation by Reuters here.
 - [The Devise Gem for Ruby is looking for maintainers to help with adding Passkey support](https://github.com/heartcombo/devise/issues/5527#issuecomment-1460577056). This would be a huge win for Rails developers wanting to make easier and more secure logins using [this new technology](https://developer.apple.com/wwdc22/10092).

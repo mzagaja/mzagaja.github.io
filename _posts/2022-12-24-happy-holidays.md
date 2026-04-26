@@ -2,6 +2,9 @@
 title: Happy Holidays!
 layout: post
 excerpt_separator: <!--more-->
+tags:
+- Civic Tech
+- News
 ---
 The blog will be off tomorrow for the Christmas holiday. We will be returning briefly on Monday and Tuesday, with a break Wednesday through Friday. I still have weekend links for you today…
 

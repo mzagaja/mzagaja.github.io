@@ -1,6 +1,7 @@
 ---
 title: Facial Recognition at Logan Airport
 layout: post
+tags: []
 ---
 [The Associated Press reports that the TSA is testing facial recognition at Logan Airport’s Terminal A](https://apnews.com/article/facial-recognition-airport-screening-tsa-d8b6397c02afe16602c8d34409d1451f). Instead of handing your identification to a TSA worker you will place it on a kiosk and it will use a camera to compare the photo on your ID with your photo taken from a camera. They are not yet storing photos so you do not have to take your ID out, but that may be coming soon.
 

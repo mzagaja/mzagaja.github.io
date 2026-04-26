@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Aetna CEO Mark Bertolini Manages with Data
-tags: 
-- Aetna
-- Mark Bertolini
+tags:
 - Data
 ---
 From [The New York Times](http://www.nytimes.com/2015/03/01/business/at-aetna-a-ceos-management-by-mantra.html):

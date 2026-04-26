@@ -1,6 +1,8 @@
 ---
 title: Why Software Engineers are Passionate About Accessibility
 layout: post
+tags:
+- Software
 ---
 Among all the software companies Apple has done a lot to improve the accessibility of computer systems. By accessibility I typically mean the ability of the computer to use a screen reader or other adaptive features to present an interface to humans. As complexity of web technologies has exploded, the compatibility of the resulting products with screen readers has declined, leading to a large group of folks rightfully asking “WTF?”
 

@@ -1,6 +1,9 @@
 ---
 title: Urban League Heat Pump Accelerator Week One
 layout: post
+tags:
+- Civic Tech
+- Data
 ---
 We launched the Urban League Heat Pump Accelerator project at [Code for Boston](https://www.codeforboston.org) last night with about twenty people showing up to volunteer! If you want to get involved we now have five groups, described below you can pick from to join. In order for any of the links to Slack channels below to work for you, you will need to [join the Code for Boston Slack Team](https://communityinviter.com/apps/cfb-public/default-badge).
 

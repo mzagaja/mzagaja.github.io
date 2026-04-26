@@ -1,6 +1,8 @@
 ---
 title: Is Warp the terminal of the future?
 layout: post
+tags:
+- Civic Tech
 ---
 If you use a Mac you are probably familiar with [iTerm2](https://iterm2.com), the slightly better alternative to the included Terminal app. A few months ago I discovered [Warp](https://www.warp.dev/) which is a fresh new entry into this space. 
 

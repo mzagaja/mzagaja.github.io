@@ -1,6 +1,8 @@
 ---
 title: An Open Source Game Controller
 layout: post
+tags:
+- Software
 ---
 A small company called [Input Labs](https://inputlabs.io/about) in Finland has developed an [interesting open source game controller](https://www.youtube.com/watch?v=XMH92SyrQoo). Instead of the typical create a product and manufacture it route, they built out the schematics and compiled links to places you can order the parts. It is up to you to assemble it all and install the software.
 

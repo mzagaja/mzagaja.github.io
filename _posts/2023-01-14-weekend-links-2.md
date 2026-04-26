@@ -1,6 +1,9 @@
 ---
 title: Weekend Links
 layout: post
+tags:
+- Meta
+- News
 ---
 - [How a Doctor Cares for Boston’s Homeless](https://www.nytimes.com/2023/01/05/magazine/boston-homeless-dr-jim-oconnell.html?unlocked_article_code=5Tv9iVeVOVD-H2ZpmdMhRGqwfghaHkjRsvTSNf0WLttYgxuhTuA6MQ6xfNcgtJVgQdEvq0WjgDetDHE3jo6ZZx2bSw0sngcFbFxNuvDWaT8xji8JE3ohmpOsPPSGZ10YqqcmB0aJinxMAUwe4C1pAFI6a3IQueYbSULC8niGebYhxfx9P35omNeL2kMzWyv3-Yc4fHpgBbHc6wnHqYlSDbtlKgC5mdVT13EfmXnMTJz1kaXXycamXZHOH-obTLEJ6hsoUdofj4cjVGY05s_3VmNOiil39amQGHbCrm6UC6A34nyqKRmjCjsX4zzgf8uj0aUYhGegXPoDadbLrWzRm2AFvK-0yixbHd0&smid=share-url) was an interesting long read from the New York Times. Do not miss this one if you live in Boston, or are a nurse.
 - [Facebook Wanted Out of Politics](https://apple.news/AHXHk3M1XQLa5a7mGPBY9BA). I had long been using Facebook as a news reader and sharing platform, so once they stopped promoting news and political content my usage dropped off.

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Alexandria Ocasio-Cortez’s Use of Instagram
+tags:
+- Meta
 ---
 An interesting analysis from An Xiao Mina in an [article on Fast Company](https://www.fastcompany.com/90259343/trump-has-twitter-alexandria-ocasio-cortez-is-winning-instagram):
 

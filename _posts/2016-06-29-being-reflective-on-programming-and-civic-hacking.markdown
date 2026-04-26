@@ -2,8 +2,9 @@
 layout: post
 title: Being Reflective on Programming and Civic Hacking
 tags:
+- Civic Tech
 - Meta
-- Blog Updates
+- Software
 ---
 One of the lessons that I am learning from the other fellows at the Berkman Center for Internet and Society is that in addition to spending time learning it is also important to be reflective. People like [Nathan Matias](https://civic.mit.edu/users/natematias) and [Jason Griffey](http://jasongriffey.net/wp/) do a great job of documenting their work on their blogs. I like the style they both use and I will endeavor to emulate it, but also sprinkle in my own personality.
 

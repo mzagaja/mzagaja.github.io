@@ -1,6 +1,8 @@
 ---
 title: Rubocop Panic Nova Extension
 layout: post
+tags:
+- Product Review
 ---
 The other day I released [v1.2](https://github.com/mzagaja/Rubocop.novaextension/releases/tag/v1.2) of the Rubocop extension I wrote for my text editor, [Panic Nova](https://nova.app).
 

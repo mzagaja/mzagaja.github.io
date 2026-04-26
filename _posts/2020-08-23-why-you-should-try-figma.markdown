@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Why You Should Try Figma
-tags:
-  - Tech Tip
+tags: []
 ---
 
 On Friday someone recommended I try [Figma](https://www.figma.com) for a work project. Figma is an application prototyping and design tool. Before software developers code an application together Figma allows designers to experiment with and test different designs. It also provides tools to translate those designs into code. If you are designing an application you should consider a design tool, and if you do not have a favorite yet you should try Figma.

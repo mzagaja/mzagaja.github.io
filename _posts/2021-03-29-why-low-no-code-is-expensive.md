@@ -2,7 +2,7 @@
 layout: post
 title: Why Low and No Code is Expensive
 tags:
-  - Software
+- Software
 ---
 Lately no and low code solutions have grown in popularity. These software packages take work traditionally performed by writing software code and enable it to happen in graphical user interfaces that are accessible to more users. This can eliminate the need to learn to code to get tasks done, but come with their own costs and trade-offs. No code might seem like a bargain at first, but often turns out to be a bad deal.
 

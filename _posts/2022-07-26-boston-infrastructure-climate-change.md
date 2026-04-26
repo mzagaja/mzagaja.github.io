@@ -1,6 +1,7 @@
 ---
 title: Boston’s Infrastructure is Crumbling from Climate Change
 layout: post
+tags: []
 ---
 Ed Flynn via [Caught in Southie](https://caughtinsouthie.com/news-politics/nothing-like-losing-power-during-on-the-hottest-day-of-the-year/):
 > I talked with Eversource executive about the power outages in City Point (and other areas in South Boston). Equipment is stressed and overheated due to extreme heat and length of this historic wave, with ACs cranked high to stay cool. The work crews  continue to work to repair damage to the system and restore power as quickly as possible.  I will continue to communicate with Eversource.  Please check on our South Boston seniors and persons with disabilities. If anyone needs to reach me for assistance, please let me know.

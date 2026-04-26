@@ -1,6 +1,7 @@
 ---
 title: The Qualities of Great Design
 layout: post
+tags: []
 ---
 WWDC 2018 had a worthwhile [session on the qualities of great design](https://developer.apple.com/wwdc18/801). Apple Design Evangelist Lauren Strehlow interviews several software designers to learn from them what good design is.
 

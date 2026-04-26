@@ -1,6 +1,8 @@
 ---
 title: Increase Retention by Hiring Software Engineers in Cohorts
 layout: post
+tags:
+- Software
 ---
 If you are leading a non-technical organization and want to hire software engineers, one of the best things you can do is hire two or three at once.
 

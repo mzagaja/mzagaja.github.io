@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Code for America Summit 2018
+tags:
+- Civic Tech
+- Software
 ---
 Much of the break in blogging for the past week has been the result of spending the latter part of last week at Code for America Summit in Oakland, CA. I traveled to California on Wednesday with co-workers from my group at MAPC and friends from Code for Boston. It was great to see many facets of Boston’s civic technology ecosystem represented in the talks and sessions. Conferences are important both for taking time to meet and learn from peers, and to take time to be reflective. I was lucky to experience both.
 

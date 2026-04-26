@@ -1,6 +1,7 @@
 ---
 title: Streaming Apps Need a Makeover
 layout: post
+tags: []
 ---
 Yesterday I read this article about [the most streamed shows according to Nielsen](https://apple.news/ARL-R8GUCSo2KaLlNpZusUw). While it was not a surprise that Stranger Things sat at the top, there was something…strange…about the shows that followed:
 * NCIS

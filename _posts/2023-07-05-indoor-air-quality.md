@@ -1,6 +1,7 @@
 ---
 title: Indoor Air Quality is Awful After Cooking
 layout: post
+tags: []
 ---
 With the arrival of smoke from the Canadian wildfires I picked up an automatic air purifier. Its sensor will speed up when air quality is bad, and boy does it pick it up when I am cooking.
 

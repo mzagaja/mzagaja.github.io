@@ -2,9 +2,7 @@
 layout: post
 title: 'White House Correspondents'' Dinner a.k.a #nerdprom'
 tags:
-- barack obama
-- jimmy kimmel
-- white house correspondents' dinner
+- Campaigns & Politics
 ---
 <iframe src="http://www.youtube.com/embed/6IoVSbjmTZs" frameborder="0" width="560" height="315"></iframe>
 

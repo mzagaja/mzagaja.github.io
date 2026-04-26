@@ -1,6 +1,7 @@
 ---
 title: RubyConf Mini Day 1
 layout: post
+tags: []
 ---
 I am at RubyConf Mini and it has been a good learning experience. John Hawthorne gave a master class on optimizing something in the Ruby programming language in [his presentation on making is_a? fast](https://www.rubyconfmini.com/program#Making-.is_a?-Fast). [Stephanie Minn taught us how to pair program with non-violent communication](https://www.rubyconfmini.com/program#Empathetic-Pair-Programming-with-Nonviolent-Communication). Finally [Brown Professor Barbara Tannenbaum](https://www.brown.edu/academics/theatre-arts-performance-studies/barbara-tannenbaum) gave us a crash course in effective communication.
 

@@ -1,6 +1,8 @@
 ---
 title: Boston Does Not Work if the MBTA Does Not Work
 layout: post
+tags:
+- Meta
 ---
 From the [Boston Globe (paywall)](https://apps.bostonglobe.com/metro/graphics/2022/12/mbta/boston-recovery-stymied-mbta/):
 > For commuters, that’s meant chaos and anxiety. And lost wages, late fees at day care, and rage-inducing commutes in the car. It means the stress and uncertainty of not knowing whether you will make it to your meeting on time, or how long your kid needs to get to school. It undermines the investment in jobs and housing built to be close to the trains.

@@ -1,6 +1,8 @@
 ---
 title: Weekend Links
 layout: post
+tags:
+- News
 ---
 - Disney Research published an [interesting paper](https://studios.disneyresearch.com/app/uploads/2022/10/Production-Ready-Face-Re-Aging-for-Visual-Effects.pdf) on using AI to reduce age as a visual effect.
 - U2 is [being honored by the Kennedy Center](https://www.washingtonpost.com/arts-entertainment/2022/11/28/u2-kennedy-center-honors/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9). Surprised to learn they already have an album made.

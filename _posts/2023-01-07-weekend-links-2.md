@@ -2,6 +2,8 @@
 title: Weekend Links
 layout: post
 excerpt_separator: <!--more-->
+tags:
+- News
 ---
 - [Why Ruby has Symbols](https://dmitrytsepelev.dev/why-has-ruby-symbols) was a helpful explanation of this often used but sometimes mysterious Ruby feature.
 - Bill McKibbon did a [great job of outlining what has to happen to win the fight against climate change in the New Yorker](https://www.newyorker.com/news/daily-comment/from-climate-exhortation-to-climate-execution/amp). We’re going to need a lot of electricians.

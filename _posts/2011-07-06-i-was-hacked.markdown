@@ -1,7 +1,9 @@
 ---
 layout: post
 title: I Was Hacked!
-tags: []
+tags:
+- Meta
+- Security
 ---
 I still cannot figure out how it happened but somehow my twitter account was hacked and tweeted a single spam tweet. For this sin I lost about ten followers and was the target of the inevitable witticisms. Well just one:
 

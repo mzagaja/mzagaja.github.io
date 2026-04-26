@@ -1,6 +1,7 @@
 ---
 title: The End of the Tech Job Bubble
 layout: post
+tags: []
 ---
 2012 to 2023 was a decade of massive growth for technology companies. Fueled by low interest rates, aggressive venture capital investments, and a massive surge in pandemic related technology expenditures, there was no limit for the demand for software engineers and adjacent roles. Flush with cash companies did not have to be picky: low performers and folks without productive work could coast on payroll until a use for them arrived. Major layoffs arrived to the industry over a year ago, and now it is easier than ever to find entry to intermediate level software talent.
 

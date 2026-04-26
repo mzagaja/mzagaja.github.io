@@ -1,6 +1,7 @@
 ---
 title: We Cannot Change the Cards We are Dealt, Just How We Play the Hand
 layout: post
+tags: []
 ---
 Years ago the late Dr. Randy Pausch, a professor of Computer Science at Carnegie Mellon, had his “Last Lecture” [posted to YouTube](https://www.youtube.com/watch?v=ji5_MqicxSo). It went viral and is filled with loads of great advice that I still think about today.
 

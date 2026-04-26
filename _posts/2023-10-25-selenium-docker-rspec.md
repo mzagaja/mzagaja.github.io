@@ -1,6 +1,9 @@
 ---
 title: Use Selenium with Docker and RSpec
 layout: post
+tags:
+- AI
+- Software
 ---
 This is a technical post, meant to share knowledge from my adventures on a work project yesterday. The combination of using an [official Docker selenium Chrome image](https://hub.docker.com/r/selenium/standalone-chrome) and [Rails system tests](https://guides.rubyonrails.org/testing.html#changing-the-default-settings) is not well documented if you use RSpec. My contribution is below the fold.
 

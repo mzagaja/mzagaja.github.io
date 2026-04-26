@@ -2,7 +2,8 @@
 layout: post
 title: How Apple Does Civic Tech
 tags:
-  - Civic Tech
+- Apple
+- Civic Tech
 ---
 On June 7th, 2021 Apple announced at WWDC that they would provide a mobile driver’s license on the iPhone. As a former government employee and citizen I was a bit surprised that the motor vehicle departments across the United States were able to execute on this without anyone knowing. I wanted to learn more, so did what any good government reporter would do: file public records requests. With help from Mike Morisy at [MuckRock](https://www.muckrock.com) I filed public records requests with twenty five states (every one that had an accessible motor vehicle or licensing department in the MuckRock database) and waited to see what I got back. In response I got a window into Apple’s approach to building a government standard.
 

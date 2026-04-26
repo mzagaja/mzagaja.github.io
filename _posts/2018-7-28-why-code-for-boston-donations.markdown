@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Why Code for America and Code for Boston Take Donations
+tags:
+- Civic Tech
+- Software
 ---
 Yesterday someone asked me why [Code for America](https://www.codeforamerica.org) was soliciting for donations via email. The answer ends up being mundane: Code for America is a non profit so they run entirely on donations. Some are from big donors and tech companies but some also come from smaller donors. Folks can [donate to Code for America and earmark it to Code for Boston](https://www.codeforamerica.org/donate) and that’s how we pay for pizza, events, etc. 
 

@@ -1,10 +1,7 @@
 ---
 layout: post
 title: Warren Buffet's Annual Letter
-tags: 
-- Warren Buffet
-- Annual Letter
-- Berkshie Hathaway
+tags: []
 ---
 [Berkshire Hathaway's annual letter](http://www.berkshirehathaway.com/letters/2014ltr.pdf) is always an interesting read. Buffett is a talented writer and is able to articulate complex ideas with fun metaphors. Some interesting nuggets of wisdom that stuck out:
 

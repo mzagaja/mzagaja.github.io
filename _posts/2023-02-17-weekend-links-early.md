@@ -2,6 +2,9 @@
 title: Early Weekend Links
 layout: post
 excerpt_separator: <!--more-->
+tags:
+- Meta
+- News
 ---
 The blog is off for the holiday weekend, to return on Tuesday. So I leave you weekend links.
 

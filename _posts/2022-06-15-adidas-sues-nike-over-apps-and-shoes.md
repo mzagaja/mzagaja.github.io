@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Adidas Sues Nike over Apps and Shoes
+tags: []
 ---
 From [the Verge](https://www.theverge.com/2022/6/14/23167306/adidas-sues-nike-adapt-sneakers-running-apps):
 > Adidas claims that the Nike Run Club, Training Club, and SNKRS apps infringe its patents related to features like audio feedback during workouts, GPS tracking, training plans, integration with third-party accessories like heart rate monitors, and the ability to reserve and buy limited-edition sneakers. These are basic features on several running and fitness tracking apps, and this isn’t the first time Adidas has gone to court over it. In 2014, Adidas sued Under Armour over its Map My Fitness app. The two companies eventually settled, with Under Armour agreeing to pay Adidas a licensing fee.

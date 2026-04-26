@@ -1,6 +1,8 @@
 ---
 title: Three Types of People That Ruin Your Government Software Project
 layout: post
+tags:
+- Software
 ---
 Despite being many years into building software, government still manages to blow it. The federal government has commissioned experts to [build de-risking guides](https://derisking-guide.18f.gov/state-field-guide/), specialists work with agencies and states to do things right, and projects stubbornly fail. Mistakes are repeated. How can this be?
 

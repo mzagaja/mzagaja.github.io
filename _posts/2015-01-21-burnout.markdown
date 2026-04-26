@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Burnout
-tags: 
-- Startup
-- Burnout
+tags: []
 ---
 I have recently been enjoying the [Startup podcast](https://itunes.apple.com/us/podcast/startup-podcast/id913805339?mt=2). The premise of this podcast is that it is the story of Alex Blumberg's journey of starting a podcast company. The podcast covers some of the interesting and tough situations that startup founders face like raising money and finding a partner. However the most recent episode covers a topic familiar to many in the legal and campaign professions: burnout.
 

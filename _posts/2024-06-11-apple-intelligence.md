@@ -1,6 +1,10 @@
 ---
 title: Apple Is Not Just Catching Up on AI
 layout: post
+tags:
+- AI
+- Apple
+- Data
 ---
 The consensus among analysts seems to be that Apple’s AI features announced at WWDC yesterday are largely catch-up with third party services. Yet Apple’s approach to AI is different. Instead of merely providing a chat bot for you to play with in the cloud, they are using the data on your device to personalize your AI. Instead of being limited to web results and its own corpus, Apple Intelligence will be able to return and interact with your data.
 

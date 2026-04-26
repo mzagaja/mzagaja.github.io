@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Sunday Must Reads & Cool Apps
-tags: []
+tags:
+- News
 ---
 Instead of a long post I am sharing an eclectic collection of interesting links today:
 <ul>

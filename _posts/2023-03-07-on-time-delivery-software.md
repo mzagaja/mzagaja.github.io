@@ -1,6 +1,8 @@
 ---
 title: What Impacts On Time Delivery of Software?
 layout: post
+tags:
+- Software
 ---
 Greg Wilson [links to an interesting academic paper from IEEE](https://neverworkintheory.org/2023/03/06/on-time-delivery-in-large-scale-agile.html):
 > We find that factors such as requirements refinement, task dependencies, organizational alignment and organizational politics are perceived to have the greatest impact on on-time delivery, whereas proxy measures such as project size, number of dependencies, historical delivery performance and team familiarity can help explain a large degree of schedule deviations. We also discover hierarchical interactions among factors: organizational factors are perceived to interact with people factors, which in turn impact technical factors.

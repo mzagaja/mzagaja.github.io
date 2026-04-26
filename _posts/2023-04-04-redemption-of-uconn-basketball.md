@@ -1,6 +1,7 @@
 ---
 title: The Redemption of UCONN Basketball
 layout: post
+tags: []
 ---
 It’s a strange year to watch college basketball. For years the lady huskies sat as an iceberg upon which every other team would crash and fall. As February arrived in New England, warm and devoid of snow, we started to see signs that iceberg was melting. For the [first time in 30 years they lost back-to-back games](https://www.espn.com/womens-college-basketball/story/_/id/35619558/no-4-uconn-loses-back-back-games-first-30-years). Plagued by injuries the [lady huskies fell to Ohio State in the Sweet Sixteen](https://www.wsj.com/articles/uconn-womens-basketball-final-four-streak-ends-b39dd7d5).
 

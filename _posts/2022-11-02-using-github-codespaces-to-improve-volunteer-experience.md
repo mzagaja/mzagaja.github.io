@@ -1,6 +1,9 @@
 ---
 title: Using GitHub Codespaces to Improve Volunteer Experience
 layout: post
+tags:
+- Civic Tech
+- Software
 ---
 GitHub offers a [cloud software development environment called codespaces](https://github.com/features/codespaces). After seeing new volunteers at Code for Boston struggle with setting up a new Ruby on Rails web application, I decided to try something to make it easier. I setup codespaces to provide a one click way to create a working development environment.
 

@@ -2,6 +2,7 @@
 title: Elgato Key Light Mini — A Dramatic Improvement
 layout: post
 excerpt_separator: <!--more-->
+tags: []
 ---
 I love getting new gadgets as gifts, and thus was excited to play with the new [Elgato Key Light Mini](https://www.elgato.com/en/key-light-mini) I received yesterday. The improvement in quality for my webcam was dramatic.
 

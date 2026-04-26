@@ -1,6 +1,9 @@
 ---
 title: Why Software is Addictive
 layout: post
+tags:
+- Meta
+- Software
 ---
 In 2018 [Apple introduced Screen Time on iOS](https://www.apple.com/newsroom/2018/06/ios-12-introduces-new-features-to-reduce-interruptions-and-manage-screen-time/). It was the natural conclusion of a brewing sentiment among the public that they were using social media and other apps more than they wanted to. Connecting with folks online or playing games is not inherently bad, but people found they would login and spend more time than they intended on them. They were [hooked](https://www.wired.com/2014/12/how-to-build-habit-forming-products/).
 

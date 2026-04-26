@@ -1,6 +1,7 @@
 ---
 title: When Abstractions Break
 layout: post
+tags: []
 ---
 An abstraction is a mental shortcut. Good abstractions save you the time and effort of learning about something in order to focus on a larger picture. You probably use abstractions all the time. Instead of learning about auto repair you go to a mechanic. It would seem odd to need to conduct diligence against your dentist beyond checking their credentials. Yet in fields without robust supply of providers the abstractions tend to break down. To have a successful procurement you need learn the underlying art and conduct greater diligence.
 

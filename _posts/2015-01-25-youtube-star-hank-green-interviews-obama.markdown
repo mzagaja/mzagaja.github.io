@@ -1,10 +1,7 @@
 ---
 layout: post
 title: Hank Green on Interviewing the President
-tags: 
-- YouTube
-- Hank Green
-- News Media
+tags: []
 ---
 A few days ago I watched the [YouTube interview of President Obama](https://www.youtube.com/watch?v=GbR6iQ62v9k). I thought that it was well done but apparently the mainstream news media did not. This lead to an [incredible rebuttal by Hank Green](https://medium.com/@hankgreen/holy-shit-i-interviewed-the-president-fa3e8fb44d16):
 
