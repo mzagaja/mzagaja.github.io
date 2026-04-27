@@ -13,4 +13,4 @@ jobs:
         uses: dieghernan/algolia-jekyll-action@main
         with:
           APIKEY: '${{ secrets.ALGOLIA_API_KEY }}'
-          ruby-version-file: '.ruby-version'
+          ruby-version: '3.1.7'
