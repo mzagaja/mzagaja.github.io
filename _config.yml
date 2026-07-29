@@ -4,6 +4,10 @@ description: "Matt Zagaja's personal blog. Musings on politics, technology, and 
 url: https://www.zagaja.com
 incremental: true
 permalink: /:year/:month/:title/
+# Internal planning docs; not web content. Jekyll re-adds its own defaults
+# (node_modules, Gemfile, vendor/, ...) on top of this list.
+exclude:
+  - docs/
 plugins:
   - jekyll-algolia
   - jekyll-feed
