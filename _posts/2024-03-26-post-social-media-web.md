@@ -1,6 +1,8 @@
 ---
 title: AI Killed the Social Media Star
 layout: post
+essay: true
+essay_category: "AI & Society"
 tags:
 - AI
 - Meta

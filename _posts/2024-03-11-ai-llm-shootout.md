@@ -1,6 +1,8 @@
 ---
 title: AI LLM Shootout
 layout: post
+essay: true
+essay_category: "AI"
 tags:
 - AI
 - Product Review

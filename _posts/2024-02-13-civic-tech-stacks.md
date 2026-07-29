@@ -1,6 +1,8 @@
 ---
 title: The Best Tech Stack is the One You Have
 layout: post
+essay: true
+essay_category: "Engineering"
 tags:
 - Civic Tech
 - Data

@@ -1,6 +1,8 @@
 ---
 title: Security Redux
 layout: post
+essay: true
+essay_category: "Security"
 tags:
 - Meta
 - Security
