@@ -9,3 +9,8 @@ end
 
 gem "webrick", "~> 1.8"
 gem "ffi", "~> 1.17"
+gem "mutex_m"
+gem "csv"
+gem "base64"
+gem "bigdecimal"
+gem "logger"

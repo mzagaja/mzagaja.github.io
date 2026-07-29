@@ -29,7 +29,8 @@ GEM
       bigdecimal
       rake (~> 13.3)
     http_parser.rb (0.8.1)
-    httpclient (2.8.3)
+    httpclient (2.9.0)
+      mutex_m
     i18n (1.15.2)
       concurrent-ruby (~> 1.0)
     jekyll (4.4.1)
@@ -84,6 +85,7 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.10)
     logger (1.7.0)
     mercenary (0.4.0)
+    mutex_m (0.3.0)
     nokogiri (1.19.4-arm64-darwin)
       racc (~> 1.4)
     nokogiri (1.19.4-x86_64-linux-gnu)
@@ -118,12 +120,17 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  base64
+  bigdecimal
+  csv
   ffi (~> 1.17)
   jekyll-algolia
   jekyll-feed
   jekyll-paginate-v2
   jekyll-redirect-from
   jekyll-sitemap
+  logger
+  mutex_m
   webrick (~> 1.8)
 
 BUNDLED WITH
