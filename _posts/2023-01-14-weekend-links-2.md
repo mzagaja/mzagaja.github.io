@@ -1,6 +1,7 @@
 ---
 title: Weekend Links
 layout: post
+slug: weekend-links-5
 tags:
 - Meta
 - News
