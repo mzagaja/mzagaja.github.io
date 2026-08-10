@@ -1,0 +1,55 @@
+{% comment %}
+  Live Photo include
+  Usage:
+    {% include live-photo.html photo="/images/live/photo.jpg" video="/images/live/photo.mov" alt="Description" caption="Caption" %}
+  Params:
+    photo (required) - path to JPG/HEIC still image (same aspect as video)
+    video (required) - path to MOV file (H.264/HEVC, QuickTime)
+    alt - alt text for fallback image
+    caption - optional caption rendered below player
+    class - optional additional CSS class for wrapper
+    width / height - optional intrinsic dimensions
+    effect - optional: live | bounce | loop | exposure (controls badge text via data-effect-type)
+    proactively_loads_video - boolean string "true"/"false" (default false = lazy)
+    photo_time - optional override for key photo time in seconds
+    frame_times - optional comma-separated frame times
+{% endcomment %}
+{% assign lp_photo = include.photo | default: include.photo_src %}
+{% assign lp_video = include.video | default: include.video_src %}
+{% assign lp_alt = include.alt | default: "Live Photo" %}
+{% assign lp_caption = include.caption %}
+{% assign lp_class = include.class %}
+{% assign lp_effect = include.effect %}
+{% assign lp_proactive = include.proactively_loads_video | default: "false" %}
+<figure class="live-photo{% if lp_class %} {{ lp_class }}{% endif %}"{% if lp_caption %} aria-labelledby="live-photo-caption-{{ lp_photo | slugify }}"{% endif %}>
+  <div
+    data-live-photo
+    data-photo-src="{{ lp_photo | relative_url }}"
+    data-video-src="{{ lp_video | relative_url }}"
+    data-proactively-loads-video="{{ lp_proactive }}"
+    {% if lp_effect %}data-effect-type="{{ lp_effect }}"{% endif %}
+    {% if include.photo_time %}data-photo-time="{{ include.photo_time }}"{% endif %}
+    {% if include.frame_times %}data-frame-times="{{ include.frame_times }}"{% endif %}
+    style="width:100%;aspect-ratio:auto;"
+    role="img"
+    aria-label="{{ lp_alt | escape }}"
+  >
+    {%- comment -%} Fallback for no-JS / failed load: static image {%- endcomment -%}
+    <noscript>
+      <img src="{{ lp_photo | relative_url }}" alt="{{ lp_alt | escape }}" loading="lazy"{% if include.width %} width="{{ include.width }}"{% endif %}{% if include.height %} height="{{ include.height }}"{% endif %} />
+    </noscript>
+    {%- comment -%} Progressive enhancement fallback: hidden until JS upgrades it; visible if JS fails {%- endcomment -%}
+    <img
+      class="live-photo__fallback-img"
+      src="{{ lp_photo | relative_url }}"
+      alt="{{ lp_alt | escape }}"
+      loading="lazy"
+      decoding="async"
+      {% if include.width %}width="{{ include.width }}"{% endif %}
+      {% if include.height %}height="{{ include.height }}"{% endif %}
+    />
+  </div>
+  {% if lp_caption %}
+  <figcaption id="live-photo-caption-{{ lp_photo | slugify }}" class="live-photo__caption">{{ lp_caption }}</figcaption>
+  {% endif %}
+</figure>

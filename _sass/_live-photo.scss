@@ -1,0 +1,77 @@
+// Live Photo Kit — responsive player + badge overrides
+.live-photo {
+  margin: 2rem auto;
+  max-width: 100%;
+
+  // Player element itself (augmented by LivePhotosKit)
+  [data-live-photo] {
+    display: block;
+    position: relative;
+    width: 100%;
+    max-width: 100%;
+    overflow: hidden;
+    background: var(--bg-subtle);
+    border: 1px solid var(--line);
+    // Intrinsic ratio fallback — overridden by JS sizing; keeps CLS low
+    min-height: 200px;
+
+    // While LivePhotosKit initializes, show fallback image
+    .live-photo__fallback-img {
+      display: block;
+      width: 100%;
+      height: auto;
+      margin: 0;
+    }
+
+    // Once augmented, LivePhotosKit injects its own renderer; hide fallback
+    &.lpk-live-photo-player {
+      min-height: 0;
+      border: none;
+      background: transparent;
+
+      .live-photo__fallback-img {
+        display: none;
+      }
+    }
+  }
+
+  // UpgradED player class (added by LivePhotosKit)
+  .lpk-live-photo-player {
+    user-select: none;
+    -webkit-touch-callout: none;
+  }
+
+  &__caption {
+    margin-top: 0.6rem;
+    font-family: var(--wa-font-family-code);
+    font-size: 0.8rem;
+    color: var(--ink-muted);
+    text-align: center;
+    line-height: 1.4;
+  }
+
+  // Badge (canvas.lpk-badge) — LivePhotosKit renders it at 10px/10px;
+  // ensure it stays visible on dark images.
+  .lpk-badge {
+    border-radius: 999px;
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+  }
+
+  // Error state — badge shows slash, keep border
+  .lpk-live-photo-player[data-live-photo-error] {
+    border: 1px solid var(--line);
+  }
+}
+
+// In reading column, ensure full-bleed behavior matches images
+.reading-column .live-photo {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+@media (max-width: 768px) {
+  .live-photo {
+    margin: 1.5rem auto;
+  }
+}
