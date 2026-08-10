@@ -62,14 +62,29 @@
     padding: 1.25rem 1.5rem;
     overflow-x: auto;
     margin: 1.5rem 0;
+    font-family: var(--wa-font-family-code);
+    font-variant-ligatures: normal;
+    font-variant-ligatures: common-ligatures contextual;
+    font-feature-settings: "calt" 1, "liga" 1;
+    text-rendering: optimizeLegibility;
   }
 
   code {
     font-family: var(--wa-font-family-code);
     font-size: 0.875em;
+    font-variant-ligatures: normal;
+    font-variant-ligatures: common-ligatures contextual;
+    font-feature-settings: "calt" 1, "liga" 1;
+    text-rendering: optimizeLegibility;
   }
 
-  pre code { font-size: 0.85em; }
+  pre code {
+    font-size: 0.85em;
+    font-variant-ligatures: normal;
+    font-variant-ligatures: common-ligatures contextual;
+    font-feature-settings: "calt" 1, "liga" 1;
+    text-rendering: optimizeLegibility;
+  }
 
   img {
     max-width: 100%;
