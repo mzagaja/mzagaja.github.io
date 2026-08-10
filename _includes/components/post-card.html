@@ -1,4 +1,39 @@
-<a href="{{ include.post.url }}" class="post-card">
+{% comment %} Card thumb — exclusive hero: live photo hero takes precedence, else static photo hero {% endcomment %}
+{% assign _card_raw = nil %}
+{% assign _card_is_live = false %}
+{% if include.post.live_photo and include.post.live_photo.photo %}
+  {% assign _card_raw = include.post.live_photo.photo %}
+  {% assign _card_alt = include.post.live_photo.alt %}
+  {% assign _card_is_live = true %}
+{% elsif include.post.live_photos and include.post.live_photos[0] and include.post.live_photos[0].photo %}
+  {% assign _card_raw = include.post.live_photos[0].photo %}
+  {% assign _card_alt = include.post.live_photos[0].alt %}
+  {% assign _card_is_live = true %}
+{% else %}
+  {% assign _card_raw = include.post.photo | default: include.post.image | default: include.post.hero %}
+  {% if _card_raw %}
+    {% if _card_raw.url %}
+      {% assign _card_url_tmp = _card_raw.url %}
+      {% assign _card_alt = _card_raw.alt %}
+      {% assign _card_raw = _card_url_tmp %}
+    {% else %}
+      {% assign _card_alt = nil %}
+    {% endif %}
+  {% endif %}
+{% endif %}
+{% if _card_raw %}
+  {% assign _card_alt_final = _card_alt | default: include.post.photo_alt | default: include.post.image_alt | default: include.post.title %}
+{% endif %}
+<a href="{{ include.post.url }}" class="post-card{% if _card_raw %} post-card--with-thumb{% endif %}">
+  {% if _card_raw %}
+    <span class="post-card__thumb" aria-hidden="true">
+      {% if _card_raw contains "://" %}
+        <img src="{{ _card_raw }}" alt="{{ _card_alt_final | escape }}" loading="lazy" decoding="async" />
+      {% else %}
+        <img src="{{ _card_raw | relative_url }}" alt="{{ _card_alt_final | escape }}" loading="lazy" decoding="async" />
+      {% endif %}
+    </span>
+  {% endif %}
   <span class="post-date">
     {% if include.post.essay_category %}{{ include.post.essay_category }} · {% endif %}{{ include.post.date | date: "%b %Y" }}
   </span>

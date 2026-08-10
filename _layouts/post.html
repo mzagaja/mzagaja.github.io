@@ -7,6 +7,78 @@ layout: base
     <h1>{{ page.title }}</h1>
   </header>
 
+  {%- comment -%} Hero — exclusive: live photo hero takes precedence over static photo hero; only one hero per article {%- endcomment -%}
+  {% assign _has_live_hero = false %}
+  {% if page.live_photo or page.live_photos %}
+    {% assign _has_live_hero = true %}
+  {% endif %}
+
+  {% if _has_live_hero %}
+    {% if page.live_photo %}
+    <div class="post-hero">
+      {% include live-photo.html
+        photo=page.live_photo.photo
+        video=page.live_photo.video
+        alt=page.live_photo.alt
+        caption=page.live_photo.caption
+        effect=page.live_photo.effect
+        proactively_loads_video=page.live_photo.proactively_loads_video
+        photo_time=page.live_photo.photo_time
+        frame_times=page.live_photo.frame_times
+        width=page.live_photo.width
+        height=page.live_photo.height
+      %}
+    </div>
+    {% elsif page.live_photos %}
+    <div class="post-hero">
+      {% assign _lp0 = page.live_photos[0] %}
+      {% include live-photo.html
+        photo=_lp0.photo
+        video=_lp0.video
+        alt=_lp0.alt
+        caption=_lp0.caption
+        effect=_lp0.effect
+        proactively_loads_video=_lp0.proactively_loads_video
+        photo_time=_lp0.photo_time
+        frame_times=_lp0.frame_times
+        width=_lp0.width
+        height=_lp0.height
+      %}
+    </div>
+    {% endif %}
+  {% else %}
+    {% assign _hero_raw = page.photo | default: page.image | default: page.hero %}
+    {% if _hero_raw %}
+      {% if _hero_raw.url %}
+        {% assign _hero_url = _hero_raw.url %}
+        {% assign _hero_alt = _hero_raw.alt %}
+        {% assign _hero_caption = _hero_raw.caption %}
+        {% assign _hero_credit = _hero_raw.credit %}
+      {% else %}
+        {% assign _hero_url = _hero_raw %}
+        {% assign _hero_alt = nil %}
+        {% assign _hero_caption = nil %}
+        {% assign _hero_credit = nil %}
+      {% endif %}
+      {% assign _hero_alt_final = _hero_alt | default: page.photo_alt | default: page.image_alt | default: page.title %}
+      <div class="post-hero" aria-label="Post hero image">
+        <figure class="post-hero__figure">
+          {% if _hero_url contains "://" %}
+            <img src="{{ _hero_url }}" alt="{{ _hero_alt_final | escape }}" class="post-hero__img" loading="eager" fetchpriority="high" decoding="async" />
+          {% else %}
+            <img src="{{ _hero_url | relative_url }}" alt="{{ _hero_alt_final | escape }}" class="post-hero__img" loading="eager" fetchpriority="high" decoding="async" />
+          {% endif %}
+          {% if _hero_caption or _hero_credit %}
+            <figcaption class="post-hero__caption">
+              {% if _hero_caption %}{{ _hero_caption }}{% endif %}
+              {% if _hero_credit %}<span class="post-hero__credit">{{ _hero_credit }}</span>{% endif %}
+            </figcaption>
+          {% endif %}
+        </figure>
+      </div>
+    {% endif %}
+  {% endif %}
+
   <div class="reading-column">
     {{ content }}
   </div>
