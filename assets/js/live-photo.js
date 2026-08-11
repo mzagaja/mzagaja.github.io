@@ -29,6 +29,39 @@
           showsNativeControls: true
         });
         el.setAttribute('data-live-photo-augmented', 'true');
+        // Hover anywhere on the photo triggers playback (not just the LIVE badge).
+        // LivePhotosKit's native badge handles its own mouseenter/leave, but the
+        // spec wants the whole player to play on hover/touch. Wire the element's
+        // own events to the Player API. Guard against duplicate wiring.
+        if (!el.hasAttribute('data-live-photo-hover')) {
+          el.setAttribute('data-live-photo-hover', 'true');
+          // el is now augmented — it has play()/pause()/isPlaying per LPK.
+          // Use the element itself as the Player instance.
+          var play = function () {
+            try { if (el.play) el.play(); } catch (e2) {}
+          };
+          var stop = function () {
+            try {
+              if (el.beginFinishingPlaybackEarly) el.beginFinishingPlaybackEarly();
+              else if (el.pause) el.pause();
+            } catch (e3) {}
+          };
+          // Desktop: hover anywhere
+          el.addEventListener('mouseenter', play);
+          el.addEventListener('mouseleave', stop);
+          // Keyboard focus
+          el.addEventListener('focus', play);
+          el.addEventListener('blur', stop);
+          // Touch: play on press, finish on release
+          el.addEventListener('touchstart', play, { passive: true });
+          el.addEventListener('touchend', stop, { passive: true });
+          el.addEventListener('touchcancel', stop, { passive: true });
+          // Make the whole player appear interactive
+          el.style.cursor = 'pointer';
+          el.setAttribute('tabindex', '0');
+          el.setAttribute('role', 'button');
+          el.setAttribute('aria-label', el.getAttribute('aria-label') || 'Live Photo — hover to play');
+        }
       } catch (e) {
         // Leave fallback image visible
         console.warn('LivePhotosKit augment failed', e);

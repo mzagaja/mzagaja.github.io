@@ -24,8 +24,9 @@
     }
 
     // Once augmented, LivePhotosKit injects its own renderer; hide fallback
+    // Keep min-height/aspect-ratio until JS sets explicit px height via updateSize()
+    // to avoid zero-size warning (fallback hidden + aspect-ratio:auto = 0px).
     &.lpk-live-photo-player {
-      min-height: 0;
       border: none;
       background: transparent;
 
@@ -33,12 +34,23 @@
         display: none;
       }
     }
+
+    // After LivePhotosKit sets inline width/height, allow natural collapse
+    &.lpk-live-photo-player[style*="height"] {
+      min-height: 0;
+    }
   }
 
-  // UpgradED player class (added by LivePhotosKit)
+  // Upgraded player class (added by LivePhotosKit) — whole element is interactive
   .lpk-live-photo-player {
     user-select: none;
     -webkit-touch-callout: none;
+    cursor: pointer;
+  }
+
+  // Also show pointer before augmentation so hover hint appears immediately
+  [data-live-photo] {
+    cursor: pointer;
   }
 
   &__caption {

@@ -30,7 +30,7 @@
     {% if lp_effect %}data-effect-type="{{ lp_effect }}"{% endif %}
     {% if include.photo_time %}data-photo-time="{{ include.photo_time }}"{% endif %}
     {% if include.frame_times %}data-frame-times="{{ include.frame_times }}"{% endif %}
-    style="width:100%;aspect-ratio:auto;"
+    {% if include.width and include.height %}style="width:100%;aspect-ratio:{{ include.width }}/{{ include.height }};"{% else %}style="width:100%;aspect-ratio:auto;"{% endif %}
     role="img"
     aria-label="{{ lp_alt | escape }}"
   >

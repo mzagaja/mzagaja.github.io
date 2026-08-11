@@ -1,0 +1,117 @@
+#!/usr/bin/env bash
+# bin/optimize-live-photo — Export/web-optimize a Live Photo pair (IMG_XXXX.HEIC/JPG + IMG_XXXX.MOV)
+# Requires: ImageMagick 7 (magick), ffmpeg 6+, exiftool
+# Usage:
+#   bin/optimize-live-photo images/live/IMG_7230 1200           # -> IMG_7230-1200w.jpeg/.mov (portrait hero, long edge 1600)
+#   bin/optimize-live-photo images/live/IMG_7230 800 --square    # -> IMG_7230-800sq.jpeg/.mov
+#   bin/optimize-live-photo images/live/IMG_7230 --keep-original # keep HEVC original for Safari, add H.264 fallback (see README)
+set -euo pipefail
+if [[ $# -lt 1 ]]; then
+  echo "usage: $0 <basename_without_ext> [long_edge] [--square] [--keep-original]"
+  echo "  e.g. $0 images/live/IMG_7230 1200"
+  echo "  e.g. $0 images/live/IMG_7230 800 --square"
+  exit 2
+fi
+BASE="$1"
+LONG="${2:-1200}"
+SQUARE=0
+if [[ "${3:-}" == "--square" || "${2:-}" == "--square" ]]; then SQUARE=1; LONG="${2:-800}"; [[ "$LONG" == "--square" ]] && LONG=800; fi
+# resolve inputs: prefer HEIC then JPG, and MOV
+if [[ -f "${BASE}.HEIC" ]]; then SRC_PHOTO="${BASE}.HEIC"
+elif [[ -f "${BASE}.heic" ]]; then SRC_PHOTO="${BASE}.heic"
+elif [[ -f "${BASE}.JPG" ]]; then SRC_PHOTO="${BASE}.JPG"
+elif [[ -f "${BASE}.jpg" ]]; then SRC_PHOTO="${BASE}.jpg"
+elif [[ -f "${BASE}.jpeg" ]]; then SRC_PHOTO="${BASE}.jpeg"
+elif [[ -f "${BASE}.JPEG" ]]; then SRC_PHOTO="${BASE}.JPEG"
+else echo "no photo found for $BASE (.HEIC/.JPG)" >&2; exit 1
+fi
+if [[ -f "${BASE}.MOV" ]]; then SRC_VIDEO="${BASE}.MOV"
+elif [[ -f "${BASE}.mov" ]]; then SRC_VIDEO="${BASE}.mov"
+else echo "no video found for $BASE (.MOV)" >&2; exit 1
+fi
+
+if [[ $SQUARE -eq 1 ]]; then
+  SUFFIX="-${LONG}sq"
+else
+  SUFFIX="-${LONG}w"
+fi
+DST_PHOTO="${BASE}${SUFFIX}.jpeg"
+DST_VIDEO="${BASE}${SUFFIX}.mov"
+
+# --- photo: auto-orient, resize, strip but preserve ContentIdentifier ---
+# LONG is width for hero (e.g. 1200 => 1200×1600 portrait). For square, LONG is edge.
+echo "photo: $SRC_PHOTO -> $DST_PHOTO (width $LONG)"
+if [[ $SQUARE -eq 1 ]]; then
+  magick "$SRC_PHOTO" -auto-orient -resize "${LONG}x${LONG}^" -gravity center -extent "${LONG}x${LONG}" -resize "${LONG}x${LONG}" -quality 82 -sampling-factor 4:2:0 -interlace JPEG -strip "$DST_PHOTO"
+else
+  magick "$SRC_PHOTO" -auto-orient -resize "${LONG}x>" -quality 82 -sampling-factor 4:2:0 -interlace JPEG -strip "$DST_PHOTO"
+fi
+# restore Live Photo ContentIdentifier (lost by -strip) without restoring Orientation
+# -All:All would reintroduce Rotate 90 CW and break the baked TopLeft orientation
+if exiftool -s -s -ContentIdentifier "$SRC_PHOTO" 2>/dev/null | grep -q .; then
+  exiftool -overwrite_original -TagsFromFile "$SRC_PHOTO" -ContentIdentifier -MediaGroupUUID -ImageUniqueID "$DST_PHOTO" >/dev/null 2>&1 || true
+fi
+identify -format "  -> %f: %wx%h %m %b\n" "$DST_PHOTO"
+
+# --- video: H.264, maintain orientation, faststart ---
+# Maintain orientation: do NOT bake rotation with transpose. Preserve the display matrix
+# so the MOV still stores landscape 1920x1440 with rotation flag and displays portrait.
+# LivePhotoKit reads videoRotation and handles it; baking is unnecessary and confuses
+# cropping (user requested maintain + crop).
+# Keep .mov container (LivePhotosKit requires QuickTime). CRF 23, preset slow, progressive.
+echo "video: $SRC_VIDEO -> $DST_VIDEO"
+if [[ $SQUARE -eq 1 ]]; then
+  # Square: scale to cover then center-crop, maintain orientation (rotation irrelevant for square)
+  # Frequent keyframes (GOP 12 ~ every 0.7s at 16fps) prevents janky scrubbing — original GOP was 11
+  ffmpeg -hide_banner -loglevel error -y -noautorotate -i "$SRC_VIDEO" \
+    -vf "scale=${LONG}:${LONG}:flags=lanczos:force_original_aspect_ratio=increase,crop=${LONG}:${LONG}:(ow-iw)/2:(oh-ih)/2" \
+    -c:v libx264 -crf 23 -preset slow -pix_fmt yuv420p -movflags faststart -g 12 -x264-params keyint=12:min-keyint=12:scenecut=0 \
+    -c:a aac -b:a 64k \
+    "$DST_VIDEO"
+else
+  # LONG is display width (portrait 1200 => display 1200x1600). Stored is landscape,
+  # so scale stored to HxW (1600x1200 stored => display 1200x1600 after 90° rotation).
+  # Maintain orientation: do NOT bake with transpose; keep display matrix for LivePhotoKit.
+  # Frequent keyframes (GOP 12) prevents janky playback — original HEVC had GOP 11
+  W=$LONG
+  H=$(( LONG * 4 / 3 ))
+  # stored dimensions are transposed
+  SW=$H
+  SH=$W
+  (( SW % 2 )) && SW=$((SW-1))
+  (( SH % 2 )) && SH=$((SH-1))
+  ffmpeg -hide_banner -loglevel error -y -noautorotate -i "$SRC_VIDEO" \
+    -vf "scale=${SW}:${SH}:flags=lanczos" \
+    -c:v libx264 -crf 23 -preset slow -pix_fmt yuv420p -movflags faststart -g 12 -x264-params keyint=12:min-keyint=12:scenecut=0 \
+    -c:a aac -b:a 128k \
+    "$DST_VIDEO"
+  # restore display rotation (ffmpeg drops it); original is 90 CW / -90
+  exiftool -overwrite_original -Rotation=90 "$DST_VIDEO" >/dev/null 2>&1 || true
+fi
+ls -lh "$DST_VIDEO"
+ffprobe -hide_banner -select_streams v:0 -show_entries stream=width,height,codec_name,avg_frame_rate -of default=noprint_wrappers=1 "$DST_VIDEO" 2>/dev/null | sed 's/^/  -> /'
+
+echo ""
+echo "recommended frontmatter:"
+CID=$(exiftool -s -s -ContentIdentifier "$SRC_PHOTO" 2>/dev/null || echo "")
+if [[ $SQUARE -eq 1 ]]; then
+  echo "live_photo:"
+  echo "  photo: ${DST_PHOTO#/Users/mzagaja/Developer/mzagaja.github.io}"
+  echo "  video: ${DST_VIDEO#/Users/mzagaja/Developer/mzagaja.github.io}"
+  echo "  width: $LONG"
+  echo "  height: $LONG"
+else
+  PHOTO_W=$(identify -format "%w" "$DST_PHOTO")
+  PHOTO_H=$(identify -format "%h" "$DST_PHOTO")
+  echo "live_photo:"
+  echo "  photo: ${DST_PHOTO#/Users/mzagaja/Developer/mzagaja.github.io}"
+  echo "  video: ${DST_VIDEO#/Users/mzagaja/Developer/mzagaja.github.io}"
+  echo "  width: $PHOTO_W"
+  echo "  height: $PHOTO_H"
+fi
+echo ""
+echo "NOTE: re-encoded MOV drops Apple's Live Photo edit list (photoTime/frameTimes)."
+echo "If hover doesn't play, add explicit metadata to frontmatter:"
+echo "  photo_time: 1.465  # from elst trackDuration 879/600; see README for extraction"
+echo "  frame_times: 0.000,0.050,...  # stts deltas / timescale; or use original MOV unchanged"
+echo "Simplest for hero: keep original .MOV (HEVC) + optimized JPEG; browsers that need H.264 will fallback to static JPEG."
