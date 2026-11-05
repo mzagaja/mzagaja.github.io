@@ -3,15 +3,6 @@ layout: post
 title: People Have the Power — How Volunteers Pushed Government into the 21st Century
 tags:
 - Civic Tech
-live_photo:
-  photo: /images/live/IMG_7230-1200w.jpeg
-  video: /images/live/IMG_7230-1200w.mov
-  alt: Demo Live Photo — white 640×480 still with 3s video
-  width: 1200
-  height: 1600
-  # re-encoded H.264 MOV drops Apple's edit-list; explicit timing restores hover-to-play
-  photo_time: 1.465
-  frame_times: 0.000,0.050,0.101,0.151,0.202,0.252,0.303,0.353,0.403,0.454,0.504,0.555,0.605,0.655,0.706,0.756,0.807,0.857,0.908,0.958,1.008,1.059,1.109,1.160,1.210,1.261,1.311,1.412,1.513,1.613,1.714,1.815,1.866,1.966,2.067,2.168,2.269,2.370,2.420,2.471,2.521,2.571,2.622,2.672
 ---
 On Tuesday nights, in a room we didn't pay for, I watched a dozen people give away the most valuable thing they had. They were software engineers, data scientists and one patient designer. Most of them had day jobs that paid them well to build software for companies that already had everything. Then they came here, after work, to build software for their community.
 
