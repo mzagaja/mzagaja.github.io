@@ -6,3 +6,4 @@ docs/superpowers/
 /node_modules/*
 .jekyll-metadata
 .jekyll-cache/
+/.bundle
